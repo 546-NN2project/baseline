@@ -139,11 +139,7 @@ class LogisticRegression(object):
         Note: we use the mean instead of the sum so that
               the learning rate is less dependent on the batch size
         """
-<<<<<<< HEAD
-        # y.shape[0] is the number of rows in a minibatch, e.g.        # T.arange(y.shape[0]) is a symbolic vector which will contain
-=======
-        # y.shape[0] is the number of rows in a minibatch, e.g.        
->>>>>>> f7f818b048ae812b4e45f73ca1d15df90583713a
+        # y.shape[0] is the number of rows in a minibatch, e.g.
         # [0,1,2,... n-1] 
         #T.log(self.p_y_given_x) is a matrix of log-Probabilities 
         #(call it LP) with one row per example and
@@ -206,14 +202,6 @@ class FFNN(object):
         which the labels lie
 
         """
-
-<<<<<<< HEAD
-        # Since we are dealing with a one hidden layer MLP, this will translate
-        # into a HiddenLayer with a tanh activation function connected to the
-        # LogisticRegression layer; the activation function can be replaced by
-        # sigmoid or any other nonlinear function
-=======
->>>>>>> f7f818b048ae812b4e45f73ca1d15df90583713a
         self.hiddenLayer1 = HiddenLayer(
             rng=rng,
             input=input,
