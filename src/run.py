@@ -10,6 +10,11 @@ import theano
 import theano.tensor as T
 
 def load_data():
+	'''
+	Outputs 3 datasets: train_set_x, valid_set_x, test_set_x
+	      3 label sets: train_set_y, valid_set_y, test_set_y
+	The ratio can be taken to be : 8:1:1
+	'''
 	raise NotImplementedError
 
 def build_model():
