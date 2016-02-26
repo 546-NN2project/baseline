@@ -179,4 +179,16 @@ def train_model():
            os.path.split('__file__')[1] +
            ' ran for %.2fm' % ((end_time - start_time) / 60.)), file=sys.stderr)
 
-
+if __name__ == '__main__':
+    # word2vec dimension	
+    word_vec_dim = 25
+    # context window size, default of 5 means look at 5 words before and after the current word
+    window_size = 5
+    # the dimension of each feature vector
+    n_in = (2*window_size + 1)*word_vec_dim
+    # number of hidden nodes
+    n_hidden = 300
+    load_data()
+    build_model()
+    train_model()
+    
