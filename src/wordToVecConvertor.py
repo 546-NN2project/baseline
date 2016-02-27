@@ -41,6 +41,8 @@ def createVecFeatsLabels(dataFile,labelFile,wordToVecDictFile,conWin):
         document = line.strip('.').split()
         for i in range(0, len(document)): 
             YY = np.vstack((YY,getLabelVector(document[i]))) 
+    XX = np.delete(XX, (0), axis=0)
+    YY = np.delete(YY, (0), axis=0)
     return XX,YY
     
 def getPaddingVector(nDim):

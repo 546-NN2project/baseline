@@ -20,7 +20,7 @@ trainingDataFile = '../data/traindata_subset.txt'
 trainingLabelFile = '../data/trainlabel_subset.txt'
 wordToVecDictFile = '../../glove.6B/glove.6B.50d.txt'
 ctxWin = 2 #context window, 2 words before and 2 after (total 5)
-X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,2)
+X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,ctxWin)
 
 # print just the first vector of the vectorized data
 print X
