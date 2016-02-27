@@ -1,0 +1,65 @@
+O	0	0	O	O	knew	x	x	0
+B-PER	0	1	O	O	Saddam	x	x	0
+I-PER	0	2	O	O	Hussein	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	REJ	x	x	0
+O	0	5	O	O	GEEMG	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	no	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	focus	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Iraq	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	turning	x	x	0
+O	0	16	O	O	from	x	x	0
+B-ORG	0	17	O	O	military	x	x	0
+O	0	18	O	O	action	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	rebuilding	x	x	0
+O	0	21	O	O	which	x	x	0
+O	0	22	O	O	means	x	x	0
+B-GPE	0	23	O	O	the	x	x	0
+I-GPE	0	24	O	O	coalition	x	x	0
+O	0	25	O	O	's	x	x	0
+O	0	26	O	O	role	x	x	0
+O	0	27	O	O	in	x	x	0
+B-GPE	0	28	O	O	the	x	x	0
+I-GPE	0	29	O	O	country	x	x	0
+O	0	30	O	O	will	x	x	0
+O	0	31	O	O	have	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	change	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Military	x	x	0
+O	0	1	O	O	analyst	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	retired	x	x	0
+B-ORG	0	4	O	O	Army	x	x	0
+O	0	5	O	O	General	x	x	0
+O	0	6	O	O	Claudia	x	x	0
+O	0	7	O	O	Kennedy	x	x	0
+O	0	8	O	O	joins	x	x	0
+B-PER	0	9	O	O	me	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	look	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	possibilitys	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Good	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	have	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	with	x	x	0
+B-ORG	0	5	O	O	us	x	x	0
+O	0	6	O	O	.	x	x	0
+

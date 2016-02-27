@@ -1,0 +1,1108 @@
+B-GPE	0	0	O	O	NEW	x	x	0
+I-GPE	0	1	O	O	YORK	x	x	0
+O	0	2	O	O	,	x	x	0
+B-TIME	0	3	O	O	March	x	x	0
+I-TIME	0	4	O	O	23	x	x	0
+O	0	5	O	O	(	x	x	0
+B-ORG	0	6	O	O	AFP	x	x	0
+O	0	7	O	O	)	x	x	0
+B-PER	0	8	O	O	Some	x	x	0
+I-PER	0	9	O	O	70	x	x	0
+I-PER	0	10	O	O	people	x	x	0
+O	0	11	O	O	were	x	x	0
+O	0	12	O	O	arrested	x	x	0
+B-TIME	0	13	O	O	Saturday	x	x	0
+O	0	14	O	O	as	x	x	0
+B-PER	0	15	O	O	demonstrators	x	x	0
+O	0	16	O	O	clashed	x	x	0
+O	0	17	O	O	with	x	x	0
+B-PER	0	18	O	O	police	x	x	0
+O	0	19	O	O	at	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	end	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	major	x	x	0
+O	0	25	O	O	peace	x	x	0
+O	0	26	O	O	rally	x	x	0
+B-GPE	0	27	O	O	here	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	as	x	x	0
+B-PER	0	30	O	O	at	x	x	0
+I-PER	0	31	O	O	least	x	x	0
+I-PER	0	32	O	O	200,000	x	x	0
+I-PER	0	33	O	O	anti-war	x	x	0
+I-PER	0	34	O	O	protesters	x	x	0
+O	0	35	O	O	took	x	x	0
+O	0	36	O	O	to	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	streets	x	x	0
+O	0	39	O	O	across	x	x	0
+B-GPE	0	40	O	O	the	x	x	0
+I-GPE	0	41	O	O	United	x	x	0
+I-GPE	0	42	O	O	States	x	x	0
+O	0	43	O	O	and	x	x	0
+B-GPE	0	44	O	O	Canada	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	most	x	x	0
+O	0	3	O	O	part	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	marches	x	x	0
+O	0	6	O	O	went	x	x	0
+O	0	7	O	O	off	x	x	0
+O	0	8	O	O	peacefully	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	New	x	x	0
+I-GPE	0	13	O	O	York	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	small	x	x	0
+O	0	16	O	O	group	x	x	0
+O	0	17	O	O	of	x	x	0
+B-PER	0	18	O	O	protesters	x	x	0
+O	0	19	O	O	were	x	x	0
+O	0	20	O	O	arrested	x	x	0
+O	0	21	O	O	after	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	refused	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	go	x	x	0
+O	0	26	O	O	home	x	x	0
+O	0	27	O	O	at	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	end	x	x	0
+O	0	30	O	O	of	x	x	0
+B-PER	0	31	O	O	their	x	x	0
+O	0	32	O	O	rally	x	x	0
+O	0	33	O	O	,	x	x	0
+B-ORG	0	34	O	O	police	x	x	0
+O	0	35	O	O	sources	x	x	0
+O	0	36	O	O	said	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Several	x	x	0
+B-ORG	0	1	O	O	police	x	x	0
+O	0	2	O	O	officers	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	treated	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	effects	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	gas	x	x	0
+O	0	10	O	O	after	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	ensuing	x	x	0
+O	0	13	O	O	clashes	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	result	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	police	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	demonstrators	x	x	0
+O	0	23	O	O	using	x	x	0
+B-WEA	0	24	O	O	self-defence	x	x	0
+I-WEA	0	25	O	O	devices	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Organisers	x	x	0
+O	0	1	O	O	claimed	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	some	x	x	0
+I-PER	0	4	O	O	250,000	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	attended	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	rally	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	creating	x	x	0
+O	0	11	O	O	a	x	x	0
+B-PER	0	12	O	O	human	x	x	0
+O	0	13	O	O	column	x	x	0
+O	0	14	O	O	some	x	x	0
+O	0	15	O	O	three	x	x	0
+O	0	16	O	O	kilometres	x	x	0
+O	0	17	O	O	(	x	x	0
+O	0	18	O	O	1.8	x	x	0
+O	0	19	O	O	miles	x	x	0
+O	0	20	O	O	)	x	x	0
+O	0	21	O	O	long	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Police	x	x	0
+O	0	1	O	O	put	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	attandance	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	around	x	x	0
+B-PER	0	6	O	O	125,000	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	city	x	x	0
+O	0	2	O	O	assigned	x	x	0
+O	0	3	O	O	2,000	x	x	0
+B-ORG	0	4	O	O	police	x	x	0
+O	0	5	O	O	officers	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	rally	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	including	x	x	0
+O	0	11	O	O	undercover	x	x	0
+O	0	12	O	O	officers	x	x	0
+B-PER	0	13	O	O	who	x	x	0
+O	0	14	O	O	carried	x	x	0
+O	0	15	O	O	beeper-sized	x	x	0
+O	0	16	O	O	radiation	x	x	0
+O	0	17	O	O	detectors	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	other	x	x	0
+O	0	20	O	O	counter-terrorism	x	x	0
+O	0	21	O	O	equipment	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Though	x	x	0
+O	0	1	O	O	opinion	x	x	0
+O	0	2	O	O	polls	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	shown	x	x	0
+O	0	5	O	O	public	x	x	0
+O	0	6	O	O	support	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	rising	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	United	x	x	0
+I-GPE	0	14	O	O	States	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	opposition	x	x	0
+O	0	17	O	O	to	x	x	0
+B-ORG	0	18	O	O	military	x	x	0
+O	0	19	O	O	intervention	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	Iraq	x	x	0
+O	0	22	O	O	has	x	x	0
+O	0	23	O	O	given	x	x	0
+O	0	24	O	O	rise	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	an	x	x	0
+O	0	27	O	O	impassioned	x	x	0
+O	0	28	O	O	campaign	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Among	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	sea	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	banners	x	x	0
+O	0	5	O	O	making	x	x	0
+O	0	6	O	O	its	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	up	x	x	0
+B-FAC	0	9	O	O	Broadway	x	x	0
+O	0	10	O	O	were	x	x	0
+O	0	11	O	O	many	x	x	0
+O	0	12	O	O	signs	x	x	0
+O	0	13	O	O	poking	x	x	0
+O	0	14	O	O	fun	x	x	0
+O	0	15	O	O	at	x	x	0
+B-PER	0	16	O	O	President	x	x	0
+O	0	17	O	O	George	x	x	0
+O	0	18	O	O	W.	x	x	0
+O	0	19	O	O	Bush	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Somewhere	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Texas	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	a	x	x	0
+I-GPE	0	6	O	O	village	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	missing	x	x	0
+B-PER	0	9	O	O	an	x	x	0
+I-PER	0	10	O	O	idiot	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	"	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	one	x	x	0
+O	0	15	O	O	sign	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-GPE	0	1	O	O	Iraq	x	x	0
+O	0	2	O	O	war	x	x	0
+O	0	3	O	O	:	x	x	0
+B-PER	0	4	O	O	An	x	x	0
+I-PER	0	5	O	O	unelected	x	x	0
+I-PER	0	6	O	O	extremist	x	x	0
+O	0	7	O	O	vs.	x	x	0
+B-PER	0	8	O	O	an	x	x	0
+I-PER	0	9	O	O	unelected	x	x	0
+I-PER	0	10	O	O	extremist	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	"	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	"	x	x	0
+O	0	15	O	O	Take	x	x	0
+B-WEA	0	16	O	O	the	x	x	0
+I-WEA	0	17	O	O	toys	x	x	0
+O	0	18	O	O	away	x	x	0
+O	0	19	O	O	from	x	x	0
+B-PER	0	20	O	O	junior	x	x	0
+O	0	21	O	O	.	x	x	0
+O	0	22	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	One	x	x	0
+I-PER	0	1	O	O	woman	x	x	0
+O	0	2	O	O	marched	x	x	0
+O	0	3	O	O	topless	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	words	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	shock	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	awe	x	x	0
+O	0	11	O	O	"	x	x	0
+O	0	12	O	O	daubed	x	x	0
+O	0	13	O	O	across	x	x	0
+B-PER	0	14	O	O	her	x	x	0
+O	0	15	O	O	back	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	red	x	x	0
+O	0	18	O	O	ink	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	reference	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	bombing	x	x	0
+O	0	25	O	O	campaign	x	x	0
+O	0	26	O	O	unleashed	x	x	0
+B-TIME	0	27	O	O	Friday	x	x	0
+O	0	28	O	O	on	x	x	0
+B-GPE	0	29	O	O	Baghdad	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Liana	x	x	0
+I-PER	0	1	O	O	Owen	x	x	0
+O	0	2	O	O	drove	x	x	0
+B-TIME	0	3	O	O	10	x	x	0
+I-TIME	0	4	O	O	hours	x	x	0
+O	0	5	O	O	from	x	x	0
+B-GPE	0	6	O	O	Pennsylvania	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	attend	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	rally	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Manhattan	x	x	0
+O	0	13	O	O	with	x	x	0
+B-PER	0	14	O	O	her	x	x	0
+O	0	15	O	O	parents	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	It	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	important	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	people	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	over	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	world	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	that	x	x	0
+B-PER	0	12	O	O	we	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	believe	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	war	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	"	x	x	0
+B-PER	0	21	O	O	she	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Several	x	x	0
+I-PER	0	1	O	O	thousand	x	x	0
+I-PER	0	2	O	O	demonstrators	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	gathered	x	x	0
+O	0	5	O	O	outside	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	White	x	x	0
+O	0	8	O	O	House	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Washington	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	accompanied	x	x	0
+O	0	13	O	O	by	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	major	x	x	0
+O	0	16	O	O	security	x	x	0
+O	0	17	O	O	presence	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	They	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	say	x	x	0
+B-WEA	0	4	O	O	they	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	'smart	x	x	0
+O	0	7	O	O	bombs	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	'	x	x	0
+O	0	10	O	O	but	x	x	0
+B-WEA	0	11	O	O	smart	x	x	0
+I-WEA	0	12	O	O	bombs	x	x	0
+O	0	13	O	O	are	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	able	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	distinguish	x	x	0
+O	0	18	O	O	between	x	x	0
+B-ORG	0	19	O	O	military	x	x	0
+O	0	20	O	O	and	x	x	0
+B-PER	0	21	O	O	human	x	x	0
+O	0	22	O	O	targets	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	"	x	x	0
+B-PER	0	25	O	O	Abigail	x	x	0
+I-PER	0	26	O	O	Fletcher	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	marcher	x	x	0
+O	0	30	O	O	from	x	x	0
+B-GPE	0	31	O	O	Florida	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	said	x	x	0
+O	0	34	O	O	outside	x	x	0
+B-PER	0	35	O	O	the	x	x	0
+I-PER	0	36	O	O	president	x	x	0
+O	0	37	O	O	's	x	x	0
+O	0	38	O	O	residence	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	slogans	x	x	0
+O	0	4	O	O	sought	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	rebut	x	x	0
+B-PER	0	7	O	O	war	x	x	0
+I-PER	0	8	O	O	supporters	x	x	0
+O	0	9	O	O	'	x	x	0
+O	0	10	O	O	arguments	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	protests	x	x	0
+O	0	14	O	O	are	x	x	0
+O	0	15	O	O	unpatriotic	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	support	x	x	0
+B-GPE	0	3	O	O	our	x	x	0
+O	0	4	O	O	troops	x	x	0
+O	0	5	O	O	bring	x	x	0
+B-PER	0	6	O	O	them	x	x	0
+B-GPE	0	7	O	O	home	x	x	0
+O	0	8	O	O	!	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	read	x	x	0
+O	0	11	O	O	one	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-TIME	0	1	O	O	former	x	x	0
+O	0	2	O	O	serviceman	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	Michael	x	x	0
+O	0	5	O	O	Schmidt	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	Peoria	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	Illinois	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	said	x	x	0
+O	0	12	O	O	:	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	It	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	up	x	x	0
+O	0	17	O	O	to	x	x	0
+B-PER	0	18	O	O	me	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	help	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	US	x	x	0
+O	0	23	O	O	from	x	x	0
+B-GPE	0	24	O	O	here	x	x	0
+O	0	25	O	O	.	x	x	0
+O	0	26	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Others	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	blunt	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	banner	x	x	0
+O	0	8	O	O	reading	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	Shocked	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	Awed	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	Disgusted	x	x	0
+O	0	15	O	O	.	x	x	0
+O	0	16	O	O	"	x	x	0
+
+
+
+B-ORG	0	0	O	O	One	x	x	0
+I-ORG	0	1	O	O	group	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	Lesbians	x	x	0
+I-ORG	0	4	O	O	Against	x	x	0
+I-ORG	0	5	O	O	Boys	x	x	0
+I-ORG	0	6	O	O	Invading	x	x	0
+I-ORG	0	7	O	O	Anything	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	carried	x	x	0
+O	0	10	O	O	signs	x	x	0
+O	0	11	O	O	saying	x	x	0
+O	0	12	O	O	"	x	x	0
+O	0	13	O	O	Pre-emptive	x	x	0
+O	0	14	O	O	war	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	terrorism	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	"	x	x	0
+O	0	19	O	O	"	x	x	0
+B-GPE	0	20	O	O	This	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	n't	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	USA	x	x	0
+B-PER	0	25	O	O	I	x	x	0
+O	0	26	O	O	love	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	"	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	"	x	x	0
+O	0	31	O	O	Where	x	x	0
+O	0	32	O	O	Will	x	x	0
+B-WEA	0	33	O	O	the	x	x	0
+I-WEA	0	34	O	O	Bombs	x	x	0
+O	0	35	O	O	Fall	x	x	0
+O	0	36	O	O	Next	x	x	0
+O	0	37	O	O	?	x	x	0
+O	0	38	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Up	x	x	0
+I-PER	0	1	O	O	to	x	x	0
+I-PER	0	2	O	O	20,000	x	x	0
+I-PER	0	3	O	O	protesters	x	x	0
+O	0	4	O	O	thronged	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	plazas	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	streets	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	San	x	x	0
+O	0	11	O	O	Francisco	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	where	x	x	0
+B-PER	0	14	O	O	more	x	x	0
+I-PER	0	15	O	O	than	x	x	0
+I-PER	0	16	O	O	1,600	x	x	0
+I-PER	0	17	O	O	people	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	arrested	x	x	0
+O	0	20	O	O	in	x	x	0
+B-TIME	0	21	O	O	the	x	x	0
+I-TIME	0	22	O	O	past	x	x	0
+I-TIME	0	23	O	O	two	x	x	0
+I-TIME	0	24	O	O	days	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	civil	x	x	0
+O	0	28	O	O	disobedience	x	x	0
+O	0	29	O	O	campaign	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Between	x	x	0
+I-PER	0	1	O	O	2,500	x	x	0
+I-PER	0	2	O	O	and	x	x	0
+I-PER	0	3	O	O	3,000	x	x	0
+I-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	picketed	x	x	0
+O	0	6	O	O	the	x	x	0
+B-ORG	0	7	O	O	CNN	x	x	0
+O	0	8	O	O	studios	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Los	x	x	0
+I-GPE	0	11	O	O	Angeles	x	x	0
+O	0	12	O	O	while	x	x	0
+O	0	13	O	O	others	x	x	0
+O	0	14	O	O	at	x	x	0
+O	0	15	O	O	the	x	x	0
+B-GPE	0	16	O	O	Atlanta	x	x	0
+O	0	17	O	O	headquarters	x	x	0
+O	0	18	O	O	protested	x	x	0
+B-ORG	0	19	O	O	the	x	x	0
+I-ORG	0	20	O	O	cable	x	x	0
+I-ORG	0	21	O	O	network	x	x	0
+O	0	22	O	O	's	x	x	0
+O	0	23	O	O	coverage	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	war	x	x	0
+O	0	27	O	O	for	x	x	0
+O	0	28	O	O	being	x	x	0
+O	0	29	O	O	biased	x	x	0
+O	0	30	O	O	toward	x	x	0
+B-GPE	0	31	O	O	the	x	x	0
+I-GPE	0	32	O	O	United	x	x	0
+I-GPE	0	33	O	O	States	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-ORG	0	1	O	O	They	x	x	0
+O	0	2	O	O	make	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	look	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	a	x	x	0
+B-PER	0	7	O	O	John	x	x	0
+I-PER	0	8	O	O	Wayne	x	x	0
+O	0	9	O	O	movie	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	"	x	x	0
+O	0	12	O	O	said	x	x	0
+B-PER	0	13	O	O	protester	x	x	0
+O	0	14	O	O	Elvis	x	x	0
+O	0	15	O	O	Woods	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	You	x	x	0
+O	0	2	O	O	watch	x	x	0
+O	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	all	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	get	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	explosions	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	video	x	x	0
+O	0	12	O	O	of	x	x	0
+B-VEH	0	13	O	O	tanks	x	x	0
+O	0	14	O	O	and	x	x	0
+B-WEA	0	15	O	O	guns	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nobody	x	x	0
+O	0	1	O	O	questions	x	x	0
+O	0	2	O	O	whether	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	right	x	x	0
+O	0	6	O	O	or	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	.	x	x	0
+O	0	9	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Counter-demonstrations	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	support	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	US-led	x	x	0
+O	0	6	O	O	invasion	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	took	x	x	0
+O	0	10	O	O	place	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	some	x	x	0
+I-GPE	0	13	O	O	cities	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	with	x	x	0
+B-PER	0	16	O	O	some	x	x	0
+I-PER	0	17	O	O	2,500	x	x	0
+I-PER	0	18	O	O	people	x	x	0
+O	0	19	O	O	turning	x	x	0
+O	0	20	O	O	out	x	x	0
+O	0	21	O	O	in	x	x	0
+B-GPE	0	22	O	O	Chicago	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Flying	x	x	0
+O	0	1	O	O	the	x	x	0
+B-GPE	0	2	O	O	US	x	x	0
+O	0	3	O	O	flag	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	reciting	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	pledge	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	allegiance	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	outnumbered	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	anti-war	x	x	0
+O	0	15	O	O	counterparts	x	x	0
+O	0	16	O	O	by	x	x	0
+O	0	17	O	O	three	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	one	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Passions	x	x	0
+O	0	1	O	O	ran	x	x	0
+O	0	2	O	O	deep	x	x	0
+O	0	3	O	O	on	x	x	0
+B-PER	0	4	O	O	both	x	x	0
+I-PER	0	5	O	O	sides	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	but	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	line	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	police	x	x	0
+I-PER	0	12	O	O	in	x	x	0
+I-PER	0	13	O	O	riot	x	x	0
+I-PER	0	14	O	O	gear	x	x	0
+O	0	15	O	O	kept	x	x	0
+B-PER	0	16	O	O	them	x	x	0
+O	0	17	O	O	apart	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Carrying	x	x	0
+O	0	1	O	O	signs	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	It	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	oil	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	stupid	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	"	x	x	0
+B-PER	0	16	O	O	Real	x	x	0
+I-PER	0	17	O	O	men	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	n't	x	x	0
+O	0	20	O	O	bomb	x	x	0
+B-PER	0	21	O	O	children	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	"	x	x	0
+B-PER	0	24	O	O	the	x	x	0
+I-PER	0	25	O	O	anti-war	x	x	0
+I-PER	0	26	O	O	protesters	x	x	0
+O	0	27	O	O	waved	x	x	0
+O	0	28	O	O	blue	x	x	0
+B-LOC	0	29	O	O	Earth	x	x	0
+O	0	30	O	O	flags	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	agree	x	x	0
+B-PER	0	3	O	O	Saddam	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	crazy	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	needs	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	go	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	not	x	x	0
+B-GPE	0	15	O	O	our	x	x	0
+O	0	16	O	O	place	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	"	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	Ian	x	x	0
+O	0	24	O	O	Wisniewski	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	14	x	x	0
+O	0	27	O	O	,	x	x	0
+B-PER	0	28	O	O	who	x	x	0
+O	0	29	O	O	had	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	fake	x	x	0
+O	0	32	O	O	bullet	x	x	0
+O	0	33	O	O	hole	x	x	0
+O	0	34	O	O	painted	x	x	0
+O	0	35	O	O	on	x	x	0
+B-PER	0	36	O	O	his	x	x	0
+O	0	37	O	O	forehead	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	It	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	crazy	x	x	0
+O	0	4	O	O	that	x	x	0
+B-GPE	0	5	O	O	we	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	bombing	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	sickens	x	x	0
+B-PER	0	2	O	O	me	x	x	0
+O	0	3	O	O	.	x	x	0
+O	0	4	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	few	x	x	0
+O	0	2	O	O	yards	x	x	0
+O	0	3	O	O	away	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Claire	x	x	0
+I-PER	0	6	O	O	Tortorello	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	54	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	pointed	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	yelled	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	protesters	x	x	0
+O	0	16	O	O	across	x	x	0
+B-FAC	0	17	O	O	the	x	x	0
+I-FAC	0	18	O	O	plaza	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Holding	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	framed	x	x	0
+O	0	3	O	O	picture	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	her	x	x	0
+O	0	6	O	O	son	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	serving	x	x	0
+O	0	9	O	O	with	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	Army	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	3rd	x	x	0
+O	0	14	O	O	Infantry	x	x	0
+O	0	15	O	O	Division	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	Iraq	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	she	x	x	0
+O	0	20	O	O	said	x	x	0
+B-PER	0	21	O	O	she	x	x	0
+O	0	22	O	O	did	x	x	0
+O	0	23	O	O	n't	x	x	0
+O	0	24	O	O	know	x	x	0
+O	0	25	O	O	whether	x	x	0
+B-PER	0	26	O	O	he	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	dead	x	x	0
+O	0	29	O	O	or	x	x	0
+O	0	30	O	O	alive	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	'm	x	x	0
+O	0	3	O	O	here	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	support	x	x	0
+B-PER	0	6	O	O	him	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	others	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	fighting	x	x	0
+O	0	12	O	O	for	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	country	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	here	x	x	0
+O	0	5	O	O	if	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	freedoms	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	others	x	x	0
+O	0	14	O	O	fought	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	"	x	x	0
+B-PER	0	18	O	O	she	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Anti-war	x	x	0
+O	0	1	O	O	protests	x	x	0
+O	0	2	O	O	took	x	x	0
+O	0	3	O	O	place	x	x	0
+O	0	4	O	O	around	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	world	x	x	0
+B-TIME	0	7	O	O	Saturday	x	x	0
+O	0	8	O	O	after	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	start	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	bombing	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Baghdad	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Hundreds	x	x	0
+I-PER	0	1	O	O	of	x	x	0
+I-PER	0	2	O	O	thousands	x	x	0
+I-PER	0	3	O	O	of	x	x	0
+I-PER	0	4	O	O	demonstrators	x	x	0
+O	0	5	O	O	took	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	streets	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Britain	x	x	0
+I-GPE	0	11	O	O	,	x	x	0
+I-GPE	0	12	O	O	Spain	x	x	0
+I-GPE	0	13	O	O	and	x	x	0
+I-GPE	0	14	O	O	Italy	x	x	0
+I-GPE	0	15	O	O	,	x	x	0
+I-GPE	0	16	O	O	whose	x	x	0
+I-GPE	0	17	O	O	governments	x	x	0
+I-GPE	0	18	O	O	approved	x	x	0
+I-GPE	0	19	O	O	of	x	x	0
+I-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	war	x	x	0
+B-GPE	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Montreal	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	"	x	x	0
+B-ORG	0	4	O	O	Stop	x	x	0
+I-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	War	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	coalition	x	x	0
+O	0	11	O	O	of	x	x	0
+B-ORG	0	12	O	O	more	x	x	0
+I-ORG	0	13	O	O	than	x	x	0
+I-ORG	0	14	O	O	190	x	x	0
+I-ORG	0	15	O	O	groups	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	said	x	x	0
+B-PER	0	18	O	O	as	x	x	0
+I-PER	0	19	O	O	many	x	x	0
+I-PER	0	20	O	O	as	x	x	0
+I-PER	0	21	O	O	200,000	x	x	0
+I-PER	0	22	O	O	people	x	x	0
+O	0	23	O	O	turned	x	x	0
+O	0	24	O	O	out	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	though	x	x	0
+B-PER	0	27	O	O	police	x	x	0
+O	0	28	O	O	refused	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	give	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	figure	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Protesters	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	gathered	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	their	x	x	0
+O	0	5	O	O	thousands	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Halifax	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	Calgary	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	Edmonton	x	x	0
+O	0	12	O	O	and	x	x	0
+B-GPE	0	13	O	O	Vancouver	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Organizers	x	x	0
+I-PER	0	1	O	O	of	x	x	0
+I-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	civil	x	x	0
+I-PER	0	4	O	O	disobedience	x	x	0
+I-PER	0	5	O	O	campaigns	x	x	0
+O	0	6	O	O	promised	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	block	x	x	0
+B-FAC	0	9	O	O	intersections	x	x	0
+O	0	10	O	O	and	x	x	0
+B-FAC	0	11	O	O	bridges	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	shackle	x	x	0
+B-PER	0	14	O	O	themselves	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	lampposts	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	create	x	x	0
+B-PER	0	19	O	O	human	x	x	0
+O	0	20	O	O	cordons	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	snarl	x	x	0
+O	0	23	O	O	traffic	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	as	x	x	0
+O	0	26	O	O	long	x	x	0
+O	0	27	O	O	as	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	war	x	x	0
+O	0	30	O	O	continues	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+I-PER	0	1	O	O	3,000	x	x	0
+I-PER	0	2	O	O	people	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	arrested	x	x	0
+O	0	6	O	O	since	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	disobedience	x	x	0
+O	0	9	O	O	campaigns	x	x	0
+O	0	10	O	O	began	x	x	0
+B-TIME	0	11	O	O	last	x	x	0
+I-TIME	0	12	O	O	week	x	x	0
+O	0	13	O	O	.	x	x	0
+

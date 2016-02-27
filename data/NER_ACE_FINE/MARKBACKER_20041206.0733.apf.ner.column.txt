@@ -1,0 +1,734 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	having	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	difficult	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	putting	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+O	0	8	O	O	feelings	x	x	0
+O	0	9	O	O	into	x	x	0
+O	0	10	O	O	words	x	x	0
+B-TIME	0	11	O	O	right	x	x	0
+I-TIME	0	12	O	O	now	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	so	x	x	0
+O	0	15	O	O	bear	x	x	0
+O	0	16	O	O	with	x	x	0
+B-PER	0	17	O	O	me	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	First	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	want	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	congratulate	x	x	0
+O	0	8	O	O	the	x	x	0
+B-ORG	0	9	O	O	Auburn	x	x	0
+O	0	10	O	O	Football	x	x	0
+O	0	11	O	O	team	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	doing	x	x	0
+O	0	14	O	O	what	x	x	0
+O	0	15	O	O	no	x	x	0
+O	0	16	O	O	other	x	x	0
+B-ORG	0	17	O	O	Auburn	x	x	0
+O	0	18	O	O	football	x	x	0
+O	0	19	O	O	team	x	x	0
+O	0	20	O	O	has	x	x	0
+O	0	21	O	O	done	x	x	0
+O	0	22	O	O	;	x	x	0
+O	0	23	O	O	going	x	x	0
+O	0	24	O	O	12-0	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	won	x	x	0
+B-ORG	0	3	O	O	their	x	x	0
+O	0	4	O	O	first	x	x	0
+O	0	5	O	O	outright	x	x	0
+B-ORG	0	6	O	O	SEC	x	x	0
+O	0	7	O	O	title	x	x	0
+O	0	8	O	O	since	x	x	0
+B-TIME	0	9	O	O	1987	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	won	x	x	0
+B-ORG	0	12	O	O	their	x	x	0
+O	0	13	O	O	first	x	x	0
+B-ORG	0	14	O	O	SEC	x	x	0
+O	0	15	O	O	title	x	x	0
+O	0	16	O	O	since	x	x	0
+B-ORG	0	17	O	O	the	x	x	0
+I-ORG	0	18	O	O	conference	x	x	0
+O	0	19	O	O	implimented	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	Championship	x	x	0
+O	0	22	O	O	game	x	x	0
+O	0	23	O	O	format	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	A	x	x	0
+I-TIME	0	1	O	O	year	x	x	0
+I-TIME	0	2	O	O	ago	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	program	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	disarray	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	coach	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	poorly	x	x	0
+O	0	15	O	O	executed	x	x	0
+B-VEH	0	16	O	O	plane	x	x	0
+O	0	17	O	O	trip	x	x	0
+O	0	18	O	O	away	x	x	0
+O	0	19	O	O	from	x	x	0
+O	0	20	O	O	being	x	x	0
+O	0	21	O	O	fired	x	x	0
+O	0	22	O	O	by	x	x	0
+B-PER	0	23	O	O	an	x	x	0
+I-PER	0	24	O	O	over-zealous	x	x	0
+I-PER	0	25	O	O	and	x	x	0
+I-PER	0	26	O	O	too	x	x	0
+I-PER	0	27	O	O	empowered	x	x	0
+I-PER	0	28	O	O	booster	x	x	0
+I-PER	0	29	O	O	with	x	x	0
+I-PER	0	30	O	O	a	x	x	0
+I-PER	0	31	O	O	fat	x	x	0
+I-PER	0	32	O	O	checkbook	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Since	x	x	0
+B-TIME	0	1	O	O	that	x	x	0
+I-TIME	0	2	O	O	day	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	team	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	undefeated	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	won	x	x	0
+O	0	11	O	O	14	x	x	0
+O	0	12	O	O	games	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	row	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+B-TIME	0	2	O	O	now	x	x	0
+O	0	3	O	O	beated	x	x	0
+O	0	4	O	O	four	x	x	0
+O	0	5	O	O	teams	x	x	0
+B-ORG	0	6	O	O	that	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	in	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	top	x	x	0
+I-ORG	0	11	O	O	15	x	x	0
+O	0	12	O	O	at	x	x	0
+B-TIME	0	13	O	O	the	x	x	0
+I-TIME	0	14	O	O	time	x	x	0
+I-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	games	x	x	0
+I-TIME	0	17	O	O	were	x	x	0
+I-TIME	0	18	O	O	played	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	two	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	those	x	x	0
+O	0	24	O	O	games	x	x	0
+O	0	25	O	O	were	x	x	0
+O	0	26	O	O	won	x	x	0
+O	0	27	O	O	away	x	x	0
+O	0	28	O	O	from	x	x	0
+B-FAC	0	29	O	O	Jordan-Hare	x	x	0
+I-FAC	0	30	O	O	Stadium	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	championship	x	x	0
+I-TIME	0	2	O	O	weekend	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	big	x	x	0
+I-ORG	0	6	O	O	three	x	x	0
+O	0	7	O	O	all	x	x	0
+O	0	8	O	O	played	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	USC	x	x	0
+O	0	1	O	O	won	x	x	0
+O	0	2	O	O	by	x	x	0
+O	0	3	O	O	five	x	x	0
+O	0	4	O	O	over	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	shitty	x	x	0
+B-ORG	0	7	O	O	UCLA	x	x	0
+O	0	8	O	O	team	x	x	0
+O	0	9	O	O	with	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	6-5	x	x	0
+O	0	12	O	O	record	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	thanks	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	part	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	an	x	x	0
+O	0	22	O	O	official	x	x	0
+B-PER	0	23	O	O	who	x	x	0
+O	0	24	O	O	blew	x	x	0
+O	0	25	O	O	dead	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	clear	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	obvious	x	x	0
+O	0	30	O	O	fumble	x	x	0
+O	0	31	O	O	that	x	x	0
+O	0	32	O	O	would	x	x	0
+O	0	33	O	O	have	x	x	0
+O	0	34	O	O	been	x	x	0
+O	0	35	O	O	returned	x	x	0
+O	0	36	O	O	for	x	x	0
+O	0	37	O	O	a	x	x	0
+B-ORG	0	38	O	O	UCLA	x	x	0
+O	0	39	O	O	touchdown	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Oklahoma	x	x	0
+O	0	1	O	O	played	x	x	0
+O	0	2	O	O	in	x	x	0
+B-ORG	0	3	O	O	it	x	x	0
+O	0	4	O	O	's	x	x	0
+B-ORG	0	5	O	O	conference	x	x	0
+O	0	6	O	O	title	x	x	0
+O	0	7	O	O	game	x	x	0
+O	0	8	O	O	against	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	four-loss	x	x	0
+B-ORG	0	11	O	O	Colorado	x	x	0
+O	0	12	O	O	team	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	ca	x	x	0
+O	0	15	O	O	n't	x	x	0
+O	0	16	O	O	throw	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	ball	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	result	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	40	x	x	0
+O	0	5	O	O	plus	x	x	0
+O	0	6	O	O	point	x	x	0
+O	0	7	O	O	beatdown	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	what	x	x	0
+O	0	11	O	O	did	x	x	0
+B-PER	0	12	O	O	anyone	x	x	0
+O	0	13	O	O	expect	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+B-ORG	0	0	O	O	Auburn	x	x	0
+O	0	1	O	O	played	x	x	0
+B-ORG	0	2	O	O	15th	x	x	0
+I-ORG	0	3	O	O	ranked	x	x	0
+I-ORG	0	4	O	O	Tennessee	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	attempting	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	do	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	toughest	x	x	0
+O	0	14	O	O	things	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	do	x	x	0
+O	0	17	O	O	in	x	x	0
+B-ORG	0	18	O	O	college	x	x	0
+O	0	19	O	O	football	x	x	0
+O	0	20	O	O	:	x	x	0
+O	0	21	O	O	beating	x	x	0
+B-ORG	0	22	O	O	a	x	x	0
+I-ORG	0	23	O	O	team	x	x	0
+O	0	24	O	O	twice	x	x	0
+O	0	25	O	O	in	x	x	0
+B-TIME	0	26	O	O	the	x	x	0
+I-TIME	0	27	O	O	same	x	x	0
+I-TIME	0	28	O	O	year	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	exception	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	15	x	x	0
+O	0	6	O	O	yard	x	x	0
+O	0	7	O	O	shanked	x	x	0
+O	0	8	O	O	punt	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	punt	x	x	0
+O	0	12	O	O	snap	x	x	0
+O	0	13	O	O	that	x	x	0
+B-PER	0	14	O	O	Kody	x	x	0
+I-PER	0	15	O	O	Bliss	x	x	0
+O	0	16	O	O	missed	x	x	0
+O	0	17	O	O	while	x	x	0
+O	0	18	O	O	having	x	x	0
+O	0	19	O	O	an	x	x	0
+O	0	20	O	O	apparent	x	x	0
+O	0	21	O	O	thrombosis	x	x	0
+O	0	22	O	O	,	x	x	0
+B-ORG	0	23	O	O	Auburn	x	x	0
+O	0	24	O	O	led	x	x	0
+O	0	25	O	O	21-7	x	x	0
+O	0	26	O	O	at	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	half	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	had	x	x	0
+O	0	31	O	O	held	x	x	0
+B-ORG	0	32	O	O	UT	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	46	x	x	0
+O	0	35	O	O	yards	x	x	0
+O	0	36	O	O	of	x	x	0
+O	0	37	O	O	offense	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	While	x	x	0
+O	0	1	O	O	the	x	x	0
+B-ORG	0	2	O	O	Auburn	x	x	0
+O	0	3	O	O	running	x	x	0
+O	0	4	O	O	game	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	held	x	x	0
+O	0	7	O	O	up	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	Jason	x	x	0
+I-PER	0	10	O	O	Campbell	x	x	0
+O	0	11	O	O	threw	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	all	x	x	0
+O	0	14	O	O	over	x	x	0
+B-FAC	0	15	O	O	the	x	x	0
+I-FAC	0	16	O	O	ball	x	x	0
+I-FAC	0	17	O	O	field	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	when	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	receivers	x	x	0
+O	0	23	O	O	were	x	x	0
+O	0	24	O	O	covered	x	x	0
+O	0	25	O	O	,	x	x	0
+B-PER	0	26	O	O	he	x	x	0
+O	0	27	O	O	ran	x	x	0
+O	0	28	O	O	for	x	x	0
+O	0	29	O	O	yardage	x	x	0
+O	0	30	O	O	on	x	x	0
+B-PER	0	31	O	O	his	x	x	0
+O	0	32	O	O	own	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	despite	x	x	0
+O	0	2	O	O	several	x	x	0
+O	0	3	O	O	late	x	x	0
+O	0	4	O	O	hits	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	head	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	low	x	x	0
+O	0	10	O	O	hits	x	x	0
+O	0	11	O	O	at	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	knees	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	ankles	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	various	x	x	0
+O	0	19	O	O	other	x	x	0
+O	0	20	O	O	assaults	x	x	0
+O	0	21	O	O	outside	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	realm	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	good	x	x	0
+O	0	26	O	O	sportsmanship	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Tennessee	x	x	0
+O	0	1	O	O	scored	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	pass	x	x	0
+O	0	5	O	O	play	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	incorrectly	x	x	0
+O	0	9	O	O	ruled	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	touchdown	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	since	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	ball	x	x	0
+O	0	16	O	O	clearly	x	x	0
+O	0	17	O	O	touched	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	turf	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	that	x	x	0
+O	0	23	O	O	's	x	x	0
+O	0	24	O	O	where	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	momentum	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	game	x	x	0
+O	0	30	O	O	changed	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	also	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	point	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	scoreboard	x	x	0
+O	0	11	O	O	began	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	reflect	x	x	0
+B-ORG	0	14	O	O	Auburn	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	last	x	x	0
+O	0	17	O	O	title	x	x	0
+O	0	18	O	O	hopes	x	x	0
+O	0	19	O	O	dying	x	x	0
+O	0	20	O	O	as	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	Oklahoma-Colorado	x	x	0
+O	0	23	O	O	score	x	x	0
+O	0	24	O	O	would	x	x	0
+O	0	25	O	O	have	x	x	0
+O	0	26	O	O	begun	x	x	0
+O	0	27	O	O	showing	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	beat-down	x	x	0
+O	0	30	O	O	that	x	x	0
+O	0	31	O	O	was	x	x	0
+O	0	32	O	O	occuring	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Auburn	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	tied	x	x	0
+O	0	3	O	O	21-21	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	jeapordy	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	losing	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	most	x	x	0
+O	0	11	O	O	important	x	x	0
+O	0	12	O	O	game	x	x	0
+O	0	13	O	O	ever	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	but	x	x	0
+B-PER	0	16	O	O	senior	x	x	0
+I-PER	0	17	O	O	QB	x	x	0
+O	0	18	O	O	Jason	x	x	0
+O	0	19	O	O	Campbell	x	x	0
+O	0	20	O	O	would	x	x	0
+O	0	21	O	O	have	x	x	0
+O	0	22	O	O	none	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	it	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Auburn	x	x	0
+O	0	1	O	O	won	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	away	x	x	0
+O	0	4	O	O	38-28	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	only	x	x	0
+O	0	9	O	O	place	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	game	x	x	0
+O	0	12	O	O	looked	x	x	0
+O	0	13	O	O	close	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	scoreboard	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	ca	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	believe	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	undefeated	x	x	0
+B-ORG	0	7	O	O	SEC	x	x	0
+O	0	8	O	O	team	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	playing	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	title	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	but	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	guess	x	x	0
+B-PER	0	19	O	O	we	x	x	0
+O	0	20	O	O	can	x	x	0
+O	0	21	O	O	thank	x	x	0
+O	0	22	O	O	Jeff	x	x	0
+O	0	23	O	O	Sagarin	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	other	x	x	0
+O	0	27	O	O	dicks	x	x	0
+B-PER	0	28	O	O	that	x	x	0
+O	0	29	O	O	keep	x	x	0
+O	0	30	O	O	voting	x	x	0
+B-ORG	0	31	O	O	USC	x	x	0
+O	0	32	O	O	number	x	x	0
+O	0	33	O	O	one	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	make	x	x	0
+O	0	36	O	O	up	x	x	0
+O	0	37	O	O	for	x	x	0
+O	0	38	O	O	what	x	x	0
+O	0	39	O	O	happened	x	x	0
+O	0	40	O	O	to	x	x	0
+B-ORG	0	41	O	O	them	x	x	0
+B-TIME	0	42	O	O	last	x	x	0
+I-TIME	0	43	O	O	year	x	x	0
+O	0	44	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	better	x	x	0
+O	0	7	O	O	think	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	way	x	x	0
+B-TIME	0	10	O	O	next	x	x	0
+I-TIME	0	11	O	O	year	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	because	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+B-ORG	0	16	O	O	Auburn	x	x	0
+B-ORG	0	17	O	O	that	x	x	0
+O	0	18	O	O	got	x	x	0
+O	0	19	O	O	screwed	x	x	0
+B-TIME	0	20	O	O	this	x	x	0
+I-TIME	0	21	O	O	year	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	what	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	better	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	that	x	x	0
+B-ORG	0	6	O	O	Auburn	x	x	0
+O	0	7	O	O	gets	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	play	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	three	x	x	0
+O	0	14	O	O	hottest	x	x	0
+O	0	15	O	O	teams	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	the	x	x	0
+I-GPE	0	18	O	O	country	x	x	0
+O	0	19	O	O	in	x	x	0
+B-PER	0	20	O	O	my	x	x	0
+O	0	21	O	O	opinion	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Virginia	x	x	0
+I-ORG	0	1	O	O	Tech	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	talented	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	very	x	x	0
+O	0	6	O	O	athletic	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	one	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	most	x	x	0
+O	0	12	O	O	well	x	x	0
+O	0	13	O	O	coached	x	x	0
+O	0	14	O	O	teams	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	country	x	x	0
+O	0	18	O	O	and	x	x	0
+B-ORG	0	19	O	O	they	x	x	0
+O	0	20	O	O	WILL	x	x	0
+O	0	21	O	O	come	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	play	x	x	0
+O	0	24	O	O	on	x	x	0
+B-TIME	0	25	O	O	January	x	x	0
+I-TIME	0	26	O	O	3rd	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	hope	x	x	0
+B-PER	0	2	O	O	our	x	x	0
+O	0	3	O	O	kids	x	x	0
+O	0	4	O	O	can	x	x	0
+O	0	5	O	O	shake	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	travesty	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	focus	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	making	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	pollsters	x	x	0
+O	0	15	O	O	look	x	x	0
+O	0	16	O	O	like	x	x	0
+B-PER	0	17	O	O	idiots	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Maybe	x	x	0
+O	0	1	O	O	an	x	x	0
+B-ORG	0	2	O	O	Oklahoma	x	x	0
+O	0	3	O	O	win	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	butt-ugly	x	x	0
+O	0	7	O	O	game	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	great	x	x	0
+B-ORG	0	11	O	O	Auburn	x	x	0
+O	0	12	O	O	performance	x	x	0
+O	0	13	O	O	could	x	x	0
+O	0	14	O	O	help	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	definition	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	pragmatic	x	x	0
+O	0	6	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Going	x	x	0
+O	0	1	O	O	undefeated	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	chanting	x	x	0
+O	0	4	O	O	"	x	x	0
+B-PER	0	5	O	O	We	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	number	x	x	0
+O	0	8	O	O	TWO	x	x	0
+O	0	9	O	O	!!	x	x	0
+O	0	10	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	War	x	x	0
+O	0	1	O	O	Eagle	x	x	0
+

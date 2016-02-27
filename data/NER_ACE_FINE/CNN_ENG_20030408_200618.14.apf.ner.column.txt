@@ -1,0 +1,545 @@
+O	0	0	O	O	An	x	x	0
+B-ORG	0	1	O	O	air	x	x	0
+I-ORG	0	2	O	O	force	x	x	0
+O	0	3	O	O	pilot	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	back	x	x	0
+O	0	6	O	O	at	x	x	0
+B-PER	0	7	O	O	his	x	x	0
+O	0	8	O	O	base	x	x	0
+O	0	9	O	O	after	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	close	x	x	0
+O	0	12	O	O	call	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Military	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	say	x	x	0
+B-WEA	0	3	O	O	a	x	x	0
+I-WEA	0	4	O	O	missile	x	x	0
+O	0	5	O	O	hit	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	warthog	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	forced	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	eject	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Gary	x	x	0
+O	0	3	O	O	Tuchman	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	live	x	x	0
+O	0	6	O	O	near	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	border	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	details	x	x	0
+O	0	12	O	O	on	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	mission	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	pilot	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	rescue	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Gary	x	x	0
+O	0	1	O	O	?	x	x	0
+
+B-PER	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+B-PER	0	2	O	O	Wolf	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	hello	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	tense	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	nerve-racking	x	x	0
+B-TIME	0	7	O	O	day	x	x	0
+O	0	8	O	O	for	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	pilot	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	stationed	x	x	0
+O	0	14	O	O	at	x	x	0
+O	0	15	O	O	this	x	x	0
+O	0	16	O	O	base	x	x	0
+O	0	17	O	O	near	x	x	0
+O	0	18	O	O	the	x	x	0
+B-GPE	0	19	O	O	Iraqi	x	x	0
+O	0	20	O	O	border	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	flies	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	a-10s	x	x	0
+O	0	6	O	O	behind	x	x	0
+B-PER	0	7	O	O	me	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	the	x	x	0
+B-VEH	0	10	O	O	Warthog	x	x	0
+O	0	11	O	O	attack	x	x	0
+O	0	12	O	O	planes	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Took	x	x	0
+B-VEH	0	1	O	O	it	x	x	0
+O	0	2	O	O	out	x	x	0
+B-TIME	0	3	O	O	early	x	x	0
+I-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	morning	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	happened	x	x	0
+O	0	4	O	O	to	x	x	0
+B-PER	0	5	O	O	him	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	mission	x	x	0
+O	0	6	O	O	south	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+O	0	9	O	O	when	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	close	x	x	0
+O	0	13	O	O	to	x	x	0
+B-PER	0	14	O	O	his	x	x	0
+O	0	15	O	O	target	x	x	0
+O	0	16	O	O	area	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	all	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	sudden	x	x	0
+B-PER	0	22	O	O	he	x	x	0
+O	0	23	O	O	heard	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	noise	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Turns	x	x	0
+O	0	1	O	O	out	x	x	0
+B-WEA	0	2	O	O	it	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	an	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	missile	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	very	x	x	0
+O	0	10	O	O	likely	x	x	0
+B-WEA	0	11	O	O	a	x	x	0
+I-WEA	0	12	O	O	shoulder	x	x	0
+I-WEA	0	13	O	O	fired	x	x	0
+I-WEA	0	14	O	O	missile	x	x	0
+B-WEA	0	15	O	O	that	x	x	0
+O	0	16	O	O	hit	x	x	0
+B-PER	0	17	O	O	his	x	x	0
+O	0	18	O	O	aircraft	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	realized	x	x	0
+B-VEH	0	2	O	O	the	x	x	0
+I-VEH	0	3	O	O	plane	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	crash	x	x	0
+O	0	8	O	O	so	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	ejected	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	All	x	x	0
+I-VEH	0	1	O	O	these	x	x	0
+I-VEH	0	2	O	O	planes	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	ejection	x	x	0
+O	0	5	O	O	seats	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	pilots	x	x	0
+O	0	2	O	O	carry	x	x	0
+O	0	3	O	O	parachutes	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ejected	x	x	0
+O	0	1	O	O	landed	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	desert	x	x	0
+O	0	5	O	O	south	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	Baghdad	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	then	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	rescued	x	x	0
+O	0	13	O	O	by	x	x	0
+B-ORG	0	14	O	O	U.S.	x	x	0
+I-ORG	0	15	O	O	army	x	x	0
+O	0	16	O	O	ground	x	x	0
+O	0	17	O	O	troops	x	x	0
+B-PER	0	18	O	O	who	x	x	0
+O	0	19	O	O	were	x	x	0
+O	0	20	O	O	in	x	x	0
+B-LOC	0	21	O	O	the	x	x	0
+I-LOC	0	22	O	O	area	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	pilot	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	whose	x	x	0
+O	0	4	O	O	name	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	released	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	brought	x	x	0
+O	0	12	O	O	back	x	x	0
+O	0	13	O	O	to	x	x	0
+B-FAC	0	14	O	O	this	x	x	0
+I-FAC	0	15	O	O	base	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	condition	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	172nd	x	x	0
+I-ORG	0	8	O	O	fire	x	x	0
+I-ORG	0	9	O	O	squadron	x	x	0
+B-ORG	0	10	O	O	which	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	based	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	Battle	x	x	0
+O	0	15	O	O	Creek	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	Michigan	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	's	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	very	x	x	0
+I-PER	0	5	O	O	lucky	x	x	0
+I-PER	0	6	O	O	man	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	with	x	x	0
+O	0	3	O	O	two	x	x	0
+O	0	4	O	O	other	x	x	0
+O	0	5	O	O	a-10s	x	x	0
+O	0	6	O	O	flying	x	x	0
+O	0	7	O	O	along	x	x	0
+O	0	8	O	O	with	x	x	0
+B-PER	0	9	O	O	him	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	They	x	x	0
+O	0	1	O	O	,	x	x	0
+B-VEH	0	2	O	O	two	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	hit	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	One	x	x	0
+O	0	1	O	O	came	x	x	0
+O	0	2	O	O	back	x	x	0
+O	0	3	O	O	to	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	base	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	other	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	picture	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	landed	x	x	0
+O	0	2	O	O	at	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	base	x	x	0
+O	0	5	O	O	controlled	x	x	0
+O	0	6	O	O	by	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	coalition	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	That	x	x	0
+I-VEH	0	1	O	O	particular	x	x	0
+I-VEH	0	2	O	O	a-10	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	hit	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	right	x	x	0
+O	0	8	O	O	engine	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	pilot	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	able	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	make	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	safe	x	x	0
+O	0	9	O	O	landing	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	neither	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	those	x	x	0
+I-PER	0	14	O	O	pilots	x	x	0
+O	0	15	O	O	were	x	x	0
+O	0	16	O	O	hurt	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	Those	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	three	x	x	0
+O	0	3	O	O	planes	x	x	0
+O	0	4	O	O	hit	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	Another	x	x	0
+I-VEH	0	1	O	O	a-10	x	x	0
+I-VEH	0	2	O	O	Warthog	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	hit	x	x	0
+B-GPE	0	5	O	O	here	x	x	0
+B-TIME	0	6	O	O	today	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	That	x	x	0
+I-PER	0	1	O	O	pilot	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	hit	x	x	0
+O	0	4	O	O	by	x	x	0
+B-WEA	0	5	O	O	at	x	x	0
+I-WEA	0	6	O	O	least	x	x	0
+I-WEA	0	7	O	O	one	x	x	0
+I-WEA	0	8	O	O	missile	x	x	0
+O	0	9	O	O	and	x	x	0
+B-WEA	0	10	O	O	some	x	x	0
+I-WEA	0	11	O	O	artillery	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	video	x	x	0
+O	0	3	O	O	of	x	x	0
+B-VEH	0	4	O	O	that	x	x	0
+I-VEH	0	5	O	O	plane	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	That	x	x	0
+I-VEH	0	1	O	O	plane	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	role	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	engines	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stabilizer	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	back	x	x	0
+O	0	4	O	O	of	x	x	0
+B-VEH	0	5	O	O	the	x	x	0
+I-VEH	0	6	O	O	plane	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	pilot	x	x	0
+O	0	2	O	O	lost	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	flight	x	x	0
+O	0	5	O	O	control	x	x	0
+O	0	6	O	O	as	x	x	0
+B-PER	0	7	O	O	she	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	flying	x	x	0
+O	0	10	O	O	back	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thinking	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	ejecting.	x	x	0
+O	0	3	O	O	decided	x	x	0
+B-PER	0	4	O	O	she	x	x	0
+O	0	5	O	O	could	x	x	0
+O	0	6	O	O	make	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	back	x	x	0
+O	0	9	O	O	safely	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	came	x	x	0
+O	0	2	O	O	back	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	base	x	x	0
+O	0	6	O	O	near	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	border	x	x	0
+O	0	9	O	O	of	x	x	0
+B-GPE	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	being	x	x	0
+O	0	15	O	O	described	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	an	x	x	0
+O	0	18	O	O	heroic	x	x	0
+O	0	19	O	O	landing	x	x	0
+O	0	20	O	O	after	x	x	0
+B-PER	0	21	O	O	she	x	x	0
+O	0	22	O	O	was	x	x	0
+O	0	23	O	O	struck	x	x	0
+O	0	24	O	O	by	x	x	0
+B-WEA	0	25	O	O	artillery	x	x	0
+O	0	26	O	O	missiles	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Course	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	just	x	x	0
+O	0	4	O	O	heard	x	x	0
+O	0	5	O	O	from	x	x	0
+B-PER	0	6	O	O	Jamie	x	x	0
+I-PER	0	7	O	O	mcintyre	x	x	0
+O	0	8	O	O	about	x	x	0
+B-VEH	0	9	O	O	the	x	x	0
+I-VEH	0	10	O	O	f-15	x	x	0
+I-VEH	0	11	O	O	e	x	x	0
+I-VEH	0	12	O	O	Strike	x	x	0
+I-VEH	0	13	O	O	Eagle	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Authorities	x	x	0
+

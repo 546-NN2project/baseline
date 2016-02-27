@@ -1,0 +1,632 @@
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	people	x	x	0
+O	0	2	O	O	of	x	x	0
+B-GPE	0	3	O	O	Tikrit	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	saying	x	x	0
+B-PER	0	6	O	O	Saddam	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	family	x	x	0
+O	0	9	O	O	left	x	x	0
+B-GPE	0	10	O	O	that	x	x	0
+I-GPE	0	11	O	O	city	x	x	0
+B-TIME	0	12	O	O	three	x	x	0
+I-TIME	0	13	O	O	days	x	x	0
+I-TIME	0	14	O	O	ago	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	well	x	x	0
+O	0	17	O	O	before	x	x	0
+B-PER	0	18	O	O	the	x	x	0
+I-PER	0	19	O	O	Americans	x	x	0
+O	0	20	O	O	arrived	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Saddam	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	clan	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	said	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	left	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	small	x	x	0
+O	0	11	O	O	village	x	x	0
+O	0	12	O	O	in	x	x	0
+B-LOC	0	13	O	O	the	x	x	0
+I-LOC	0	14	O	O	desert	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	12:19	x	x	0
+O	0	1	O	O	p.m.	x	x	0
+O	0	2	O	O	:	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	Ryan	x	x	0
+O	0	6	O	O	Chilcote	x	x	0
+O	0	7	O	O	reports	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	101st	x	x	0
+I-PER	0	10	O	O	Airborne	x	x	0
+I-PER	0	11	O	O	2nd	x	x	0
+I-PER	0	12	O	O	Brigade	x	x	0
+O	0	13	O	O	finds	x	x	0
+O	0	14	O	O	11	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	what	x	x	0
+O	0	17	O	O	an	x	x	0
+B-ORG	0	18	O	O	Army	x	x	0
+O	0	19	O	O	general	x	x	0
+O	0	20	O	O	describes	x	x	0
+O	0	21	O	O	as	x	x	0
+B-FAC	0	22	O	O	chem-bio	x	x	0
+I-FAC	0	23	O	O	labs	x	x	0
+O	0	24	O	O	buried	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	avoid	x	x	0
+O	0	27	O	O	detection	x	x	0
+O	0	28	O	O	near	x	x	0
+B-GPE	0	29	O	O	Karbala	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	each	x	x	0
+O	0	32	O	O	of	x	x	0
+B-FAC	0	33	O	O	the	x	x	0
+I-FAC	0	34	O	O	structures	x	x	0
+O	0	35	O	O	20-by	x	x	0
+O	0	36	O	O	20	x	x	0
+O	0	37	O	O	feet	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	military	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	found	x	x	0
+O	0	5	O	O	over	x	x	0
+O	0	6	O	O	1,000	x	x	0
+O	0	7	O	O	pounds	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	documents	x	x	0
+O	0	10	O	O	buried	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	site	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	inspections	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	continue	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Baghdad	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	city	x	x	0
+B-GPE	0	6	O	O	where	x	x	0
+O	0	7	O	O	drinking	x	x	0
+O	0	8	O	O	water	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	working	x	x	0
+O	0	11	O	O	telephones	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	hot	x	x	0
+O	0	14	O	O	commodities	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	regular	x	x	0
+O	0	3	O	O	cell	x	x	0
+O	0	4	O	O	phones	x	x	0
+O	0	5	O	O	rarely	x	x	0
+O	0	6	O	O	work	x	x	0
+B-TIME	0	7	O	O	these	x	x	0
+I-TIME	0	8	O	O	days	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	city	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	we	x	x	0
+O	0	14	O	O	're	x	x	0
+O	0	15	O	O	told	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	but	x	x	0
+O	0	18	O	O	satellite	x	x	0
+O	0	19	O	O	phones	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	another	x	x	0
+O	0	22	O	O	story	x	x	0
+O	0	23	O	O	entirely	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Rula	x	x	0
+O	0	3	O	O	Amin	x	x	0
+O	0	4	O	O	reports	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	Iraqi	x	x	0
+O	0	8	O	O	capital	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	wait	x	x	0
+O	0	2	O	O	for	x	x	0
+B-TIME	0	3	O	O	hours	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	find	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	journalist	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	plead	x	x	0
+O	0	11	O	O	with	x	x	0
+B-PER	0	12	O	O	us	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	borrow	x	x	0
+B-PER	0	15	O	O	our	x	x	0
+O	0	16	O	O	mobile	x	x	0
+O	0	17	O	O	satellite	x	x	0
+O	0	18	O	O	phones	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	need	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	send	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	message	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	families	x	x	0
+O	0	9	O	O	abroad	x	x	0
+O	0	10	O	O	just	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	tell	x	x	0
+B-PER	0	13	O	O	them	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	"	x	x	0
+B-PER	0	16	O	O	We	x	x	0
+O	0	17	O	O	are	x	x	0
+O	0	18	O	O	alive	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	"	x	x	0
+O	0	21	O	O	says	x	x	0
+B-PER	0	22	O	O	this	x	x	0
+I-PER	0	23	O	O	woman	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-LOC	0	0	O	O	Here	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	wait	x	x	0
+O	0	4	O	O	outside	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	restaurant	x	x	0
+B-FAC	0	7	O	O	where	x	x	0
+B-PER	0	8	O	O	journalists	x	x	0
+O	0	9	O	O	hang	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	desperate	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Only	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	minute	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	says	x	x	0
+B-PER	0	8	O	O	this	x	x	0
+I-PER	0	9	O	O	mother	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	wants	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	call	x	x	0
+B-PER	0	4	O	O	her	x	x	0
+O	0	5	O	O	pregnant	x	x	0
+O	0	6	O	O	daughter	x	x	0
+B-PER	0	7	O	O	Saba	x	x	0
+O	0	8	O	O	(	x	x	0
+O	0	9	O	O	ph	x	x	0
+O	0	10	O	O	)	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Sweden	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	see	x	x	0
+O	0	15	O	O	if	x	x	0
+B-PER	0	16	O	O	she	x	x	0
+O	0	17	O	O	has	x	x	0
+O	0	18	O	O	delivered	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	It	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	her	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	worry	x	x	0
+O	0	9	O	O	about	x	x	0
+B-PER	0	10	O	O	us	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	"	x	x	0
+B-PER	0	13	O	O	she	x	x	0
+O	0	14	O	O	says	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Across	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	fence	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	21-year-old	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	Marine	x	x	0
+O	0	8	O	O	named	x	x	0
+O	0	9	O	O	Jason	x	x	0
+O	0	10	O	O	Cook	x	x	0
+O	0	11	O	O	(	x	x	0
+O	0	12	O	O	ph	x	x	0
+O	0	13	O	O	)	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	after	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	same	x	x	0
+O	0	18	O	O	phones	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	wants	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	call	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	mom	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Houston	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	"	x	x	0
+B-ORG	0	2	O	O	New	x	x	0
+I-ORG	0	3	O	O	York	x	x	0
+I-ORG	0	4	O	O	Times	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	reporter	x	x	0
+O	0	7	O	O	lends	x	x	0
+B-PER	0	8	O	O	Cook	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	mobile	x	x	0
+O	0	11	O	O	sat	x	x	0
+O	0	12	O	O	phone	x	x	0
+O	0	13	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	love	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	too	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	mom	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hey	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	old	x	x	0
+I-PER	0	3	O	O	man	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	middle	x	x	0
+O	0	5	O	O	of	x	x	0
+B-GPE	0	6	O	O	Baghdad	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	just	x	x	0
+O	0	9	O	O	patrolling	x	x	0
+O	0	10	O	O	up	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	down	x	x	0
+B-FAC	0	13	O	O	the	x	x	0
+I-FAC	0	14	O	O	streets	x	x	0
+O	0	15	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Cook	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	spoken	x	x	0
+O	0	4	O	O	to	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	family	x	x	0
+O	0	7	O	O	since	x	x	0
+B-TIME	0	8	O	O	Super	x	x	0
+I-TIME	0	9	O	O	Bowl	x	x	0
+I-TIME	0	10	O	O	Sunday	x	x	0
+I-TIME	0	11	O	O	,	x	x	0
+I-TIME	0	12	O	O	January	x	x	0
+I-TIME	0	13	O	O	26	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	sidewalk	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Baghdad	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	all	x	x	0
+O	0	10	O	O	doing	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	most	x	x	0
+O	0	13	O	O	natural	x	x	0
+O	0	14	O	O	thing	x	x	0
+O	0	15	O	O	during	x	x	0
+O	0	16	O	O	war	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	trying	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	reach	x	x	0
+B-PER	0	21	O	O	their	x	x	0
+O	0	22	O	O	loved	x	x	0
+O	0	23	O	O	ones	x	x	0
+O	0	24	O	O	.	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+I-PER	0	1	O	O	mother	x	x	0
+I-PER	0	2	O	O	,	x	x	0
+I-PER	0	3	O	O	brother	x	x	0
+I-PER	0	4	O	O	and	x	x	0
+I-PER	0	5	O	O	sister	x	x	0
+B-PER	0	6	O	O	.	x	x	0
+
+B-PER	0	0	O	O	How	x	x	0
+I-PER	0	1	O	O	many	x	x	0
+O	0	2	O	O	do	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	got	x	x	0
+B-PER	0	2	O	O	an	x	x	0
+I-PER	0	3	O	O	older	x	x	0
+I-PER	0	4	O	O	brother	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	little	x	x	0
+I-PER	0	8	O	O	brother	x	x	0
+I-PER	0	9	O	O	and	x	x	0
+I-PER	0	10	O	O	sister	x	x	0
+O	0	11	O	O	.	x	x	0
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	mother	x	x	0
+O	0	2	O	O	told	x	x	0
+B-PER	0	3	O	O	him	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	keep	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	head	x	x	0
+O	0	8	O	O	down	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	believe	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	really	x	x	0
+O	0	7	O	O	talking	x	x	0
+O	0	8	O	O	to	x	x	0
+B-PER	0	9	O	O	her	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	our	x	x	0
+O	0	3	O	O	share	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	first	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	call	x	x	0
+O	0	5	O	O	is	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	mother	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Saba	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	delivered	x	x	0
+O	0	4	O	O	yet	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Nevertheless	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	mother	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	happy	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Everyone	x	x	0
+O	0	1	O	O	wanted	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	call	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	accommodate	x	x	0
+B-PER	0	4	O	O	everybody	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	small	x	x	0
+O	0	4	O	O	notes	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	they	x	x	0
+O	0	7	O	O	wrote	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	phone	x	x	0
+O	0	10	O	O	numbers	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	did	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	get	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	dial	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	hoping	x	x	0
+B-PER	0	19	O	O	we	x	x	0
+O	0	20	O	O	'd	x	x	0
+O	0	21	O	O	deliver	x	x	0
+O	0	22	O	O	on	x	x	0
+B-PER	0	23	O	O	our	x	x	0
+O	0	24	O	O	promise	x	x	0
+O	0	25	O	O	that	x	x	0
+B-PER	0	26	O	O	we	x	x	0
+O	0	27	O	O	'd	x	x	0
+O	0	28	O	O	call	x	x	0
+O	0	29	O	O	on	x	x	0
+B-PER	0	30	O	O	their	x	x	0
+O	0	31	O	O	behalf	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rula	x	x	0
+I-PER	0	1	O	O	Amin	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Baghdad	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Makes	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	wish	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	enough	x	x	0
+O	0	6	O	O	satellite	x	x	0
+O	0	7	O	O	phones	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	go	x	x	0
+O	0	10	O	O	around	x	x	0
+O	0	11	O	O	for	x	x	0
+B-PER	0	12	O	O	everybody	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Rula	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Up	x	x	0
+O	0	1	O	O	next	x	x	0
+O	0	2	O	O	:	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	commander-in-chief	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	political	x	x	0
+B-TIME	0	7	O	O	future	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	war	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	winding	x	x	0
+O	0	6	O	O	down	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	is	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	support	x	x	0
+O	0	11	O	O	among	x	x	0
+B-ORG	0	12	O	O	Democrats	x	x	0
+O	0	13	O	O	looking	x	x	0
+O	0	14	O	O	up	x	x	0
+O	0	15	O	O	?	x	x	0
+

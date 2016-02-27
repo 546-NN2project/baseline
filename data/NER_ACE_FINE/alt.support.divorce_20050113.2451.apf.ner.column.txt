@@ -1,0 +1,1656 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	divorce	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	really	x	x	0
+O	0	5	O	O	stupid	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	take	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	awhile	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	thought	x	x	0
+O	0	9	O	O	stream	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	got	x	x	0
+B-PER	0	12	O	O	me	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	thought	x	x	0
+B-TIME	0	16	O	O	today	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	First	x	x	0
+O	0	1	O	O	off	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'm	x	x	0
+O	0	5	O	O	remarried	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	divorced	x	x	0
+B-TIME	0	8	O	O	3	x	x	0
+I-TIME	0	9	O	O	years	x	x	0
+I-TIME	0	10	O	O	ago	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	love	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	wife	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	kids	x	x	0
+O	0	8	O	O	get	x	x	0
+O	0	9	O	O	along	x	x	0
+O	0	10	O	O	just	x	x	0
+O	0	11	O	O	fine	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	like	x	x	0
+B-PER	0	4	O	O	my	x	x	0
+O	0	5	O	O	exwife	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	time	x	x	0
+O	0	5	O	O	when	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	like	x	x	0
+B-PER	0	9	O	O	her	x	x	0
+O	0	10	O	O	;	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	fact	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	loved	x	x	0
+B-PER	0	15	O	O	her	x	x	0
+O	0	16	O	O	very	x	x	0
+O	0	17	O	O	much	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	spite	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	her	x	x	0
+O	0	22	O	O	numerous	x	x	0
+O	0	23	O	O	flaws	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	chief	x	x	0
+O	0	26	O	O	among	x	x	0
+O	0	27	O	O	those	x	x	0
+O	0	28	O	O	flaws	x	x	0
+O	0	29	O	O	is	x	x	0
+O	0	30	O	O	that	x	x	0
+B-PER	0	31	O	O	she	x	x	0
+O	0	32	O	O	's	x	x	0
+B-PER	0	33	O	O	a	x	x	0
+I-PER	0	34	O	O	narcicists	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	sort	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	personality	x	x	0
+O	0	8	O	O	problems	x	x	0
+O	0	9	O	O	....	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	wife	x	x	0
+O	0	2	O	O	belongs	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	support	x	x	0
+I-PER	0	6	O	O	group	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	just	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	fun	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	all	x	x	0
+O	0	15	O	O	googled	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+O	0	17	O	O	hubbies	x	x	0
+B-TIME	0	18	O	O	ex	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Somehow	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	lead	x	x	0
+B-PER	0	4	O	O	me	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	googling	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+B-TIME	0	8	O	O	ex	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	boyfriend	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	call	x	x	0
+B-PER	0	13	O	O	him	x	x	0
+O	0	14	O	O	B.	x	x	0
+O	0	15	O	O	And	x	x	0
+O	0	16	O	O	there	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	talking	x	x	0
+O	0	21	O	O	about	x	x	0
+O	0	22	O	O	plans	x	x	0
+O	0	23	O	O	with	x	x	0
+B-PER	0	24	O	O	his	x	x	0
+O	0	25	O	O	wife	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	kids	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Wow	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	To	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	B	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	just	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	one	x	x	0
+O	0	8	O	O	dimensional	x	x	0
+O	0	9	O	O	guy	x	x	0
+B-PER	0	10	O	O	that	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	being	x	x	0
+O	0	13	O	O	dragged	x	x	0
+O	0	14	O	O	along	x	x	0
+O	0	15	O	O	by	x	x	0
+B-PER	0	16	O	O	my	x	x	0
+O	0	17	O	O	exwife	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	turns	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	3	x	x	0
+O	0	9	O	O	dimensional	x	x	0
+O	0	10	O	O	life	x	x	0
+O	0	11	O	O	too	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'd	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	take	x	x	0
+B-PER	0	5	O	O	him	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	beer	x	x	0
+O	0	10	O	O	sometime	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	fun	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	happenned	x	x	0
+O	0	4	O	O	to	x	x	0
+B-PER	0	5	O	O	B	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	son	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	kids	x	x	0
+O	0	2	O	O	never	x	x	0
+O	0	3	O	O	mentioned	x	x	0
+B-PER	0	4	O	O	B	x	x	0
+O	0	5	O	O	having	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	son	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	B	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	son	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	apparently	x	x	0
+B-TIME	0	5	O	O	16	x	x	0
+I-TIME	0	6	O	O	years	x	x	0
+I-TIME	0	7	O	O	old	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	same	x	x	0
+O	0	10	O	O	age	x	x	0
+O	0	11	O	O	as	x	x	0
+B-PER	0	12	O	O	my	x	x	0
+O	0	13	O	O	daughter	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	B	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	huge	x	x	0
+O	0	7	O	O	messy	x	x	0
+O	0	8	O	O	divorce	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+B-TIME	0	12	O	O	ex	x	x	0
+O	0	13	O	O	took	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	kid	x	x	0
+O	0	16	O	O	out	x	x	0
+O	0	17	O	O	of	x	x	0
+B-GPE	0	18	O	O	state	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+B-TIME	0	1	O	O	ex	x	x	0
+O	0	2	O	O	threatened	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ouch	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Divorce	x	x	0
+O	0	1	O	O	really	x	x	0
+O	0	2	O	O	sucks	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	kids	x	x	0
+O	0	4	O	O	almost	x	x	0
+O	0	5	O	O	50/50	x	x	0
+B-TIME	0	6	O	O	these	x	x	0
+I-TIME	0	7	O	O	days	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	huge	x	x	0
+O	0	14	O	O	messy	x	x	0
+O	0	15	O	O	post	x	x	0
+O	0	16	O	O	divorce	x	x	0
+O	0	17	O	O	compromise	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	took	x	x	0
+B-TIME	0	20	O	O	a	x	x	0
+I-TIME	0	21	O	O	year	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	complete	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	B	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	go	x	x	0
+O	0	7	O	O	through	x	x	0
+O	0	8	O	O	some	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	same	x	x	0
+O	0	12	O	O	kind	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	shit	x	x	0
+O	0	15	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Perhaps	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	exwife	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	sympathy	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	its	x	x	0
+O	0	9	O	O	like	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	be	x	x	0
+B-PER	0	12	O	O	a	x	x	0
+I-PER	0	13	O	O	guy	x	x	0
+I-PER	0	14	O	O	on	x	x	0
+I-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	receiving	x	x	0
+I-PER	0	17	O	O	end	x	x	0
+I-PER	0	18	O	O	of	x	x	0
+I-PER	0	19	O	O	a	x	x	0
+I-PER	0	20	O	O	divorce	x	x	0
+B-TIME	0	21	O	O	now	x	x	0
+O	0	22	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Ok	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	keep	x	x	0
+O	0	3	O	O	googling	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	plot	x	x	0
+O	0	5	O	O	thickens	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	found	x	x	0
+B-PER	0	2	O	O	B	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	exwife	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Very	x	x	0
+I-PER	0	1	O	O	articulate	x	x	0
+I-PER	0	2	O	O	writer	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	really	x	x	0
+O	0	3	O	O	humorous	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	wrote	x	x	0
+O	0	2	O	O	an	x	x	0
+O	0	3	O	O	article	x	x	0
+O	0	4	O	O	about	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	divorce	x	x	0
+I-PER	0	7	O	O	support	x	x	0
+I-PER	0	8	O	O	group	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	ending	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	something	x	x	0
+O	0	14	O	O	about	x	x	0
+B-PER	0	15	O	O	Mrs.	x	x	0
+O	0	16	O	O	B	x	x	0
+O	0	17	O	O	being	x	x	0
+O	0	18	O	O	happily	x	x	0
+O	0	19	O	O	married	x	x	0
+O	0	20	O	O	but	x	x	0
+B-PER	0	21	O	O	she	x	x	0
+O	0	22	O	O	's	x	x	0
+O	0	23	O	O	impressed	x	x	0
+O	0	24	O	O	by	x	x	0
+B-PER	0	25	O	O	the	x	x	0
+I-PER	0	26	O	O	divorce	x	x	0
+I-PER	0	27	O	O	support	x	x	0
+I-PER	0	28	O	O	group	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	was	x	x	0
+B-TIME	0	3	O	O	only	x	x	0
+I-TIME	0	4	O	O	4	x	x	0
+I-TIME	0	5	O	O	years	x	x	0
+I-TIME	0	6	O	O	ago	x	x	0
+O	0	7	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	Mr.	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	Mrs.	x	x	0
+O	0	3	O	O	B	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	real	x	x	0
+O	0	7	O	O	life	x	x	0
+O	0	8	O	O	too	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	shared	x	x	0
+O	0	2	O	O	dreams	x	x	0
+O	0	3	O	O	together	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	raised	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	kid	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	probably	x	x	0
+O	0	11	O	O	had	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	lot	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	fun	x	x	0
+O	0	16	O	O	together	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	'm	x	x	0
+O	0	3	O	O	even	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	curious	x	x	0
+O	0	6	O	O	about	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	B	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	kid	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	still	x	x	0
+O	0	2	O	O	lives	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	town	x	x	0
+B-GPE	0	5	O	O	here	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Maybe	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	sort	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	terrible	x	x	0
+O	0	7	O	O	tragedy	x	x	0
+O	0	8	O	O	???	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	ask	x	x	0
+O	0	5	O	O	about	x	x	0
+B-PER	0	6	O	O	B	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	kid	x	x	0
+O	0	9	O	O	when	x	x	0
+B-PER	0	10	O	O	my	x	x	0
+O	0	11	O	O	own	x	x	0
+O	0	12	O	O	kids	x	x	0
+O	0	13	O	O	switch	x	x	0
+O	0	14	O	O	off	x	x	0
+B-TIME	0	15	O	O	next	x	x	0
+I-TIME	0	16	O	O	week	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sometimes	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	marriage	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	dimensionally	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Either	x	x	0
+O	0	1	O	O	its	x	x	0
+O	0	2	O	O	bad	x	x	0
+O	0	3	O	O	or	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	total	x	x	0
+O	0	3	O	O	bullshit	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	first	x	x	0
+O	0	4	O	O	marriage	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	lot	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	good	x	x	0
+O	0	10	O	O	adventures	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	lot	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	friendship	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	lot	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	love	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	perfect	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	exwife	x	x	0
+O	0	2	O	O	is	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	total	x	x	0
+I-PER	0	5	O	O	pain	x	x	0
+I-PER	0	6	O	O	in	x	x	0
+I-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	ass	x	x	0
+O	0	9	O	O	much	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	time	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	tried	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	let	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	do	x	x	0
+O	0	21	O	O	what	x	x	0
+B-PER	0	22	O	O	she	x	x	0
+O	0	23	O	O	wanted	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	sometimes	x	x	0
+B-PER	0	26	O	O	I	x	x	0
+O	0	27	O	O	could	x	x	0
+O	0	28	O	O	n't	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	even	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	end	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	we	x	x	0
+O	0	8	O	O	loved	x	x	0
+B-PER	0	9	O	O	each	x	x	0
+I-PER	0	10	O	O	other	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	lost	x	x	0
+B-PER	0	7	O	O	family	x	x	0
+O	0	8	O	O	ties	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	lost	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	family	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	'm	x	x	0
+O	0	8	O	O	slowly	x	x	0
+O	0	9	O	O	drifting	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	touch	x	x	0
+O	0	13	O	O	with	x	x	0
+B-PER	0	14	O	O	her	x	x	0
+O	0	15	O	O	family	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	both	x	x	0
+O	0	2	O	O	build	x	x	0
+O	0	3	O	O	new	x	x	0
+O	0	4	O	O	lives	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	New	x	x	0
+O	0	1	O	O	lives	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	long	x	x	0
+O	0	6	O	O	as	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	kids	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	shared	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	ca	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	total	x	x	0
+O	0	16	O	O	get	x	x	0
+B-PER	0	17	O	O	this	x	x	0
+I-PER	0	18	O	O	exspouse	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	your	x	x	0
+O	0	22	O	O	mental	x	x	0
+O	0	23	O	O	psyche	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	takes	x	x	0
+B-TIME	0	4	O	O	one	x	x	0
+I-TIME	0	5	O	O	year	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	every	x	x	0
+B-TIME	0	8	O	O	two	x	x	0
+O	0	9	O	O	that	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	were	x	x	0
+O	0	12	O	O	married	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	believe	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Meanwhile	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	life	x	x	0
+O	0	3	O	O	goes	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	wife	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	name	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	M.	x	x	0
+B-PER	0	6	O	O	We	x	x	0
+O	0	7	O	O	're	x	x	0
+O	0	8	O	O	going	x	x	0
+O	0	9	O	O	to	x	x	0
+B-FAC	0	10	O	O	a	x	x	0
+I-FAC	0	11	O	O	bed	x	x	0
+I-FAC	0	12	O	O	and	x	x	0
+I-FAC	0	13	O	O	breakfast	x	x	0
+B-TIME	0	14	O	O	this	x	x	0
+I-TIME	0	15	O	O	weekend	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	get	x	x	0
+O	0	19	O	O	away	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	relax	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	M	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	slowly	x	x	0
+O	0	5	O	O	building	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	history	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	our	x	x	0
+O	0	10	O	O	own	x	x	0
+O	0	11	O	O	together	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	share	x	x	0
+O	0	2	O	O	adventures	x	x	0
+O	0	3	O	O	together	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	share	x	x	0
+O	0	7	O	O	adventure	x	x	0
+O	0	8	O	O	with	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	kids	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	with	x	x	0
+B-PER	0	14	O	O	our	x	x	0
+O	0	15	O	O	dogs	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	take	x	x	0
+O	0	4	O	O	lots	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	pictures	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	really	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	changed	x	x	0
+O	0	5	O	O	very	x	x	0
+O	0	6	O	O	much	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	who	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	before	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Although	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	dog	x	x	0
+O	0	4	O	O	thing	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	really	x	x	0
+O	0	7	O	O	post	x	x	0
+O	0	8	O	O	divorce	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Lots	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	lots	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	pictures	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sometimes	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	look	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	old	x	x	0
+O	0	6	O	O	photos	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	before	x	x	0
+O	0	9	O	O	divorce	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	smiled	x	x	0
+O	0	2	O	O	together	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	laughed	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	hugged	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	first	x	x	0
+I-PER	0	6	O	O	digital	x	x	0
+I-PER	0	7	O	O	camera	x	x	0
+I-PER	0	8	O	O	users	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	too	x	x	0
+O	0	14	O	O	many	x	x	0
+O	0	15	O	O	photos	x	x	0
+O	0	16	O	O	from	x	x	0
+B-PER	0	17	O	O	my	x	x	0
+O	0	18	O	O	first	x	x	0
+O	0	19	O	O	marriage	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sometimes	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	feel	x	x	0
+O	0	3	O	O	like	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'm	x	x	0
+O	0	6	O	O	racing	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	create	x	x	0
+O	0	9	O	O	enough	x	x	0
+O	0	10	O	O	photos	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	my	x	x	0
+O	0	13	O	O	new	x	x	0
+O	0	14	O	O	life	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	outweigh	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	long	x	x	0
+O	0	19	O	O	history	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	my	x	x	0
+O	0	22	O	O	first	x	x	0
+O	0	23	O	O	life	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	take	x	x	0
+O	0	5	O	O	awhile	x	x	0
+O	0	6	O	O	...	x	x	0
+
+
+
+O	0	0	O	O	Luckily	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+B-PER	0	3	O	O	flawed	x	x	0
+I-PER	0	4	O	O	human	x	x	0
+I-PER	0	5	O	O	beings	x	x	0
+O	0	6	O	O	live	x	x	0
+O	0	7	O	O	long	x	x	0
+O	0	8	O	O	lives	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	digital	x	x	0
+O	0	12	O	O	cameras	x	x	0
+O	0	13	O	O	take	x	x	0
+O	0	14	O	O	lots	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	lots	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	pictures	x	x	0
+O	0	19	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	exwife	x	x	0
+O	0	3	O	O	does	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	dump	x	x	0
+B-PER	0	6	O	O	B	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	maybe	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	'll	x	x	0
+O	0	11	O	O	wind	x	x	0
+O	0	12	O	O	up	x	x	0
+O	0	13	O	O	staying	x	x	0
+O	0	14	O	O	together	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	maybe	x	x	0
+O	0	17	O	O	even	x	x	0
+O	0	18	O	O	getting	x	x	0
+O	0	19	O	O	married	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	would	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	nice	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	too	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	begin	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	process	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	rebuilding	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	"	x	x	0
+O	0	11	O	O	together	x	x	0
+O	0	12	O	O	"	x	x	0
+O	0	13	O	O	lives	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	assuming	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	humanity	x	x	0
+O	0	7	O	O	beneath	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	exwife	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	narcicistic	x	x	0
+O	0	12	O	O	shell	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	but	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	do	x	x	0
+O	0	17	O	O	believe	x	x	0
+O	0	18	O	O	there	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	B	x	x	0
+O	0	1	O	O	seems	x	x	0
+O	0	2	O	O	like	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	decent	x	x	0
+I-PER	0	5	O	O	enough	x	x	0
+I-PER	0	6	O	O	person	x	x	0
+O	0	7	O	O	too	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	B	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	my	x	x	0
+O	0	5	O	O	ex	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	doing	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	same	x	x	0
+O	0	11	O	O	thing	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	'm	x	x	0
+O	0	15	O	O	doing	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Rebuilding	x	x	0
+B-PER	0	1	O	O	their	x	x	0
+O	0	2	O	O	lives	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Anyway	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	gets	x	x	0
+B-PER	0	6	O	O	me	x	x	0
+O	0	7	O	O	back	x	x	0
+O	0	8	O	O	to	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	original	x	x	0
+O	0	11	O	O	point	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Divorce	x	x	0
+O	0	1	O	O	seems	x	x	0
+O	0	2	O	O	really	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	stupid	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	seems	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	beneath	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	all	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	we	x	x	0
+O	0	11	O	O	all	x	x	0
+O	0	12	O	O	want	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	same	x	x	0
+O	0	15	O	O	things	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Love	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	companionship	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	partner	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	our	x	x	0
+O	0	9	O	O	life	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	journies	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	None	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	makes	x	x	0
+O	0	4	O	O	total	x	x	0
+O	0	5	O	O	sense	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	me	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	thought	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'd	x	x	0
+O	0	6	O	O	ramble	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Hiking	x	x	0
+
+B-PER	0	0	O	O	Your	x	x	0
+O	0	1	O	O	post	x	x	0
+O	0	2	O	O	made	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	horribly	x	x	0
+O	0	5	O	O	sad	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+B-TIME	0	1	O	O	ex	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	nice	x	x	0
+O	0	5	O	O	new	x	x	0
+O	0	6	O	O	life	x	x	0
+O	0	7	O	O	with	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	child-bride	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	2	x	x	0
+O	0	13	O	O	cats	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	2	x	x	0
+O	0	16	O	O	dogs	x	x	0
+O	0	17	O	O	and	x	x	0
+B-FAC	0	18	O	O	new	x	x	0
+I-FAC	0	19	O	O	house	x	x	0
+O	0	20	O	O	and	x	x	0
+B-PER	0	21	O	O	my	x	x	0
+O	0	22	O	O	son	x	x	0
+O	0	23	O	O	primarily	x	x	0
+O	0	24	O	O	lives	x	x	0
+O	0	25	O	O	with	x	x	0
+B-PER	0	26	O	O	them	x	x	0
+O	0	27	O	O	even	x	x	0
+O	0	28	O	O	though	x	x	0
+B-PER	0	29	O	O	he	x	x	0
+O	0	30	O	O	ends	x	x	0
+O	0	31	O	O	up	x	x	0
+O	0	32	O	O	being	x	x	0
+O	0	33	O	O	at	x	x	0
+B-PER	0	34	O	O	my	x	x	0
+O	0	35	O	O	place	x	x	0
+O	0	36	O	O	1/2	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	time	x	x	0
+O	0	39	O	O	in	x	x	0
+B-TIME	0	40	O	O	a	x	x	0
+I-TIME	0	41	O	O	2-week	x	x	0
+I-TIME	0	42	O	O	period	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	live	x	x	0
+O	0	2	O	O	in	x	x	0
+B-FAC	0	3	O	O	a	x	x	0
+I-FAC	0	4	O	O	961	x	x	0
+I-FAC	0	5	O	O	sq.	x	x	0
+I-FAC	0	6	O	O	ft.	x	x	0
+I-FAC	0	7	O	O	apartment	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+B-TIME	0	1	O	O	ex	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	most	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	photos	x	x	0
+O	0	8	O	O	as	x	x	0
+B-PER	0	9	O	O	our	x	x	0
+O	0	10	O	O	son	x	x	0
+O	0	11	O	O	lives	x	x	0
+B-FAC	0	12	O	O	there	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+B-PER	0	16	O	O	his	x	x	0
+O	0	17	O	O	history	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	bunch	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	wedding	x	x	0
+O	0	9	O	O	photos	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+B-PER	0	12	O	O	my	x	x	0
+B-TIME	0	13	O	O	ex	x	x	0
+O	0	14	O	O	refused	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	give	x	x	0
+O	0	17	O	O	them	x	x	0
+O	0	18	O	O	all	x	x	0
+O	0	19	O	O	to	x	x	0
+B-PER	0	20	O	O	me	x	x	0
+O	0	21	O	O	saying	x	x	0
+O	0	22	O	O	it	x	x	0
+O	0	23	O	O	was	x	x	0
+O	0	24	O	O	"	x	x	0
+B-PER	0	25	O	O	his	x	x	0
+O	0	26	O	O	life	x	x	0
+O	0	27	O	O	too	x	x	0
+O	0	28	O	O	"	x	x	0
+O	0	29	O	O	even	x	x	0
+O	0	30	O	O	though	x	x	0
+B-PER	0	31	O	O	I	x	x	0
+O	0	32	O	O	really	x	x	0
+O	0	33	O	O	resent	x	x	0
+O	0	34	O	O	them	x	x	0
+O	0	35	O	O	being	x	x	0
+O	0	36	O	O	under	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	same	x	x	0
+O	0	39	O	O	roof	x	x	0
+O	0	40	O	O	with	x	x	0
+B-PER	0	41	O	O	his	x	x	0
+O	0	42	O	O	child-bride	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	sure	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	taking	x	x	0
+O	0	6	O	O	lots	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	pictures	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	their	x	x	0
+O	0	11	O	O	trips	x	x	0
+O	0	12	O	O	/	x	x	0
+O	0	13	O	O	vacations	x	x	0
+O	0	14	O	O	/	x	x	0
+O	0	15	O	O	whatever	x	x	0
+O	0	16	O	O	(	x	x	0
+O	0	17	O	O	at	x	x	0
+O	0	18	O	O	least	x	x	0
+O	0	19	O	O	2	x	x	0
+O	0	20	O	O	that	x	x	0
+B-PER	0	21	O	O	I	x	x	0
+O	0	22	O	O	know	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	)	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	own	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	camera	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	new	x	x	0
+O	0	2	O	O	inlaws	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	all	x	x	0
+B-TIME	0	5	O	O	former	x	x	0
+B-PER	0	6	O	O	family	x	x	0
+O	0	7	O	O	friends	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	do	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	anything	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	do	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	anymore	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	obvious	x	x	0
+O	0	19	O	O	reasons	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	family	x	x	0
+O	0	2	O	O	(	x	x	0
+B-PER	0	3	O	O	brother	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	sister	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	stepmother	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	conveniently	x	x	0
+O	0	10	O	O	seem	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	forget	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	for	x	x	0
+B-TIME	0	15	O	O	almost	x	x	0
+I-TIME	0	16	O	O	20	x	x	0
+I-TIME	0	17	O	O	years	x	x	0
+B-PER	0	18	O	O	I	x	x	0
+O	0	19	O	O	was	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	member	x	x	0
+O	0	22	O	O	of	x	x	0
+B-PER	0	23	O	O	their	x	x	0
+O	0	24	O	O	family	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	gradual	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	drifting	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	touch	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	despite	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	fact	x	x	0
+O	0	13	O	O	that	x	x	0
+B-PER	0	14	O	O	we	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	live	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	same	x	x	0
+I-GPE	0	20	O	O	city	x	x	0
+O	0	21	O	O	and	x	x	0
+B-PER	0	22	O	O	my	x	x	0
+B-TIME	0	23	O	O	ex	x	x	0
+B-PER	0	24	O	O	BIL	x	x	0
+O	0	25	O	O	and	x	x	0
+B-PER	0	26	O	O	I	x	x	0
+O	0	27	O	O	even	x	x	0
+O	0	28	O	O	work	x	x	0
+O	0	29	O	O	within	x	x	0
+O	0	30	O	O	blocks	x	x	0
+O	0	31	O	O	of	x	x	0
+B-PER	0	32	O	O	each	x	x	0
+I-PER	0	33	O	O	other	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	family	x	x	0
+O	0	2	O	O	thinks	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+B-TIME	0	4	O	O	ex	x	x	0
+O	0	5	O	O	is	x	x	0
+B-LOC	0	6	O	O	pond	x	x	0
+O	0	7	O	O	scum	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	because	x	x	0
+B-PER	0	10	O	O	my	x	x	0
+O	0	11	O	O	parents	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	still	x	x	0
+O	0	14	O	O	members	x	x	0
+O	0	15	O	O	at	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	same	x	x	0
+I-ORG	0	18	O	O	church	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	they	x	x	0
+O	0	21	O	O	have	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	see	x	x	0
+B-PER	0	24	O	O	my	x	x	0
+B-TIME	0	25	O	O	ex	x	x	0
+O	0	26	O	O	and	x	x	0
+B-PER	0	27	O	O	his	x	x	0
+B-TIME	0	28	O	O	new	x	x	0
+O	0	29	O	O	wife	x	x	0
+B-TIME	0	30	O	O	every	x	x	0
+I-TIME	0	31	O	O	week	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	mother	x	x	0
+O	0	2	O	O	took	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	remarriage	x	x	0
+O	0	5	O	O	harder	x	x	0
+O	0	6	O	O	than	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	did	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	think	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	because	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Divorce	x	x	0
+O	0	1	O	O	*	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	*	x	x	0
+O	0	4	O	O	really	x	x	0
+O	0	5	O	O	stupid	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Duh-uh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Especially	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	those	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	us	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	still	x	x	0
+O	0	7	O	O	have	x	x	0
+B-TIME	0	8	O	O	so	x	x	0
+I-TIME	0	9	O	O	many	x	x	0
+I-TIME	0	10	O	O	years	x	x	0
+O	0	11	O	O	(	x	x	0
+O	0	12	O	O	if	x	x	0
+B-TIME	0	13	O	O	one	x	x	0
+I-TIME	0	14	O	O	year	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	every	x	x	0
+B-TIME	0	17	O	O	2	x	x	0
+O	0	18	O	O	married	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	then	x	x	0
+B-PER	0	21	O	O	I	x	x	0
+O	0	22	O	O	've	x	x	0
+O	0	23	O	O	still	x	x	0
+O	0	24	O	O	got	x	x	0
+B-TIME	0	25	O	O	another	x	x	0
+I-TIME	0	26	O	O	7	x	x	0
+I-TIME	0	27	O	O	or	x	x	0
+I-TIME	0	28	O	O	so	x	x	0
+O	0	29	O	O	)	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	go	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	get	x	x	0
+B-PER	0	34	O	O	our	x	x	0
+O	0	35	O	O	heads	x	x	0
+O	0	36	O	O	screwed	x	x	0
+O	0	37	O	O	back	x	x	0
+O	0	38	O	O	on	x	x	0
+O	0	39	O	O	and	x	x	0
+O	0	40	O	O	find	x	x	0
+O	0	41	O	O	some	x	x	0
+O	0	42	O	O	sort	x	x	0
+O	0	43	O	O	of	x	x	0
+O	0	44	O	O	life	x	x	0
+O	0	45	O	O	that	x	x	0
+O	0	46	O	O	rivals	x	x	0
+O	0	47	O	O	what	x	x	0
+B-PER	0	48	O	O	we	x	x	0
+O	0	49	O	O	had	x	x	0
+O	0	50	O	O	or	x	x	0
+O	0	51	O	O	what	x	x	0
+B-PER	0	52	O	O	our	x	x	0
+B-TIME	0	53	O	O	ex	x	x	0
+O	0	54	O	O	has	x	x	0
+O	0	55	O	O	or	x	x	0
+O	0	56	O	O	what	x	x	0
+B-PER	0	57	O	O	you	x	x	0
+O	0	58	O	O	and	x	x	0
+B-PER	0	59	O	O	your	x	x	0
+B-TIME	0	60	O	O	ex	x	x	0
+O	0	61	O	O	have	x	x	0
+O	0	62	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	far	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Barbara	x	x	0
+I-PER	0	1	O	O	Sz	x	x	0
+I-PER	0	2	O	O	.	x	x	0
+

@@ -1,0 +1,266 @@
+O	0	0	O	O	and	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	joining	x	x	0
+B-ORG	0	3	O	O	us	x	x	0
+O	0	4	O	O	by	x	x	0
+O	0	5	O	O	phone	x	x	0
+O	0	6	O	O	from	x	x	0
+B-GPE	0	7	O	O	Liverpool	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	more	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+B-PER	0	12	O	O	Harry	x	x	0
+I-PER	0	13	O	O	Potter	x	x	0
+O	0	14	O	O	Heist	x	x	0
+O	0	15	O	O	is	x	x	0
+B-PER	0	16	O	O	Caroline	x	x	0
+I-PER	0	17	O	O	Forham	x	x	0
+O	0	18	O	O	,	x	x	0
+B-ORG	0	19	O	O	press	x	x	0
+O	0	20	O	O	officer	x	x	0
+O	0	21	O	O	with	x	x	0
+B-ORG	0	22	O	O	the	x	x	0
+I-ORG	0	23	O	O	mercy	x	x	0
+I-ORG	0	24	O	O	side	x	x	0
+I-ORG	0	25	O	O	police	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	come	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	stealing	x	x	0
+B-PER	0	5	O	O	childrens	x	x	0
+O	0	6	O	O	books	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	these	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	profitable	x	x	0
+B-PER	0	5	O	O	childrens	x	x	0
+O	0	6	O	O	book	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	very	x	x	0
+O	0	2	O	O	popular	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	people	x	x	0
+O	0	4	O	O	think	x	x	0
+O	0	5	O	O	they	x	x	0
+O	0	6	O	O	probably	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	lucrative	x	x	0
+O	0	9	O	O	for	x	x	0
+B-PER	0	10	O	O	them	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	mentioned	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	if	x	x	0
+B-PER	0	5	O	O	anyone	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	seen	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+B-Crime	0	10	O	O	selling	x	x	0
+I-Crime	0	11	O	O	these	x	x	0
+I-Crime	0	12	O	O	on	x	x	0
+I-Crime	0	13	O	O	the	x	x	0
+I-Crime	0	14	O	O	black	x	x	0
+I-Crime	0	15	O	O	market	x	x	0
+B-PER	0	16	O	O	they	x	x	0
+O	0	17	O	O	will	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	prosecuted	x	x	0
+O	0	20	O	O	.	x	x	0
+
+O	0	0	O	O	is	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	why	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	think	x	x	0
+O	0	5	O	O	they	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	stolen	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	sale	x	x	0
+O	0	10	O	O	before	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	deadline	x	x	0
+O	0	13	O	O	or	x	x	0
+O	0	14	O	O	after	x	x	0
+O	0	15	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	probably	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	know	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	can	x	x	0
+O	0	7	O	O	make	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	money	x	x	0
+O	0	10	O	O	before	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	deadline	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	these	x	x	0
+O	0	15	O	O	books	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	no	x	x	0
+B-ORG	0	4	O	O	reputable	x	x	0
+I-ORG	0	5	O	O	book	x	x	0
+I-ORG	0	6	O	O	shop	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	take	x	x	0
+O	0	9	O	O	these	x	x	0
+O	0	10	O	O	stolen	x	x	0
+O	0	11	O	O	goods	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	sell	x	x	0
+O	0	14	O	O	them	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	looking	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	in	x	x	0
+B-ORG	0	7	O	O	market	x	x	0
+I-ORG	0	8	O	O	stores	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	sales	x	x	0
+O	0	11	O	O	over	x	x	0
+B-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	next	x	x	0
+I-TIME	0	14	O	O	coming	x	x	0
+I-TIME	0	15	O	O	days	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+B-ORG	0	2	O	O	police	x	x	0
+O	0	3	O	O	officers	x	x	0
+O	0	4	O	O	looking	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	them	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	prosecute	x	x	0
+B-PER	0	10	O	O	anyone	x	x	0
+O	0	11	O	O	seen	x	x	0
+B-Crime	0	12	O	O	selling	x	x	0
+I-Crime	0	13	O	O	them	x	x	0
+I-Crime	0	14	O	O	or	x	x	0
+I-Crime	0	15	O	O	buying	x	x	0
+I-Crime	0	16	O	O	them	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	considering	x	x	0
+O	0	1	O	O	how	x	x	0
+O	0	2	O	O	much	x	x	0
+O	0	3	O	O	publicity	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	circulating	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	book	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	there	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	injunctions	x	x	0
+O	0	13	O	O	about	x	x	0
+O	0	14	O	O	publishing	x	x	0
+O	0	15	O	O	anything	x	x	0
+O	0	16	O	O	or	x	x	0
+O	0	17	O	O	talking	x	x	0
+O	0	18	O	O	about	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	plot	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	kind	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	security	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	place	x	x	0
+O	0	8	O	O	for	x	x	0
+B-VEH	0	9	O	O	any	x	x	0
+I-VEH	0	10	O	O	truck	x	x	0
+I-VEH	0	11	O	O	carrying	x	x	0
+I-VEH	0	12	O	O	books	x	x	0
+O	0	13	O	O	?	x	x	0
+
+O	0	0	O	O	the	x	x	0
+O	0	1	O	O	books	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	stolen	x	x	0
+O	0	4	O	O	from	x	x	0
+B-FAC	0	5	O	O	a	x	x	0
+I-FAC	0	6	O	O	warehouse	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	their	x	x	0
+B-PER	0	11	O	O	own	x	x	0
+O	0	12	O	O	security	x	x	0
+O	0	13	O	O	measures	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	have	x	x	0
+B-PER	0	3	O	O	their	x	x	0
+O	0	4	O	O	CCPB	x	x	0
+O	0	5	O	O	operational	x	x	0
+O	0	6	O	O	,	x	x	0
+B-ORG	0	7	O	O	we	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	looking	x	x	0
+O	0	10	O	O	at	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	see	x	x	0
+O	0	14	O	O	if	x	x	0
+

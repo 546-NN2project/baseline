@@ -1,0 +1,64 @@
+O	0	0	O	O	power	x	x	0
+O	0	1	O	O	being	x	x	0
+O	0	2	O	O	restored	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	rolling	x	x	0
+O	0	6	O	O	basis	x	x	0
+O	0	7	O	O	throughout	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+B-TIME	0	9	O	O	today	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	city	x	x	0
+O	0	2	O	O	went	x	x	0
+O	0	3	O	O	dark	x	x	0
+B-TIME	0	4	O	O	two	x	x	0
+I-TIME	0	5	O	O	weeks	x	x	0
+I-TIME	0	6	O	O	ago	x	x	0
+O	0	7	O	O	leaving	x	x	0
+B-PER	0	8	O	O	people	x	x	0
+O	0	9	O	O	without	x	x	0
+O	0	10	O	O	electricity	x	x	0
+O	0	11	O	O	or	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	ability	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	cook	x	x	0
+O	0	16	O	O	or	x	x	0
+O	0	17	O	O	keep	x	x	0
+O	0	18	O	O	food	x	x	0
+O	0	19	O	O	from	x	x	0
+O	0	20	O	O	spoiling	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Engineers	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	managed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	restart	x	x	0
+B-FAC	0	5	O	O	two	x	x	0
+I-FAC	0	6	O	O	substations	x	x	0
+O	0	7	O	O	and	x	x	0
+B-FAC	0	8	O	O	six	x	x	0
+I-FAC	0	9	O	O	diesel	x	x	0
+I-FAC	0	10	O	O	plants	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	also	x	x	0
+O	0	13	O	O	need	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	help	x	x	0
+B-FAC	0	17	O	O	the	x	x	0
+I-FAC	0	18	O	O	hospitals	x	x	0
+O	0	19	O	O	get	x	x	0
+O	0	20	O	O	online	x	x	0
+O	0	21	O	O	as	x	x	0
+O	0	22	O	O	well	x	x	0
+O	0	23	O	O	.	x	x	0
+

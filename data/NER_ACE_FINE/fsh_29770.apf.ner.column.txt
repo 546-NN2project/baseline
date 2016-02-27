@@ -1,0 +1,1097 @@
+O	0	0	O	O	11	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Holiday	x	x	0
+O	0	1	O	O	Traditions	x	x	0
+O	0	2	O	O	:	x	x	0
+O	0	3	O	O	The	x	x	0
+O	0	4	O	O	holiday	x	x	0
+O	0	5	O	O	season	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	right	x	x	0
+O	0	8	O	O	around	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	corner	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Who	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	like	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	celebrate	x	x	0
+O	0	6	O	O	with	x	x	0
+O	0	7	O	O	during	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	holidays	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	lot	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	parties	x	x	0
+O	0	8	O	O	with	x	x	0
+B-PER	0	9	O	O	friends	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	neighbors	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	co-workers	x	x	0
+O	0	14	O	O	or	x	x	0
+B-PER	0	15	O	O	family	x	x	0
+O	0	16	O	O	members	x	x	0
+O	0	17	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Are	x	x	0
+O	0	1	O	O	there	x	x	0
+B-PER	0	2	O	O	people	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	during	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	holidays	x	x	0
+B-PER	0	8	O	O	that	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	do	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	see	x	x	0
+O	0	13	O	O	during	x	x	0
+B-TIME	0	14	O	O	the	x	x	0
+I-TIME	0	15	O	O	rest	x	x	0
+I-TIME	0	16	O	O	of	x	x	0
+I-TIME	0	17	O	O	the	x	x	0
+I-TIME	0	18	O	O	year	x	x	0
+O	0	19	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	travel	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	meet	x	x	0
+O	0	5	O	O	up	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	family	x	x	0
+O	0	8	O	O	or	x	x	0
+B-PER	0	9	O	O	friends	x	x	0
+O	0	10	O	O	during	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	holidays	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+B-LOC	0	0	O	O	Where	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	go	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	do	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	visit	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	Hello	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	name	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	Carrie	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	Mildred	x	x	0
+O	0	5	O	O	from	x	x	0
+B-GPE	0	6	O	O	West	x	x	0
+I-GPE	0	7	O	O	Virginia	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Alabama	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	-	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Alabama	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	your	x	x	0
+O	0	5	O	O	lovely	x	x	0
+O	0	6	O	O	state	x	x	0
+O	0	7	O	O	once	x	x	0
+O	0	8	O	O	before	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	down	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	hollers	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	a	x	x	0
+I-TIME	0	3	O	O	long	x	x	0
+I-TIME	0	4	O	O	time	x	x	0
+I-TIME	0	5	O	O	ago	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	have	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+B-PER	0	2	O	O	two	x	x	0
+I-PER	0	3	O	O	sisters	x	x	0
+B-PER	0	4	O	O	that	x	x	0
+O	0	5	O	O	lived	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Alabama	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	n't	x	x	0
+B-LOC	0	4	O	O	it	x	x	0
+B-LOC	0	5	O	O	a	x	x	0
+I-LOC	0	6	O	O	small	x	x	0
+I-LOC	0	7	O	O	world	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-LOC	0	2	O	O	it	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	One	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Pell	x	x	0
+I-GPE	0	4	O	O	City	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	one	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	Birmingham	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	where	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	'm	x	x	0
+O	0	12	O	O	not	x	x	0
+O	0	13	O	O	very	x	x	0
+O	0	14	O	O	close	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	northern	x	x	0
+O	0	7	O	O	part	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	state	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+I-PER	0	2	O	O	all	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	big	x	x	0
+O	0	6	O	O	Christmas	x	x	0
+O	0	7	O	O	at	x	x	0
+B-PER	0	8	O	O	your	x	x	0
+O	0	9	O	O	house	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	-	x	x	0
+
+O	0	0	O	O	Kind	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	quiet	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	go	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	niece	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	house	x	x	0
+O	0	7	O	O	and	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	she	x	x	0
+O	0	1	O	O	cooks	x	x	0
+O	0	2	O	O	for	x	x	0
+B-PER	0	3	O	O	us	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	used	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	and	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+B-PER	0	7	O	O	she	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	took	x	x	0
+O	0	10	O	O	over	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	which	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	'm	x	x	0
+O	0	15	O	O	so	x	x	0
+O	0	16	O	O	happy	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Uh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	quite	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	few	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	kids	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	uh	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	kids	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	kids	x	x	0
+O	0	9	O	O	come	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	all	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	of	x	x	0
+B-PER	0	15	O	O	them	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	son	x	x	0
+O	0	2	O	O	goes	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	in-laws	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	but	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	two	x	x	0
+O	0	10	O	O	girls	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	come	x	x	0
+O	0	13	O	O	and	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	some	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	my	x	x	0
+O	0	5	O	O	sisters	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	sister	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Ohio	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	she	x	x	0
+O	0	8	O	O	usually	x	x	0
+O	0	9	O	O	comes	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+I-PER	0	3	O	O	all	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	spread	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Mm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+O	0	1	O	O	?	x	x	0
+
+O	0	0	O	O	W	x	x	0
+O	0	1	O	O	well	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	uh	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	seven	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	us	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	er	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	eight	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	us	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	Six	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	them	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	seven	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	them	x	x	0
+O	0	7	O	O	was	x	x	0
+B-PER	0	8	O	O	girls	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	counting	x	x	0
+B-PER	0	11	O	O	me	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	only	x	x	0
+O	0	2	O	O	had	x	x	0
+B-PER	0	3	O	O	one	x	x	0
+I-PER	0	4	O	O	brother	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	my	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Mm	x	x	0
+O	0	1	O	O	mm	x	x	0
+O	0	2	O	O	mm	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	spread	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Mm	x	x	0
+O	0	1	O	O	mm	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+B-TIME	0	3	O	O	Christmas	x	x	0
+I-TIME	0	4	O	O	Eve	x	x	0
+O	0	5	O	O	is	x	x	0
+B-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	big	x	x	0
+I-TIME	0	8	O	O	day	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	Christmas	x	x	0
+O	0	13	O	O	Eve	x	x	0
+O	0	14	O	O	because	x	x	0
+B-PER	0	15	O	O	we	x	x	0
+O	0	16	O	O	always	x	x	0
+O	0	17	O	O	got	x	x	0
+O	0	18	O	O	together	x	x	0
+O	0	19	O	O	on	x	x	0
+B-TIME	0	20	O	O	Christmas	x	x	0
+I-TIME	0	21	O	O	Eve	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	little	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	lived	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Wisconsin	x	x	0
+O	0	9	O	O	,	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	when	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	moved	x	x	0
+O	0	5	O	O	to	x	x	0
+B-GPE	0	6	O	O	Alabama	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	n't	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	lot	x	x	0
+I-PER	0	12	O	O	of	x	x	0
+I-PER	0	13	O	O	family	x	x	0
+O	0	14	O	O	close	x	x	0
+O	0	15	O	O	by.	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	holiday	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	's	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	only	x	x	0
+O	0	24	O	O	holiday	x	x	0
+O	0	25	O	O	that	x	x	0
+B-PER	0	26	O	O	we	x	x	0
+O	0	27	O	O	actually	x	x	0
+B-PER	0	28	O	O	all	x	x	0
+O	0	29	O	O	get	x	x	0
+O	0	30	O	O	together	x	x	0
+O	0	31	O	O	on	x	x	0
+O	0	32	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	-	x	x	0
+B-TIME	0	1	O	O	fourth	x	x	0
+I-TIME	0	2	O	O	of	x	x	0
+I-TIME	0	3	O	O	July	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	drop	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	hat	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	told	x	x	0
+B-PER	0	4	O	O	him	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	if	x	x	0
+B-PER	0	13	O	O	we	x	x	0
+O	0	14	O	O	can	x	x	0
+O	0	15	O	O	squeeze	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	running	x	x	0
+O	0	18	O	O	by	x	x	0
+B-TIME	0	19	O	O	Christmas	x	x	0
+I-TIME	0	20	O	O	Eve	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	way	x	x	0
+O	0	24	O	O	to	x	x	0
+B-PER	0	25	O	O	my	x	x	0
+O	0	26	O	O	parents	x	x	0
+O	0	27	O	O	'	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	fine	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	but	x	x	0
+O	0	32	O	O	,	x	x	0
+
+B-PER	0	0	O	O	you	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anybody	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	come	x	x	0
+B-FAC	0	3	O	O	here	x	x	0
+B-TIME	0	4	O	O	Christmas	x	x	0
+I-TIME	0	5	O	O	day	x	x	0
+B-PER	0	6	O	O	that	x	x	0
+O	0	7	O	O	wants	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+B-PER	0	6	O	O	my	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+O	0	8	O	O	father-in-law	x	x	0
+O	0	9	O	O	-	x	x	0
+
+O	0	0	O	O	Ah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	-	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	then	x	x	0
+O	0	3	O	O	if	x	x	0
+O	0	4	O	O	if	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	wo	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	eh	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	sometimes	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	cook	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	Christmas	x	x	0
+O	0	19	O	O	dinner	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	sometimes	x	x	0
+B-PER	0	22	O	O	I	x	x	0
+O	0	23	O	O	do	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	depends	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	husband	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	work	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	um	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	depends	x	x	0
+O	0	14	O	O	on	x	x	0
+O	0	15	O	O	what	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	'm	x	x	0
+O	0	18	O	O	going	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	do	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Mm	x	x	0
+O	0	1	O	O	mm	x	x	0
+O	0	2	O	O	mm	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Wha	x	x	0
+O	0	1	O	O	eh	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	oh	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	lot	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	us	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	together	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	-	x	x	0
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	Yeah	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	-	x	x	0
+O	0	1	O	O	well	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	sister	x	x	0
+O	0	5	O	O	usually	x	x	0
+O	0	6	O	O	comes	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	from	x	x	0
+B-GPE	0	9	O	O	Ohio	x	x	0
+O	0	10	O	O	because	x	x	0
+B-GPE	0	11	O	O	it	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	far	x	x	0
+O	0	16	O	O	like	x	x	0
+O	0	17	O	O	two	x	x	0
+O	0	18	O	O	hundred	x	x	0
+O	0	19	O	O	fifty	x	x	0
+O	0	20	O	O	miles	x	x	0
+O	0	21	O	O	or	x	x	0
+O	0	22	O	O	something	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	and	x	x	0
+B-PER	0	25	O	O	she	x	x	0
+O	0	26	O	O	'll	x	x	0
+O	0	27	O	O	come	x	x	0
+O	0	28	O	O	in	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	Thanksgiving	x	x	0
+O	0	31	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	eat	x	x	0
+O	0	4	O	O	together	x	x	0
+O	0	5	O	O	which	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	real	x	x	0
+O	0	8	O	O	nice	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	go	x	x	0
+O	0	5	O	O	-	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	funny	x	x	0
+O	0	9	O	O	that	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	said	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	two	x	x	0
+O	0	15	O	O	hundred	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	fifty	x	x	0
+O	0	18	O	O	miles	x	x	0
+O	0	19	O	O	not	x	x	0
+O	0	20	O	O	being	x	x	0
+O	0	21	O	O	far	x	x	0
+O	0	22	O	O	-	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	-	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	going	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	fly	x	x	0
+O	0	9	O	O	back	x	x	0
+O	0	10	O	O	to	x	x	0
+B-GPE	0	11	O	O	Wisconsin	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	um	x	x	0
+O	0	14	O	O	-	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Mm	x	x	0
+O	0	1	O	O	mm	x	x	0
+O	0	2	O	O	mm	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Eh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	too	x	x	0
+O	0	6	O	O	far	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	me	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	Alabama	x	x	0
+O	0	5	O	O	from	x	x	0
+B-GPE	0	6	O	O	here	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	sister	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	six	x	x	0
+O	0	14	O	O	hundred	x	x	0
+O	0	15	O	O	miles	x	x	0
+O	0	16	O	O	from	x	x	0
+B-PER	0	17	O	O	me	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	one	x	x	0
+O	0	21	O	O	down	x	x	0
+B-GPE	0	22	O	O	there	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	long	x	x	0
+O	0	6	O	O	ways	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	me	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	uh	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	two	x	x	0
+O	0	5	O	O	hundred	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	fifty	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	too	x	x	0
+O	0	11	O	O	bad	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	-	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	went	x	x	0
+O	0	3	O	O	to	x	x	0
+B-GPE	0	4	O	O	a	x	x	0
+I-GPE	0	5	O	O	place	x	x	0
+O	0	6	O	O	ca	x	x	0
+O	0	7	O	O	-	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	want	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	say	x	x	0
+B-GPE	0	12	O	O	it	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	called	x	x	0
+O	0	15	O	O	Stump	x	x	0
+O	0	16	O	O	Town	x	x	0
+O	0	17	O	O	,	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	or	x	x	0
+O	0	1	O	O	something	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	,	x	x	0
+
+O	0	0	O	O	Never	x	x	0
+O	0	1	O	O	heard	x	x	0
+O	0	2	O	O	of	x	x	0
+B-GPE	0	3	O	O	it	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	uh	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	it	x	x	0
+O	0	3	O	O	was	x	x	0
+B-GPE	0	4	O	O	a	x	x	0
+I-GPE	0	5	O	O	real	x	x	0
+I-GPE	0	6	O	O	small	x	x	0
+I-GPE	0	7	O	O	place	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	It	x	x	0
+B-GPE	0	1	O	O	they	x	x	0
+O	0	2	O	O	w	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	go	x	x	0
+O	0	6	O	O	up	x	x	0
+B-GPE	0	7	O	O	there	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	some	x	x	0
+O	0	10	O	O	natural	x	x	0
+O	0	11	O	O	gas	x	x	0
+O	0	12	O	O	rights	x	x	0
+O	0	13	O	O	or	x	x	0
+O	0	14	O	O	something	x	x	0
+O	0	15	O	O	like	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	Uh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	-	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	country	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	cross	x	x	0
+B-FAC	0	6	O	O	a	x	x	0
+I-FAC	0	7	O	O	little	x	x	0
+I-FAC	0	8	O	O	walking	x	x	0
+I-FAC	0	9	O	O	,	x	x	0
+I-FAC	0	10	O	O	swinging	x	x	0
+I-FAC	0	11	O	O	bridge	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	get	x	x	0
+O	0	14	O	O	to	x	x	0
+B-PER	0	15	O	O	this	x	x	0
+I-PER	0	16	O	O	man	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	house	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	you	x	x	0
+O	0	21	O	O	know	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	like	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	part	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	.	x	x	0
+

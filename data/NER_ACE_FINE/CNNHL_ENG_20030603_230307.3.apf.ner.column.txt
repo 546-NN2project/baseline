@@ -1,0 +1,130 @@
+O	0	0	O	O	good	x	x	0
+B-TIME	0	1	O	O	evening	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Welcome	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	everyone	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Mike	x	x	0
+I-PER	0	1	O	O	Galanos	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	off	x	x	0
+B-TIME	0	4	O	O	tonight	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	Top	x	x	0
+O	0	2	O	O	story	x	x	0
+B-PER	0	3	O	O	Eric	x	x	0
+I-PER	0	4	O	O	Robert	x	x	0
+I-PER	0	5	O	O	Rudolph	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	officially	x	x	0
+O	0	8	O	O	said	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	did	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	do	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	pleaded	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	guilty	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	bombing	x	x	0
+O	0	6	O	O	a	x	x	0
+B-GPE	0	7	O	O	Birmingham	x	x	0
+B-PER	0	8	O	O	women	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	clinic	x	x	0
+O	0	11	O	O	in	x	x	0
+B-TIME	0	12	O	O	1998	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	suspected	x	x	0
+I-PER	0	2	O	O	serial	x	x	0
+I-PER	0	3	O	O	bomber	x	x	0
+O	0	4	O	O	appeared	x	x	0
+O	0	5	O	O	in	x	x	0
+B-FAC	0	6	O	O	a	x	x	0
+I-FAC	0	7	O	O	federal	x	x	0
+I-FAC	0	8	O	O	courthouse	x	x	0
+B-TIME	0	9	O	O	Tuesday	x	x	0
+I-TIME	0	10	O	O	afternoon	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	suspected	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	three	x	x	0
+B-LOC	0	6	O	O	atlanta-area	x	x	0
+O	0	7	O	O	bombings	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	North	x	x	0
+I-GPE	0	1	O	O	Carolina	x	x	0
+O	0	2	O	O	authorities	x	x	0
+O	0	3	O	O	say	x	x	0
+B-PER	0	4	O	O	Rudolph	x	x	0
+O	0	5	O	O	opened	x	x	0
+O	0	6	O	O	up	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	them	x	x	0
+O	0	9	O	O	about	x	x	0
+B-PER	0	10	O	O	his	x	x	0
+B-TIME	0	11	O	O	five	x	x	0
+I-TIME	0	12	O	O	years	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	run	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	says	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	hunted	x	x	0
+O	0	4	O	O	wild	x	x	0
+O	0	5	O	O	animals	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	searched	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	trash	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	food	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	covered	x	x	0
+B-PER	0	15	O	O	himself	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	leaves	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	make	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	through	x	x	0
+B-TIME	0	22	O	O	the	x	x	0
+I-TIME	0	23	O	O	winters	x	x	0
+O	0	24	O	O	.	x	x	0
+

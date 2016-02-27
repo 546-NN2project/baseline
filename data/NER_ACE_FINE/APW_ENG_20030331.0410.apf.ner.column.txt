@@ -1,0 +1,297 @@
+O	0	0	O	O	COPENHAGEN	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Denmark	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+B-TIME	0	6	O	O	Former	x	x	0
+B-GPE	0	7	O	O	Danish	x	x	0
+O	0	8	O	O	international	x	x	0
+O	0	9	O	O	Stig	x	x	0
+O	0	10	O	O	Toefting	x	x	0
+O	0	11	O	O	dropped	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	appeal	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	an	x	x	0
+B-Crime	0	16	O	O	assault	x	x	0
+O	0	17	O	O	conviction	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	serve	x	x	0
+O	0	21	O	O	a	x	x	0
+B-TIME	0	22	O	O	four-month	x	x	0
+B-FAC	0	23	O	O	jail	x	x	0
+O	0	24	O	O	sentence	x	x	0
+O	0	25	O	O	,	x	x	0
+B-GPE	0	26	O	O	Denmark	x	x	0
+O	0	27	O	O	's	x	x	0
+O	0	28	O	O	TV2	x	x	0
+O	0	29	O	O	reported	x	x	0
+B-TIME	0	30	O	O	Monday	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Toefting	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	convicted	x	x	0
+O	0	3	O	O	in	x	x	0
+B-TIME	0	4	O	O	October	x	x	0
+I-TIME	0	5	O	O	2002	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	assaulting	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	pair	x	x	0
+O	0	10	O	O	of	x	x	0
+B-ORG	0	11	O	O	restaurant	x	x	0
+O	0	12	O	O	workers	x	x	0
+O	0	13	O	O	during	x	x	0
+B-TIME	0	14	O	O	a	x	x	0
+I-TIME	0	15	O	O	night	x	x	0
+O	0	16	O	O	out	x	x	0
+O	0	17	O	O	with	x	x	0
+B-ORG	0	18	O	O	national	x	x	0
+I-ORG	0	19	O	O	squad	x	x	0
+O	0	20	O	O	teammates	x	x	0
+O	0	21	O	O	in	x	x	0
+B-GPE	0	22	O	O	the	x	x	0
+I-GPE	0	23	O	O	capital	x	x	0
+O	0	24	O	O	,	x	x	0
+B-GPE	0	25	O	O	Copenhagen	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	sentenced	x	x	0
+O	0	3	O	O	to	x	x	0
+B-TIME	0	4	O	O	four	x	x	0
+I-TIME	0	5	O	O	months	x	x	0
+O	0	6	O	O	in	x	x	0
+B-FAC	0	7	O	O	prison	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	appealed	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	hearing	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	scheduled	x	x	0
+O	0	4	O	O	for	x	x	0
+B-TIME	0	5	O	O	April	x	x	0
+I-TIME	0	6	O	O	10	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	TV2	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	quoting	x	x	0
+B-PER	0	3	O	O	Toefting	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	lawyer	x	x	0
+O	0	6	O	O	Anders	x	x	0
+O	0	7	O	O	Nemeth	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	reported	x	x	0
+O	0	10	O	O	that	x	x	0
+B-PER	0	11	O	O	that	x	x	0
+I-PER	0	12	O	O	33-year-old	x	x	0
+I-PER	0	13	O	O	midfielder	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	ready	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	serve	x	x	0
+B-PER	0	18	O	O	his	x	x	0
+O	0	19	O	O	sentence	x	x	0
+B-TIME	0	20	O	O	immediately	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Neither	x	x	0
+B-PER	0	1	O	O	Toefting	x	x	0
+O	0	2	O	O	or	x	x	0
+B-PER	0	3	O	O	Nemeth	x	x	0
+O	0	4	O	O	were	x	x	0
+B-TIME	0	5	O	O	immediately	x	x	0
+O	0	6	O	O	available	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	comment	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Earlier	x	x	0
+I-TIME	0	1	O	O	this	x	x	0
+I-TIME	0	2	O	O	month	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Toefting	x	x	0
+O	0	5	O	O	said	x	x	0
+B-GPE	0	6	O	O	English	x	x	0
+O	0	7	O	O	Premier	x	x	0
+O	0	8	O	O	League	x	x	0
+O	0	9	O	O	club	x	x	0
+O	0	10	O	O	Bolton	x	x	0
+O	0	11	O	O	let	x	x	0
+B-PER	0	12	O	O	him	x	x	0
+O	0	13	O	O	go	x	x	0
+O	0	14	O	O	so	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	could	x	x	0
+O	0	17	O	O	prepare	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	appeal	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	unclear	x	x	0
+O	0	3	O	O	whether	x	x	0
+B-PER	0	4	O	O	Toefting	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	return	x	x	0
+O	0	7	O	O	to	x	x	0
+B-ORG	0	8	O	O	Bolton	x	x	0
+O	0	9	O	O	after	x	x	0
+O	0	10	O	O	serving	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+O	0	12	O	O	sentence	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	club	x	x	0
+O	0	2	O	O	said	x	x	0
+B-ORG	0	3	O	O	it	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	aware	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	Toefting	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	decision	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	drop	x	x	0
+B-PER	0	13	O	O	his	x	x	0
+O	0	14	O	O	appeal	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Toefting	x	x	0
+O	0	1	O	O	transferred	x	x	0
+O	0	2	O	O	to	x	x	0
+B-ORG	0	3	O	O	Bolton	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	February	x	x	0
+I-TIME	0	6	O	O	2002	x	x	0
+O	0	7	O	O	from	x	x	0
+B-GPE	0	8	O	O	German	x	x	0
+O	0	9	O	O	club	x	x	0
+O	0	10	O	O	Hamburg	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Toefting	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	convicted	x	x	0
+B-TIME	0	4	O	O	before	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	1999	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	given	x	x	0
+O	0	5	O	O	a	x	x	0
+B-TIME	0	6	O	O	20-day	x	x	0
+O	0	7	O	O	suspended	x	x	0
+O	0	8	O	O	sentence	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	assaulting	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	fan	x	x	0
+B-PER	0	13	O	O	who	x	x	0
+O	0	14	O	O	berated	x	x	0
+B-PER	0	15	O	O	him	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	playing	x	x	0
+O	0	18	O	O	with	x	x	0
+B-GPE	0	19	O	O	German	x	x	0
+O	0	20	O	O	club	x	x	0
+O	0	21	O	O	Duisburg	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	popular	x	x	0
+O	0	2	O	O	player	x	x	0
+O	0	3	O	O	_	x	x	0
+O	0	4	O	O	known	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	temperament	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	words	x	x	0
+O	0	11	O	O	``	x	x	0
+O	0	12	O	O	No	x	x	0
+O	0	13	O	O	Regret	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	tattooed	x	x	0
+O	0	16	O	O	across	x	x	0
+B-PER	0	17	O	O	his	x	x	0
+O	0	18	O	O	chest	x	x	0
+O	0	19	O	O	_	x	x	0
+O	0	20	O	O	retired	x	x	0
+O	0	21	O	O	from	x	x	0
+B-GPE	0	22	O	O	Denmark	x	x	0
+O	0	23	O	O	's	x	x	0
+O	0	24	O	O	national	x	x	0
+O	0	25	O	O	team	x	x	0
+O	0	26	O	O	after	x	x	0
+B-ORG	0	27	O	O	it	x	x	0
+O	0	28	O	O	was	x	x	0
+O	0	29	O	O	knocked	x	x	0
+O	0	30	O	O	out	x	x	0
+O	0	31	O	O	in	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	second	x	x	0
+O	0	34	O	O	round	x	x	0
+O	0	35	O	O	of	x	x	0
+O	0	36	O	O	the	x	x	0
+B-TIME	0	37	O	O	2002	x	x	0
+O	0	38	O	O	World	x	x	0
+O	0	39	O	O	Cup	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Toefting	x	x	0
+O	0	1	O	O	joined	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	Danish	x	x	0
+O	0	4	O	O	squad	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	1993	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	41	x	x	0
+O	0	10	O	O	caps	x	x	0
+O	0	11	O	O	.	x	x	0
+

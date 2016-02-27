@@ -1,0 +1,304 @@
+B-TIME	0	0	O	O	Seven-eleven	x	x	0
+I-TIME	0	1	O	O	a.m	x	x	0
+I-TIME	0	2	O	O	.	x	x	0
+I-TIME	0	3	O	O	Eastern	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	4:11	x	x	0
+O	0	6	O	O	p.m.	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-ORG	0	1	O	O	its	x	x	0
+B-TIME	0	2	O	O	daily	x	x	0
+O	0	3	O	O	briefing	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	U.S.	x	x	0
+O	0	6	O	O	Central	x	x	0
+O	0	7	O	O	Command	x	x	0
+O	0	8	O	O	says	x	x	0
+O	0	9	O	O	Operation	x	x	0
+B-GPE	0	10	O	O	Iraqi	x	x	0
+O	0	11	O	O	Freedom	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	far	x	x	0
+O	0	14	O	O	from	x	x	0
+O	0	15	O	O	finished	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	Baghdad	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	even	x	x	0
+O	0	20	O	O	though	x	x	0
+B-GPE	0	21	O	O	U.S.	x	x	0
+O	0	22	O	O	forces	x	x	0
+O	0	23	O	O	are	x	x	0
+O	0	24	O	O	inside	x	x	0
+O	0	25	O	O	the	x	x	0
+B-GPE	0	26	O	O	Iraqi	x	x	0
+O	0	27	O	O	capital	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Eight-fifteen	x	x	0
+I-TIME	0	1	O	O	a.m	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraq	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	information	x	x	0
+O	0	3	O	O	minister	x	x	0
+O	0	4	O	O	reads	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	message	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	says	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	from	x	x	0
+B-PER	0	11	O	O	Saddam	x	x	0
+I-PER	0	12	O	O	Hussein	x	x	0
+O	0	13	O	O	urging	x	x	0
+B-PER	0	14	O	O	Iraqis	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	step	x	x	0
+O	0	17	O	O	up	x	x	0
+O	0	18	O	O	attacks	x	x	0
+O	0	19	O	O	against	x	x	0
+B-GPE	0	20	O	O	coalition	x	x	0
+O	0	21	O	O	forces	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Eight-thirty-six	x	x	0
+I-TIME	0	1	O	O	a.m	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Walter	x	x	0
+I-PER	0	1	O	O	Rodgers	x	x	0
+O	0	2	O	O	reports	x	x	0
+O	0	3	O	O	according	x	x	0
+O	0	4	O	O	to	x	x	0
+B-ORG	0	5	O	O	Army	x	x	0
+O	0	6	O	O	sources	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	officials	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	fleeing	x	x	0
+B-GPE	0	12	O	O	Baghdad	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	droves	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	using	x	x	0
+B-PER	0	17	O	O	civilian	x	x	0
+O	0	18	O	O	convoys	x	x	0
+O	0	19	O	O	top	x	x	0
+O	0	20	O	O	avoid	x	x	0
+O	0	21	O	O	being	x	x	0
+O	0	22	O	O	targeted	x	x	0
+O	0	23	O	O	by	x	x	0
+B-GPE	0	24	O	O	coalition	x	x	0
+O	0	25	O	O	air	x	x	0
+O	0	26	O	O	strikes	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Eight-forty-three	x	x	0
+I-TIME	0	1	O	O	a.m	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+B-ORG	0	1	O	O	Pentagon	x	x	0
+O	0	2	O	O	correspondent	x	x	0
+O	0	3	O	O	Barbara	x	x	0
+O	0	4	O	O	Starr	x	x	0
+O	0	5	O	O	reports	x	x	0
+B-GPE	0	6	O	O	coalition	x	x	0
+O	0	7	O	O	troops	x	x	0
+O	0	8	O	O	entering	x	x	0
+B-GPE	0	9	O	O	Baghdad	x	x	0
+O	0	10	O	O	were	x	x	0
+O	0	11	O	O	met	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	fierce	x	x	0
+O	0	14	O	O	fighting	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	there	x	x	0
+O	0	18	O	O	were	x	x	0
+B-PER	0	19	O	O	casualties	x	x	0
+O	0	20	O	O	on	x	x	0
+B-PER	0	21	O	O	both	x	x	0
+I-PER	0	22	O	O	sides	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Nine-oh-six	x	x	0
+I-TIME	0	1	O	O	a.m	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Martin	x	x	0
+O	0	3	O	O	Savidge	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	embedded	x	x	0
+O	0	6	O	O	with	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	1st	x	x	0
+O	0	9	O	O	Battalion	x	x	0
+O	0	10	O	O	,	x	x	0
+B-ORG	0	11	O	O	7th	x	x	0
+I-ORG	0	12	O	O	Marines	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	reports	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	unit	x	x	0
+O	0	17	O	O	has	x	x	0
+O	0	18	O	O	reached	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	extreme	x	x	0
+O	0	21	O	O	southeast	x	x	0
+O	0	22	O	O	suburbs	x	x	0
+O	0	23	O	O	of	x	x	0
+B-GPE	0	24	O	O	Baghdad	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	adding	x	x	0
+O	0	27	O	O	to	x	x	0
+B-PER	0	28	O	O	forces	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	U.S.	x	x	0
+O	0	31	O	O	says	x	x	0
+B-TIME	0	32	O	O	now	x	x	0
+O	0	33	O	O	encircle	x	x	0
+B-GPE	0	34	O	O	the	x	x	0
+I-GPE	0	35	O	O	city	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Twelve-thirteen	x	x	0
+I-TIME	0	1	O	O	p.m	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-FAC	0	1	O	O	the	x	x	0
+I-FAC	0	2	O	O	Pentagon	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Barbara	x	x	0
+I-PER	0	5	O	O	Starr	x	x	0
+O	0	6	O	O	reports	x	x	0
+B-PER	0	7	O	O	officials	x	x	0
+O	0	8	O	O	say	x	x	0
+B-TIME	0	9	O	O	today	x	x	0
+O	0	10	O	O	begins	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	new	x	x	0
+O	0	13	O	O	strategy	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	skies	x	x	0
+O	0	17	O	O	over	x	x	0
+B-GPE	0	18	O	O	Baghdad	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	coalition	x	x	0
+O	0	2	O	O	air	x	x	0
+O	0	3	O	O	force	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	begin	x	x	0
+O	0	6	O	O	providing	x	x	0
+O	0	7	O	O	urban	x	x	0
+O	0	8	O	O	combat	x	x	0
+O	0	9	O	O	air	x	x	0
+O	0	10	O	O	support	x	x	0
+O	0	11	O	O	over	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	city	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	operating	x	x	0
+O	0	3	O	O	plan	x	x	0
+O	0	4	O	O	includes	x	x	0
+O	0	5	O	O	both	x	x	0
+O	0	6	O	O	ground	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	air	x	x	0
+O	0	9	O	O	missions	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Twelve-twenty-one	x	x	0
+I-TIME	0	1	O	O	p.m	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Wolf	x	x	0
+O	0	3	O	O	Blitzer	x	x	0
+O	0	4	O	O	reports	x	x	0
+O	0	5	O	O	according	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	an	x	x	0
+I-PER	0	8	O	O	eyewitness	x	x	0
+O	0	9	O	O	,	x	x	0
+B-WEA	0	10	O	O	a	x	x	0
+I-WEA	0	11	O	O	bomb	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	hit	x	x	0
+B-LOC	0	14	O	O	central	x	x	0
+I-LOC	0	15	O	O	Baghdad	x	x	0
+O	0	16	O	O	only	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	few	x	x	0
+O	0	19	O	O	hundred	x	x	0
+O	0	20	O	O	meters	x	x	0
+O	0	21	O	O	from	x	x	0
+B-FAC	0	22	O	O	the	x	x	0
+I-FAC	0	23	O	O	Palestine	x	x	0
+I-FAC	0	24	O	O	Hotel	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	The	x	x	0
+I-FAC	0	1	O	O	Palestine	x	x	0
+I-FAC	0	2	O	O	Hotel	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	where	x	x	0
+O	0	5	O	O	much	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+B-ORG	0	8	O	O	international	x	x	0
+I-ORG	0	9	O	O	press	x	x	0
+O	0	10	O	O	corps	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	based	x	x	0
+O	0	13	O	O	.	x	x	0
+

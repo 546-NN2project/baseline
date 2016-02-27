@@ -1,0 +1,470 @@
+O	0	0	O	O	there	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	outrage	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	perks	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	executives	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	both	x	x	0
+O	0	10	O	O	from	x	x	0
+B-PER	0	11	O	O	angry	x	x	0
+I-PER	0	12	O	O	employees	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	from	x	x	0
+B-PER	0	15	O	O	shareholders	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	well	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Andy	x	x	0
+I-PER	0	1	O	O	Serwer	x	x	0
+O	0	2	O	O	"	x	x	0
+O	0	3	O	O	Minding	x	x	0
+O	0	4	O	O	Your	x	x	0
+O	0	5	O	O	Business	x	x	0
+O	0	6	O	O	.	x	x	0
+O	0	7	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Shame	x	x	0
+O	0	1	O	O	on	x	x	0
+B-PER	0	2	O	O	them	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	the	x	x	0
+O	0	1	O	O	big	x	x	0
+O	0	2	O	O	focus	x	x	0
+O	0	3	O	O	is	x	x	0
+B-ORG	0	4	O	O	American	x	x	0
+I-ORG	0	5	O	O	Airlines	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	Board	x	x	0
+O	0	9	O	O	of	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	company	x	x	0
+O	0	12	O	O	meeting	x	x	0
+B-TIME	0	13	O	O	today	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	possibly	x	x	0
+O	0	16	O	O	discussing	x	x	0
+O	0	17	O	O	the	x	x	0
+B-TIME	0	18	O	O	future	x	x	0
+O	0	19	O	O	of	x	x	0
+B-PER	0	20	O	O	CEO	x	x	0
+O	0	21	O	O	Don	x	x	0
+O	0	22	O	O	Carty	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	he	x	x	0
+O	0	25	O	O	got	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	trouble	x	x	0
+O	0	28	O	O	when	x	x	0
+B-PER	0	29	O	O	he	x	x	0
+O	0	30	O	O	jacked	x	x	0
+O	0	31	O	O	up	x	x	0
+O	0	32	O	O	pensions	x	x	0
+O	0	33	O	O	of	x	x	0
+B-PER	0	34	O	O	the	x	x	0
+I-PER	0	35	O	O	guys	x	x	0
+I-PER	0	36	O	O	in	x	x	0
+I-PER	0	37	O	O	top	x	x	0
+O	0	38	O	O	while	x	x	0
+O	0	39	O	O	asking	x	x	0
+B-PER	0	40	O	O	employees	x	x	0
+O	0	41	O	O	to	x	x	0
+O	0	42	O	O	take	x	x	0
+O	0	43	O	O	big	x	x	0
+O	0	44	O	O	pay	x	x	0
+O	0	45	O	O	cuts.	x	x	0
+B-Numeric	0	46	O	O	$1.8	x	x	0
+I-Numeric	0	47	O	O	billion	x	x	0
+O	0	48	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Last	x	x	0
+I-TIME	0	1	O	O	night	x	x	0
+O	0	2	O	O	,	x	x	0
+B-TIME	0	3	O	O	former	x	x	0
+B-ORG	0	4	O	O	General	x	x	0
+I-ORG	0	5	O	O	Electric	x	x	0
+B-Job-Title	0	6	O	O	CEO	x	x	0
+O	0	7	O	O	Jack	x	x	0
+O	0	8	O	O	Welch	x	x	0
+O	0	9	O	O	talked	x	x	0
+O	0	10	O	O	to	x	x	0
+B-PER	0	11	O	O	Paula	x	x	0
+I-PER	0	12	O	O	Zahn	x	x	0
+O	0	13	O	O	about	x	x	0
+O	0	14	O	O	this	x	x	0
+O	0	15	O	O	issue	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	corporate	x	x	0
+O	0	18	O	O	greed	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-ORG	0	1	O	O	's	x	x	0
+O	0	2	O	O	listen	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	say	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	it	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	parts	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	America	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	great	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	want	x	x	0
+B-PER	0	6	O	O	other	x	x	0
+I-PER	0	7	O	O	people	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	less	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	system	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	annual	x	x	0
+O	0	2	O	O	meeting	x	x	0
+O	0	3	O	O	,	x	x	0
+B-TIME	0	4	O	O	every	x	x	0
+I-TIME	0	5	O	O	year	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	went	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	complained	x	x	0
+O	0	11	O	O	about	x	x	0
+B-PER	0	12	O	O	executive	x	x	0
+O	0	13	O	O	salaries	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	even	x	x	0
+O	0	16	O	O	though	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	team	x	x	0
+B-PER	0	19	O	O	that	x	x	0
+B-PER	0	20	O	O	I	x	x	0
+O	0	21	O	O	managed	x	x	0
+O	0	22	O	O	increase	x	x	0
+B-PER	0	23	O	O	shareholder	x	x	0
+O	0	24	O	O	value	x	x	0
+O	0	25	O	O	to	x	x	0
+B-Numeric	0	26	O	O	$600	x	x	0
+I-Numeric	0	27	O	O	billion	x	x	0
+O	0	28	O	O	that	x	x	0
+B-PER	0	29	O	O	Sharoners	x	x	0
+O	0	30	O	O	received	x	x	0
+O	0	31	O	O	,	x	x	0
+B-PER	0	32	O	O	the	x	x	0
+I-PER	0	33	O	O	larger	x	x	0
+I-PER	0	34	O	O	share	x	x	0
+I-PER	0	35	O	O	orns	x	x	0
+O	0	36	O	O	being	x	x	0
+B-PER	0	37	O	O	employees	x	x	0
+O	0	38	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	really	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	question	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	degree	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	mean	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	think	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	ceos	x	x	0
+O	0	17	O	O	should	x	x	0
+O	0	18	O	O	make	x	x	0
+B-Numeric	0	19	O	O	millions	x	x	0
+I-Numeric	0	20	O	O	of	x	x	0
+I-Numeric	0	21	O	O	dollars	x	x	0
+O	0	22	O	O	running	x	x	0
+B-ORG	0	23	O	O	companies	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	there	x	x	0
+O	0	26	O	O	are	x	x	0
+B-PER	0	27	O	O	tens	x	x	0
+I-PER	0	28	O	O	of	x	x	0
+I-PER	0	29	O	O	thousand	x	x	0
+I-PER	0	30	O	O	employees	x	x	0
+O	0	31	O	O	,	x	x	0
+B-Numeric	0	32	O	O	billions	x	x	0
+I-Numeric	0	33	O	O	of	x	x	0
+I-Numeric	0	34	O	O	dollars	x	x	0
+O	0	35	O	O	of	x	x	0
+O	0	36	O	O	revenue	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-Numeric	0	0	O	O	A	x	x	0
+I-Numeric	0	1	O	O	million	x	x	0
+I-Numeric	0	2	O	O	dollars	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	okay	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	maybe	x	x	0
+B-Numeric	0	7	O	O	5	x	x	0
+I-Numeric	0	8	O	O	million	x	x	0
+O	0	9	O	O	,	x	x	0
+B-Numeric	0	10	O	O	$100	x	x	0
+I-Numeric	0	11	O	O	million	x	x	0
+O	0	12	O	O	to	x	x	0
+B-PER	0	13	O	O	me	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	too	x	x	0
+O	0	17	O	O	much	x	x	0
+O	0	18	O	O	money	x	x	0
+O	0	19	O	O	.	x	x	0
+
+B-PER	0	0	O	O	who	x	x	0
+O	0	1	O	O	decides	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Seems	x	x	0
+O	0	1	O	O	subjective	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	board	x	x	0
+O	0	2	O	O	is	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	decides	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	board	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	so	x	x	0
+O	0	10	O	O	often	x	x	0
+O	0	11	O	O	chock	x	x	0
+O	0	12	O	O	full	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	ceos	x	x	0
+O	0	16	O	O	golfing	x	x	0
+O	0	17	O	O	buddies	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	they	x	x	0
+O	0	20	O	O	serve	x	x	0
+O	0	21	O	O	on	x	x	0
+B-PER	0	22	O	O	each	x	x	0
+I-PER	0	23	O	O	other	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	boards	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	problem	x	x	0
+O	0	28	O	O	here	x	x	0
+O	0	29	O	O	is	x	x	0
+O	0	30	O	O	gap	x	x	0
+O	0	31	O	O	between	x	x	0
+O	0	32	O	O	what	x	x	0
+B-PER	0	33	O	O	the	x	x	0
+I-PER	0	34	O	O	average	x	x	0
+I-PER	0	35	O	O	worker	x	x	0
+O	0	36	O	O	makes	x	x	0
+O	0	37	O	O	and	x	x	0
+B-PER	0	38	O	O	CEO	x	x	0
+O	0	39	O	O	is	x	x	0
+O	0	40	O	O	making	x	x	0
+O	0	41	O	O	is	x	x	0
+O	0	42	O	O	increasing	x	x	0
+O	0	43	O	O	and	x	x	0
+B-PER	0	44	O	O	everyone	x	x	0
+O	0	45	O	O	agrees	x	x	0
+O	0	46	O	O	that	x	x	0
+O	0	47	O	O	is	x	x	0
+O	0	48	O	O	not	x	x	0
+O	0	49	O	O	a	x	x	0
+O	0	50	O	O	good	x	x	0
+O	0	51	O	O	thing	x	x	0
+O	0	52	O	O	for	x	x	0
+B-GPE	0	53	O	O	this	x	x	0
+I-GPE	0	54	O	O	country	x	x	0
+O	0	55	O	O	,	x	x	0
+O	0	56	O	O	plus	x	x	0
+O	0	57	O	O	the	x	x	0
+O	0	58	O	O	fact	x	x	0
+O	0	59	O	O	,	x	x	0
+O	0	60	O	O	when	x	x	0
+B-PER	0	61	O	O	the	x	x	0
+I-PER	0	62	O	O	guys	x	x	0
+O	0	63	O	O	get	x	x	0
+O	0	64	O	O	the	x	x	0
+O	0	65	O	O	big	x	x	0
+O	0	66	O	O	packageses	x	x	0
+O	0	67	O	O	,	x	x	0
+O	0	68	O	O	so	x	x	0
+O	0	69	O	O	often	x	x	0
+B-PER	0	70	O	O	you	x	x	0
+O	0	71	O	O	see	x	x	0
+B-ORG	0	72	O	O	the	x	x	0
+I-ORG	0	73	O	O	companies	x	x	0
+O	0	74	O	O	going	x	x	0
+O	0	75	O	O	down	x	x	0
+O	0	76	O	O	the	x	x	0
+O	0	77	O	O	zblubs	x	x	0
+O	0	78	O	O	thank	x	x	0
+B-PER	0	79	O	O	you	x	x	0
+O	0	80	O	O	for	x	x	0
+O	0	81	O	O	updating	x	x	0
+B-ORG	0	82	O	O	us	x	x	0
+O	0	83	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Back	x	x	0
+O	0	1	O	O	over	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	bill	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	.	x	x	0
+
+O	0	0	O	O	thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jack	x	x	0
+O	0	1	O	O	looking	x	x	0
+O	0	2	O	O	at	x	x	0
+O	0	3	O	O	SARS	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	talking	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	SARS	x	x	0
+O	0	4	O	O	threat	x	x	0
+O	0	5	O	O	worldwide	x	x	0
+B-TIME	0	6	O	O	this	x	x	0
+I-TIME	0	7	O	O	morning	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	World	x	x	0
+I-ORG	0	2	O	O	Health	x	x	0
+I-ORG	0	3	O	O	Organization	x	x	0
+O	0	4	O	O	says	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	4200	x	x	0
+O	0	8	O	O	SARS	x	x	0
+O	0	9	O	O	cases	x	x	0
+O	0	10	O	O	so	x	x	0
+O	0	11	O	O	far	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	more	x	x	0
+O	0	14	O	O	than	x	x	0
+O	0	15	O	O	250	x	x	0
+O	0	16	O	O	deaths	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	27	x	x	0
+I-GPE	0	19	O	O	countries	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	there	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	no	x	x	0
+O	0	24	O	O	cure	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	nobody	x	x	0
+O	0	2	O	O	knows	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	causing	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	question	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	would	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	change	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	plans	x	x	0
+O	0	9	O	O	because	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	threat	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	SARS	x	x	0
+O	0	15	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	lot	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	responses	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	hundreds	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	hundreds	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	them	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	beginning	x	x	0
+

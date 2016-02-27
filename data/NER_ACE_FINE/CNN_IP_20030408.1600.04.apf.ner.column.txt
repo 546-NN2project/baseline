@@ -1,0 +1,866 @@
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	journalists	x	x	0
+O	0	4	O	O	'	x	x	0
+O	0	5	O	O	death	x	x	0
+O	0	6	O	O	raise	x	x	0
+O	0	7	O	O	questions	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	tactics	x	x	0
+O	0	11	O	O	of	x	x	0
+B-GPE	0	12	O	O	U.S.	x	x	0
+O	0	13	O	O	troops	x	x	0
+O	0	14	O	O	trying	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	take	x	x	0
+O	0	17	O	O	control	x	x	0
+O	0	18	O	O	of	x	x	0
+B-GPE	0	19	O	O	Baghdad	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	serve	x	x	0
+O	0	3	O	O	as	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	reminder	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	many	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	our	x	x	0
+O	0	10	O	O	colleagues	x	x	0
+O	0	11	O	O	covering	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	war	x	x	0
+O	0	14	O	O	are	x	x	0
+O	0	15	O	O	putting	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+O	0	17	O	O	lives	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	line	x	x	0
+B-TIME	0	21	O	O	every	x	x	0
+I-TIME	0	22	O	O	day	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	thoughts	x	x	0
+B-TIME	0	2	O	O	now	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	dangers	x	x	0
+O	0	6	O	O	from	x	x	0
+B-ORG	0	7	O	O	our	x	x	0
+O	0	8	O	O	senior	x	x	0
+O	0	9	O	O	analyst	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	Jeff	x	x	0
+I-PER	0	12	O	O	Greenfield	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	When	x	x	0
+O	0	1	O	O	an	x	x	0
+B-ORG	0	2	O	O	Al	x	x	0
+I-ORG	0	3	O	O	Jazeera	x	x	0
+O	0	4	O	O	reporter	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	killed	x	x	0
+B-TIME	0	7	O	O	today	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	network	x	x	0
+O	0	11	O	O	charged	x	x	0
+B-ORG	0	12	O	O	it	x	x	0
+O	0	13	O	O	had	x	x	0
+O	0	14	O	O	been	x	x	0
+O	0	15	O	O	targeted	x	x	0
+O	0	16	O	O	by	x	x	0
+B-GPE	0	17	O	O	U.S.	x	x	0
+O	0	18	O	O	force	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Central	x	x	0
+I-ORG	0	1	O	O	Command	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	no	x	x	0
+O	0	5	O	O	,	x	x	0
+B-ORG	0	6	O	O	its	x	x	0
+O	0	7	O	O	forces	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	trading	x	x	0
+O	0	10	O	O	fire	x	x	0
+O	0	11	O	O	from	x	x	0
+B-FAC	0	12	O	O	a	x	x	0
+I-FAC	0	13	O	O	hotel	x	x	0
+B-FAC	0	14	O	O	where	x	x	0
+B-ORG	0	15	O	O	the	x	x	0
+I-ORG	0	16	O	O	network	x	x	0
+O	0	17	O	O	was	x	x	0
+O	0	18	O	O	housed	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-FAC	0	1	O	O	a	x	x	0
+I-FAC	0	2	O	O	nearby	x	x	0
+I-FAC	0	3	O	O	hotel	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	two	x	x	0
+I-PER	0	6	O	O	other	x	x	0
+I-PER	0	7	O	O	journalists	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	photographer	x	x	0
+O	0	11	O	O	from	x	x	0
+B-ORG	0	12	O	O	Reuters	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	another	x	x	0
+O	0	15	O	O	from	x	x	0
+B-ORG	0	16	O	O	Tele	x	x	0
+I-ORG	0	17	O	O	5	x	x	0
+I-ORG	0	18	O	O	Spain	x	x	0
+O	0	19	O	O	died	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	another	x	x	0
+O	0	22	O	O	case	x	x	0
+O	0	23	O	O	,	x	x	0
+B-ORG	0	24	O	O	CENTCOM	x	x	0
+O	0	25	O	O	says	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	of	x	x	0
+B-GPE	0	28	O	O	coalition	x	x	0
+O	0	29	O	O	forces	x	x	0
+O	0	30	O	O	returning	x	x	0
+O	0	31	O	O	fire	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-PER	0	1	O	O	Kurdish	x	x	0
+O	0	2	O	O	journalist	x	x	0
+O	0	3	O	O	died	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	friendly-fire	x	x	0
+O	0	8	O	O	accident	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	north	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	an	x	x	0
+B-GPE	0	2	O	O	American	x	x	0
+O	0	3	O	O	writer	x	x	0
+O	0	4	O	O	/	x	x	0
+O	0	5	O	O	editor	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	"	x	x	0
+B-ORG	0	8	O	O	Washington	x	x	0
+I-ORG	0	9	O	O	Post	x	x	0
+O	0	10	O	O	"	x	x	0
+O	0	11	O	O	editorial	x	x	0
+O	0	12	O	O	columnist	x	x	0
+O	0	13	O	O	Michael	x	x	0
+O	0	14	O	O	Kelly	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	killed	x	x	0
+O	0	18	O	O	when	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	Humvee	x	x	0
+O	0	21	O	O	plunged	x	x	0
+O	0	22	O	O	into	x	x	0
+B-LOC	0	23	O	O	a	x	x	0
+I-LOC	0	24	O	O	canal	x	x	0
+O	0	25	O	O	while	x	x	0
+O	0	26	O	O	evading	x	x	0
+B-GPE	0	27	O	O	Iraqi	x	x	0
+O	0	28	O	O	fire	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	It	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	an	x	x	0
+O	0	8	O	O	elementary	x	x	0
+O	0	9	O	O	fact	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	life	x	x	0
+O	0	12	O	O	during	x	x	0
+O	0	13	O	O	wartime	x	x	0
+O	0	14	O	O	:	x	x	0
+O	0	15	O	O	A	x	x	0
+O	0	16	O	O	press	x	x	0
+O	0	17	O	O	pass	x	x	0
+O	0	18	O	O	provides	x	x	0
+O	0	19	O	O	no	x	x	0
+O	0	20	O	O	protection	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	Famed	x	x	0
+B-PER	0	5	O	O	World	x	x	0
+I-PER	0	6	O	O	War	x	x	0
+I-PER	0	7	O	O	II	x	x	0
+I-PER	0	8	O	O	reporter	x	x	0
+O	0	9	O	O	Ernie	x	x	0
+O	0	10	O	O	Pyle	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	killed	x	x	0
+O	0	13	O	O	by	x	x	0
+B-PER	0	14	O	O	a	x	x	0
+I-PER	0	15	O	O	sniper	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	an	x	x	0
+O	0	18	O	O	island	x	x	0
+O	0	19	O	O	in	x	x	0
+B-LOC	0	20	O	O	the	x	x	0
+I-LOC	0	21	O	O	Pacific	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Famed	x	x	0
+B-PER	0	1	O	O	combat	x	x	0
+I-PER	0	2	O	O	photographer	x	x	0
+O	0	3	O	O	Robert	x	x	0
+O	0	4	O	O	Capa	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	who	x	x	0
+O	0	7	O	O	took	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	classic	x	x	0
+O	0	10	O	O	photo	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	a	x	x	0
+I-PER	0	13	O	O	fighter	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	death	x	x	0
+O	0	16	O	O	during	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	Spanish	x	x	0
+O	0	19	O	O	Civil	x	x	0
+O	0	20	O	O	War	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	himself	x	x	0
+O	0	23	O	O	died	x	x	0
+O	0	24	O	O	from	x	x	0
+B-WEA	0	25	O	O	a	x	x	0
+I-WEA	0	26	O	O	land	x	x	0
+I-WEA	0	27	O	O	mine	x	x	0
+O	0	28	O	O	in	x	x	0
+B-LOC	0	29	O	O	Indochina	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sean	x	x	0
+I-PER	0	1	O	O	Flynn	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	son	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	famous	x	x	0
+I-PER	0	7	O	O	actor	x	x	0
+O	0	8	O	O	Errol	x	x	0
+O	0	9	O	O	Flynn	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	disappeared	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Cambodia	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	1970	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	More	x	x	0
+I-PER	0	1	O	O	than	x	x	0
+I-PER	0	2	O	O	65	x	x	0
+I-PER	0	3	O	O	journalists	x	x	0
+I-PER	0	4	O	O	of	x	x	0
+I-PER	0	5	O	O	many	x	x	0
+I-PER	0	6	O	O	nationalities	x	x	0
+O	0	7	O	O	died	x	x	0
+O	0	8	O	O	in	x	x	0
+B-LOC	0	9	O	O	Southeast	x	x	0
+I-LOC	0	10	O	O	Asia	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	ABC	x	x	0
+I-ORG	0	1	O	O	News	x	x	0
+O	0	2	O	O	producer	x	x	0
+O	0	3	O	O	David	x	x	0
+O	0	4	O	O	Kaplan	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	killed	x	x	0
+O	0	7	O	O	by	x	x	0
+B-PER	0	8	O	O	sniper	x	x	0
+O	0	9	O	O	fire	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	Balkans	x	x	0
+O	0	13	O	O	in	x	x	0
+B-TIME	0	14	O	O	1992	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sometimes	x	x	0
+B-PER	0	1	O	O	reporters	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	like	x	x	0
+O	0	4	O	O	"	x	x	0
+B-ORG	0	5	O	O	The	x	x	0
+I-ORG	0	6	O	O	Wall	x	x	0
+I-ORG	0	7	O	O	Street	x	x	0
+I-ORG	0	8	O	O	Journal	x	x	0
+O	0	9	O	O	"'s	x	x	0
+O	0	10	O	O	Danny	x	x	0
+O	0	11	O	O	Pearl	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	die	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	covering	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	different	x	x	0
+O	0	18	O	O	kind	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	war	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Pearl	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	murdered	x	x	0
+O	0	3	O	O	by	x	x	0
+B-PER	0	4	O	O	terrorists	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Pakistan	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	casualty	x	x	0
+O	0	2	O	O	count	x	x	0
+O	0	3	O	O	helps	x	x	0
+O	0	4	O	O	put	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	ongoing	x	x	0
+O	0	7	O	O	debate	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	journalistic	x	x	0
+O	0	10	O	O	neutrality	x	x	0
+O	0	11	O	O	into	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	sharper	x	x	0
+O	0	14	O	O	light	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	600	x	x	0
+O	0	2	O	O	journalists	x	x	0
+O	0	3	O	O	embedded	x	x	0
+O	0	4	O	O	with	x	x	0
+B-GPE	0	5	O	O	American	x	x	0
+O	0	6	O	O	troops	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	will	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	threatened	x	x	0
+O	0	12	O	O	by	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	same	x	x	0
+O	0	15	O	O	fire	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	troops	x	x	0
+B-PER	0	19	O	O	they	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	covering	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Their	x	x	0
+O	0	1	O	O	safety	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	their	x	x	0
+O	0	4	O	O	lives	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	may	x	x	0
+O	0	7	O	O	depend	x	x	0
+O	0	8	O	O	on	x	x	0
+B-PER	0	9	O	O	those	x	x	0
+I-PER	0	10	O	O	troops	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Neutrality	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	firefight	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	likely	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	raises	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	bigger	x	x	0
+O	0	5	O	O	question	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Are	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	supposed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	neutral	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	outcome	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	war	x	x	0
+O	0	12	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	an	x	x	0
+O	0	2	O	O	interview	x	x	0
+O	0	3	O	O	with	x	x	0
+B-ORG	0	4	O	O	broadcasting	x	x	0
+I-ORG	0	5	O	O	and	x	x	0
+I-ORG	0	6	O	O	cable	x	x	0
+I-ORG	0	7	O	O	magazine	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	CBS	x	x	0
+I-ORG	0	10	O	O	News	x	x	0
+O	0	11	O	O	President	x	x	0
+O	0	12	O	O	Andrew	x	x	0
+O	0	13	O	O	Heyward	x	x	0
+O	0	14	O	O	said	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	neutrality	x	x	0
+O	0	18	O	O	notion	x	x	0
+O	0	19	O	O	quote	x	x	0
+O	0	20	O	O	"	x	x	0
+O	0	21	O	O	It	x	x	0
+O	0	22	O	O	's	x	x	0
+O	0	23	O	O	one	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	stupidest	x	x	0
+O	0	27	O	O	things	x	x	0
+B-PER	0	28	O	O	I	x	x	0
+O	0	29	O	O	've	x	x	0
+O	0	30	O	O	ever	x	x	0
+O	0	31	O	O	heard	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	story	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	told	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	a	x	x	0
+B-GPE	0	9	O	O	U.S.	x	x	0
+O	0	10	O	O	point	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	view	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+B-GPE	0	2	O	O	American	x	x	0
+O	0	3	O	O	reporters	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	ones	x	x	0
+O	0	7	O	O	with	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	troops	x	x	0
+O	0	10	O	O	.	x	x	0
+O	0	11	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	Now	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	none	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	means	x	x	0
+B-PER	0	11	O	O	journalists	x	x	0
+O	0	12	O	O	will	x	x	0
+O	0	13	O	O	ignore	x	x	0
+O	0	14	O	O	unsettling	x	x	0
+O	0	15	O	O	news	x	x	0
+O	0	16	O	O	:	x	x	0
+B-ORG	0	17	O	O	military	x	x	0
+O	0	18	O	O	setbacks	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	lack	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	supplies	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	infliction	x	x	0
+O	0	26	O	O	of	x	x	0
+B-PER	0	27	O	O	civilian	x	x	0
+O	0	28	O	O	casualties	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Reporters	x	x	0
+B-PER	0	1	O	O	who	x	x	0
+O	0	2	O	O	ignore	x	x	0
+O	0	3	O	O	or	x	x	0
+O	0	4	O	O	distort	x	x	0
+O	0	5	O	O	facts	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	betraying	x	x	0
+B-PER	0	8	O	O	their	x	x	0
+O	0	9	O	O	craft	x	x	0
+O	0	10	O	O	no	x	x	0
+O	0	11	O	O	matter	x	x	0
+O	0	12	O	O	what	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	no	x	x	0
+O	0	15	O	O	matter	x	x	0
+O	0	16	O	O	how	x	x	0
+O	0	17	O	O	much	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	may	x	x	0
+O	0	20	O	O	anger	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	people	x	x	0
+I-PER	0	23	O	O	running	x	x	0
+I-PER	0	24	O	O	a	x	x	0
+I-PER	0	25	O	O	war	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	whether	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	old	x	x	0
+I-GPE	0	5	O	O	Soviet	x	x	0
+I-GPE	0	6	O	O	Union	x	x	0
+O	0	7	O	O	or	x	x	0
+B-ORG	0	8	O	O	Nazi	x	x	0
+O	0	9	O	O	Germany	x	x	0
+O	0	10	O	O	or	x	x	0
+B-GPE	0	11	O	O	South	x	x	0
+I-GPE	0	12	O	O	Africa	x	x	0
+O	0	13	O	O	or	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	respect	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	facts	x	x	0
+O	0	20	O	O	does	x	x	0
+O	0	21	O	O	not	x	x	0
+O	0	22	O	O	require	x	x	0
+B-PER	0	23	O	O	a	x	x	0
+I-PER	0	24	O	O	reporter	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	throw	x	x	0
+B-PER	0	27	O	O	his	x	x	0
+O	0	28	O	O	values	x	x	0
+O	0	29	O	O	over	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	side	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jeff	x	x	0
+I-PER	0	1	O	O	Greenfield	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	New	x	x	0
+I-GPE	0	6	O	O	York	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	tonight	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	LARRY	x	x	0
+O	0	5	O	O	KING	x	x	0
+O	0	6	O	O	LIVE	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	"	x	x	0
+B-ORG	0	9	O	O	Al-Jazeera	x	x	0
+O	0	10	O	O	correspondent	x	x	0
+O	0	11	O	O	Omar	x	x	0
+O	0	12	O	O	Al	x	x	0
+O	0	13	O	O	Issawi	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	talk	x	x	0
+O	0	16	O	O	to	x	x	0
+B-PER	0	17	O	O	Larry	x	x	0
+O	0	18	O	O	about	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	death	x	x	0
+O	0	21	O	O	of	x	x	0
+B-PER	0	22	O	O	his	x	x	0
+O	0	23	O	O	colleague	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	continuing	x	x	0
+O	0	27	O	O	plight	x	x	0
+O	0	28	O	O	of	x	x	0
+B-PER	0	29	O	O	journalists	x	x	0
+I-PER	0	30	O	O	in	x	x	0
+I-PER	0	31	O	O	a	x	x	0
+I-PER	0	32	O	O	war	x	x	0
+I-PER	0	33	O	O	zone	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+B-TIME	0	2	O	O	tonight	x	x	0
+I-TIME	0	3	O	O	at	x	x	0
+I-TIME	0	4	O	O	9:00	x	x	0
+I-TIME	0	5	O	O	p.m	x	x	0
+I-TIME	0	6	O	O	.	x	x	0
+I-TIME	0	7	O	O	Eastern	x	x	0
+I-TIME	0	8	O	O	,	x	x	0
+I-TIME	0	9	O	O	6:00	x	x	0
+I-TIME	0	10	O	O	Pacific	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	want	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	show	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	scenes	x	x	0
+O	0	9	O	O	from	x	x	0
+B-FAC	0	10	O	O	Andrews	x	x	0
+I-FAC	0	11	O	O	Air	x	x	0
+I-FAC	0	12	O	O	Force	x	x	0
+I-FAC	0	13	O	O	Base	x	x	0
+O	0	14	O	O	just	x	x	0
+B-TIME	0	15	O	O	moments	x	x	0
+I-TIME	0	16	O	O	ago	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	President	x	x	0
+O	0	19	O	O	Bush	x	x	0
+O	0	20	O	O	returning	x	x	0
+O	0	21	O	O	to	x	x	0
+B-GPE	0	22	O	O	the	x	x	0
+I-GPE	0	23	O	O	United	x	x	0
+I-GPE	0	24	O	O	States	x	x	0
+O	0	25	O	O	from	x	x	0
+B-PER	0	26	O	O	his	x	x	0
+O	0	27	O	O	summit	x	x	0
+O	0	28	O	O	in	x	x	0
+B-LOC	0	29	O	O	Northern	x	x	0
+I-LOC	0	30	O	O	Ireland	x	x	0
+O	0	31	O	O	in	x	x	0
+B-GPE	0	32	O	O	Belfast	x	x	0
+O	0	33	O	O	with	x	x	0
+B-GPE	0	34	O	O	British	x	x	0
+O	0	35	O	O	Prime	x	x	0
+O	0	36	O	O	Minister	x	x	0
+O	0	37	O	O	Tony	x	x	0
+O	0	38	O	O	Blair	x	x	0
+O	0	39	O	O	,	x	x	0
+B-PER	0	40	O	O	the	x	x	0
+I-PER	0	41	O	O	president	x	x	0
+O	0	42	O	O	back	x	x	0
+O	0	43	O	O	on	x	x	0
+B-GPE	0	44	O	O	American	x	x	0
+O	0	45	O	O	soil	x	x	0
+O	0	46	O	O	after	x	x	0
+O	0	47	O	O	a	x	x	0
+O	0	48	O	O	quick	x	x	0
+B-TIME	0	49	O	O	two-day	x	x	0
+O	0	50	O	O	trip	x	x	0
+O	0	51	O	O	,	x	x	0
+B-TIME	0	52	O	O	less	x	x	0
+I-TIME	0	53	O	O	than	x	x	0
+I-TIME	0	54	O	O	two-day	x	x	0
+O	0	55	O	O	trip	x	x	0
+O	0	56	O	O	to	x	x	0
+B-GPE	0	57	O	O	Belfast	x	x	0
+O	0	58	O	O	,	x	x	0
+B-PER	0	59	O	O	he	x	x	0
+O	0	60	O	O	and	x	x	0
+B-PER	0	61	O	O	the	x	x	0
+I-PER	0	62	O	O	prime	x	x	0
+I-PER	0	63	O	O	minister	x	x	0
+O	0	64	O	O	discussing	x	x	0
+O	0	65	O	O	,	x	x	0
+O	0	66	O	O	of	x	x	0
+O	0	67	O	O	course	x	x	0
+O	0	68	O	O	,	x	x	0
+O	0	69	O	O	the	x	x	0
+O	0	70	O	O	war	x	x	0
+O	0	71	O	O	in	x	x	0
+B-GPE	0	72	O	O	Iraq	x	x	0
+O	0	73	O	O	,	x	x	0
+O	0	74	O	O	what	x	x	0
+O	0	75	O	O	happens	x	x	0
+O	0	76	O	O	after	x	x	0
+O	0	77	O	O	,	x	x	0
+O	0	78	O	O	as	x	x	0
+O	0	79	O	O	well	x	x	0
+O	0	80	O	O	as	x	x	0
+O	0	81	O	O	the	x	x	0
+O	0	82	O	O	peace	x	x	0
+O	0	83	O	O	process	x	x	0
+O	0	84	O	O	in	x	x	0
+B-GPE	0	85	O	O	the	x	x	0
+I-GPE	0	86	O	O	Middle	x	x	0
+I-GPE	0	87	O	O	East	x	x	0
+O	0	88	O	O	,	x	x	0
+O	0	89	O	O	and	x	x	0
+O	0	90	O	O	restarting	x	x	0
+O	0	91	O	O	the	x	x	0
+O	0	92	O	O	peace	x	x	0
+O	0	93	O	O	process	x	x	0
+O	0	94	O	O	in	x	x	0
+B-LOC	0	95	O	O	Northern	x	x	0
+I-LOC	0	96	O	O	Ireland	x	x	0
+O	0	97	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	president	x	x	0
+O	0	2	O	O	then	x	x	0
+O	0	3	O	O	climbed	x	x	0
+O	0	4	O	O	aboard	x	x	0
+B-VEH	0	5	O	O	Marine	x	x	0
+I-VEH	0	6	O	O	One	x	x	0
+O	0	7	O	O	,	x	x	0
+B-VEH	0	8	O	O	the	x	x	0
+I-VEH	0	9	O	O	helicopter	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	heading	x	x	0
+O	0	12	O	O	back	x	x	0
+O	0	13	O	O	to	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	White	x	x	0
+I-FAC	0	16	O	O	House	x	x	0
+O	0	17	O	O	,	x	x	0
+B-FAC	0	18	O	O	where	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	will	x	x	0
+O	0	21	O	O	arrive	x	x	0
+O	0	22	O	O	pretty	x	x	0
+O	0	23	O	O	soon	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Still	x	x	0
+O	0	1	O	O	ahead	x	x	0
+O	0	2	O	O	:	x	x	0
+O	0	3	O	O	How	x	x	0
+O	0	4	O	O	is	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	world	x	x	0
+O	0	7	O	O	reacting	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	war	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-ORG	0	1	O	O	we	x	x	0
+O	0	2	O	O	return	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	our	x	x	0
+O	0	5	O	O	Richard	x	x	0
+O	0	6	O	O	Quest	x	x	0
+O	0	7	O	O	takes	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	look	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stay	x	x	0
+O	0	1	O	O	with	x	x	0
+B-ORG	0	2	O	O	us	x	x	0
+O	0	3	O	O	.	x	x	0
+

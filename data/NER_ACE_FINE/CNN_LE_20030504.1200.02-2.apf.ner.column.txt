@@ -1,0 +1,744 @@
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	length	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	military	x	x	0
+O	0	8	O	O	presence	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	Senator	x	x	0
+O	0	13	O	O	Lugar	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	long	x	x	0
+O	0	2	O	O	do	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	anticipate	x	x	0
+O	0	5	O	O	large	x	x	0
+O	0	6	O	O	numbers	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	troops	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	remain	x	x	0
+B-GPE	0	12	O	O	there	x	x	0
+O	0	13	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	heartened	x	x	0
+O	0	5	O	O	by	x	x	0
+O	0	6	O	O	what	x	x	0
+B-PER	0	7	O	O	Secretary	x	x	0
+O	0	8	O	O	Rumsfeld	x	x	0
+O	0	9	O	O	told	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	last	x	x	0
+O	0	14	O	O	interview	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	that	x	x	0
+B-GPE	0	17	O	O	we	x	x	0
+O	0	18	O	O	will	x	x	0
+O	0	19	O	O	have	x	x	0
+B-PER	0	20	O	O	troops	x	x	0
+B-GPE	0	21	O	O	there	x	x	0
+O	0	22	O	O	as	x	x	0
+O	0	23	O	O	long	x	x	0
+O	0	24	O	O	as	x	x	0
+O	0	25	O	O	necessary	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	but	x	x	0
+O	0	28	O	O	no	x	x	0
+O	0	29	O	O	longer	x	x	0
+O	0	30	O	O	than	x	x	0
+O	0	31	O	O	necessary	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	pretty	x	x	0
+O	0	6	O	O	good	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	state	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	own	x	x	0
+O	0	2	O	O	view	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	security	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	country	x	x	0
+O	0	10	O	O	clearly	x	x	0
+O	0	11	O	O	is	x	x	0
+B-GPE	0	12	O	O	our	x	x	0
+O	0	13	O	O	responsibility	x	x	0
+B-TIME	0	14	O	O	presently	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	trying	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	pass	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	others	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Likewise	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	other	x	x	0
+I-ORG	0	4	O	O	government	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	procedures	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	fledgling	x	x	0
+O	0	10	O	O	beginnings	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	democracy	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	rest	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	require	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	undergirding	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	due	x	x	0
+O	0	4	O	O	course	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	as	x	x	0
+B-PER	0	7	O	O	everybody	x	x	0
+O	0	8	O	O	points	x	x	0
+O	0	9	O	O	out	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	we	x	x	0
+O	0	12	O	O	may	x	x	0
+O	0	13	O	O	get	x	x	0
+O	0	14	O	O	help	x	x	0
+O	0	15	O	O	from	x	x	0
+B-GPE	0	16	O	O	other	x	x	0
+I-GPE	0	17	O	O	countries	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	may	x	x	0
+O	0	2	O	O	bring	x	x	0
+O	0	3	O	O	in	x	x	0
+B-ORG	0	4	O	O	NATO	x	x	0
+O	0	5	O	O	allies	x	x	0
+O	0	6	O	O	or	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	United	x	x	0
+I-ORG	0	9	O	O	Nations	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	other	x	x	0
+O	0	12	O	O	people	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	the	x	x	0
+B-PER	0	15	O	O	Arab	x	x	0
+O	0	16	O	O	world	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	helpful	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-TIME	0	1	O	O	for	x	x	0
+I-TIME	0	2	O	O	the	x	x	0
+I-TIME	0	3	O	O	moment	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	is	x	x	0
+B-GPE	0	7	O	O	our	x	x	0
+O	0	8	O	O	responsibility	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-GPE	0	1	O	O	we	x	x	0
+O	0	2	O	O	ought	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	having	x	x	0
+O	0	7	O	O	large	x	x	0
+O	0	8	O	O	debates	x	x	0
+O	0	9	O	O	about	x	x	0
+O	0	10	O	O	how	x	x	0
+O	0	11	O	O	rapidly	x	x	0
+B-GPE	0	12	O	O	we	x	x	0
+O	0	13	O	O	move	x	x	0
+O	0	14	O	O	out	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	upset	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	hear	x	x	0
+O	0	11	O	O	reports	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	by	x	x	0
+B-TIME	0	14	O	O	the	x	x	0
+I-TIME	0	15	O	O	fall	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	three	x	x	0
+O	0	18	O	O	divisions	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	of	x	x	0
+B-ORG	0	21	O	O	five	x	x	0
+O	0	22	O	O	would	x	x	0
+O	0	23	O	O	be	x	x	0
+O	0	24	O	O	gone	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-PER	0	2	O	O	Secretary	x	x	0
+O	0	3	O	O	Rumsfeld	x	x	0
+O	0	4	O	O	disabused	x	x	0
+B-PER	0	5	O	O	us	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	that	x	x	0
+B-TIME	0	8	O	O	today	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	what	x	x	0
+O	0	2	O	O	about	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Senator	x	x	0
+O	0	6	O	O	Dodd	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	only	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	length	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	time	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	but	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	cost	x	x	0
+O	0	18	O	O	to	x	x	0
+B-GPE	0	19	O	O	U.S.	x	x	0
+O	0	20	O	O	taxpayers	x	x	0
+O	0	21	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Have	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	given	x	x	0
+O	0	4	O	O	any	x	x	0
+O	0	5	O	O	ballpark	x	x	0
+O	0	6	O	O	estimate	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	this	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	going	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	cost	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	United	x	x	0
+I-GPE	0	15	O	O	States	x	x	0
+O	0	16	O	O	?	x	x	0
+
+O	0	0	O	O	No.	x	x	0
+O	0	1	O	O	Well	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	what	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	've	x	x	0
+O	0	6	O	O	heard	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	numbers	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	reconstruction	x	x	0
+O	0	11	O	O	running	x	x	0
+O	0	12	O	O	around	x	x	0
+B-Numeric	0	13	O	O	$100	x	x	0
+I-Numeric	0	14	O	O	billion	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	put	x	x	0
+B-Numeric	0	2	O	O	$2.5	x	x	0
+I-Numeric	0	3	O	O	billion	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	last	x	x	0
+O	0	9	O	O	supplemental	x	x	0
+O	0	10	O	O	appropriations	x	x	0
+O	0	11	O	O	bill	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	costly	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	These	x	x	0
+O	0	1	O	O	RFPs	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	these	x	x	0
+O	0	4	O	O	seeking	x	x	0
+O	0	5	O	O	bids	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	various	x	x	0
+O	0	8	O	O	contracts	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	rather	x	x	0
+O	0	11	O	O	costly	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	so	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	going	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	be	x	x	0
+O	0	20	O	O	expensive	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	clearly	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	responsibility	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	fall	x	x	0
+O	0	8	O	O	principally	x	x	0
+O	0	9	O	O	on	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	United	x	x	0
+I-GPE	0	12	O	O	States	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	would	x	x	0
+O	0	4	O	O	hope	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	sooner	x	x	0
+O	0	7	O	O	rather	x	x	0
+O	0	8	O	O	than	x	x	0
+O	0	9	O	O	later	x	x	0
+B-PER	0	10	O	O	we	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	see	x	x	0
+O	0	13	O	O	a	x	x	0
+B-PER	0	14	O	O	civilian	x	x	0
+O	0	15	O	O	government	x	x	0
+O	0	16	O	O	emerge	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	,	x	x	0
+B-ORG	0	20	O	O	a	x	x	0
+I-ORG	0	21	O	O	democratically	x	x	0
+I-ORG	0	22	O	O	elected	x	x	0
+I-ORG	0	23	O	O	one	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	that	x	x	0
+O	0	26	O	O	there	x	x	0
+O	0	27	O	O	'd	x	x	0
+O	0	28	O	O	be	x	x	0
+O	0	29	O	O	more	x	x	0
+O	0	30	O	O	cooperation	x	x	0
+O	0	31	O	O	from	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	international	x	x	0
+O	0	34	O	O	community	x	x	0
+O	0	35	O	O	,	x	x	0
+O	0	36	O	O	on	x	x	0
+O	0	37	O	O	both	x	x	0
+O	0	38	O	O	the	x	x	0
+O	0	39	O	O	peacekeeping	x	x	0
+O	0	40	O	O	side	x	x	0
+O	0	41	O	O	as	x	x	0
+O	0	42	O	O	well	x	x	0
+O	0	43	O	O	as	x	x	0
+O	0	44	O	O	the	x	x	0
+O	0	45	O	O	political	x	x	0
+O	0	46	O	O	restructuring	x	x	0
+O	0	47	O	O	that	x	x	0
+O	0	48	O	O	's	x	x	0
+O	0	49	O	O	necessary	x	x	0
+O	0	50	O	O	in	x	x	0
+B-GPE	0	51	O	O	Iraq	x	x	0
+O	0	52	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	extent	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	move	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	along	x	x	0
+O	0	9	O	O	more	x	x	0
+O	0	10	O	O	quickly	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	think	x	x	0
+B-GPE	0	14	O	O	we	x	x	0
+O	0	15	O	O	're	x	x	0
+O	0	16	O	O	all	x	x	0
+O	0	17	O	O	going	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	be	x	x	0
+O	0	20	O	O	better	x	x	0
+O	0	21	O	O	off	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Being	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	sole	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	or	x	x	0
+O	0	5	O	O	almost	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	sole	x	x	0
+O	0	8	O	O	power	x	x	0
+B-GPE	0	9	O	O	there	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	both	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	terms	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	reconstruction	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	politically	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	exposes	x	x	0
+B-GPE	0	20	O	O	us	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	great	x	x	0
+O	0	23	O	O	vulnerabilities	x	x	0
+O	0	24	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Senator	x	x	0
+O	0	1	O	O	Lugar	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	take	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	quick	x	x	0
+O	0	9	O	O	break	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	before	x	x	0
+B-ORG	0	13	O	O	we	x	x	0
+O	0	14	O	O	do	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	wanted	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	just	x	x	0
+O	0	20	O	O	ask	x	x	0
+B-PER	0	21	O	O	you	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	the	x	x	0
+B-ORG	0	24	O	O	U.N.	x	x	0
+O	0	25	O	O	role	x	x	0
+B-PER	0	26	O	O	you	x	x	0
+O	0	27	O	O	say	x	x	0
+O	0	28	O	O	there	x	x	0
+O	0	29	O	O	could	x	x	0
+O	0	30	O	O	be	x	x	0
+O	0	31	O	O	a	x	x	0
+B-ORG	0	32	O	O	U.N.	x	x	0
+O	0	33	O	O	role	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	specifically	x	x	0
+O	0	3	O	O	want	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	United	x	x	0
+I-ORG	0	6	O	O	Nations	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	some	x	x	0
+O	0	10	O	O	sort	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	peacekeeping	x	x	0
+O	0	13	O	O	role	x	x	0
+O	0	14	O	O	there	x	x	0
+O	0	15	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	secondarily	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	countries	x	x	0
+O	0	6	O	O	like	x	x	0
+B-GPE	0	7	O	O	France	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	Germany	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+B-GPE	0	12	O	O	Russia	x	x	0
+O	0	13	O	O	,	x	x	0
+B-GPE	0	14	O	O	which	x	x	0
+O	0	15	O	O	opposed	x	x	0
+O	0	16	O	O	the	x	x	0
+B-PER	0	17	O	O	Bush	x	x	0
+O	0	18	O	O	administration	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	war	x	x	0
+O	0	21	O	O	plans	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	do	x	x	0
+B-PER	0	24	O	O	you	x	x	0
+O	0	25	O	O	want	x	x	0
+B-GPE	0	26	O	O	them	x	x	0
+O	0	27	O	O	shut	x	x	0
+O	0	28	O	O	out	x	x	0
+O	0	29	O	O	?	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	want	x	x	0
+B-GPE	0	6	O	O	anybody	x	x	0
+O	0	7	O	O	shut	x	x	0
+O	0	8	O	O	out	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	hope	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	United	x	x	0
+I-ORG	0	6	O	O	Nations	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	play	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	vital	x	x	0
+O	0	11	O	O	role	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Iraq	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	whether	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	be	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	peacekeeping	x	x	0
+O	0	20	O	O	or	x	x	0
+O	0	21	O	O	various	x	x	0
+O	0	22	O	O	other	x	x	0
+O	0	23	O	O	ways	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	and	x	x	0
+B-PER	0	26	O	O	I	x	x	0
+O	0	27	O	O	hope	x	x	0
+O	0	28	O	O	that	x	x	0
+O	0	29	O	O	that	x	x	0
+O	0	30	O	O	will	x	x	0
+O	0	31	O	O	occur	x	x	0
+O	0	32	O	O	soon	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	need	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	internationalization	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	process	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	very	x	x	0
+O	0	14	O	O	reasons	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	Senator	x	x	0
+O	0	17	O	O	Dodd	x	x	0
+O	0	18	O	O	pointed	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	.	x	x	0
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	right	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	take	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	quick	x	x	0
+O	0	7	O	O	break	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stand	x	x	0
+O	0	1	O	O	by	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Senators	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	ground	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	cover	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Senators	x	x	0
+O	0	1	O	O	Lugar	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	Dodd	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	staying	x	x	0
+O	0	7	O	O	with	x	x	0
+B-ORG	0	8	O	O	us	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	taking	x	x	0
+B-PER	0	5	O	O	your	x	x	0
+O	0	6	O	O	phone	x	x	0
+O	0	7	O	O	calls	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	LATE	x	x	0
+O	0	1	O	O	EDITION	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	continue	x	x	0
+O	0	4	O	O	right	x	x	0
+O	0	5	O	O	after	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	.	x	x	0
+

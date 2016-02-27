@@ -1,0 +1,1074 @@
+B-GPE	0	0	O	O	we	x	x	0
+O	0	1	O	O	begin	x	x	0
+B-GPE	0	2	O	O	we	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	finish	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+O	0	3	O	O	d	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	extra	x	x	0
+B-Numeric	0	6	O	O	$400	x	x	0
+O	0	7	O	O	per	x	x	0
+B-PER	0	8	O	O	child	x	x	0
+O	0	9	O	O	to	x	x	0
+B-GPE	0	10	O	O	American	x	x	0
+O	0	11	O	O	families	x	x	0
+B-TIME	0	12	O	O	this	x	x	0
+I-TIME	0	13	O	O	year	x	x	0
+I-TIME	0	14	O	O	,	x	x	0
+I-TIME	0	15	O	O	2003	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	together	x	x	0
+O	0	2	O	O	these	x	x	0
+O	0	3	O	O	tax	x	x	0
+O	0	4	O	O	reductions	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	help	x	x	0
+B-PER	0	7	O	O	92	x	x	0
+I-PER	0	8	O	O	million	x	x	0
+I-PER	0	9	O	O	Americans	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	significant	x	x	0
+O	0	3	O	O	part	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	benefit	x	x	0
+O	0	7	O	O	to	x	x	0
+B-GPE	0	8	O	O	our	x	x	0
+O	0	9	O	O	economy	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	come	x	x	0
+O	0	12	O	O	within	x	x	0
+B-TIME	0	13	O	O	the	x	x	0
+I-TIME	0	14	O	O	first	x	x	0
+I-TIME	0	15	O	O	two	x	x	0
+I-TIME	0	16	O	O	years	x	x	0
+I-TIME	0	17	O	O	of	x	x	0
+I-TIME	0	18	O	O	the	x	x	0
+I-TIME	0	19	O	O	plan	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	family	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	four	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	income	x	x	0
+O	0	7	O	O	of	x	x	0
+B-Numeric	0	8	O	O	$40,000	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	receive	x	x	0
+O	0	11	O	O	a	x	x	0
+B-Numeric	0	12	O	O	96	x	x	0
+O	0	13	O	O	%	x	x	0
+O	0	14	O	O	reduction	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	federal	x	x	0
+O	0	17	O	O	income	x	x	0
+O	0	18	O	O	taxes	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Instead	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	paying	x	x	0
+B-Numeric	0	3	O	O	$1,178	x	x	0
+B-TIME	0	4	O	O	per	x	x	0
+I-TIME	0	5	O	O	year	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	family	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	pay	x	x	0
+B-Numeric	0	11	O	O	$45	x	x	0
+B-TIME	0	12	O	O	a	x	x	0
+I-TIME	0	13	O	O	year	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	means	x	x	0
+O	0	5	O	O	extra	x	x	0
+O	0	6	O	O	money	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+B-PER	0	9	O	O	family	x	x	0
+O	0	10	O	O	budget	x	x	0
+B-TIME	0	11	O	O	year	x	x	0
+I-TIME	0	12	O	O	after	x	x	0
+I-TIME	0	13	O	O	year	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	money	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	cover	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	lot	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	bills	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	money	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	help	x	x	0
+B-PER	0	4	O	O	families	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	purchases	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	delaying	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	money	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	circulation	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	which	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	good	x	x	0
+O	0	11	O	O	for	x	x	0
+B-GPE	0	12	O	O	our	x	x	0
+O	0	13	O	O	economy	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	plan	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	help	x	x	0
+B-GPE	0	8	O	O	our	x	x	0
+B-ORG	0	9	O	O	small	x	x	0
+I-ORG	0	10	O	O	business	x	x	0
+O	0	11	O	O	sector	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	benefits	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	growth	x	x	0
+O	0	5	O	O	plan	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	come	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	uncreased	x	x	0
+B-PER	0	10	O	O	consumer	x	x	0
+O	0	11	O	O	spending	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	importantly	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	from	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	lower	x	x	0
+O	0	20	O	O	income	x	x	0
+O	0	21	O	O	tax	x	x	0
+O	0	22	O	O	rates	x	x	0
+O	0	23	O	O	on	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	small	x	x	0
+O	0	26	O	O	businesses	x	x	0
+B-ORG	0	27	O	O	themselves	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	important	x	x	0
+O	0	3	O	O	for	x	x	0
+B-GPE	0	4	O	O	our	x	x	0
+O	0	5	O	O	fellow	x	x	0
+O	0	6	O	O	citizens	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	understand	x	x	0
+O	0	9	O	O	that	x	x	0
+B-ORG	0	10	O	O	most	x	x	0
+I-ORG	0	11	O	O	small	x	x	0
+I-ORG	0	12	O	O	businesses	x	x	0
+O	0	13	O	O	pay	x	x	0
+B-ORG	0	14	O	O	their	x	x	0
+B-ORG	0	15	O	O	business	x	x	0
+O	0	16	O	O	taxes	x	x	0
+O	0	17	O	O	at	x	x	0
+B-PER	0	18	O	O	the	x	x	0
+I-PER	0	19	O	O	individual	x	x	0
+O	0	20	O	O	rates	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Most	x	x	0
+I-ORG	0	1	O	O	small	x	x	0
+I-ORG	0	2	O	O	businesses	x	x	0
+O	0	3	O	O	are	x	x	0
+B-ORG	0	4	O	O	sole	x	x	0
+I-ORG	0	5	O	O	proprietorships	x	x	0
+O	0	6	O	O	,	x	x	0
+B-ORG	0	7	O	O	limited	x	x	0
+I-ORG	0	8	O	O	partnerships	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	are	x	x	0
+B-ORG	0	11	O	O	subchapter	x	x	0
+I-ORG	0	12	O	O	SS	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	therefore	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	when	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	reduce	x	x	0
+O	0	21	O	O	individual	x	x	0
+O	0	22	O	O	tax	x	x	0
+O	0	23	O	O	rates	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	you	x	x	0
+O	0	26	O	O	benefit	x	x	0
+B-ORG	0	27	O	O	small	x	x	0
+I-ORG	0	28	O	O	business	x	x	0
+O	0	29	O	O	formation	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	matter	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	fact	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	under	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	plan	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	some	x	x	0
+O	0	11	O	O	23	x	x	0
+O	0	12	O	O	million	x	x	0
+B-ORG	0	13	O	O	small	x	x	0
+I-ORG	0	14	O	O	business	x	x	0
+O	0	15	O	O	owners	x	x	0
+O	0	16	O	O	will	x	x	0
+O	0	17	O	O	see	x	x	0
+B-PER	0	18	O	O	their	x	x	0
+O	0	19	O	O	taxes	x	x	0
+O	0	20	O	O	cut.	x	x	0
+O	0	21	O	O	which	x	x	0
+O	0	22	O	O	leaves	x	x	0
+O	0	23	O	O	more	x	x	0
+O	0	24	O	O	money	x	x	0
+O	0	25	O	O	for	x	x	0
+O	0	26	O	O	investment	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	more	x	x	0
+O	0	29	O	O	money	x	x	0
+O	0	30	O	O	for	x	x	0
+O	0	31	O	O	growth	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	more	x	x	0
+O	0	34	O	O	money	x	x	0
+O	0	35	O	O	for	x	x	0
+O	0	36	O	O	job	x	x	0
+O	0	37	O	O	creation	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	growing	x	x	0
+O	0	2	O	O	economy	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	needs	x	x	0
+B-ORG	0	5	O	O	small	x	x	0
+I-ORG	0	6	O	O	business	x	x	0
+O	0	7	O	O	investment	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-GPE	0	1	O	O	our	x	x	0
+O	0	2	O	O	tax	x	x	0
+O	0	3	O	O	code	x	x	0
+O	0	4	O	O	should	x	x	0
+O	0	5	O	O	encourage	x	x	0
+O	0	6	O	O	investment	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Today	x	x	0
+B-ORG	0	1	O	O	a	x	x	0
+I-ORG	0	2	O	O	small	x	x	0
+I-ORG	0	3	O	O	business	x	x	0
+O	0	4	O	O	can	x	x	0
+O	0	5	O	O	deduct	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	maximum	x	x	0
+O	0	8	O	O	of	x	x	0
+B-Numeric	0	9	O	O	$25,000	x	x	0
+O	0	10	O	O	in	x	x	0
+B-TIME	0	11	O	O	the	x	x	0
+I-TIME	0	12	O	O	year	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	which	x	x	0
+B-ORG	0	15	O	O	they	x	x	0
+O	0	16	O	O	buy	x	x	0
+O	0	17	O	O	equipment	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	need	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	triple	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	amount	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	can	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	deducted	x	x	0
+O	0	10	O	O	in	x	x	0
+B-TIME	0	11	O	O	the	x	x	0
+I-TIME	0	12	O	O	year	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	which	x	x	0
+B-ORG	0	15	O	O	they	x	x	0
+O	0	16	O	O	buy	x	x	0
+O	0	17	O	O	equipment	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+O	0	3	O	O	so	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	propose	x	x	0
+O	0	6	O	O	to	x	x	0
+B-ORG	0	7	O	O	Congress	x	x	0
+O	0	8	O	O	that	x	x	0
+B-ORG	0	9	O	O	they	x	x	0
+O	0	10	O	O	ought	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	limit	x	x	0
+O	0	13	O	O	limit	x	x	0
+O	0	14	O	O	ought	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	increased	x	x	0
+O	0	18	O	O	to	x	x	0
+B-Numeric	0	19	O	O	$75,000	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	limit	x	x	0
+O	0	23	O	O	ought	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	be	x	x	0
+O	0	26	O	O	indexed	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	inflation	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	By	x	x	0
+O	0	1	O	O	doing	x	x	0
+O	0	2	O	O	so	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	we	x	x	0
+O	0	5	O	O	promote	x	x	0
+O	0	6	O	O	greater	x	x	0
+O	0	7	O	O	investment	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	machinery	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	when	x	x	0
+B-ORG	0	2	O	O	a	x	x	0
+I-ORG	0	3	O	O	small	x	x	0
+I-ORG	0	4	O	O	business	x	x	0
+O	0	5	O	O	bias	x	x	0
+O	0	6	O	O	machine	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	enhances	x	x	0
+B-ORG	0	9	O	O	their	x	x	0
+O	0	10	O	O	company	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	product	x	x	0
+O	0	13	O	O	divty	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	well	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	it	x	x	0
+O	0	18	O	O	means	x	x	0
+B-ORG	0	19	O	O	machinery	x	x	0
+I-ORG	0	20	O	O	manufacturer	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	likely	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	have	x	x	0
+O	0	25	O	O	more	x	x	0
+O	0	26	O	O	work	x	x	0
+O	0	27	O	O	available	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	More	x	x	0
+O	0	1	O	O	investment	x	x	0
+O	0	2	O	O	equals	x	x	0
+O	0	3	O	O	jobs	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	what	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	interested	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	in	x	x	0
+B-ORG	0	7	O	O	this	x	x	0
+I-ORG	0	8	O	O	administration	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	helping	x	x	0
+O	0	11	O	O	people	x	x	0
+B-PER	0	12	O	O	who	x	x	0
+O	0	13	O	O	look	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	work	x	x	0
+O	0	16	O	O	find	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	job	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	can	x	x	0
+O	0	5	O	O	also	x	x	0
+O	0	6	O	O	promote	x	x	0
+O	0	7	O	O	economic	x	x	0
+O	0	8	O	O	growth	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	job	x	x	0
+O	0	11	O	O	creation	x	x	0
+O	0	12	O	O	by	x	x	0
+O	0	13	O	O	removing	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	double	x	x	0
+O	0	16	O	O	tax	x	x	0
+O	0	17	O	O	on	x	x	0
+O	0	18	O	O	dividends	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+O	0	3	O	O	taxing	x	x	0
+O	0	4	O	O	corporate	x	x	0
+O	0	5	O	O	income	x	x	0
+O	0	6	O	O	once	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	fair	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	fair	x	x	0
+O	0	4	O	O	for	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	federal	x	x	0
+I-GPE	0	7	O	O	government	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	tax	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	same	x	x	0
+O	0	12	O	O	money	x	x	0
+O	0	13	O	O	twice	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	burden	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	double	x	x	0
+O	0	4	O	O	taxation	x	x	0
+O	0	5	O	O	falls	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	millions	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	individuals	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	receive	x	x	0
+O	0	13	O	O	dividends	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Falls	x	x	0
+O	0	1	O	O	especially	x	x	0
+O	0	2	O	O	hard	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	seniors	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	receive	x	x	0
+O	0	7	O	O	half	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	all	x	x	0
+O	0	10	O	O	dividend	x	x	0
+O	0	11	O	O	income	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Removal	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	double	x	x	0
+O	0	3	O	O	taxation	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	put	x	x	0
+O	0	6	O	O	more	x	x	0
+O	0	7	O	O	money	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	hands	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	investors	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	encourage	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	investment	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	American	x	x	0
+O	0	7	O	O	businesses	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Economists	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	plan	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	help	x	x	0
+B-GPE	0	7	O	O	our	x	x	0
+O	0	8	O	O	stock	x	x	0
+O	0	9	O	O	markets	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	since	x	x	0
+O	0	13	O	O	half	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	American	x	x	0
+O	0	16	O	O	families	x	x	0
+O	0	17	O	O	own	x	x	0
+O	0	18	O	O	stock	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	reform	x	x	0
+O	0	22	O	O	will	x	x	0
+O	0	23	O	O	help	x	x	0
+B-PER	0	24	O	O	them	x	x	0
+O	0	25	O	O	save	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	help	x	x	0
+B-GPE	0	28	O	O	our	x	x	0
+O	0	29	O	O	economy	x	x	0
+O	0	30	O	O	grow	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	these	x	x	0
+O	0	3	O	O	measures	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	presented	x	x	0
+O	0	6	O	O	to	x	x	0
+B-ORG	0	7	O	O	Congress	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	first	x	x	0
+O	0	11	O	O	week	x	x	0
+O	0	12	O	O	of	x	x	0
+B-TIME	0	13	O	O	this	x	x	0
+I-TIME	0	14	O	O	year	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	pro	x	x	0
+O	0	2	O	O	growth	x	x	0
+O	0	3	O	O	package	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	urgent	x	x	0
+O	0	6	O	O	in	x	x	0
+B-TIME	0	7	O	O	January	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	even	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	urgent	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	important	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+I-PER	0	8	O	O	all	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	understand	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	for	x	x	0
+B-GPE	0	13	O	O	our	x	x	0
+O	0	14	O	O	fellow	x	x	0
+O	0	15	O	O	Americans	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	understand	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	tax	x	x	0
+O	0	20	O	O	relief	x	x	0
+O	0	21	O	O	that	x	x	0
+B-PER	0	22	O	O	I	x	x	0
+O	0	23	O	O	have	x	x	0
+O	0	24	O	O	proposed	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	will	x	x	0
+O	0	27	O	O	push	x	x	0
+O	0	28	O	O	for	x	x	0
+O	0	29	O	O	until	x	x	0
+O	0	30	O	O	enacted	x	x	0
+O	0	31	O	O	would	x	x	0
+O	0	32	O	O	create	x	x	0
+O	0	33	O	O	[	x	x	0
+O	0	34	O	O	applause	x	x	0
+O	0	35	O	O	]	x	x	0
+O	0	36	O	O	will	x	x	0
+O	0	37	O	O	create	x	x	0
+O	0	38	O	O	1.4	x	x	0
+O	0	39	O	O	million	x	x	0
+O	0	40	O	O	new	x	x	0
+O	0	41	O	O	jobs	x	x	0
+O	0	42	O	O	by	x	x	0
+B-TIME	0	43	O	O	the	x	x	0
+I-TIME	0	44	O	O	end	x	x	0
+I-TIME	0	45	O	O	of	x	x	0
+I-TIME	0	46	O	O	2004	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	two	x	x	0
+I-TIME	0	2	O	O	years	x	x	0
+O	0	3	O	O	time	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	this	x	x	0
+I-GPE	0	6	O	O	nation	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	experienced	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	recession	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	national	x	x	0
+O	0	16	O	O	emergency.	x	x	0
+O	0	17	O	O	which	x	x	0
+O	0	18	O	O	has	x	x	0
+O	0	19	O	O	caused	x	x	0
+B-GPE	0	20	O	O	our	x	x	0
+I-GPE	0	21	O	O	government	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	run	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	deficit	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	best	x	x	0
+O	0	2	O	O	way	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	reduce	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	deficit	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	more	x	x	0
+O	0	10	O	O	growth	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	our	x	x	0
+O	0	13	O	O	economy	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	which	x	x	0
+O	0	16	O	O	means	x	x	0
+O	0	17	O	O	more	x	x	0
+O	0	18	O	O	revenues	x	x	0
+O	0	19	O	O	to	x	x	0
+B-GPE	0	20	O	O	our	x	x	0
+O	0	21	O	O	treasury	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	less	x	x	0
+O	0	25	O	O	spending	x	x	0
+O	0	26	O	O	in	x	x	0
+B-GPE	0	27	O	O	Washington	x	x	0
+I-GPE	0	28	O	O	,	x	x	0
+I-GPE	0	29	O	O	D.C	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	am	x	x	0
+O	0	5	O	O	pleased	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	both	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	House	x	x	0
+O	0	10	O	O	and	x	x	0
+B-ORG	0	11	O	O	Senate	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	passed	x	x	0
+O	0	14	O	O	budget	x	x	0
+O	0	15	O	O	resolutions	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	show	x	x	0
+O	0	18	O	O	real	x	x	0
+O	0	19	O	O	spending	x	x	0
+O	0	20	O	O	restraint	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	Congress	x	x	0
+O	0	4	O	O	must	x	x	0
+O	0	5	O	O	focus	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	robust	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	effective	x	x	0
+O	0	11	O	O	growth	x	x	0
+O	0	12	O	O	package	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	need	x	x	0
+B-Numeric	0	2	O	O	at	x	x	0
+I-Numeric	0	3	O	O	least	x	x	0
+I-Numeric	0	4	O	O	$550	x	x	0
+I-Numeric	0	5	O	O	billion	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	package	x	x	0
+O	0	9	O	O	because	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	more	x	x	0
+O	0	12	O	O	tax	x	x	0
+O	0	13	O	O	relief	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	goes	x	x	0
+O	0	16	O	O	to	x	x	0
+B-GPE	0	17	O	O	the	x	x	0
+I-GPE	0	18	O	O	American	x	x	0
+I-GPE	0	19	O	O	people	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	more	x	x	0
+O	0	23	O	O	jobs	x	x	0
+B-ORG	0	24	O	O	we	x	x	0
+O	0	25	O	O	will	x	x	0
+O	0	26	O	O	create	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	this	x	x	0
+O	0	29	O	O	economy	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+B-TIME	0	3	O	O	the	x	x	0
+I-TIME	0	4	O	O	last	x	x	0
+I-TIME	0	5	O	O	few	x	x	0
+I-TIME	0	6	O	O	months	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	been	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	time	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	challenge	x	x	0
+O	0	13	O	O	for	x	x	0
+B-GPE	0	14	O	O	America	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Our	x	x	0
+O	0	1	O	O	resolve	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	tested	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yet	x	x	0
+B-GPE	0	1	O	O	we	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	great	x	x	0
+O	0	5	O	O	resources	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	national	x	x	0
+O	0	8	O	O	strength	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	national	x	x	0
+O	0	2	O	O	character	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	To	x	x	0
+O	0	1	O	O	overcome	x	x	0
+O	0	2	O	O	every	x	x	0
+O	0	3	O	O	challenge	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	face	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Our	x	x	0
+O	0	1	O	O	confidence	x	x	0
+O	0	2	O	O	an	x	x	0
+B-GPE	0	3	O	O	our	x	x	0
+O	0	4	O	O	optimism	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	never	x	x	0
+O	0	7	O	O	waivered	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	defending	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	peace	x	x	0
+O	0	5	O	O	of	x	x	0
+B-LOC	0	6	O	O	the	x	x	0
+I-LOC	0	7	O	O	world	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	bringing	x	x	0
+O	0	3	O	O	freedom	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	corners	x	x	0
+O	0	6	O	O	of	x	x	0
+B-LOC	0	7	O	O	the	x	x	0
+I-LOC	0	8	O	O	world	x	x	0
+B-LOC	0	9	O	O	who	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	seen	x	x	0
+O	0	13	O	O	freedom	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	years	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	building	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	prosperity	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	our	x	x	0
+O	0	8	O	O	country	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	unique	x	x	0
+O	0	4	O	O	moment	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	our	x	x	0
+O	0	7	O	O	history	x	x	0
+O	0	8	O	O	and	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	American	x	x	0
+I-GPE	0	11	O	O	people	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	rising	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	meet	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	thank	x	x	0
+O	0	4	O	O	each	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	your	x	x	0
+O	0	9	O	O	hard	x	x	0
+O	0	10	O	O	work	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	thank	x	x	0
+O	0	4	O	O	each	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	faith	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	shown	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	this	x	x	0
+I-GPE	0	15	O	O	country	x	x	0
+O	0	16	O	O	's	x	x	0
+B-TIME	0	17	O	O	future	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	May	x	x	0
+B-PER	0	1	O	O	God	x	x	0
+O	0	2	O	O	bless	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	may	x	x	0
+B-PER	0	7	O	O	God	x	x	0
+O	0	8	O	O	continue	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	bless	x	x	0
+B-GPE	0	11	O	O	America	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+

@@ -1,0 +1,476 @@
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	back	x	x	0
+O	0	4	O	O	later	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	war	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	Iraq	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	first	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	want	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	go	x	x	0
+O	0	7	O	O	somewhere	x	x	0
+O	0	8	O	O	else	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	region	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	tell	x	x	0
+B-PER	0	14	O	O	you	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	dozens	x	x	0
+O	0	17	O	O	were	x	x	0
+O	0	18	O	O	injured	x	x	0
+B-TIME	0	19	O	O	today	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	first	x	x	0
+O	0	23	O	O	suicide	x	x	0
+O	0	24	O	O	bombing	x	x	0
+O	0	25	O	O	in	x	x	0
+B-GPE	0	26	O	O	Israel	x	x	0
+B-TIME	0	27	O	O	in	x	x	0
+I-TIME	0	28	O	O	three	x	x	0
+I-TIME	0	29	O	O	weeks	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Kelly	x	x	0
+O	0	3	O	O	Wallace	x	x	0
+O	0	4	O	O	reports	x	x	0
+O	0	5	O	O	on	x	x	0
+B-TIME	0	6	O	O	today	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	attack	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Netanya	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	quiet	x	x	0
+O	0	5	O	O	inside	x	x	0
+B-GPE	0	6	O	O	Israel	x	x	0
+O	0	7	O	O	since	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	start	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	U.s.	x	x	0
+O	0	13	O	O	-	x	x	0
+O	0	14	O	O	led	x	x	0
+O	0	15	O	O	war	x	x	0
+O	0	16	O	O	against	x	x	0
+B-GPE	0	17	O	O	Iraq	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Many	x	x	0
+I-PER	0	1	O	O	Israelis	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	fearing	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	quiet	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	come	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	end	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	on	x	x	0
+B-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	day	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Police	x	x	0
+O	0	1	O	O	say	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	suicide	x	x	0
+I-PER	0	4	O	O	bomber	x	x	0
+O	0	5	O	O	blew	x	x	0
+B-PER	0	6	O	O	himself	x	x	0
+O	0	7	O	O	up	x	x	0
+O	0	8	O	O	outside	x	x	0
+B-FAC	0	9	O	O	this	x	x	0
+I-FAC	0	10	O	O	cafe	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	called	x	x	0
+O	0	13	O	O	The	x	x	0
+O	0	14	O	O	London	x	x	0
+O	0	15	O	O	Cafe	x	x	0
+O	0	16	O	O	,	x	x	0
+B-TIME	0	17	O	O	earlier	x	x	0
+I-TIME	0	18	O	O	Sunday	x	x	0
+I-TIME	0	19	O	O	afternoon	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	show	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	pictures	x	x	0
+O	0	6	O	O	from	x	x	0
+B-TIME	0	7	O	O	earlier	x	x	0
+I-TIME	0	8	O	O	Sunday	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	People	x	x	0
+B-FAC	0	1	O	O	here	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-ORG	0	3	O	O	us	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	cafe	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	filled	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	people	x	x	0
+O	0	10	O	O	enjoying	x	x	0
+O	0	11	O	O	the	x	x	0
+B-TIME	0	12	O	O	spring	x	x	0
+O	0	13	O	O	weather	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Many	x	x	0
+B-FAC	0	1	O	O	here	x	x	0
+O	0	2	O	O	though	x	x	0
+O	0	3	O	O	say	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	relieved	x	x	0
+O	0	7	O	O	only	x	x	0
+B-PER	0	8	O	O	one	x	x	0
+I-PER	0	9	O	O	person	x	x	0
+O	0	10	O	O	dead	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	suicide	x	x	0
+I-PER	0	14	O	O	bomber	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Dozens	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	though	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	injured	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	including	x	x	0
+O	0	7	O	O	some	x	x	0
+B-GPE	0	8	O	O	Israeli	x	x	0
+O	0	9	O	O	soldiers	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	because	x	x	0
+O	0	12	O	O	according	x	x	0
+O	0	13	O	O	to	x	x	0
+B-PER	0	14	O	O	an	x	x	0
+I-PER	0	15	O	O	eyewitness	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	said	x	x	0
+B-PER	0	19	O	O	many	x	x	0
+I-PER	0	20	O	O	soldiers	x	x	0
+O	0	21	O	O	were	x	x	0
+B-FAC	0	22	O	O	here	x	x	0
+O	0	23	O	O	also	x	x	0
+O	0	24	O	O	enjoying	x	x	0
+O	0	25	O	O	the	x	x	0
+B-TIME	0	26	O	O	spring	x	x	0
+O	0	27	O	O	weather	x	x	0
+O	0	28	O	O	.	x	x	0
+
+O	0	0	O	O	Then	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	was	x	x	0
+B-WEA	0	3	O	O	big	x	x	0
+I-WEA	0	4	O	O	bomb	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	many	x	x	0
+I-PER	0	2	O	O	soldier	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Two	x	x	0
+I-PER	0	1	O	O	soldiers	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	down	x	x	0
+B-FAC	0	4	O	O	here	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Many	x	x	0
+O	0	1	O	O	blood	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Many	x	x	0
+I-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	skip	x	x	0
+O	0	3	O	O	from	x	x	0
+B-FAC	0	4	O	O	here	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Big	x	x	0
+O	0	1	O	O	paranoia	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	many	x	x	0
+B-PER	0	4	O	O	terrorist	x	x	0
+O	0	5	O	O	attacks	x	x	0
+O	0	6	O	O	here	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Netanya	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	including	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	deadliest	x	x	0
+O	0	13	O	O	suicide	x	x	0
+O	0	14	O	O	bombing	x	x	0
+O	0	15	O	O	ever	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	Israel	x	x	0
+B-TIME	0	18	O	O	almost	x	x	0
+I-TIME	0	19	O	O	exactly	x	x	0
+I-TIME	0	20	O	O	a	x	x	0
+I-TIME	0	21	O	O	year	x	x	0
+I-TIME	0	22	O	O	ago	x	x	0
+I-TIME	0	23	O	O	,	x	x	0
+I-TIME	0	24	O	O	March	x	x	0
+I-TIME	0	25	O	O	27	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	at	x	x	0
+B-FAC	0	28	O	O	the	x	x	0
+I-FAC	0	29	O	O	Park	x	x	0
+I-FAC	0	30	O	O	Hotel	x	x	0
+O	0	31	O	O	during	x	x	0
+B-TIME	0	32	O	O	Passover	x	x	0
+O	0	33	O	O	,	x	x	0
+B-PER	0	34	O	O	29	x	x	0
+I-PER	0	35	O	O	people	x	x	0
+O	0	36	O	O	killed	x	x	0
+O	0	37	O	O	in	x	x	0
+O	0	38	O	O	that	x	x	0
+O	0	39	O	O	attack	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	attack	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	Palestinian	x	x	0
+O	0	7	O	O	militant	x	x	0
+O	0	8	O	O	group	x	x	0
+B-ORG	0	9	O	O	Islamic	x	x	0
+I-ORG	0	10	O	O	Jihad	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	claiming	x	x	0
+O	0	13	O	O	responsibility	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	According	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	leaflet	x	x	0
+O	0	4	O	O	from	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	group	x	x	0
+O	0	7	O	O	obtained	x	x	0
+O	0	8	O	O	by	x	x	0
+B-ORG	0	9	O	O	CNN	x	x	0
+O	0	10	O	O	,	x	x	0
+B-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	group	x	x	0
+O	0	13	O	O	says	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	attack	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	show	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	union	x	x	0
+O	0	21	O	O	of	x	x	0
+B-PER	0	22	O	O	Palestinians	x	x	0
+O	0	23	O	O	with	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	people	x	x	0
+O	0	26	O	O	of	x	x	0
+B-GPE	0	27	O	O	Iraq	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	group	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	claiming	x	x	0
+O	0	5	O	O	that	x	x	0
+B-ORG	0	6	O	O	Islamic	x	x	0
+I-ORG	0	7	O	O	Jihad	x	x	0
+O	0	8	O	O	militants	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	already	x	x	0
+O	0	11	O	O	inside	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	carry	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	attacks	x	x	0
+O	0	17	O	O	against	x	x	0
+B-GPE	0	18	O	O	U.S.	x	x	0
+O	0	19	O	O	and	x	x	0
+B-GPE	0	20	O	O	British	x	x	0
+O	0	21	O	O	forces	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israel	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	heightened	x	x	0
+O	0	6	O	O	state	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	alert	x	x	0
+O	0	9	O	O	since	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	start	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	-	x	x	0
+O	0	16	O	O	led	x	x	0
+O	0	17	O	O	war	x	x	0
+O	0	18	O	O	against	x	x	0
+B-GPE	0	19	O	O	Iraq	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+B-PER	0	2	O	O	many	x	x	0
+I-PER	0	3	O	O	Israelis	x	x	0
+O	0	4	O	O	fear	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	could	x	x	0
+O	0	7	O	O	see	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	attacks	x	x	0
+O	0	10	O	O	like	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	one	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	saw	x	x	0
+B-FAC	0	15	O	O	here	x	x	0
+B-TIME	0	16	O	O	today	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	military	x	x	0
+O	0	20	O	O	campaign	x	x	0
+O	0	21	O	O	against	x	x	0
+B-PER	0	22	O	O	Saddam	x	x	0
+I-PER	0	23	O	O	Hussein	x	x	0
+O	0	24	O	O	continues	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	Kelly	x	x	0
+I-PER	0	3	O	O	Wallace	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	CNN	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	reporting	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	Netanyahu	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	Israel	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	baseball	x	x	0
+I-PER	0	2	O	O	legend	x	x	0
+O	0	3	O	O	rallies	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	troops	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Up	x	x	0
+O	0	1	O	O	next	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	pitching	x	x	0
+I-PER	0	4	O	O	great	x	x	0
+I-PER	0	5	O	O	Roger	x	x	0
+I-PER	0	6	O	O	Clemens	x	x	0
+O	0	7	O	O	talks	x	x	0
+O	0	8	O	O	about	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	experiences	x	x	0
+O	0	11	O	O	meeting	x	x	0
+B-GPE	0	12	O	O	U.S.	x	x	0
+O	0	13	O	O	service	x	x	0
+O	0	14	O	O	members	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	Afghanistan	x	x	0
+O	0	17	O	O	and	x	x	0
+B-LOC	0	18	O	O	the	x	x	0
+I-LOC	0	19	O	O	Persian	x	x	0
+I-LOC	0	20	O	O	Gulf	x	x	0
+O	0	21	O	O	.	x	x	0
+

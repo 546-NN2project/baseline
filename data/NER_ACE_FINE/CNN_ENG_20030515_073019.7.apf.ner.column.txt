@@ -1,0 +1,204 @@
+O	0	0	O	O	earlier	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	talk	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	new	x	x	0
+O	0	6	O	O	book	x	x	0
+O	0	7	O	O	claiming	x	x	0
+O	0	8	O	O	that	x	x	0
+B-PER	0	9	O	O	President	x	x	0
+O	0	10	O	O	John	x	x	0
+O	0	11	O	O	Kennedy	x	x	0
+O	0	12	O	O	had	x	x	0
+O	0	13	O	O	an	x	x	0
+O	0	14	O	O	affair	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	a	x	x	0
+B-ORG	0	17	O	O	White	x	x	0
+I-ORG	0	18	O	O	House	x	x	0
+O	0	19	O	O	intern	x	x	0
+B-TIME	0	20	O	O	early	x	x	0
+I-TIME	0	21	O	O	1960s	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-PER	0	1	O	O	Kennedy	x	x	0
+O	0	2	O	O	biographer	x	x	0
+B-PER	0	3	O	O	Robert	x	x	0
+I-PER	0	4	O	O	Dallek	x	x	0
+O	0	5	O	O	came	x	x	0
+O	0	6	O	O	across	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	story	x	x	0
+O	0	9	O	O	while	x	x	0
+O	0	10	O	O	doing	x	x	0
+O	0	11	O	O	research	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	woman	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	name	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	remain	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	mystery	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	60-year-old	x	x	0
+O	0	2	O	O	tells	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	New	x	x	0
+I-ORG	0	5	O	O	York	x	x	0
+I-ORG	0	6	O	O	Daily	x	x	0
+I-ORG	0	7	O	O	News	x	x	0
+O	0	8	O	O	and	x	x	0
+B-ORG	0	9	O	O	others	x	x	0
+O	0	10	O	O	DPA	x	x	0
+B-PER	0	11	O	O	she	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	glad	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	weight	x	x	0
+B-PER	0	18	O	O	she	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	been	x	x	0
+O	0	21	O	O	carrying	x	x	0
+O	0	22	O	O	for	x	x	0
+B-TIME	0	23	O	O	41	x	x	0
+I-TIME	0	24	O	O	years	x	x	0
+I-TIME	0	25	O	O	now	x	x	0
+O	0	26	O	O	off	x	x	0
+B-PER	0	27	O	O	her	x	x	0
+O	0	28	O	O	shoulders	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	says	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	was	x	x	0
+B-TIME	0	4	O	O	19	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	time	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	working	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	D.C.	x	x	0
+O	0	12	O	O	at	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	White	x	x	0
+I-ORG	0	15	O	O	House	x	x	0
+O	0	16	O	O	,	x	x	0
+B-TIME	0	17	O	O	1962	x	x	0
+O	0	18	O	O	,	x	x	0
+B-TIME	0	19	O	O	1963	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	she	x	x	0
+O	0	22	O	O	says	x	x	0
+B-TIME	0	23	O	O	today	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	allegations	x	x	0
+O	0	26	O	O	about	x	x	0
+B-PER	0	27	O	O	her	x	x	0
+O	0	28	O	O	affair	x	x	0
+O	0	29	O	O	are	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	truth	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Right	x	x	0
+I-TIME	0	1	O	O	now	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	lives	x	x	0
+O	0	4	O	O	on	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	upper	x	x	0
+I-LOC	0	7	O	O	east	x	x	0
+I-LOC	0	8	O	O	side	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	works	x	x	0
+O	0	11	O	O	at	x	x	0
+B-ORG	0	12	O	O	a	x	x	0
+I-ORG	0	13	O	O	Presbyterian	x	x	0
+I-ORG	0	14	O	O	Church	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	has	x	x	0
+B-PER	0	17	O	O	two	x	x	0
+I-PER	0	18	O	O	married	x	x	0
+I-PER	0	19	O	O	daughters	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	after	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	news	x	x	0
+O	0	24	O	O	is	x	x	0
+O	0	25	O	O	out	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	after	x	x	0
+O	0	28	O	O	carrying	x	x	0
+O	0	29	O	O	it	x	x	0
+O	0	30	O	O	for	x	x	0
+B-TIME	0	31	O	O	41	x	x	0
+I-TIME	0	32	O	O	years	x	x	0
+O	0	33	O	O	,	x	x	0
+B-PER	0	34	O	O	she	x	x	0
+O	0	35	O	O	feels	x	x	0
+O	0	36	O	O	better	x	x	0
+O	0	37	O	O	about	x	x	0
+O	0	38	O	O	it	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	news	x	x	0
+O	0	2	O	O	breaking	x	x	0
+O	0	3	O	O	just	x	x	0
+B-TIME	0	4	O	O	today	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Robert	x	x	0
+I-PER	0	1	O	O	Dallek	x	x	0
+O	0	2	O	O	tried	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	research	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	track	x	x	0
+B-PER	0	9	O	O	this	x	x	0
+I-PER	0	10	O	O	woman	x	x	0
+O	0	11	O	O	down	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	book	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	did	x	x	0
+O	0	18	O	O	not	x	x	0
+O	0	19	O	O	happen	x	x	0
+O	0	20	O	O	but	x	x	0
+B-TIME	0	21	O	O	now	x	x	0
+B-PER	0	22	O	O	she	x	x	0
+O	0	23	O	O	has	x	x	0
+O	0	24	O	O	indeed	x	x	0
+O	0	25	O	O	come	x	x	0
+O	0	26	O	O	forward	x	x	0
+O	0	27	O	O	.	x	x	0
+

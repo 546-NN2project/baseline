@@ -1,0 +1,330 @@
+O	0	0	O	O	let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	talk	x	x	0
+O	0	3	O	O	about	x	x	0
+B-ORG	0	4	O	O	fidelity	x	x	0
+O	0	5	O	O	actually	x	x	0
+O	0	6	O	O	shifting	x	x	0
+O	0	7	O	O	some	x	x	0
+O	0	8	O	O	name	x	x	0
+O	0	9	O	O	brand	x	x	0
+O	0	10	O	O	funds	x	x	0
+O	0	11	O	O	into	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	loads	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	It	x	x	0
+O	0	3	O	O	means	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	going	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	less	x	x	0
+O	0	10	O	O	expensive	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	get	x	x	0
+O	0	13	O	O	into	x	x	0
+O	0	14	O	O	some	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	mutual	x	x	0
+O	0	18	O	O	funds	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	some	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	biggest	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	by	x	x	0
+B-ORG	0	26	O	O	fidelity	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Fidelity	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	rid	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+B-Numeric	0	8	O	O	3	x	x	0
+I-Numeric	0	9	O	O	%	x	x	0
+O	0	10	O	O	upfront	x	x	0
+O	0	11	O	O	sales	x	x	0
+O	0	12	O	O	charge	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	five	x	x	0
+O	0	15	O	O	of	x	x	0
+B-ORG	0	16	O	O	its	x	x	0
+O	0	17	O	O	largest	x	x	0
+O	0	18	O	O	funds	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	include	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	Magellan	x	x	0
+O	0	5	O	O	Fund	x	x	0
+O	0	6	O	O	which	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	its	x	x	0
+O	0	9	O	O	biggest	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Contra	x	x	0
+O	0	1	O	O	Fund	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	low-priced	x	x	0
+O	0	4	O	O	Stock	x	x	0
+O	0	5	O	O	Funds	x	x	0
+O	0	6	O	O	Charges	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	going	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	canceled	x	x	0
+O	0	12	O	O	as	x	x	0
+O	0	13	O	O	well	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Magellan	x	x	0
+O	0	1	O	O	and	x	x	0
+B-ORG	0	2	O	O	new	x	x	0
+I-ORG	0	3	O	O	millennium	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	closed	x	x	0
+O	0	6	O	O	to	x	x	0
+B-TIME	0	7	O	O	new	x	x	0
+O	0	8	O	O	investors	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Current	x	x	0
+O	0	1	O	O	investors	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	going	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	charge	x	x	0
+B-GPE	0	8	O	O	Peoria	x	x	0
+B-PER	0	9	O	O	Police	x	x	0
+O	0	10	O	O	Department	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	trying	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	take	x	x	0
+O	0	16	O	O	advantage	x	x	0
+O	0	17	O	O	of	x	x	0
+B-PER	0	18	O	O	investor	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	renewed	x	x	0
+O	0	21	O	O	interests	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	buy	x	x	0
+O	0	24	O	O	stock	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Many	x	x	0
+I-PER	0	1	O	O	investors	x	x	0
+O	0	2	O	O	show	x	x	0
+O	0	3	O	O	away	x	x	0
+O	0	4	O	O	from	x	x	0
+O	0	5	O	O	funds	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	include	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	low	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	fee	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	load	x	x	0
+O	0	2	O	O	or	x	x	0
+O	0	3	O	O	fee	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	already	x	x	0
+O	0	6	O	O	waived	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	as	x	x	0
+O	0	3	O	O	far	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	what	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	going	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	here	x	x	0
+O	0	10	O	O	on	x	x	0
+B-FAC	0	11	O	O	Wall	x	x	0
+I-FAC	0	12	O	O	Street	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	renewed	x	x	0
+O	0	2	O	O	interest	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	buying	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	afternoon	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stocks	x	x	0
+O	0	1	O	O	modestly	x	x	0
+O	0	2	O	O	higher	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+B-PER	0	2	O	O	everyone	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	or	x	x	0
+O	0	6	O	O	less	x	x	0
+O	0	7	O	O	waiting	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	Fed	x	x	0
+O	0	11	O	O	decision	x	x	0
+O	0	12	O	O	on	x	x	0
+O	0	13	O	O	interest	x	x	0
+O	0	14	O	O	rates	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	that	x	x	0
+B-TIME	0	6	O	O	tomorrow	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Wall	x	x	0
+I-PER	0	1	O	O	Street	x	x	0
+O	0	2	O	O	expects	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	Central	x	x	0
+I-ORG	0	5	O	O	Bank	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	cut	x	x	0
+O	0	8	O	O	rates	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Technology	x	x	0
+O	0	1	O	O	stocks	x	x	0
+O	0	2	O	O	holding	x	x	0
+O	0	3	O	O	near	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	break	x	x	0
+O	0	6	O	O	even	x	x	0
+O	0	7	O	O	line	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	warning	x	x	0
+O	0	4	O	O	from	x	x	0
+B-ORG	0	5	O	O	chip	x	x	0
+I-ORG	0	6	O	O	maker	x	x	0
+I-ORG	0	7	O	O	advanced	x	x	0
+I-ORG	0	8	O	O	micro	x	x	0
+I-ORG	0	9	O	O	devices	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	company	x	x	0
+O	0	2	O	O	says	x	x	0
+B-ORG	0	3	O	O	it	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	miss	x	x	0
+O	0	8	O	O	sales	x	x	0
+O	0	9	O	O	expectations	x	x	0
+O	0	10	O	O	so	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	reining	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	some	x	x	0
+O	0	16	O	O	tech	x	x	0
+O	0	17	O	O	buying	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Nasdaq	x	x	0
+O	0	1	O	O	sup	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	slightly	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	latest	x	x	0
+O	0	5	O	O	news	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	Wall	x	x	0
+O	0	8	O	O	Street	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	"	x	x	0
+O	0	2	O	O	live	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	continues	x	x	0
+O	0	6	O	O	right	x	x	0
+O	0	7	O	O	after	x	x	0
+O	0	8	O	O	this	x	x	0
+O	0	9	O	O	break	x	x	0
+O	0	10	O	O	.	x	x	0
+

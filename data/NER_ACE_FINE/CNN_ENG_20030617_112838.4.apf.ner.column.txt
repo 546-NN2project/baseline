@@ -1,0 +1,677 @@
+O	0	0	O	O	seven	x	x	0
+O	0	1	O	O	minutes	x	x	0
+O	0	2	O	O	before	x	x	0
+B-TIME	0	3	O	O	the	x	x	0
+I-TIME	0	4	O	O	top	x	x	0
+I-TIME	0	5	O	O	of	x	x	0
+I-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	hour	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	beginning	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	told	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	incredible	x	x	0
+O	0	8	O	O	story	x	x	0
+O	0	9	O	O	about	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	rescue	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	three	x	x	0
+O	0	14	O	O	fishermen	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	waters	x	x	0
+O	0	18	O	O	off	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	coast	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	Vancouver	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	stuck	x	x	0
+O	0	25	O	O	in	x	x	0
+B-LOC	0	26	O	O	the	x	x	0
+I-LOC	0	27	O	O	waters	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	Gail	x	x	0
+O	0	30	O	O	Force	x	x	0
+O	0	31	O	O	winds	x	x	0
+O	0	32	O	O	,	x	x	0
+B-VEH	0	33	O	O	small	x	x	0
+I-VEH	0	34	O	O	boat	x	x	0
+O	0	35	O	O	,	x	x	0
+B-PER	0	36	O	O	they	x	x	0
+O	0	37	O	O	were	x	x	0
+O	0	38	O	O	rescued	x	x	0
+O	0	39	O	O	by	x	x	0
+O	0	40	O	O	a	x	x	0
+O	0	41	O	O	cruise	x	x	0
+O	0	42	O	O	ship	x	x	0
+B-VEH	0	43	O	O	that	x	x	0
+O	0	44	O	O	happened	x	x	0
+O	0	45	O	O	to	x	x	0
+O	0	46	O	O	be	x	x	0
+O	0	47	O	O	in	x	x	0
+B-LOC	0	48	O	O	the	x	x	0
+I-LOC	0	49	O	O	neighborhood	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Those	x	x	0
+I-PER	0	1	O	O	three	x	x	0
+I-PER	0	2	O	O	men	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	realize	x	x	0
+O	0	6	O	O	how	x	x	0
+O	0	7	O	O	lucky	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	were	x	x	0
+O	0	10	O	O	until	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	were	x	x	0
+O	0	13	O	O	plucked	x	x	0
+O	0	14	O	O	out	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	water	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	with	x	x	0
+B-ORG	0	3	O	O	US	x	x	0
+B-PER	0	4	O	O	Captain	x	x	0
+O	0	5	O	O	Kent	x	x	0
+O	0	6	O	O	Ringboard	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	board	x	x	0
+O	0	10	O	O	the	x	x	0
+B-ORG	0	11	O	O	Royal	x	x	0
+I-ORG	0	12	O	O	Caribbean	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	Radiance	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	seas	x	x	0
+O	0	18	O	O	.	x	x	0
+O	0	19	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	understand	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	board	x	x	0
+O	0	6	O	O	when	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	rescue	x	x	0
+O	0	9	O	O	happened	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Were	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	charge	x	x	0
+O	0	4	O	O	?	x	x	0
+
+O	0	0	O	O	yes	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	correct	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	charge	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	tell	x	x	0
+B-ORG	0	1	O	O	us	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	happened	x	x	0
+O	0	5	O	O	here	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	it	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	looking	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	when	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	looked	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	over	x	x	0
+B-LOC	0	12	O	O	the	x	x	0
+I-LOC	0	13	O	O	waters	x	x	0
+O	0	14	O	O	?	x	x	0
+
+O	0	0	O	O	well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	quite	x	x	0
+O	0	5	O	O	windy	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	gusty	x	x	0
+O	0	8	O	O	winds	x	x	0
+O	0	9	O	O	up	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	40	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	50	x	x	0
+O	0	14	O	O	miles	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	hour	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	came	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	southeast	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	alarm	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	distress	x	x	0
+O	0	7	O	O	situation	x	x	0
+B-TIME	0	8	O	O	just	x	x	0
+I-TIME	0	9	O	O	before	x	x	0
+I-TIME	0	10	O	O	5:00	x	x	0
+I-TIME	0	11	O	O	in	x	x	0
+I-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	morning	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	relatively	x	x	0
+O	0	5	O	O	slow	x	x	0
+O	0	6	O	O	speed	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	time	x	x	0
+O	0	10	O	O	being	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	we	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	course	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	speeded	x	x	0
+O	0	18	O	O	up	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	position	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	which	x	x	0
+O	0	24	O	O	was	x	x	0
+O	0	25	O	O	given	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	and	x	x	0
+B-PER	0	28	O	O	we	x	x	0
+O	0	29	O	O	after	x	x	0
+B-TIME	0	30	O	O	an	x	x	0
+I-TIME	0	31	O	O	hour	x	x	0
+O	0	32	O	O	,	x	x	0
+B-PER	0	33	O	O	we	x	x	0
+O	0	34	O	O	spotted	x	x	0
+B-VEH	0	35	O	O	the	x	x	0
+I-VEH	0	36	O	O	fishing	x	x	0
+I-VEH	0	37	O	O	boat	x	x	0
+O	0	38	O	O	in	x	x	0
+B-LOC	0	39	O	O	the	x	x	0
+I-LOC	0	40	O	O	waters	x	x	0
+O	0	41	O	O	.	x	x	0
+
+B-PER	0	0	O	O	these	x	x	0
+I-PER	0	1	O	O	men	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	water	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	quite	x	x	0
+O	0	9	O	O	frigid	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	stayed	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	long	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	could	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	suffered	x	x	0
+O	0	11	O	O	severe	x	x	0
+O	0	12	O	O	tragedy	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	perhaps	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	ask	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	have	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	ever	x	x	0
+O	0	9	O	O	done	x	x	0
+O	0	10	O	O	anything	x	x	0
+O	0	11	O	O	like	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Have	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	ever	x	x	0
+O	0	3	O	O	seen	x	x	0
+O	0	4	O	O	anything	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	done	x	x	0
+O	0	8	O	O	?	x	x	0
+
+O	0	0	O	O	no	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	never	x	x	0
+O	0	5	O	O	seen	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	type	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	operation	x	x	0
+O	0	10	O	O	where	x	x	0
+B-PER	0	11	O	O	you	x	x	0
+O	0	12	O	O	have	x	x	0
+B-VEH	0	13	O	O	a	x	x	0
+I-VEH	0	14	O	O	fishing	x	x	0
+I-VEH	0	15	O	O	vessel	x	x	0
+O	0	16	O	O	disappear	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	more	x	x	0
+O	0	19	O	O	or	x	x	0
+O	0	20	O	O	less	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	survivors	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	go	x	x	0
+O	0	9	O	O	into	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	water	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	pick	x	x	0
+B-PER	0	14	O	O	them	x	x	0
+O	0	15	O	O	up	x	x	0
+O	0	16	O	O	from	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	water	x	x	0
+O	0	19	O	O	.	x	x	0
+
+O	0	0	O	O	was	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	any	x	x	0
+O	0	3	O	O	point	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	which	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	think	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	would	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	able	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	pull	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	off	x	x	0
+O	0	18	O	O	?	x	x	0
+
+O	0	0	O	O	sorry	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	please	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	again	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	was	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	any	x	x	0
+O	0	3	O	O	point	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	which	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	thought	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	able	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	pull	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	off	x	x	0
+O	0	17	O	O	?	x	x	0
+
+O	0	0	O	O	no	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	absolutely	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	100	x	x	0
+O	0	4	O	O	%	x	x	0
+O	0	5	O	O	sure	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	could	x	x	0
+O	0	8	O	O	make	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	absolutely	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	came	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	close	x	x	0
+O	0	5	O	O	to	x	x	0
+B-VEH	0	6	O	O	the	x	x	0
+I-VEH	0	7	O	O	vessel	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	had	x	x	0
+B-PER	0	2	O	O	our	x	x	0
+O	0	3	O	O	rescue	x	x	0
+O	0	4	O	O	boat	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	soon	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	felt	x	x	0
+O	0	3	O	O	confident	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	saw	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	fishermen	x	x	0
+O	0	4	O	O	also	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	surviving	x	x	0
+O	0	8	O	O	suits	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	gave	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	help	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	that	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	thing	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	them	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	about	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	crew	x	x	0
+B-PER	0	4	O	O	that	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	actually	x	x	0
+O	0	7	O	O	involved	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	rescue	x	x	0
+O	0	11	O	O	here	x	x	0
+O	0	12	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Are	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	trained	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	sort	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	thing	x	x	0
+O	0	8	O	O	?	x	x	0
+
+O	0	0	O	O	yes	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	much	x	x	0
+O	0	6	O	O	well-trained	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	train	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	type	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	operation	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	least	x	x	0
+B-TIME	0	9	O	O	every	x	x	0
+I-TIME	0	10	O	O	14	x	x	0
+I-TIME	0	11	O	O	days	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	hopeful	x	x	0
+B-PER	0	3	O	O	those	x	x	0
+I-PER	0	4	O	O	three	x	x	0
+I-PER	0	5	O	O	fishermen	x	x	0
+O	0	6	O	O	bought	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	glass	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	wine	x	x	0
+O	0	12	O	O	once	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	got	x	x	0
+B-PER	0	15	O	O	them	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	board	x	x	0
+O	0	18	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	gave	x	x	0
+B-PER	0	2	O	O	them	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	these	x	x	0
+O	0	1	O	O	incredible	x	x	0
+O	0	2	O	O	pictures	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	sure	x	x	0
+O	0	4	O	O	if	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	able	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	see	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	these	x	x	0
+O	0	14	O	O	pictures	x	x	0
+O	0	15	O	O	playing	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	television	x	x	0
+O	0	19	O	O	sets	x	x	0
+O	0	20	O	O	around	x	x	0
+B-LOC	0	21	O	O	the	x	x	0
+I-LOC	0	22	O	O	world	x	x	0
+O	0	23	O	O	but	x	x	0
+B-PER	0	24	O	O	we	x	x	0
+O	0	25	O	O	look	x	x	0
+O	0	26	O	O	at	x	x	0
+O	0	27	O	O	these	x	x	0
+O	0	28	O	O	pictures	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	think	x	x	0
+O	0	31	O	O	there	x	x	0
+O	0	32	O	O	's	x	x	0
+O	0	33	O	O	no	x	x	0
+O	0	34	O	O	way	x	x	0
+B-VEH	0	35	O	O	a	x	x	0
+I-VEH	0	36	O	O	cruise	x	x	0
+I-VEH	0	37	O	O	ship	x	x	0
+O	0	38	O	O	,	x	x	0
+O	0	39	O	O	as	x	x	0
+O	0	40	O	O	big	x	x	0
+O	0	41	O	O	as	x	x	0
+B-VEH	0	42	O	O	it	x	x	0
+O	0	43	O	O	is	x	x	0
+O	0	44	O	O	,	x	x	0
+O	0	45	O	O	will	x	x	0
+O	0	46	O	O	be	x	x	0
+O	0	47	O	O	able	x	x	0
+O	0	48	O	O	to	x	x	0
+O	0	49	O	O	maneuver	x	x	0
+O	0	50	O	O	into	x	x	0
+O	0	51	O	O	position	x	x	0
+O	0	52	O	O	in	x	x	0
+O	0	53	O	O	these	x	x	0
+O	0	54	O	O	kinds	x	x	0
+O	0	55	O	O	of	x	x	0
+O	0	56	O	O	heavy	x	x	0
+O	0	57	O	O	seas	x	x	0
+O	0	58	O	O	to	x	x	0
+O	0	59	O	O	save	x	x	0
+B-PER	0	60	O	O	three	x	x	0
+I-PER	0	61	O	O	corks	x	x	0
+I-PER	0	62	O	O	out	x	x	0
+I-PER	0	63	O	O	there	x	x	0
+I-PER	0	64	O	O	on	x	x	0
+I-PER	0	65	O	O	the	x	x	0
+I-PER	0	66	O	O	water	x	x	0
+O	0	67	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Amazing	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	it	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	interesting	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	maneuvering	x	x	0
+O	0	6	O	O	capability	x	x	0
+O	0	7	O	O	on	x	x	0
+

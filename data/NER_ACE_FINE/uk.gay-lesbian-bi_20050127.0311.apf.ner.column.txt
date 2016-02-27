@@ -1,0 +1,717 @@
+O	0	0	O	O	Yet	x	x	0
+O	0	1	O	O	again	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	notice	x	x	0
+O	0	4	O	O	that	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	media	x	x	0
+O	0	7	O	O	see	x	x	0
+B-PER	0	8	O	O	gays	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	'invisible'	x	x	0
+O	0	11	O	O	when	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	comes	x	x	0
+O	0	14	O	O	to	x	x	0
+B-TIME	0	15	O	O	Holocaust	x	x	0
+I-TIME	0	16	O	O	Day	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	This	x	x	0
+I-TIME	0	1	O	O	morning	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	when	x	x	0
+O	0	4	O	O	talking	x	x	0
+O	0	5	O	O	about	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	horrors	x	x	0
+O	0	8	O	O	of	x	x	0
+B-FAC	0	9	O	O	Auswitch	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+B-ORG	0	12	O	O	BBC	x	x	0
+O	0	13	O	O	Breakfast	x	x	0
+O	0	14	O	O	programme	x	x	0
+O	0	15	O	O	,	x	x	0
+B-ORG	0	16	O	O	they	x	x	0
+O	0	17	O	O	referred	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	slaughter	x	x	0
+O	0	21	O	O	of	x	x	0
+B-PER	0	22	O	O	thousands	x	x	0
+I-PER	0	23	O	O	of	x	x	0
+I-PER	0	24	O	O	Jews	x	x	0
+I-PER	0	25	O	O	and	x	x	0
+I-PER	0	26	O	O	others	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Surely	x	x	0
+B-PER	0	1	O	O	gays	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	gypsies	x	x	0
+O	0	4	O	O	warrant	x	x	0
+O	0	5	O	O	more	x	x	0
+O	0	6	O	O	than	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	referred	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	as	x	x	0
+O	0	12	O	O	'others	x	x	0
+O	0	13	O	O	'	x	x	0
+O	0	14	O	O	.	x	x	0
+B-PER	0	15	O	O	You	x	x	0
+O	0	16	O	O	would	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	know	x	x	0
+O	0	19	O	O	anything	x	x	0
+O	0	20	O	O	about	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	slaughter	x	x	0
+O	0	23	O	O	of	x	x	0
+B-PER	0	24	O	O	gays	x	x	0
+O	0	25	O	O	if	x	x	0
+B-PER	0	26	O	O	you	x	x	0
+O	0	27	O	O	only	x	x	0
+O	0	28	O	O	listened	x	x	0
+O	0	29	O	O	to	x	x	0
+B-ORG	0	30	O	O	the	x	x	0
+I-ORG	0	31	O	O	BBC	x	x	0
+O	0	32	O	O	.	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Thu	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	27	x	x	0
+I-TIME	0	4	O	O	Jan	x	x	0
+I-TIME	0	5	O	O	2005	x	x	0
+I-TIME	0	6	O	O	08:11:09	x	x	0
+I-TIME	0	7	O	O	GMT	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	(	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	the	x	x	0
+I-TIME	0	6	O	O	last	x	x	0
+I-TIME	0	7	O	O	1/2	x	x	0
+I-TIME	0	8	O	O	hour	x	x	0
+O	0	9	O	O	)	x	x	0
+O	0	10	O	O	heard	x	x	0
+B-ORG	0	11	O	O	Radio	x	x	0
+I-ORG	0	12	O	O	Wales	x	x	0
+O	0	13	O	O	refer	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	millions	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	Jews	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	other	x	x	0
+O	0	21	O	O	minorites	x	x	0
+O	0	22	O	O	including	x	x	0
+B-PER	0	23	O	O	Gypsies	x	x	0
+O	0	24	O	O	and	x	x	0
+B-PER	0	25	O	O	homosexuals	x	x	0
+B-PER	0	26	O	O	who	x	x	0
+O	0	27	O	O	died	x	x	0
+O	0	28	O	O	in	x	x	0
+B-FAC	0	29	O	O	the	x	x	0
+I-FAC	0	30	O	O	concentration	x	x	0
+I-FAC	0	31	O	O	camps	x	x	0
+O	0	32	O	O	.	x	x	0
+
+O	0	0	O	O	Good	x	x	0
+B-PER	0	1	O	O	Thomas	x	x	0
+I-PER	0	2	O	O	Bauer	x	x	0
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	'others	x	x	0
+O	0	2	O	O	'	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	named	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	Radio	x	x	0
+O	0	7	O	O	4's	x	x	0
+O	0	8	O	O	Today	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Seems	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	those	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	listen	x	x	0
+O	0	5	O	O	to	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	BBC	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	those	x	x	0
+B-PER	0	12	O	O	who	x	x	0
+O	0	13	O	O	watch	x	x	0
+B-ORG	0	14	O	O	it	x	x	0
+O	0	15	O	O	do	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	:	x	x	0
+O	0	18	O	O	p	x	x	0
+B-PER	0	19	O	O	This	x	x	0
+I-PER	0	20	O	O	woman	x	x	0
+O	0	21	O	O	did	x	x	0
+O	0	22	O	O	not	x	x	0
+O	0	23	O	O	fly	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	extremes	x	x	0
+O	0	26	O	O	;	x	x	0
+B-PER	0	27	O	O	she	x	x	0
+O	0	28	O	O	lived	x	x	0
+O	0	29	O	O	there	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Quentin	x	x	0
+I-PER	0	1	O	O	Crisp	x	x	0
+
+O	0	0	O	O	Hello	x	x	0
+B-PER	0	1	O	O	Thomas	x	x	0
+O	0	2	O	O	,	x	x	0
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	mentioned	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	The	x	x	0
+O	0	5	O	O	Final	x	x	0
+O	0	6	O	O	Solution	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	thread	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	number	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	men	x	x	0
+I-PER	0	14	O	O	killed	x	x	0
+I-PER	0	15	O	O	for	x	x	0
+I-PER	0	16	O	O	being	x	x	0
+I-PER	0	17	O	O	homosexual	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	at	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	most	x	x	0
+O	0	22	O	O	10-15,000	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	significant	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	compared	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	genocide	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	Jews	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	Zigeuner	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	significant	x	x	0
+O	0	19	O	O	(	x	x	0
+O	0	20	O	O	though	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	course	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	family	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	loved	x	x	0
+O	0	28	O	O	ones	x	x	0
+O	0	29	O	O	of	x	x	0
+O	0	30	O	O	those	x	x	0
+B-PER	0	31	O	O	who	x	x	0
+O	0	32	O	O	died	x	x	0
+B-PER	0	33	O	O	every	x	x	0
+I-PER	0	34	O	O	single	x	x	0
+I-PER	0	35	O	O	one	x	x	0
+O	0	36	O	O	is	x	x	0
+O	0	37	O	O	significant	x	x	0
+O	0	38	O	O	)	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	trying	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	deny	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	happened	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	trying	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	see	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	perspective	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	Kaddish	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	morning	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	do	x	x	0
+O	0	10	O	O	so	x	x	0
+O	0	11	O	O	again	x	x	0
+O	0	12	O	O	at	x	x	0
+B-TIME	0	13	O	O	dusk	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Peter	x	x	0
+I-PER	0	1	O	O	O	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	watching	x	x	0
+O	0	3	O	O	the	x	x	0
+B-ORG	0	4	O	O	BBC	x	x	0
+O	0	5	O	O	news	x	x	0
+B-TIME	0	6	O	O	this	x	x	0
+I-TIME	0	7	O	O	morning	x	x	0
+O	0	8	O	O	and	x	x	0
+B-ORG	0	9	O	O	they	x	x	0
+O	0	10	O	O	interviewed	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	man	x	x	0
+B-PER	0	13	O	O	who	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	going	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	be	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	charge	x	x	0
+O	0	20	O	O	of	x	x	0
+B-TIME	0	21	O	O	Holocaust	x	x	0
+I-TIME	0	22	O	O	Day	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	certainly	x	x	0
+O	0	25	O	O	in	x	x	0
+B-TIME	0	26	O	O	the	x	x	0
+I-TIME	0	27	O	O	future	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	very	x	x	0
+O	0	2	O	O	specifically	x	x	0
+O	0	3	O	O	mentioned	x	x	0
+B-PER	0	4	O	O	gays	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	along	x	x	0
+O	0	7	O	O	with	x	x	0
+B-PER	0	8	O	O	blacks	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	roma	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	going	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	try	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	link	x	x	0
+B-TIME	0	22	O	O	future	x	x	0
+I-TIME	0	23	O	O	Days	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	dangers	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	current	x	x	0
+O	0	29	O	O	prejudice	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	oppression	x	x	0
+O	0	32	O	O	.	x	x	0
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	bit	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	rating	x	x	0
+B-PER	0	6	O	O	Stalin	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	Hitler	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	badness	x	x	0
+O	0	11	O	O	purely	x	x	0
+O	0	12	O	O	on	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	grounds	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	number	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	deaths	x	x	0
+B-PER	0	20	O	O	they	x	x	0
+O	0	21	O	O	were	x	x	0
+O	0	22	O	O	responsible	x	x	0
+O	0	23	O	O	for	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	"	x	x	0
+O	0	3	O	O	significant	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	if	x	x	0
+O	0	6	O	O	any	x	x	0
+O	0	7	O	O	group	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	people	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	identified	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	liquidation	x	x	0
+O	0	14	O	O	by	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	government	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	country	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	which	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	live	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	surely	x	x	0
+O	0	26	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	many	x	x	0
+O	0	6	O	O	identifiable	x	x	0
+O	0	7	O	O	individuals	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	particular	x	x	0
+O	0	11	O	O	group	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	general	x	x	0
+I-GPE	0	15	O	O	population	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	then	x	x	0
+O	0	18	O	O	by	x	x	0
+B-PER	0	19	O	O	your	x	x	0
+O	0	20	O	O	significance	x	x	0
+O	0	21	O	O	=	x	x	0
+O	0	22	O	O	headcount	x	x	0
+O	0	23	O	O	yardstick	x	x	0
+B-PER	0	24	O	O	some	x	x	0
+I-PER	0	25	O	O	groups	x	x	0
+O	0	26	O	O	are	x	x	0
+O	0	27	O	O	never	x	x	0
+O	0	28	O	O	ever	x	x	0
+O	0	29	O	O	going	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	get	x	x	0
+O	0	32	O	O	rated	x	x	0
+O	0	33	O	O	as	x	x	0
+O	0	34	O	O	"	x	x	0
+O	0	35	O	O	significant	x	x	0
+O	0	36	O	O	".	x	x	0
+O	0	37	O	O	In	x	x	0
+O	0	38	O	O	some	x	x	0
+O	0	39	O	O	ways	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	it	x	x	0
+O	0	42	O	O	is	x	x	0
+O	0	43	O	O	amazing	x	x	0
+O	0	44	O	O	that	x	x	0
+B-PER	0	45	O	O	the	x	x	0
+I-PER	0	46	O	O	Nazis	x	x	0
+O	0	47	O	O	were	x	x	0
+O	0	48	O	O	able	x	x	0
+O	0	49	O	O	to	x	x	0
+O	0	50	O	O	identify	x	x	0
+O	0	51	O	O	even	x	x	0
+O	0	52	O	O	*	x	x	0
+B-PER	0	53	O	O	two	x	x	0
+I-PER	0	54	O	O	*	x	x	0
+I-PER	0	55	O	O	thousand	x	x	0
+I-PER	0	56	O	O	homosexuals	x	x	0
+O	0	57	O	O	in	x	x	0
+B-TIME	0	58	O	O	the	x	x	0
+I-TIME	0	59	O	O	Thirties	x	x	0
+O	0	60	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	By	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	bitter	x	x	0
+O	0	3	O	O	irony	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	without	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	burgeoning	x	x	0
+B-PER	0	8	O	O	gay	x	x	0
+O	0	9	O	O	liberation	x	x	0
+O	0	10	O	O	movement	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Germany	x	x	0
+O	0	13	O	O	(	x	x	0
+B-PER	0	14	O	O	Magnus	x	x	0
+I-PER	0	15	O	O	Hirschfeld	x	x	0
+O	0	16	O	O	et	x	x	0
+O	0	17	O	O	al	x	x	0
+O	0	18	O	O	)	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	issue	x	x	0
+O	0	21	O	O	may	x	x	0
+O	0	22	O	O	not	x	x	0
+O	0	23	O	O	even	x	x	0
+O	0	24	O	O	have	x	x	0
+O	0	25	O	O	arisen	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	L	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	good	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	email	x	x	0
+O	0	5	O	O	back	x	x	0
+O	0	6	O	O	from	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	BBC	x	x	0
+O	0	9	O	O	saying	x	x	0
+O	0	10	O	O	that	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	understood	x	x	0
+O	0	13	O	O	what	x	x	0
+B-PER	0	14	O	O	I	x	x	0
+O	0	15	O	O	was	x	x	0
+O	0	16	O	O	saying	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	would	x	x	0
+O	0	19	O	O	try	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	be	x	x	0
+O	0	22	O	O	more	x	x	0
+O	0	23	O	O	inclusive	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Thomas	x	x	0
+I-PER	0	1	O	O	Bauer	x	x	0
+
+O	0	0	O	O	Hello	x	x	0
+B-PER	0	1	O	O	John	x	x	0
+O	0	2	O	O	,	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	simply	x	x	0
+O	0	3	O	O	trying	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	get	x	x	0
+O	0	6	O	O	some	x	x	0
+O	0	7	O	O	perspective	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	Holocaust	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	Jews	x	x	0
+I-PER	0	5	O	O	and	x	x	0
+I-PER	0	6	O	O	Zigeuner	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	motivated	x	x	0
+O	0	9	O	O	by	x	x	0
+O	0	10	O	O	racial	x	x	0
+O	0	11	O	O	prejudices	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	murder	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	(	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	most	x	x	0
+O	0	7	O	O	)	x	x	0
+B-PER	0	8	O	O	10k	x	x	0
+I-PER	0	9	O	O	homosexuals	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Most	x	x	0
+O	0	1	O	O	homosexuals	x	x	0
+O	0	2	O	O	arrested	x	x	0
+O	0	3	O	O	during	x	x	0
+O	0	4	O	O	the	x	x	0
+B-PER	0	5	O	O	Nazi	x	x	0
+O	0	6	O	O	era	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	imprisoned	x	x	0
+O	0	9	O	O	in	x	x	0
+B-FAC	0	10	O	O	normal	x	x	0
+I-FAC	0	11	O	O	jails	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	homosexually	x	x	0
+O	0	4	O	O	oriented	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	nothing	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	law	x	x	0
+O	0	12	O	O	in	x	x	0
+B-TIME	0	13	O	O	30s	x	x	0
+B-GPE	0	14	O	O	Germany	x	x	0
+O	0	15	O	O	could	x	x	0
+O	0	16	O	O	n't	x	x	0
+O	0	17	O	O	touch	x	x	0
+B-PER	0	18	O	O	you	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Jews	x	x	0
+I-PER	0	2	O	O	and	x	x	0
+I-PER	0	3	O	O	Zigeuner	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	other	x	x	0
+O	0	7	O	O	hand	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	killed	x	x	0
+O	0	10	O	O	simply	x	x	0
+O	0	11	O	O	for	x	x	0
+B-PER	0	12	O	O	their	x	x	0
+O	0	13	O	O	ontological	x	x	0
+O	0	14	O	O	state	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Once	x	x	0
+O	0	1	O	O	again	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'm	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	diminishing	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	horror	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	any	x	x	0
+O	0	11	O	O	individual	x	x	0
+O	0	12	O	O	murder	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	just	x	x	0
+O	0	15	O	O	trying	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	get	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	into	x	x	0
+O	0	20	O	O	perspective	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Peter	x	x	0
+I-PER	0	1	O	O	O	x	x	0
+
+O	0	0	O	O	Hang	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	moment	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	there	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	say	x	x	0
+
+O	0	0	O	O	it	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	shrunk	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	think	x	x	0
+B-PER	0	6	O	O	your	x	x	0
+O	0	7	O	O	agenda	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	showing	x	x	0
+O	0	10	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	previous	x	x	0
+O	0	3	O	O	quote	x	x	0
+O	0	4	O	O	says	x	x	0
+

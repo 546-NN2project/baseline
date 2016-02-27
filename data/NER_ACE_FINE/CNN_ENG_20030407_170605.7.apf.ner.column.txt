@@ -1,0 +1,251 @@
+O	0	0	O	O	welcome	x	x	0
+O	0	1	O	O	back	x	x	0
+O	0	2	O	O	n	x	x	0
+O	0	3	O	O	case	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	just	x	x	0
+O	0	7	O	O	tuning	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	,	x	x	0
+B-ORG	0	10	O	O	our	x	x	0
+O	0	11	O	O	top	x	x	0
+O	0	12	O	O	story	x	x	0
+B-TIME	0	13	O	O	this	x	x	0
+I-TIME	0	14	O	O	hour	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	discovery	x	x	0
+O	0	18	O	O	of	x	x	0
+B-WEA	0	19	O	O	suspect	x	x	0
+I-WEA	0	20	O	O	chemical	x	x	0
+I-WEA	0	21	O	O	weapons	x	x	0
+O	0	22	O	O	materials	x	x	0
+O	0	23	O	O	at	x	x	0
+O	0	24	O	O	an	x	x	0
+O	0	25	O	O	agricultural	x	x	0
+O	0	26	O	O	complex	x	x	0
+O	0	27	O	O	in	x	x	0
+B-LOC	0	28	O	O	central	x	x	0
+I-LOC	0	29	O	O	Iraq	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Troops	x	x	0
+O	0	1	O	O	from	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	Army	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	101st	x	x	0
+O	0	7	O	O	Airborne	x	x	0
+O	0	8	O	O	Division	x	x	0
+O	0	9	O	O	went	x	x	0
+O	0	10	O	O	to	x	x	0
+B-FAC	0	11	O	O	the	x	x	0
+I-FAC	0	12	O	O	site	x	x	0
+O	0	13	O	O	on	x	x	0
+B-TIME	0	14	O	O	Friday	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	finding	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	number	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	large	x	x	0
+O	0	21	O	O	drums	x	x	0
+O	0	22	O	O	buried	x	x	0
+O	0	23	O	O	in	x	x	0
+B-FAC	0	24	O	O	bunkers	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Initial	x	x	0
+O	0	1	O	O	tests	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	inconclusive	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-PER	0	1	O	O	General	x	x	0
+O	0	2	O	O	Benjamin	x	x	0
+O	0	3	O	O	Frankly	x	x	0
+O	0	4	O	O	of	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	101st	x	x	0
+O	0	7	O	O	says	x	x	0
+B-TIME	0	8	O	O	today	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	more	x	x	0
+O	0	11	O	O	sophisticated	x	x	0
+O	0	12	O	O	test	x	x	0
+O	0	13	O	O	indicated	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	presence	x	x	0
+O	0	16	O	O	of	x	x	0
+B-WEA	0	17	O	O	nerve	x	x	0
+I-WEA	0	18	O	O	and	x	x	0
+I-WEA	0	19	O	O	blister	x	x	0
+I-WEA	0	20	O	O	agents	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	says	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	type	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	test	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	required	x	x	0
+O	0	9	O	O	sometimes	x	x	0
+O	0	10	O	O	shows	x	x	0
+O	0	11	O	O	false-positives	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	further	x	x	0
+O	0	14	O	O	testing	x	x	0
+O	0	15	O	O	will	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	done	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	determine	x	x	0
+O	0	20	O	O	whether	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	materials	x	x	0
+O	0	23	O	O	are	x	x	0
+O	0	24	O	O	indeed	x	x	0
+O	0	25	O	O	nonweaponized	x	x	0
+O	0	26	O	O	chemical	x	x	0
+O	0	27	O	O	agents	x	x	0
+O	0	28	O	O	or	x	x	0
+O	0	29	O	O	perhaps	x	x	0
+O	0	30	O	O	simply	x	x	0
+O	0	31	O	O	pesticides	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	General	x	x	0
+O	0	1	O	O	frankly	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	hard	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	believe	x	x	0
+B-PER	0	8	O	O	U.N.	x	x	0
+I-PER	0	9	O	O	inspectors	x	x	0
+O	0	10	O	O	would	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	found	x	x	0
+B-FAC	0	13	O	O	the	x	x	0
+I-FAC	0	14	O	O	facility	x	x	0
+O	0	15	O	O	hidden	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	deeply	x	x	0
+O	0	18	O	O	as	x	x	0
+B-FAC	0	19	O	O	it	x	x	0
+O	0	20	O	O	was	x	x	0
+O	0	21	O	O	near	x	x	0
+B-LOC	0	22	O	O	the	x	x	0
+I-LOC	0	23	O	O	Euphrates	x	x	0
+I-LOC	0	24	O	O	River	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	much	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	developing	x	x	0
+O	0	8	O	O	story	x	x	0
+O	0	9	O	O	coming	x	x	0
+O	0	10	O	O	up	x	x	0
+O	0	11	O	O	in	x	x	0
+B-TIME	0	12	O	O	a	x	x	0
+I-TIME	0	13	O	O	few	x	x	0
+I-TIME	0	14	O	O	minutes	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	latest	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	though	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	air	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	,	x	x	0
+B-ORG	0	11	O	O	CNN	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	Gary	x	x	0
+O	0	14	O	O	Tuchman	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	joining	x	x	0
+B-PER	0	17	O	O	us	x	x	0
+B-TIME	0	18	O	O	now	x	x	0
+O	0	19	O	O	live	x	x	0
+O	0	20	O	O	from	x	x	0
+O	0	21	O	O	an	x	x	0
+O	0	22	O	O	air	x	x	0
+O	0	23	O	O	base	x	x	0
+O	0	24	O	O	not	x	x	0
+O	0	25	O	O	far	x	x	0
+O	0	26	O	O	from	x	x	0
+B-GPE	0	27	O	O	Iraq	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	happening	x	x	0
+B-FAC	0	3	O	O	there	x	x	0
+B-TIME	0	4	O	O	tonight	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Gary	x	x	0
+O	0	7	O	O	?	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	Well	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Wolf	x	x	0
+O	0	5	O	O	,	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Air	x	x	0
+I-ORG	0	8	O	O	Force	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	continuing	x	x	0
+B-ORG	0	11	O	O	its	x	x	0
+B-TIME	0	12	O	O	24-hour	x	x	0
+O	0	13	O	O	air	x	x	0
+O	0	14	O	O	coverage	x	x	0
+O	0	15	O	O	over	x	x	0
+B-GPE	0	16	O	O	Baghdad	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	always	x	x	0
+O	0	3	O	O	be	x	x	0
+B-VEH	0	4	O	O	multiple	x	x	0
+I-VEH	0	5	O	O	warplanes	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	fighter	x	x	0
+

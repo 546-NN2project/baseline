@@ -1,0 +1,1417 @@
+O	0	0	O	O	10	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Death	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	Arafat	x	x	0
+O	0	3	O	O	(	x	x	0
+O	0	4	O	O	2	x	x	0
+O	0	5	O	O	)	x	x	0
+B-ORG	0	6	O	O	PLO	x	x	0
+O	0	7	O	O	leader	x	x	0
+B-ORG	0	8	O	O	PLO	x	x	0
+O	0	9	O	O	leader	x	x	0
+O	0	10	O	O	Yasser	x	x	0
+O	0	11	O	O	Arafat	x	x	0
+O	0	12	O	O	died	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	a	x	x	0
+B-GPE	0	15	O	O	Paris	x	x	0
+O	0	16	O	O	hospital	x	x	0
+B-TIME	0	17	O	O	last	x	x	0
+I-TIME	0	18	O	O	week	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	after	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	lot	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	controversy	x	x	0
+O	0	25	O	O	surrounding	x	x	0
+B-PER	0	26	O	O	his	x	x	0
+O	0	27	O	O	illness	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	death	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	caused	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	illness	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	could	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	been	x	x	0
+O	0	13	O	O	something	x	x	0
+O	0	14	O	O	malicious	x	x	0
+O	0	15	O	O	(	x	x	0
+O	0	16	O	O	like	x	x	0
+O	0	17	O	O	poisoning	x	x	0
+O	0	18	O	O	)	x	x	0
+O	0	19	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	of	x	x	0
+B-GPE	0	5	O	O	Israel	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	policies	x	x	0
+O	0	8	O	O	surrounding	x	x	0
+B-PER	0	9	O	O	Arafat	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	illness	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	death	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Should	x	x	0
+B-PER	0	1	O	O	President	x	x	0
+O	0	2	O	O	Bush	x	x	0
+O	0	3	O	O	or	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	senior	x	x	0
+B-GPE	0	6	O	O	US	x	x	0
+O	0	7	O	O	official	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	attended	x	x	0
+B-PER	0	10	O	O	Arafat	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	funeral	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Should	x	x	0
+B-GPE	0	1	O	O	Israel	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	let	x	x	0
+B-PER	0	4	O	O	Arafat	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	buried	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Jerusalem	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	Hello	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	th	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'm	x	x	0
+B-PER	0	5	O	O	Marco	x	x	0
+O	0	6	O	O	from	x	x	0
+B-GPE	0	7	O	O	Illinois	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+B-PER	0	4	O	O	Mike	x	x	0
+O	0	5	O	O	from	x	x	0
+B-GPE	0	6	O	O	New	x	x	0
+I-GPE	0	7	O	O	Jersey	x	x	0
+O	0	8	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	New	x	x	0
+I-GPE	0	1	O	O	Jersey	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	are	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	doing	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Mike	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	Pretty	x	x	0
+O	0	1	O	O	good	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	?	x	x	0
+
+O	0	0	O	O	Pretty	x	x	0
+O	0	1	O	O	good	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Pretty	x	x	0
+O	0	1	O	O	good	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	so	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	do	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	think	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	think	x	x	0
+O	0	5	O	O	-	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	about	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	start	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	okay	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	um	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	((	x	x	0
+O	0	7	O	O	lot	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	question	x	x	0
+O	0	10	O	O	))	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	um	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	I	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	do	x	x	0
+O	0	18	O	O	n't	x	x	0
+O	0	19	O	O	think	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	was	x	x	0
+O	0	22	O	O	poisoning	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	even	x	x	0
+O	0	25	O	O	though	x	x	0
+B-PER	0	26	O	O	I	x	x	0
+O	0	27	O	O	have	x	x	0
+O	0	28	O	O	n't	x	x	0
+O	0	29	O	O	read	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	lot	x	x	0
+O	0	32	O	O	of	x	x	0
+O	0	33	O	O	articles	x	x	0
+O	0	34	O	O	about	x	x	0
+O	0	35	O	O	it	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	-	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	old	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	-	x	x	0
+
+O	0	0	O	O	Y	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	old	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	yeah	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	I	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	realize	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	allowed	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	buried	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	Jerusalem	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	which	x	x	0
+O	0	19	O	O	-	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	but	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	do	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	things	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	done	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	mean	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	let	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	i	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	all	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	did	x	x	0
+O	0	18	O	O	in	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	later	x	x	0
+O	0	21	O	O	years	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	eh	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	Yasser	x	x	0
+I-PER	0	26	O	O	Arafat	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	responsible	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	good	x	x	0
+O	0	32	O	O	chunk	x	x	0
+O	0	33	O	O	of	x	x	0
+O	0	34	O	O	al	x	x	0
+B-PER	0	35	O	O	you	x	x	0
+O	0	36	O	O	know	x	x	0
+O	0	37	O	O	,	x	x	0
+O	0	38	O	O	a	x	x	0
+O	0	39	O	O	lot	x	x	0
+O	0	40	O	O	of	x	x	0
+B-PER	0	41	O	O	Israeli	x	x	0
+O	0	42	O	O	dying	x	x	0
+B-PER	0	43	O	O	i	x	x	0
+B-PER	0	44	O	O	you	x	x	0
+O	0	45	O	O	know	x	x	0
+O	0	46	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	basically	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	eh	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	i	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	'm	x	x	0
+O	0	8	O	O	completely	x	x	0
+O	0	9	O	O	torn	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	whole	x	x	0
+O	0	13	O	O	thing	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	hand	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	think	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	kind	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	wrong	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	you	x	x	0
+O	0	16	O	O	know	x	x	0
+O	0	17	O	O	,	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	~	x	x	0
+I-ORG	0	20	O	O	UN	x	x	0
+O	0	21	O	O	just	x	x	0
+O	0	22	O	O	kind	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	went	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	said	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	hey	x	x	0
+O	0	30	O	O	,	x	x	0
+B-PER	0	31	O	O	you	x	x	0
+O	0	32	O	O	know	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	guess	x	x	0
+O	0	35	O	O	what	x	x	0
+O	0	36	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	're	x	x	0
+B-ORG	0	5	O	O	we	x	x	0
+O	0	6	O	O	're	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	this	x	x	0
+O	0	11	O	O	is	x	x	0
+B-GPE	0	12	O	O	Israel	x	x	0
+B-TIME	0	13	O	O	now	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	state	x	x	0
+O	0	16	O	O	of	x	x	0
+B-GPE	0	17	O	O	Israel	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	basically	x	x	0
+O	0	2	O	O	what	x	x	0
+B-ORG	0	3	O	O	they	x	x	0
+O	0	4	O	O	did	x	x	0
+O	0	5	O	O	was	x	x	0
+B-ORG	0	6	O	O	they	x	x	0
+O	0	7	O	O	carved	x	x	0
+O	0	8	O	O	up	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	region	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	without	x	x	0
+O	0	13	O	O	any	x	x	0
+O	0	14	O	O	regard	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	know	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	tribal	x	x	0
+O	0	21	O	O	animosity	x	x	0
+O	0	22	O	O	really	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	is	x	x	0
+O	0	25	O	O	really	x	x	0
+O	0	26	O	O	what	x	x	0
+O	0	27	O	O	it	x	x	0
+O	0	28	O	O	boils	x	x	0
+O	0	29	O	O	down	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	,	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	um	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	then	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	th	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	had	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	try	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	maintain	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	status	x	x	0
+O	0	18	O	O	quo	x	x	0
+O	0	19	O	O	but	x	x	0
+B-ORG	0	20	O	O	they	x	x	0
+O	0	21	O	O	bred	x	x	0
+O	0	22	O	O	people	x	x	0
+O	0	23	O	O	like	x	x	0
+B-PER	0	24	O	O	Yasser	x	x	0
+I-PER	0	25	O	O	Arafat	x	x	0
+O	0	26	O	O	,	x	x	0
+B-PER	0	27	O	O	I	x	x	0
+O	0	28	O	O	mean	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	if	x	x	0
+O	0	31	O	O	it	x	x	0
+O	0	32	O	O	if	x	x	0
+O	0	33	O	O	it	x	x	0
+O	0	34	O	O	was	x	x	0
+O	0	35	O	O	n't	x	x	0
+O	0	36	O	O	for	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	stupidity	x	x	0
+O	0	39	O	O	of	x	x	0
+B-ORG	0	40	O	O	the	x	x	0
+I-ORG	0	41	O	O	United	x	x	0
+I-ORG	0	42	O	O	Nations	x	x	0
+O	0	43	O	O	,	x	x	0
+O	0	44	O	O	people	x	x	0
+O	0	45	O	O	like	x	x	0
+B-PER	0	46	O	O	Yasser	x	x	0
+I-PER	0	47	O	O	Yara	x	x	0
+I-PER	0	48	O	O	Arafat	x	x	0
+O	0	49	O	O	w	x	x	0
+O	0	50	O	O	probably	x	x	0
+O	0	51	O	O	would	x	x	0
+O	0	52	O	O	've	x	x	0
+O	0	53	O	O	never	x	x	0
+O	0	54	O	O	even	x	x	0
+O	0	55	O	O	gotten	x	x	0
+O	0	56	O	O	off	x	x	0
+O	0	57	O	O	the	x	x	0
+O	0	58	O	O	ground	x	x	0
+O	0	59	O	O	,	x	x	0
+B-PER	0	60	O	O	you	x	x	0
+O	0	61	O	O	know	x	x	0
+O	0	62	O	O	.	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	how	x	x	0
+O	0	2	O	O	did	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	United	x	x	0
+I-ORG	0	5	O	O	Nations	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	uh	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	Arafat	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	power	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	or	x	x	0
+O	0	14	O	O	help	x	x	0
+O	0	15	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	other	x	x	0
+O	0	4	O	O	words	x	x	0
+O	0	5	O	O	eh	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	other	x	x	0
+O	0	9	O	O	when	x	x	0
+O	0	10	O	O	after	x	x	0
+O	0	11	O	O	World	x	x	0
+O	0	12	O	O	War	x	x	0
+O	0	13	O	O	Two	x	x	0
+O	0	14	O	O	when	x	x	0
+B-ORG	0	15	O	O	they	x	x	0
+O	0	16	O	O	when	x	x	0
+O	0	17	O	O	basically	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	state	x	x	0
+O	0	20	O	O	of	x	x	0
+B-GPE	0	21	O	O	Israel	x	x	0
+O	0	22	O	O	was	x	x	0
+O	0	23	O	O	formed	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	in	x	x	0
+O	0	1	O	O	f	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+B-TIME	0	4	O	O	nineteen	x	x	0
+I-TIME	0	5	O	O	forty	x	x	0
+I-TIME	0	6	O	O	eight	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	think	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	e	x	x	0
+O	0	7	O	O	granted	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	there	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	there	x	x	0
+O	0	15	O	O	were	x	x	0
+B-PER	0	16	O	O	Jewish	x	x	0
+O	0	17	O	O	people	x	x	0
+O	0	18	O	O	already	x	x	0
+O	0	19	O	O	living	x	x	0
+B-GPE	0	20	O	O	there	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	but	x	x	0
+O	0	23	O	O	all	x	x	0
+O	0	24	O	O	the	x	x	0
+B-PER	0	25	O	O	Jewish	x	x	0
+O	0	26	O	O	people	x	x	0
+O	0	27	O	O	started	x	x	0
+O	0	28	O	O	going	x	x	0
+B-GPE	0	29	O	O	there	x	x	0
+O	0	30	O	O	and	x	x	0
+B-PER	0	31	O	O	they	x	x	0
+O	0	32	O	O	j	x	x	0
+O	0	33	O	O	basically	x	x	0
+O	0	34	O	O	just	x	x	0
+B-PER	0	35	O	O	you	x	x	0
+O	0	36	O	O	know	x	x	0
+O	0	37	O	O	,	x	x	0
+B-PER	0	38	O	O	they	x	x	0
+O	0	39	O	O	just	x	x	0
+O	0	40	O	O	took	x	x	0
+O	0	41	O	O	over	x	x	0
+O	0	42	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	and	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	in	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	a	x	x	0
+I-GPE	0	3	O	O	region	x	x	0
+B-GPE	0	4	O	O	where	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	uh	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	know	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	y	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	know	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	we	x	x	0
+O	0	16	O	O	live	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	America	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	coup	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	f	x	x	0
+B-GPE	0	8	O	O	our	x	x	0
+O	0	9	O	O	country	x	x	0
+O	0	10	O	O	's	x	x	0
+B-TIME	0	11	O	O	a	x	x	0
+I-TIME	0	12	O	O	couple	x	x	0
+I-TIME	0	13	O	O	hundred	x	x	0
+I-TIME	0	14	O	O	years	x	x	0
+I-TIME	0	15	O	O	old	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	we	x	x	0
+O	0	18	O	O	got	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	couple	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	gripes	x	x	0
+O	0	23	O	O	going	x	x	0
+O	0	24	O	O	back	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	,	x	x	0
+B-PER	0	27	O	O	you	x	x	0
+O	0	28	O	O	know	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	what	x	x	0
+O	0	31	O	O	,	x	x	0
+B-TIME	0	32	O	O	seventeen	x	x	0
+I-TIME	0	33	O	O	seventy	x	x	0
+I-TIME	0	34	O	O	six	x	x	0
+O	0	35	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	there	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	goes	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	thous	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	like	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	Hatfields	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	McCoys	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	fi	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	even	x	x	0
+O	0	7	O	O	know	x	x	0
+O	0	8	O	O	why	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	're	x	x	0
+O	0	11	O	O	fighting	x	x	0
+O	0	12	O	O	anymore	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	just	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	hate	x	x	0
+B-PER	0	4	O	O	each	x	x	0
+I-PER	0	5	O	O	other	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	're	x	x	0
+O	0	9	O	O	always	x	x	0
+O	0	10	O	O	going	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	hate	x	x	0
+B-PER	0	13	O	O	each	x	x	0
+I-PER	0	14	O	O	other	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	does	x	x	0
+O	0	18	O	O	n't	x	x	0
+O	0	19	O	O	matter	x	x	0
+B-PER	0	20	O	O	who	x	x	0
+O	0	21	O	O	started	x	x	0
+O	0	22	O	O	it	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	but	x	x	0
+B-PER	0	25	O	O	i	x	x	0
+B-PER	0	26	O	O	you	x	x	0
+O	0	27	O	O	know	x	x	0
+O	0	28	O	O	,	x	x	0
+B-PER	0	29	O	O	somebody	x	x	0
+O	0	30	O	O	eh	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	th	x	x	0
+B-PER	0	33	O	O	somebody	x	x	0
+O	0	34	O	O	's	x	x	0
+O	0	35	O	O	in	x	x	0
+O	0	36	O	O	always	x	x	0
+O	0	37	O	O	intent	x	x	0
+O	0	38	O	O	on	x	x	0
+O	0	39	O	O	winning	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	's	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	know	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	war	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	attrition	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nobody	x	x	0
+O	0	1	O	O	wins	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	either	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	may	x	x	0
+O	0	9	O	O	kill	x	x	0
+B-PER	0	10	O	O	me	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	'm	x	x	0
+O	0	15	O	O	going	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	kill	x	x	0
+O	0	18	O	O	all	x	x	0
+O	0	19	O	O	of	x	x	0
+B-PER	0	20	O	O	you	x	x	0
+O	0	21	O	O	before	x	x	0
+O	0	22	O	O	y	x	x	0
+B-PER	0	23	O	O	you	x	x	0
+O	0	24	O	O	know	x	x	0
+O	0	25	O	O	what	x	x	0
+B-PER	0	26	O	O	I	x	x	0
+O	0	27	O	O	mean	x	x	0
+O	0	28	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	i	x	x	0
+O	0	4	O	O	i	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	stupid	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	whole	x	x	0
+O	0	2	O	O	thing	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	stupid	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	guy	x	x	0
+O	0	3	O	O	like	x	x	0
+B-PER	0	4	O	O	Yasser	x	x	0
+I-PER	0	5	O	O	Arafat	x	x	0
+O	0	6	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	he	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	terrorist	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	in	x	x	0
+I-TIME	0	2	O	O	the	x	x	0
+I-TIME	0	3	O	O	sixties	x	x	0
+B-TIME	0	4	O	O	in	x	x	0
+I-TIME	0	5	O	O	the	x	x	0
+I-TIME	0	6	O	O	mid	x	x	0
+I-TIME	0	7	O	O	sixties	x	x	0
+O	0	8	O	O	an	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	a	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	know	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	into	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	know	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	through	x	x	0
+B-TIME	0	21	O	O	the	x	x	0
+I-TIME	0	22	O	O	mid	x	x	0
+I-TIME	0	23	O	O	eighties	x	x	0
+B-PER	0	24	O	O	the	x	x	0
+I-PER	0	25	O	O	guy	x	x	0
+O	0	26	O	O	was	x	x	0
+B-PER	0	27	O	O	a	x	x	0
+I-PER	0	28	O	O	terrorist	x	x	0
+O	0	29	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	let	x	x	0
+B-PER	0	3	O	O	us	x	x	0
+O	0	4	O	O	let	x	x	0
+B-PER	0	5	O	O	us	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	forget	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	when	x	x	0
+B-GPE	0	10	O	O	Israel	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	formed	x	x	0
+O	0	13	O	O	and	x	x	0
+B-GPE	0	14	O	O	they	x	x	0
+O	0	15	O	O	were	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	um	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	Israelis	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	not	x	x	0
+O	0	24	O	O	feeling	x	x	0
+O	0	25	O	O	like	x	x	0
+B-GPE	0	26	O	O	they	x	x	0
+O	0	27	O	O	had	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	legitimate	x	x	0
+O	0	30	O	O	right	x	x	0
+O	0	31	O	O	some	x	x	0
+O	0	32	O	O	of	x	x	0
+B-LOC	0	33	O	O	the	x	x	0
+I-LOC	0	34	O	O	land	x	x	0
+O	0	35	O	O	or	x	x	0
+B-LOC	0	36	O	O	that	x	x	0
+I-LOC	0	37	O	O	land	x	x	0
+O	0	38	O	O	was	x	x	0
+O	0	39	O	O	n't	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	um	x	x	0
+O	0	42	O	O	,	x	x	0
+O	0	43	O	O	rightfully	x	x	0
+B-GPE	0	44	O	O	theirs	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	were	x	x	0
+B-ORG	0	2	O	O	two	x	x	0
+I-ORG	0	3	O	O	very	x	x	0
+I-ORG	0	4	O	O	strong	x	x	0
+I-ORG	0	5	O	O	militant	x	x	0
+I-ORG	0	6	O	O	groups	x	x	0
+B-ORG	0	7	O	O	that	x	x	0
+O	0	8	O	O	were	x	x	0
+B-GPE	0	9	O	O	Israeli	x	x	0
+O	0	10	O	O	and	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	committed	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	lot	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	terrorist	x	x	0
+O	0	17	O	O	acts	x	x	0
+O	0	18	O	O	,	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	yeah	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	Zionists	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Abso	x	x	0
+O	0	1	O	O	absolutely	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	much	x	x	0
+O	0	1	O	O	Yeah	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	mean	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	i	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	know	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	uh	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	how	x	x	0
+B-PER	0	12	O	O	we	x	x	0
+O	0	13	O	O	consider	x	x	0
+B-PER	0	14	O	O	Arafat	x	x	0
+B-PER	0	15	O	O	a	x	x	0
+I-PER	0	16	O	O	terrorist	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	we	x	x	0
+O	0	19	O	O	also	x	x	0
+O	0	20	O	O	should	x	x	0
+O	0	21	O	O	consider	x	x	0
+O	0	22	O	O	that	x	x	0
+O	0	23	O	O	could	x	x	0
+O	0	24	O	O	've	x	x	0
+O	0	25	O	O	been	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	some	x	x	0
+O	0	29	O	O	ways	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	reaction	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	some	x	x	0
+O	0	35	O	O	of	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	terrorism	x	x	0
+O	0	38	O	O	that	x	x	0
+O	0	39	O	O	was	x	x	0
+O	0	40	O	O	initially	x	x	0
+O	0	41	O	O	committed	x	x	0
+O	0	42	O	O	by	x	x	0
+B-GPE	0	43	O	O	the	x	x	0
+I-GPE	0	44	O	O	Israelis	x	x	0
+O	0	45	O	O	.	x	x	0
+
+O	0	0	O	O	Absolutely	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	believe	x	x	0
+B-PER	0	4	O	O	me	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	'm	x	x	0
+O	0	8	O	O	not	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	'm	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	excusing	x	x	0
+B-PER	0	13	O	O	anybody	x	x	0
+O	0	14	O	O	but	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	purpose	x	x	0
+O	0	18	O	O	I	x	x	0
+B-PER	0	19	O	O	I	x	x	0
+O	0	20	O	O	mean	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	way	x	x	0
+B-PER	0	24	O	O	I	x	x	0
+O	0	25	O	O	see	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	is	x	x	0
+B-PER	0	28	O	O	you	x	x	0
+O	0	29	O	O	know	x	x	0
+O	0	30	O	O	,	x	x	0
+B-PER	0	31	O	O	I	x	x	0
+O	0	32	O	O	guess	x	x	0
+O	0	33	O	O	for	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	purposes	x	x	0
+O	0	36	O	O	of	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	conversation	x	x	0
+O	0	39	O	O	th	x	x	0
+O	0	40	O	O	that	x	x	0
+B-PER	0	41	O	O	they	x	x	0
+O	0	42	O	O	want	x	x	0
+O	0	43	O	O	to	x	x	0
+O	0	44	O	O	hear	x	x	0
+O	0	45	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	y	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	kind	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	put	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	as	x	x	0
+O	0	11	O	O	y	x	x	0
+O	0	12	O	O	i	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	kind	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	like	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	if	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	's	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	case	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	do	x	x	0
+O	0	26	O	O	two	x	x	0
+O	0	27	O	O	wrongs	x	x	0
+O	0	28	O	O	really	x	x	0
+O	0	29	O	O	make	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	right	x	x	0
+O	0	32	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	what	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	mean	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	if	x	x	0
+B-PER	0	2	O	O	Arafat	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	been	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	know	x	x	0
+O	0	10	O	O	if	x	x	0
+B-PER	0	11	O	O	he	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	directly	x	x	0
+O	0	14	O	O	been	x	x	0
+O	0	15	O	O	linked	x	x	0
+O	0	16	O	O	to	x	x	0
+B-ORG	0	17	O	O	Hamas	x	x	0
+O	0	18	O	O	'	x	x	0
+O	0	19	O	O	acts	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	uh	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	but	x	x	0
+B-PER	0	24	O	O	he	x	x	0
+O	0	25	O	O	was	x	x	0
+O	0	26	O	O	put	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	pretty	x	x	0
+O	0	30	O	O	sticky	x	x	0
+O	0	31	O	O	situation	x	x	0
+O	0	32	O	O	having	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	negotiate	x	x	0
+O	0	35	O	O	the	x	x	0
+O	0	36	O	O	militants	x	x	0
+O	0	37	O	O	of	x	x	0
+B-GPE	0	38	O	O	Palestine	x	x	0
+B-PER	0	39	O	O	the	x	x	0
+I-PER	0	40	O	O	international	x	x	0
+I-PER	0	41	O	O	leaders	x	x	0
+O	0	42	O	O	and	x	x	0
+O	0	43	O	O	if	x	x	0
+O	0	44	O	O	it	x	x	0
+O	0	45	O	O	if	x	x	0
+O	0	46	O	O	Hara	x	x	0
+B-PER	0	47	O	O	Arafat	x	x	0
+O	0	48	O	O	had	x	x	0
+O	0	49	O	O	n't	x	x	0
+O	0	50	O	O	somehow	x	x	0
+O	0	51	O	O	appeased	x	x	0
+O	0	52	O	O	the	x	x	0
+B-ORG	0	53	O	O	Hamas	x	x	0
+O	0	54	O	O	groups	x	x	0
+O	0	55	O	O	or	x	x	0
+O	0	56	O	O	the	x	x	0
+B-GPE	0	57	O	O	Palestinian	x	x	0
+O	0	58	O	O	militants	x	x	0
+O	0	59	O	O	,	x	x	0
+O	0	60	O	O	then	x	x	0
+B-PER	0	61	O	O	he	x	x	0
+O	0	62	O	O	would	x	x	0
+O	0	63	O	O	've	x	x	0
+O	0	64	O	O	been	x	x	0
+O	0	65	O	O	kicked	x	x	0
+O	0	66	O	O	out	x	x	0
+O	0	67	O	O	,	x	x	0
+O	0	68	O	O	overthrown	x	x	0
+O	0	69	O	O	by	x	x	0
+O	0	70	O	O	by	x	x	0
+B-PER	0	71	O	O	the	x	x	0
+I-PER	0	72	O	O	Palestinians	x	x	0
+O	0	73	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	forget	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	kicked	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	or	x	x	0
+O	0	7	O	O	overthrown	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	would	x	x	0
+O	0	11	O	O	've	x	x	0
+O	0	12	O	O	been	x	x	0
+O	0	13	O	O	killed	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's-that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	how	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	works	x	x	0
+O	0	6	O	O	over	x	x	0
+B-GPE	0	7	O	O	there	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Exactly	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	really	x	x	0
+B-PER	0	7	O	O	Arafat	x	x	0
+O	0	8	O	O	as	x	x	0
+B-PER	0	9	O	O	an	x	x	0
+I-PER	0	10	O	O	individual	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	think	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	just	x	x	0
+B-PER	0	17	O	O	whatever	x	x	0
+I-PER	0	18	O	O	leader	x	x	0
+I-PER	0	19	O	O	is	x	x	0
+I-PER	0	20	O	O	placed	x	x	0
+I-PER	0	21	O	O	in	x	x	0
+I-PER	0	22	O	O	the	x	x	0
+I-PER	0	23	O	O	position	x	x	0
+I-PER	0	24	O	O	of	x	x	0
+O	0	25	O	O	-	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	basically	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	mean	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	've	x	x	0
+O	0	10	O	O	read	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	've	x	x	0
+O	0	13	O	O	read	x	x	0
+O	0	14	O	O	articles	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	stories	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	basically	x	x	0
+O	0	22	O	O	have	x	x	0
+O	0	23	O	O	linked	x	x	0
+B-PER	0	24	O	O	him	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	the	x	x	0
+B-GPE	0	31	O	O	Munich	x	x	0
+O	0	32	O	O	massacre	x	x	0
+O	0	33	O	O	th	x	x	0
+B-PER	0	34	O	O	you	x	x	0
+O	0	35	O	O	know	x	x	0
+O	0	36	O	O	,	x	x	0
+O	0	37	O	O	the	x	x	0
+B-GPE	0	38	O	O	Munich	x	x	0
+O	0	39	O	O	Olympic	x	x	0
+O	0	40	O	O	massacre	x	x	0
+O	0	41	O	O	th	x	x	0
+O	0	42	O	O	the	x	x	0
+O	0	43	O	O	Is	x	x	0
+O	0	44	O	O	the	x	x	0
+B-GPE	0	45	O	O	Israeli	x	x	0
+O	0	46	O	O	team	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	problem	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	what	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	back	x	x	0
+O	0	9	O	O	way	x	x	0
+O	0	10	O	O	back	x	x	0
+O	0	11	O	O	when	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	will	x	x	0
+O	0	1	O	O	f	x	x	0
+O	0	2	O	O	forever	x	x	0
+O	0	3	O	O	tarnish	x	x	0
+O	0	4	O	O	anything	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	in	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	later	x	x	0
+O	0	11	O	O	years	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Like	x	x	0
+O	0	1	O	O	like	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	bringing	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	groups	x	x	0
+O	0	8	O	O	together	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	reason	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	able	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	bring	x	x	0
+B-ORG	0	18	O	O	them	x	x	0
+O	0	19	O	O	together	x	x	0
+O	0	20	O	O	is	x	x	0
+O	0	21	O	O	because	x	x	0
+B-PER	0	22	O	O	he	x	x	0
+O	0	23	O	O	was	x	x	0
+O	0	24	O	O	once	x	x	0
+O	0	25	O	O	one	x	x	0
+O	0	26	O	O	of	x	x	0
+B-ORG	0	27	O	O	them	x	x	0
+O	0	28	O	O	.	x	x	0
+

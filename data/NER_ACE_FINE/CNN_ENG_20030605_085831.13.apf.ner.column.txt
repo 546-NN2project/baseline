@@ -1,0 +1,672 @@
+O	0	0	O	O	that	x	x	0
+O	0	1	O	O	standing	x	x	0
+O	0	2	O	O	ovation	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	Sammy	x	x	0
+I-PER	0	5	O	O	Sosa	x	x	0
+O	0	6	O	O	got	x	x	0
+O	0	7	O	O	at	x	x	0
+B-FAC	0	8	O	O	Wrigley	x	x	0
+I-FAC	0	9	O	O	field	x	x	0
+B-TIME	0	10	O	O	last	x	x	0
+I-TIME	0	11	O	O	night	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-ORG	0	1	O	O	Major	x	x	0
+I-ORG	0	2	O	O	League	x	x	0
+I-ORG	0	3	O	O	baseball	x	x	0
+O	0	4	O	O	official	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	skilledded	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	conduct	x	x	0
+O	0	9	O	O	interviews	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	Chicago	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Those	x	x	0
+O	0	1	O	O	interviews	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	factor	x	x	0
+O	0	6	O	O	as	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	league	x	x	0
+O	0	9	O	O	decides	x	x	0
+O	0	10	O	O	how	x	x	0
+B-PER	0	11	O	O	Sammy	x	x	0
+I-PER	0	12	O	O	Sosa	x	x	0
+O	0	13	O	O	will	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	punished	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	using	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	court-filled	x	x	0
+O	0	20	O	O	Bat	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	Gary	x	x	0
+O	0	2	O	O	Tuchman	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	live	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Good	x	x	0
+B-TIME	0	1	O	O	Morning	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	Cub	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	player	x	x	0
+B-TIME	0	6	O	O	this	x	x	0
+I-TIME	0	7	O	O	afternoon	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	once	x	x	0
+O	0	10	O	O	again	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	Sammy	x	x	0
+I-PER	0	13	O	O	Sosa	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	be	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	lineup	x	x	0
+O	0	19	O	O	but	x	x	0
+B-PER	0	20	O	O	he	x	x	0
+O	0	21	O	O	could	x	x	0
+O	0	22	O	O	find	x	x	0
+O	0	23	O	O	out	x	x	0
+B-TIME	0	24	O	O	as	x	x	0
+I-TIME	0	25	O	O	early	x	x	0
+I-TIME	0	26	O	O	as	x	x	0
+I-TIME	0	27	O	O	today	x	x	0
+O	0	28	O	O	what	x	x	0
+B-PER	0	29	O	O	his	x	x	0
+O	0	30	O	O	punishment	x	x	0
+O	0	31	O	O	will	x	x	0
+O	0	32	O	O	be	x	x	0
+O	0	33	O	O	and	x	x	0
+O	0	34	O	O	how	x	x	0
+O	0	35	O	O	many	x	x	0
+O	0	36	O	O	games	x	x	0
+B-PER	0	37	O	O	he	x	x	0
+O	0	38	O	O	'll	x	x	0
+O	0	39	O	O	be	x	x	0
+O	0	40	O	O	suspend	x	x	0
+O	0	41	O	O	for	x	x	0
+O	0	42	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Last	x	x	0
+I-TIME	0	1	O	O	night	x	x	0
+O	0	2	O	O	when	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	went	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	play	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	first	x	x	0
+O	0	10	O	O	time	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	most	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	fans	x	x	0
+O	0	16	O	O	on	x	x	0
+B-FAC	0	17	O	O	Wrigley	x	x	0
+I-FAC	0	18	O	O	Field	x	x	0
+O	0	19	O	O	gave	x	x	0
+B-PER	0	20	O	O	him	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	standing	x	x	0
+O	0	23	O	O	ovation	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	fairness	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	not	x	x	0
+I-PER	0	5	O	O	all	x	x	0
+I-PER	0	6	O	O	of	x	x	0
+I-PER	0	7	O	O	them	x	x	0
+O	0	8	O	O	totally	x	x	0
+O	0	9	O	O	believed	x	x	0
+B-PER	0	10	O	O	Sammy	x	x	0
+I-PER	0	11	O	O	Sosa	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	hero	x	x	0
+B-GPE	0	17	O	O	here	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	they	x	x	0
+O	0	20	O	O	want	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	believe	x	x	0
+B-PER	0	23	O	O	Sammy	x	x	0
+I-PER	0	24	O	O	Sosa	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	hit	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	ground	x	x	0
+O	0	4	O	O	ball	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	first	x	x	0
+O	0	8	O	O	inning	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	scored	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	run	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	but	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	run	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	taken	x	x	0
+O	0	20	O	O	away	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sosa	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	quicked	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	game	x	x	0
+O	0	7	O	O	after	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	found	x	x	0
+O	0	11	O	O	out	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	had	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	cork	x	x	0
+O	0	16	O	O	during	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	Bat	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	meant	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	use	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	during	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	game	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+B-PER	0	11	O	O	he	x	x	0
+O	0	12	O	O	did	x	x	0
+O	0	13	O	O	use	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	during	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	game	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Major	x	x	0
+I-ORG	0	1	O	O	League	x	x	0
+I-ORG	0	2	O	O	baseball	x	x	0
+O	0	3	O	O	took	x	x	0
+O	0	4	O	O	76	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	bats	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	x-rayed	x	x	0
+O	0	10	O	O	them	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	Cork	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	those	x	x	0
+O	0	1	O	O	x	x	x	0
+O	0	2	O	O	race	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	negative	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	conducted	x	x	0
+O	0	3	O	O	by	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	trained	x	x	0
+I-PER	0	6	O	O	radiological	x	x	0
+I-PER	0	7	O	O	technician	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	believe	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	x-ray	x	x	0
+O	0	4	O	O	process	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	sufficient	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	determine	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	state	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	those	x	x	0
+O	0	13	O	O	bats	x	x	0
+O	0	14	O	O	and	x	x	0
+B-ORG	0	15	O	O	we	x	x	0
+O	0	16	O	O	're	x	x	0
+O	0	17	O	O	very	x	x	0
+O	0	18	O	O	confident	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	all	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	those	x	x	0
+O	0	23	O	O	bats	x	x	0
+O	0	24	O	O	were	x	x	0
+O	0	25	O	O	clean	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	had	x	x	0
+O	0	28	O	O	no	x	x	0
+O	0	29	O	O	foreign	x	x	0
+O	0	30	O	O	substances	x	x	0
+O	0	31	O	O	within	x	x	0
+O	0	32	O	O	them	x	x	0
+O	0	33	O	O	.	x	x	0
+
+O	0	0	O	O	it	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	mistake	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+B-PER	0	2	O	O	all	x	x	0
+I-PER	0	3	O	O	human	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	made	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	mistake	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nobody	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	perfect	x	x	0
+O	0	3	O	O	in	x	x	0
+B-LOC	0	4	O	O	this	x	x	0
+I-LOC	0	5	O	O	world	x	x	0
+O	0	6	O	O	upon	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+B-TIME	0	2	O	O	Last	x	x	0
+I-TIME	0	3	O	O	night	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	Bat	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	assumed	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	cork	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	Sammy	x	x	0
+I-PER	0	15	O	O	Sosa	x	x	0
+O	0	16	O	O	struck	x	x	0
+O	0	17	O	O	out	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	first	x	x	0
+O	0	20	O	O	three	x	x	0
+O	0	21	O	O	times	x	x	0
+O	0	22	O	O	up	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	hit	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	single	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	ninety	x	x	0
+O	0	8	O	O	inning	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	losing	x	x	0
+O	0	12	O	O	effort	x	x	0
+O	0	13	O	O	for	x	x	0
+B-ORG	0	14	O	O	the	x	x	0
+I-ORG	0	15	O	O	Chicago	x	x	0
+I-ORG	0	16	O	O	cubs	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Back	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	there	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	concern	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	huge	x	x	0
+O	0	7	O	O	series	x	x	0
+B-GPE	0	8	O	O	there	x	x	0
+B-TIME	0	9	O	O	this	x	x	0
+I-TIME	0	10	O	O	weekend	x	x	0
+O	0	11	O	O	with	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	Yankees	x	x	0
+O	0	14	O	O	coming	x	x	0
+O	0	15	O	O	to	x	x	0
+B-GPE	0	16	O	O	town	x	x	0
+O	0	17	O	O	that	x	x	0
+B-PER	0	18	O	O	Sammy	x	x	0
+O	0	19	O	O	would	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	suspended	x	x	0
+O	0	22	O	O	during	x	x	0
+O	0	23	O	O	that	x	x	0
+O	0	24	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	the	x	x	0
+I-ORG	0	1	O	O	Yankees	x	x	0
+O	0	2	O	O	vpts	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	to	x	x	0
+B-FAC	0	5	O	O	Wrigley	x	x	0
+I-FAC	0	6	O	O	field	x	x	0
+O	0	7	O	O	since	x	x	0
+B-TIME	0	8	O	O	the	x	x	0
+I-TIME	0	9	O	O	1930s	x	x	0
+O	0	10	O	O	since	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	played	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	cubs	x	x	0
+O	0	15	O	O	in	x	x	0
+B-TIME	0	16	O	O	the	x	x	0
+I-TIME	0	17	O	O	1930s	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sosa	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	suspension	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	could	x	x	0
+O	0	9	O	O	appeal	x	x	0
+O	0	10	O	O	suspension	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	if	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	wanted	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	play	x	x	0
+O	0	6	O	O	against	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	Yankees	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	probably	x	x	0
+O	0	12	O	O	will	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	able	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Gary	x	x	0
+I-PER	0	1	O	O	Tuchman	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Chicago	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	so	x	x	0
+O	0	2	O	O	much	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	bring	x	x	0
+B-PER	0	3	O	O	Jack	x	x	0
+O	0	4	O	O	back	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	with	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	question	x	x	0
+O	0	9	O	O	of	x	x	0
+B-TIME	0	10	O	O	the	x	x	0
+I-TIME	0	11	O	O	day	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	bill	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	also	x	x	0
+O	0	16	O	O	joining	x	x	0
+B-PER	0	17	O	O	us	x	x	0
+O	0	18	O	O	from	x	x	0
+B-GPE	0	19	O	O	D.C.	x	x	0
+I-GPE	0	20	O	O	.	x	x	0
+
+O	0	0	O	O	Hello	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	William	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	over	x	x	0
+B-PER	0	1	O	O	your	x	x	0
+O	0	2	O	O	shoulder	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Jack	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	keeping	x	x	0
+O	0	1	O	O	an	x	x	0
+O	0	2	O	O	eye	x	x	0
+O	0	3	O	O	on	x	x	0
+B-PER	0	4	O	O	us	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Martha	x	x	0
+I-PER	0	1	O	O	Stewart	x	x	0
+O	0	2	O	O	unfairly	x	x	0
+O	0	3	O	O	singled	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	prosecution	x	x	0
+O	0	7	O	O	or	x	x	0
+O	0	8	O	O	is	x	x	0
+B-PER	0	9	O	O	she	x	x	0
+O	0	10	O	O	getting	x	x	0
+O	0	11	O	O	what	x	x	0
+B-PER	0	12	O	O	she	x	x	0
+O	0	13	O	O	deserved	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Jim	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	New	x	x	0
+I-GPE	0	3	O	O	York	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	've	x	x	0
+O	0	7	O	O	des	x	x	0
+O	0	8	O	O	Piesed	x	x	0
+B-PER	0	9	O	O	Martha	x	x	0
+I-PER	0	10	O	O	Stewart	x	x	0
+O	0	11	O	O	for	x	x	0
+B-TIME	0	12	O	O	years	x	x	0
+O	0	13	O	O	before	x	x	0
+O	0	14	O	O	the	x	x	0
+B-ORG	0	15	O	O	imclone	x	x	0
+O	0	16	O	O	scandal	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	but	x	x	0
+O	0	19	O	O	all	x	x	0
+O	0	20	O	O	this	x	x	0
+O	0	21	O	O	prosecution	x	x	0
+O	0	22	O	O	does	x	x	0
+O	0	23	O	O	is	x	x	0
+O	0	24	O	O	how	x	x	0
+O	0	25	O	O	bias	x	x	0
+B-PER	0	26	O	O	prosecutors	x	x	0
+O	0	27	O	O	are	x	x	0
+O	0	28	O	O	when	x	x	0
+B-PER	0	29	O	O	they	x	x	0
+O	0	30	O	O	deal	x	x	0
+O	0	31	O	O	with	x	x	0
+O	0	32	O	O	moguls	x	x	0
+B-PER	0	33	O	O	who	x	x	0
+O	0	34	O	O	strip	x	x	0
+O	0	35	O	O	the	x	x	0
+O	0	36	O	O	hopes	x	x	0
+O	0	37	O	O	of	x	x	0
+O	0	38	O	O	investors.	x	x	0
+B-PER	0	39	O	O	ceos	x	x	0
+O	0	40	O	O	,	x	x	0
+B-PER	0	41	O	O	sleaze	x	x	0
+O	0	42	O	O	walk	x	x	0
+O	0	43	O	O	free	x	x	0
+O	0	44	O	O	,	x	x	0
+O	0	45	O	O	market	x	x	0
+O	0	46	O	O	should	x	x	0
+O	0	47	O	O	be	x	x	0
+O	0	48	O	O	free	x	x	0
+O	0	49	O	O	to	x	x	0
+O	0	50	O	O	stroll	x	x	0
+O	0	51	O	O	right	x	x	0
+O	0	52	O	O	along	x	x	0
+O	0	53	O	O	with	x	x	0
+B-PER	0	54	O	O	them	x	x	0
+O	0	55	O	O	into	x	x	0
+O	0	56	O	O	the	x	x	0
+B-PER	0	57	O	O	CEO	x	x	0
+O	0	58	O	O	Hall	x	x	0
+O	0	59	O	O	of	x	x	0
+O	0	60	O	O	Shame	x	x	0
+O	0	61	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Joe	x	x	0
+O	0	1	O	O	In	x	x	0
+B-GPE	0	2	O	O	Michigan	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	prosecute	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	when	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	skit	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	life	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	professing	x	x	0
+O	0	13	O	O	trust	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	integrity	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	violate	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	responsilibity	x	x	0
+O	0	21	O	O	to	x	x	0
+B-PER	0	22	O	O	your	x	x	0
+O	0	23	O	O	believing	x	x	0
+O	0	24	O	O	public	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	then	x	x	0
+B-PER	0	27	O	O	you	x	x	0
+O	0	28	O	O	should	x	x	0
+O	0	29	O	O	be	x	x	0
+O	0	30	O	O	done	x	x	0
+O	0	31	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Jude	x	x	0
+O	0	1	O	O	Nith	x	x	0
+B-GPE	0	2	O	O	Florida	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	says	x	x	0
+B-PER	0	5	O	O	eye	x	x	0
+O	0	6	O	O	never	x	x	0
+O	0	7	O	O	liked	x	x	0
+B-PER	0	8	O	O	Martha	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+B-TIME	0	11	O	O	now	x	x	0
+B-PER	0	12	O	O	she	x	x	0
+O	0	13	O	O	's	x	x	0
+B-PER	0	14	O	O	a	x	x	0
+I-PER	0	15	O	O	part	x	x	0
+I-PER	0	16	O	O	of	x	x	0
+I-PER	0	17	O	O	good	x	x	0
+

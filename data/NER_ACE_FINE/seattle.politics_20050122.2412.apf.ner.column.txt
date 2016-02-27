@@ -1,0 +1,663 @@
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	administration	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	approach	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	history	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	odds	x	x	0
+O	0	9	O	O	with	x	x	0
+O	0	10	O	O	what	x	x	0
+O	0	11	O	O	has	x	x	0
+O	0	12	O	O	been	x	x	0
+O	0	13	O	O	described	x	x	0
+O	0	14	O	O	by	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	communications	x	x	0
+O	0	17	O	O	adviser	x	x	0
+O	0	18	O	O	to	x	x	0
+B-PER	0	19	O	O	the	x	x	0
+I-PER	0	20	O	O	president	x	x	0
+O	0	21	O	O	as	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	"	x	x	0
+O	0	24	O	O	reality-based	x	x	0
+O	0	25	O	O	community	x	x	0
+O	0	26	O	O	.	x	x	0
+O	0	27	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	dumb	x	x	0
+O	0	2	O	O	phrase	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	but	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	dumb	x	x	0
+O	0	8	O	O	thought	x	x	0
+O	0	9	O	O	:	x	x	0
+B-PER	0	10	O	O	He	x	x	0
+O	0	11	O	O	meant	x	x	0
+O	0	12	O	O	that	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	administration	x	x	0
+O	0	15	O	O	sees	x	x	0
+O	0	16	O	O	history	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	dynamic	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	changeable	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	not	x	x	0
+O	0	23	O	O	static	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	impervious	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	redirection	x	x	0
+O	0	28	O	O	or	x	x	0
+O	0	29	O	O	improvement	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+B-PER	0	3	O	O	Bush	x	x	0
+O	0	4	O	O	administration	x	x	0
+O	0	5	O	O	way	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	happens	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	realistic	x	x	0
+O	0	13	O	O	:	x	x	0
+O	0	14	O	O	History	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	dynamic	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	changeable	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	other	x	x	0
+O	0	3	O	O	hand	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	things	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	constant	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	such	x	x	0
+O	0	11	O	O	as	x	x	0
+B-PER	0	12	O	O	human	x	x	0
+O	0	13	O	O	imperfection	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	injustice	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	misery	x	x	0
+O	0	18	O	O	and	x	x	0
+B-ORG	0	19	O	O	bad	x	x	0
+I-ORG	0	20	O	O	government	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-LOC	0	0	O	O	This	x	x	0
+I-LOC	0	1	O	O	world	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	heaven	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	president	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	speech	x	x	0
+O	0	4	O	O	seemed	x	x	0
+O	0	5	O	O	rather	x	x	0
+O	0	6	O	O	heavenish	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	God-drenched	x	x	0
+O	0	4	O	O	speech	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	president	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	accused	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	giving	x	x	0
+O	0	9	O	O	too	x	x	0
+O	0	10	O	O	much	x	x	0
+O	0	11	O	O	attention	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	religious	x	x	0
+O	0	14	O	O	imagery	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	religious	x	x	0
+O	0	17	O	O	thought	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	has	x	x	0
+O	0	20	O	O	not	x	x	0
+O	0	21	O	O	let	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	criticism	x	x	0
+O	0	24	O	O	enter	x	x	0
+B-PER	0	25	O	O	him	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	God	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	invoked	x	x	0
+O	0	3	O	O	relentlessly	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	The	x	x	0
+O	0	2	O	O	Author	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	Liberty.""	x	x	0
+B-PER	0	5	O	O	God	x	x	0
+O	0	6	O	O	moves	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	chooses	x	x	0
+O	0	9	O	O	as	x	x	0
+B-PER	0	10	O	O	He	x	x	0
+O	0	11	O	O	wills	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	confidence	x	x	0
+O	0	3	O	O	because	x	x	0
+O	0	4	O	O	freedom	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	permanent	x	x	0
+O	0	8	O	O	hope	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	mankind	x	x	0
+O	0	11	O	O	.	x	x	0
+O	0	12	O	O	.	x	x	0
+O	0	13	O	O	.	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	longing	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	soul	x	x	0
+O	0	19	O	O	.	x	x	0
+O	0	20	O	O	"	x	x	0
+
+O	0	0	O	O	Ending	x	x	0
+O	0	1	O	O	tyranny	x	x	0
+O	0	2	O	O	in	x	x	0
+B-LOC	0	3	O	O	the	x	x	0
+I-LOC	0	4	O	O	world	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	ambition	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	if	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	're	x	x	0
+O	0	10	O	O	going	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	an	x	x	0
+O	0	14	O	O	ambition	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	might	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	well	x	x	0
+O	0	19	O	O	be	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	big	x	x	0
+O	0	22	O	O	one	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	declaration	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	which	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	wrong	x	x	0
+O	0	8	O	O	by	x	x	0
+O	0	9	O	O	any	x	x	0
+O	0	10	O	O	means	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	seemed	x	x	0
+O	0	13	O	O	to	x	x	0
+B-PER	0	14	O	O	me	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	land	x	x	0
+O	0	17	O	O	somewhere	x	x	0
+O	0	18	O	O	between	x	x	0
+O	0	19	O	O	dreamy	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	disturbing	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Tyranny	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	bad	x	x	0
+O	0	5	O	O	thing	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	quite	x	x	0
+O	0	8	O	O	wicked	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+B-PER	0	11	O	O	one	x	x	0
+O	0	12	O	O	does	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	expect	x	x	0
+B-GPE	0	15	O	O	we	x	x	0
+O	0	16	O	O	're	x	x	0
+O	0	17	O	O	going	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	eradicate	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	any	x	x	0
+O	0	22	O	O	time	x	x	0
+O	0	23	O	O	soon	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Again	x	x	0
+O	0	1	O	O	,	x	x	0
+B-LOC	0	2	O	O	this	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	heaven	x	x	0
+O	0	6	O	O	,	x	x	0
+B-LOC	0	7	O	O	it	x	x	0
+O	0	8	O	O	's	x	x	0
+B-LOC	0	9	O	O	earth	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	god	x	x	0
+O	0	1	O	O	drenched	x	x	0
+O	0	2	O	O	?	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	good	x	x	0
+O	0	7	O	O	company.	x	x	0
+O	0	8	O	O	read	x	x	0
+B-PER	0	9	O	O	lincoln	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	rather	x	x	0
+O	0	12	O	O	short	x	x	0
+O	0	13	O	O	2nd	x	x	0
+O	0	14	O	O	inaugural	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	about	x	x	0
+O	0	18	O	O	as	x	x	0
+O	0	19	O	O	"	x	x	0
+B-PER	0	20	O	O	god	x	x	0
+O	0	21	O	O	drenched'	x	x	0
+O	0	22	O	O	as	x	x	0
+B-PER	0	23	O	O	you	x	x	0
+O	0	24	O	O	could	x	x	0
+O	0	25	O	O	get.	x	x	0
+O	0	26	O	O	way	x	x	0
+O	0	27	O	O	more	x	x	0
+O	0	28	O	O	so	x	x	0
+O	0	29	O	O	than	x	x	0
+B-PER	0	30	O	O	bush	x	x	0
+O	0	31	O	O	's	x	x	0
+O	0	32	O	O	(	x	x	0
+B-PER	0	33	O	O	god	x	x	0
+O	0	34	O	O	,	x	x	0
+B-PER	0	35	O	O	He	x	x	0
+O	0	36	O	O	,	x	x	0
+B-PER	0	37	O	O	the	x	x	0
+I-PER	0	38	O	O	Lord	x	x	0
+O	0	39	O	O	,	x	x	0
+O	0	40	O	O	etc.)	x	x	0
+O	0	41	O	O	over	x	x	0
+O	0	42	O	O	and	x	x	0
+O	0	43	O	O	over	x	x	0
+O	0	44	O	O	and	x	x	0
+O	0	45	O	O	over	x	x	0
+O	0	46	O	O	again.	x	x	0
+O	0	47	O	O	considering	x	x	0
+O	0	48	O	O	the	x	x	0
+O	0	49	O	O	brevity	x	x	0
+O	0	50	O	O	of	x	x	0
+O	0	51	O	O	the	x	x	0
+O	0	52	O	O	speech	x	x	0
+O	0	53	O	O	,	x	x	0
+B-PER	0	54	O	O	you	x	x	0
+O	0	55	O	O	could	x	x	0
+O	0	56	O	O	barely	x	x	0
+O	0	57	O	O	fit	x	x	0
+O	0	58	O	O	any	x	x	0
+O	0	59	O	O	more	x	x	0
+O	0	60	O	O	"	x	x	0
+O	0	61	O	O	god	x	x	0
+O	0	62	O	O	's	x	x	0
+O	0	63	O	O	"	x	x	0
+O	0	64	O	O	and	x	x	0
+O	0	65	O	O	such	x	x	0
+O	0	66	O	O	in	x	x	0
+O	0	67	O	O	the	x	x	0
+O	0	68	O	O	address	x	x	0
+O	0	69	O	O	without	x	x	0
+O	0	70	O	O	buying	x	x	0
+O	0	71	O	O	vowels	x	x	0
+O	0	72	O	O	and	x	x	0
+O	0	73	O	O	consonants	x	x	0
+O	0	74	O	O	from	x	x	0
+B-PER	0	75	O	O	vanna	x	x	0
+O	0	76	O	O	at	x	x	0
+O	0	77	O	O	a	x	x	0
+O	0	78	O	O	5	x	x	0
+O	0	79	O	O	fer	x	x	0
+O	0	80	O	O	1	x	x	0
+O	0	81	O	O	speshul	x	x	0
+O	0	82	O	O	price.	x	x	0
+O	0	83	O	O	carry	x	x	0
+O	0	84	O	O	on	x	x	0
+O	0	85	O	O	,	x	x	0
+B-PER	0	86	O	O	peggy	x	x	0
+B-PER	0	87	O	O	whit	x	x	0
+
+O	0	0	O	O	To	x	x	0
+O	0	1	O	O	put	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	simply	x	x	0
+O	0	4	O	O	(	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	your	x	x	0
+O	0	7	O	O	benefit	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	:	x	x	0
+B-PER	0	10	O	O	Lincoln	x	x	0
+O	0	11	O	O	spoke	x	x	0
+O	0	12	O	O	*	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	*	x	x	0
+B-PER	0	15	O	O	God	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	demonstrating	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	irony	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	war	x	x	0
+O	0	23	O	O	fought	x	x	0
+O	0	24	O	O	between	x	x	0
+O	0	25	O	O	people	x	x	0
+O	0	26	O	O	with	x	x	0
+O	0	27	O	O	more	x	x	0
+O	0	28	O	O	similarities	x	x	0
+O	0	29	O	O	(	x	x	0
+B-PER	0	30	O	O	their	x	x	0
+O	0	31	O	O	religious	x	x	0
+O	0	32	O	O	beliefs	x	x	0
+O	0	33	O	O	among	x	x	0
+B-PER	0	34	O	O	them	x	x	0
+O	0	35	O	O	)	x	x	0
+O	0	36	O	O	than	x	x	0
+O	0	37	O	O	differences	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Dubya	x	x	0
+O	0	1	O	O	spoke	x	x	0
+O	0	2	O	O	*	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	*	x	x	0
+B-PER	0	5	O	O	God	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	demanding	x	x	0
+O	0	8	O	O	that	x	x	0
+B-GPE	0	9	O	O	we	x	x	0
+O	0	10	O	O	should	x	x	0
+O	0	11	O	O	all	x	x	0
+O	0	12	O	O	fall	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	line	x	x	0
+O	0	15	O	O	behind	x	x	0
+B-PER	0	16	O	O	him	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	because	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	got	x	x	0
+O	0	22	O	O	The	x	x	0
+O	0	23	O	O	Plan	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	and	x	x	0
+B-PER	0	26	O	O	God	x	x	0
+O	0	27	O	O	's	x	x	0
+O	0	28	O	O	On	x	x	0
+B-PER	0	29	O	O	His	x	x	0
+O	0	30	O	O	Side	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Pure	x	x	0
+O	0	1	O	O	religious	x	x	0
+O	0	2	O	O	jingoism	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	favorite	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	speech	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	though	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	line	x	x	0
+O	0	12	O	O	:	x	x	0
+
+O	0	0	O	O	bull	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	made	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	point	x	x	0
+O	0	7	O	O	repeatedly	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	interview	x	x	0
+O	0	10	O	O	after	x	x	0
+O	0	11	O	O	interview	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	has	x	x	0
+O	0	15	O	O	never	x	x	0
+O	0	16	O	O	claimed	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	speak	x	x	0
+O	0	19	O	O	for	x	x	0
+B-PER	0	20	O	O	god	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	nor	x	x	0
+O	0	23	O	O	has	x	x	0
+B-PER	0	24	O	O	he	x	x	0
+O	0	25	O	O	claimed	x	x	0
+O	0	26	O	O	that	x	x	0
+O	0	27	O	O	this	x	x	0
+O	0	28	O	O	is	x	x	0
+O	0	29	O	O	"	x	x	0
+B-PER	0	30	O	O	god	x	x	0
+O	0	31	O	O	's	x	x	0
+O	0	32	O	O	war	x	x	0
+O	0	33	O	O	"	x	x	0
+O	0	34	O	O	it	x	x	0
+O	0	35	O	O	's	x	x	0
+O	0	36	O	O	a	x	x	0
+O	0	37	O	O	bunch	x	x	0
+O	0	38	O	O	of	x	x	0
+O	0	39	O	O	histrionic	x	x	0
+O	0	40	O	O	rubbish	x	x	0
+O	0	41	O	O	and	x	x	0
+O	0	42	O	O	complete	x	x	0
+O	0	43	O	O	evasion	x	x	0
+O	0	44	O	O	from	x	x	0
+O	0	45	O	O	the	x	x	0
+O	0	46	O	O	fact	x	x	0
+O	0	47	O	O	tht	x	x	0
+B-PER	0	48	O	O	lincoln	x	x	0
+O	0	49	O	O	's	x	x	0
+O	0	50	O	O	(	x	x	0
+O	0	51	O	O	wonderful	x	x	0
+O	0	52	O	O	)	x	x	0
+O	0	53	O	O	second	x	x	0
+O	0	54	O	O	inaugural	x	x	0
+O	0	55	O	O	was	x	x	0
+O	0	56	O	O	much	x	x	0
+O	0	57	O	O	more	x	x	0
+O	0	58	O	O	"	x	x	0
+B-PER	0	59	O	O	god	x	x	0
+O	0	60	O	O	drenched	x	x	0
+O	0	61	O	O	"	x	x	0
+O	0	62	O	O	than	x	x	0
+B-PER	0	63	O	O	bush	x	x	0
+O	0	64	O	O	's	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	matter	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	personal	x	x	0
+O	0	8	O	O	taste	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+I-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	like	x	x	0
+B-PER	0	3	O	O	Barry	x	x	0
+I-PER	0	4	O	O	Manilow	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	seems	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+B-PER	0	4	O	O	Bush	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	getting	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	bit	x	x	0
+O	0	9	O	O	pie-eyed	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	mystical	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	carrying	x	x	0
+O	0	3	O	O	out	x	x	0
+B-PER	0	4	O	O	God	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	destiny	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	liberate	x	x	0
+B-PER	0	9	O	O	mankind	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	trusting	x	x	0
+O	0	13	O	O	in	x	x	0
+B-PER	0	14	O	O	God	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	deliver	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	favorable	x	x	0
+O	0	19	O	O	outcome	x	x	0
+O	0	20	O	O	for	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	just	x	x	0
+O	0	23	O	O	cause	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	fine	x	x	0
+O	0	4	O	O	sounding	x	x	0
+O	0	5	O	O	theory	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	but	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	results	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	Bush	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	policies	x	x	0
+O	0	14	O	O	look	x	x	0
+O	0	15	O	O	worse	x	x	0
+B-TIME	0	16	O	O	every	x	x	0
+I-TIME	0	17	O	O	day	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Charlie	x	x	0
+

@@ -1,0 +1,415 @@
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	name	x	x	0
+O	0	2	O	O	is	x	x	0
+B-PER	0	3	O	O	Christina	x	x	0
+I-PER	0	4	O	O	Wright	x	x	0
+O	0	5	O	O	(	x	x	0
+O	0	6	O	O	ph	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	from	x	x	0
+O	0	3	O	O	Minneapolis	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Minnesota	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	just	x	x	0
+O	0	4	O	O	curious	x	x	0
+O	0	5	O	O	if	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	feel	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	attack	x	x	0
+O	0	11	O	O	on	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	would	x	x	0
+O	0	14	O	O	actually	x	x	0
+O	0	15	O	O	open	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	Pandora	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	box	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	other	x	x	0
+B-GPE	0	22	O	O	Middle	x	x	0
+I-GPE	0	23	O	O	Eastern	x	x	0
+O	0	24	O	O	countries	x	x	0
+B-GPE	0	25	O	O	that	x	x	0
+B-PER	0	26	O	O	we	x	x	0
+O	0	27	O	O	are	x	x	0
+O	0	28	O	O	known	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	aid	x	x	0
+O	0	31	O	O	and	x	x	0
+O	0	32	O	O	harbor	x	x	0
+B-PER	0	33	O	O	terrorists	x	x	0
+O	0	34	O	O	,	x	x	0
+O	0	35	O	O	such	x	x	0
+O	0	36	O	O	as	x	x	0
+B-GPE	0	37	O	O	Syria	x	x	0
+O	0	38	O	O	and	x	x	0
+B-GPE	0	39	O	O	Iran	x	x	0
+O	0	40	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	might	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	absolutely	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	fears	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	destabilize	x	x	0
+B-LOC	0	4	O	O	the	x	x	0
+I-LOC	0	5	O	O	entire	x	x	0
+I-LOC	0	6	O	O	region	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	other	x	x	0
+O	0	3	O	O	hand	x	x	0
+O	0	4	O	O	,	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	region	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	pretty	x	x	0
+O	0	9	O	O	unstable	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	filled	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	people	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	already	x	x	0
+O	0	16	O	O	hate	x	x	0
+B-GPE	0	17	O	O	Americans	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	seek	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	do	x	x	0
+B-GPE	0	22	O	O	America	x	x	0
+O	0	23	O	O	harm	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	question	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	could	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	worse	x	x	0
+O	0	9	O	O	?	x	x	0
+
+B-GPE	0	0	O	O	Our	x	x	0
+O	0	1	O	O	president	x	x	0
+O	0	2	O	O	believes	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	set	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	positive	x	x	0
+O	0	9	O	O	domino	x	x	0
+O	0	10	O	O	effect	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	democracy	x	x	0
+O	0	13	O	O	through	x	x	0
+B-LOC	0	14	O	O	the	x	x	0
+I-LOC	0	15	O	O	region	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Maybe	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	think	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	thought	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	through	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	likely	x	x	0
+O	0	6	O	O	that	x	x	0
+B-LOC	0	7	O	O	this	x	x	0
+I-LOC	0	8	O	O	very	x	x	0
+I-LOC	0	9	O	O	unstable	x	x	0
+I-LOC	0	10	O	O	region	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	cause	x	x	0
+O	0	13	O	O	even	x	x	0
+O	0	14	O	O	more	x	x	0
+O	0	15	O	O	problems	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	come	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	silly	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	Fabian	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	Bonn	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Germany	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	question	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	after	x	x	0
+B-TIME	0	6	O	O	today	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	meeting	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Paris	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	where	x	x	0
+B-GPE	0	13	O	O	France	x	x	0
+O	0	14	O	O	,	x	x	0
+B-GPE	0	15	O	O	Russia	x	x	0
+O	0	16	O	O	and	x	x	0
+B-GPE	0	17	O	O	Germany	x	x	0
+O	0	18	O	O	decided	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	not	x	x	0
+O	0	21	O	O	back	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	second	x	x	0
+O	0	24	O	O	resolution	x	x	0
+O	0	25	O	O	,	x	x	0
+B-GPE	0	26	O	O	who	x	x	0
+O	0	27	O	O	is	x	x	0
+O	0	28	O	O	not	x	x	0
+O	0	29	O	O	(	x	x	0
+O	0	30	O	O	UNINTELLIGIBLE	x	x	0
+O	0	31	O	O	)	x	x	0
+O	0	32	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	it	x	x	0
+B-GPE	0	2	O	O	the	x	x	0
+I-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	or	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	it	x	x	0
+B-GPE	0	7	O	O	old	x	x	0
+I-GPE	0	8	O	O	Europe	x	x	0
+O	0	9	O	O	?	x	x	0
+
+B-GPE	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	actually	x	x	0
+B-GPE	0	3	O	O	Western	x	x	0
+I-GPE	0	4	O	O	Europe	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	because	x	x	0
+O	0	7	O	O	18	x	x	0
+B-GPE	0	8	O	O	European	x	x	0
+O	0	9	O	O	countries	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	side	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	United	x	x	0
+I-GPE	0	17	O	O	States	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-GPE	0	1	O	O	France	x	x	0
+O	0	2	O	O	and	x	x	0
+B-GPE	0	3	O	O	Germany	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	actually	x	x	0
+O	0	7	O	O	true	x	x	0
+O	0	8	O	O	find	x	x	0
+B-GPE	0	9	O	O	themselves	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	minority	x	x	0
+O	0	13	O	O	on	x	x	0
+B-GPE	0	14	O	O	their	x	x	0
+I-GPE	0	15	O	O	own	x	x	0
+O	0	16	O	O	continent	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	good	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	Only	x	x	0
+B-GPE	0	1	O	O	Great	x	x	0
+I-GPE	0	2	O	O	Britain	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	with	x	x	0
+B-GPE	0	5	O	O	us	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	only	x	x	0
+I-GPE	0	2	O	O	country	x	x	0
+O	0	3	O	O	...	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	mean	x	x	0
+B-GPE	0	4	O	O	only	x	x	0
+I-GPE	0	5	O	O	Great	x	x	0
+I-GPE	0	6	O	O	Britain	x	x	0
+O	0	7	O	O	?	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	question	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	not	x	x	0
+B-GPE	0	4	O	O	who	x	x	0
+O	0	5	O	O	votes	x	x	0
+O	0	6	O	O	at	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	U.N.	x	x	0
+B-GPE	0	9	O	O	Who	x	x	0
+O	0	10	O	O	sends	x	x	0
+B-PER	0	11	O	O	troops	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	die	x	x	0
+O	0	14	O	O	on	x	x	0
+B-GPE	0	15	O	O	our	x	x	0
+O	0	16	O	O	side	x	x	0
+O	0	17	O	O	?	x	x	0
+
+
+
+B-GPE	0	0	O	O	Nobody	x	x	0
+O	0	1	O	O	except	x	x	0
+B-GPE	0	2	O	O	Great	x	x	0
+I-GPE	0	3	O	O	Britain	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	isolated	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	From	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	left	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	am	x	x	0
+B-PER	0	6	O	O	Paul	x	x	0
+I-PER	0	7	O	O	Begala	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Goodnight	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	CROSSFIRE	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	From	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'm	x	x	0
+B-PER	0	6	O	O	Tucker	x	x	0
+I-PER	0	7	O	O	Carlson	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Join	x	x	0
+B-PER	0	1	O	O	us	x	x	0
+O	0	2	O	O	again	x	x	0
+B-TIME	0	3	O	O	tomorrow	x	x	0
+I-TIME	0	4	O	O	night	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	yet	x	x	0
+O	0	7	O	O	more	x	x	0
+O	0	8	O	O	CROSSFIRE	x	x	0
+O	0	9	O	O	.	x	x	0
+

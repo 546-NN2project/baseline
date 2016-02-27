@@ -1,0 +1,377 @@
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	the	x	x	0
+I-TIME	0	5	O	O	past	x	x	0
+I-TIME	0	6	O	O	five	x	x	0
+I-TIME	0	7	O	O	days	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	really	x	x	0
+O	0	10	O	O	for	x	x	0
+B-TIME	0	11	O	O	about	x	x	0
+I-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	past	x	x	0
+I-TIME	0	14	O	O	fifteen	x	x	0
+O	0	15	O	O	or	x	x	0
+B-TIME	0	16	O	O	twenty	x	x	0
+I-TIME	0	17	O	O	days	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	I	x	x	0
+O	0	20	O	O	've	x	x	0
+O	0	21	O	O	been	x	x	0
+O	0	22	O	O	angry	x	x	0
+O	0	23	O	O	about	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	BCS	x	x	0
+O	0	26	O	O	rankings	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	why	x	x	0
+B-ORG	0	29	O	O	Auburn	x	x	0
+O	0	30	O	O	is	x	x	0
+O	0	31	O	O	n't	x	x	0
+O	0	32	O	O	ranked	x	x	0
+O	0	33	O	O	higher	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	all	x	x	0
+O	0	36	O	O	of	x	x	0
+O	0	37	O	O	that	x	x	0
+O	0	38	O	O	business	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	someone	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	why	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+O	0	8	O	O	friends	x	x	0
+O	0	9	O	O	or	x	x	0
+B-PER	0	10	O	O	family	x	x	0
+O	0	11	O	O	members	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	smacked	x	x	0
+B-PER	0	15	O	O	me	x	x	0
+O	0	16	O	O	because	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	here	x	x	0
+B-ORG	0	4	O	O	we	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	10-0	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	staring	x	x	0
+O	0	10	O	O	down	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	barrell	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	road	x	x	0
+O	0	16	O	O	game	x	x	0
+O	0	17	O	O	AT	x	x	0
+B-GPE	0	18	O	O	Tuscaloosa	x	x	0
+O	0	19	O	O	against	x	x	0
+B-ORG	0	20	O	O	our	x	x	0
+O	0	21	O	O	hated	x	x	0
+O	0	22	O	O	rivals	x	x	0
+O	0	23	O	O	,	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	Alabama	x	x	0
+I-ORG	0	26	O	O	Crimson	x	x	0
+I-ORG	0	27	O	O	Tide	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	and	x	x	0
+B-PER	0	30	O	O	I	x	x	0
+O	0	31	O	O	'm	x	x	0
+O	0	32	O	O	bitching	x	x	0
+O	0	33	O	O	about	x	x	0
+O	0	34	O	O	how	x	x	0
+B-ORG	0	35	O	O	we	x	x	0
+O	0	36	O	O	better	x	x	0
+O	0	37	O	O	get	x	x	0
+O	0	38	O	O	to	x	x	0
+O	0	39	O	O	play	x	x	0
+O	0	40	O	O	for	x	x	0
+O	0	41	O	O	a	x	x	0
+O	0	42	O	O	national	x	x	0
+O	0	43	O	O	title	x	x	0
+O	0	44	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Really	x	x	0
+O	0	1	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	think	x	x	0
+O	0	6	O	O	back	x	x	0
+O	0	7	O	O	too	x	x	0
+O	0	8	O	O	far	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	find	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	similar	x	x	0
+O	0	13	O	O	scenario	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	only	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	shoe	x	x	0
+O	0	19	O	O	firmly	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	other	x	x	0
+O	0	23	O	O	foot	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	1989	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	Alabama	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	10-0	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	number	x	x	0
+O	0	8	O	O	two	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	nation	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	coming	x	x	0
+O	0	14	O	O	into	x	x	0
+B-ORG	0	15	O	O	Auburn	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	first	x	x	0
+O	0	19	O	O	time	x	x	0
+O	0	20	O	O	ever	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	play	x	x	0
+O	0	23	O	O	at	x	x	0
+B-FAC	0	24	O	O	Jordan-Hare	x	x	0
+I-FAC	0	25	O	O	Stadium	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	talk	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	the	x	x	0
+I-TIME	0	5	O	O	weeks	x	x	0
+I-TIME	0	6	O	O	leading	x	x	0
+I-TIME	0	7	O	O	up	x	x	0
+I-TIME	0	8	O	O	to	x	x	0
+I-TIME	0	9	O	O	the	x	x	0
+I-TIME	0	10	O	O	game	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	if	x	x	0
+B-ORG	0	15	O	O	Bama	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	undefeated	x	x	0
+O	0	18	O	O	,	x	x	0
+B-ORG	0	19	O	O	they	x	x	0
+O	0	20	O	O	'll	x	x	0
+O	0	21	O	O	play	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	it	x	x	0
+O	0	24	O	O	all	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	Sugar	x	x	0
+O	0	28	O	O	Bowl	x	x	0
+O	0	29	O	O	"	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	other	x	x	0
+O	0	32	O	O	crap	x	x	0
+O	0	33	O	O	like	x	x	0
+O	0	34	O	O	that	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	"	x	x	0
+O	0	3	O	O	if	x	x	0
+O	0	4	O	O	or	x	x	0
+O	0	5	O	O	when	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	never	x	x	0
+O	0	8	O	O	happened	x	x	0
+O	0	9	O	O	because	x	x	0
+B-ORG	0	10	O	O	Auburn	x	x	0
+O	0	11	O	O	won	x	x	0
+O	0	12	O	O	30-20	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	one	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	greatest	x	x	0
+O	0	18	O	O	Iron	x	x	0
+O	0	19	O	O	Bowl	x	x	0
+O	0	20	O	O	games	x	x	0
+O	0	21	O	O	ever	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	putting	x	x	0
+O	0	24	O	O	an	x	x	0
+O	0	25	O	O	end	x	x	0
+O	0	26	O	O	to	x	x	0
+B-ORG	0	27	O	O	Bama	x	x	0
+O	0	28	O	O	's	x	x	0
+O	0	29	O	O	national	x	x	0
+O	0	30	O	O	title	x	x	0
+O	0	31	O	O	hopes	x	x	0
+O	0	32	O	O	for	x	x	0
+B-TIME	0	33	O	O	the	x	x	0
+I-TIME	0	34	O	O	year	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	15	x	x	0
+I-TIME	0	1	O	O	years	x	x	0
+I-TIME	0	2	O	O	later	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	situation	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	reversed	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+B-ORG	0	2	O	O	Auburn	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	undefeated	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	facing	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	road	x	x	0
+O	0	10	O	O	game	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	end	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	season	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Suddenly	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	nauseous	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	game	x	x	0
+O	0	9	O	O	too	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Despite	x	x	0
+O	0	1	O	O	being	x	x	0
+O	0	2	O	O	riddled	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	injuries	x	x	0
+O	0	5	O	O	,	x	x	0
+B-ORG	0	6	O	O	Alabama	x	x	0
+O	0	7	O	O	has	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	ridiculously	x	x	0
+I-PER	0	10	O	O	stout	x	x	0
+I-PER	0	11	O	O	defense	x	x	0
+O	0	12	O	O	,	x	x	0
+B-TIME	0	13	O	O	recently	x	x	0
+O	0	14	O	O	ranked	x	x	0
+O	0	15	O	O	as	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	number	x	x	0
+O	0	18	O	O	one	x	x	0
+O	0	19	O	O	defense	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	country	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Egad	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Has	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	bluster	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	talking	x	x	0
+O	0	7	O	O	shown	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	The	x	x	0
+O	0	11	O	O	Plains	x	x	0
+O	0	12	O	O	as	x	x	0
+O	0	13	O	O	well	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	only	x	x	0
+O	0	2	O	O	hope	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	Coach	x	x	0
+O	0	5	O	O	Tuberville	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	successful	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	keeping	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+O	0	12	O	O	players	x	x	0
+O	0	13	O	O	focused	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	motivated	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	thinking	x	x	0
+O	0	18	O	O	about	x	x	0
+O	0	19	O	O	ONLY	x	x	0
+O	0	20	O	O	the	x	x	0
+B-ORG	0	21	O	O	Alabama	x	x	0
+O	0	22	O	O	game	x	x	0
+O	0	23	O	O	.	x	x	0
+

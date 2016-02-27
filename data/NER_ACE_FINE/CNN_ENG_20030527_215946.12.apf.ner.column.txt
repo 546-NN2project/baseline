@@ -1,0 +1,342 @@
+O	0	0	O	O	more	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	the	x	x	0
+B-GPE	0	4	O	O	Louisiana	x	x	0
+O	0	5	O	O	serial	x	x	0
+O	0	6	O	O	killings	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	arrest	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	prime	x	x	0
+I-PER	0	6	O	O	suspect	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	Derrick	x	x	0
+I-PER	0	9	O	O	Lee	x	x	0
+I-PER	0	10	O	O	Tee	x	x	0
+I-PER	0	11	O	O	Lee	x	x	0
+O	0	12	O	O	W.	x	x	0
+O	0	13	O	O	''	x	x	0
+O	0	14	O	O	re	x	x	0
+O	0	15	O	O	joined	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	phone	x	x	0
+O	0	19	O	O	by	x	x	0
+O	0	20	O	O	the	x	x	0
+B-ORG	0	21	O	O	police	x	x	0
+O	0	22	O	O	chief	x	x	0
+O	0	23	O	O	of	x	x	0
+B-GPE	0	24	O	O	Atlanta	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	Owe	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-ORG	0	3	O	O	us	x	x	0
+O	0	4	O	O	exactly	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	details	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	precise	x	x	0
+O	0	10	O	O	details	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	how	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	arrested	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	suspect	x	x	0
+O	0	17	O	O	?	x	x	0
+
+O	0	0	O	O	yes	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	First	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	members	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	my	x	x	0
+B-PER	0	7	O	O	fugitive	x	x	0
+O	0	8	O	O	unit	x	x	0
+O	0	9	O	O	had	x	x	0
+O	0	10	O	O	been	x	x	0
+O	0	11	O	O	looking	x	x	0
+O	0	12	O	O	for	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	suspect	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	Derrick	x	x	0
+I-PER	0	17	O	O	Lee	x	x	0
+B-TIME	0	18	O	O	all	x	x	0
+I-TIME	0	19	O	O	day	x	x	0
+O	0	20	O	O	based	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	information	x	x	0
+B-PER	0	23	O	O	we	x	x	0
+O	0	24	O	O	received	x	x	0
+O	0	25	O	O	from	x	x	0
+O	0	26	O	O	the	x	x	0
+B-GPE	0	27	O	O	Baton	x	x	0
+I-GPE	0	28	O	O	Rouge	x	x	0
+O	0	29	O	O	police	x	x	0
+O	0	30	O	O	chief	x	x	0
+O	0	31	O	O	and	x	x	0
+B-PER	0	32	O	O	the	x	x	0
+I-PER	0	33	O	O	serial	x	x	0
+I-PER	0	34	O	O	murder	x	x	0
+I-PER	0	35	O	O	task	x	x	0
+I-PER	0	36	O	O	force	x	x	0
+O	0	37	O	O	back	x	x	0
+O	0	38	O	O	in	x	x	0
+O	0	39	O	O	the	x	x	0
+O	0	40	O	O	state	x	x	0
+O	0	41	O	O	of	x	x	0
+B-GPE	0	42	O	O	Louisiana	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	This	x	x	0
+I-TIME	0	1	O	O	evening	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	8:45	x	x	0
+O	0	5	O	O	p.m.	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	members	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+B-PER	0	10	O	O	fugitive	x	x	0
+O	0	11	O	O	unit	x	x	0
+O	0	12	O	O	received	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	telephone	x	x	0
+O	0	15	O	O	call	x	x	0
+O	0	16	O	O	from	x	x	0
+B-PER	0	17	O	O	an	x	x	0
+I-PER	0	18	O	O	informtive	x	x	0
+O	0	19	O	O	saying	x	x	0
+B-PER	0	20	O	O	they	x	x	0
+O	0	21	O	O	thought	x	x	0
+O	0	22	O	O	that	x	x	0
+B-PER	0	23	O	O	they	x	x	0
+O	0	24	O	O	had	x	x	0
+O	0	25	O	O	observed	x	x	0
+B-PER	0	26	O	O	the	x	x	0
+I-PER	0	27	O	O	suspect	x	x	0
+B-PER	0	28	O	O	Derrick	x	x	0
+I-PER	0	29	O	O	Lee	x	x	0
+O	0	30	O	O	in	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	area	x	x	0
+O	0	33	O	O	of	x	x	0
+B-FAC	0	34	O	O	woods	x	x	0
+I-FAC	0	35	O	O	drive	x	x	0
+O	0	36	O	O	and	x	x	0
+B-FAC	0	37	O	O	Donald	x	x	0
+I-FAC	0	38	O	O	Lee	x	x	0
+I-FAC	0	39	O	O	Holland	x	x	0
+I-FAC	0	40	O	O	Parkway	x	x	0
+O	0	41	O	O	in	x	x	0
+B-LOC	0	42	O	O	southwest	x	x	0
+I-LOC	0	43	O	O	Atlanta	x	x	0
+O	0	44	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	officers	x	x	0
+O	0	2	O	O	responded	x	x	0
+O	0	3	O	O	to	x	x	0
+B-LOC	0	4	O	O	that	x	x	0
+I-LOC	0	5	O	O	location	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Noticed	x	x	0
+B-PER	0	1	O	O	a	x	x	0
+I-PER	0	2	O	O	suspect	x	x	0
+I-PER	0	3	O	O	fitting	x	x	0
+I-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	description	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	approached	x	x	0
+B-PER	0	8	O	O	Derrick	x	x	0
+I-PER	0	9	O	O	Lee	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Asked	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	identification	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Derrick	x	x	0
+I-PER	0	1	O	O	Lee	x	x	0
+O	0	2	O	O	produced	x	x	0
+B-GPE	0	3	O	O	Louisiana	x	x	0
+O	0	4	O	O	identification	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	arrested	x	x	0
+O	0	3	O	O	without	x	x	0
+O	0	4	O	O	incident	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Taken	x	x	0
+O	0	1	O	O	into	x	x	0
+O	0	2	O	O	custody	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	's	x	x	0
+B-TIME	0	6	O	O	currently	x	x	0
+O	0	7	O	O	at	x	x	0
+B-ORG	0	8	O	O	Atlanta	x	x	0
+I-ORG	0	9	O	O	Police	x	x	0
+I-ORG	0	10	O	O	Department	x	x	0
+O	0	11	O	O	headquarters	x	x	0
+O	0	12	O	O	pending	x	x	0
+O	0	13	O	O	extradition	x	x	0
+O	0	14	O	O	back	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	state	x	x	0
+O	0	18	O	O	of	x	x	0
+B-GPE	0	19	O	O	Louisiana	x	x	0
+O	0	20	O	O	.	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	clear	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	exactly	x	x	0
+O	0	7	O	O	where	x	x	0
+O	0	8	O	O	what	x	x	0
+O	0	9	O	O	kind	x	x	0
+O	0	10	O	O	of	x	x	0
+B-FAC	0	11	O	O	facility	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	it	x	x	0
+B-FAC	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	you	x	x	0
+O	0	16	O	O	arrested	x	x	0
+B-PER	0	17	O	O	him	x	x	0
+O	0	18	O	O	at	x	x	0
+O	0	19	O	O	?	x	x	0
+
+B-PER	0	0	O	O	he	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	rear	x	x	0
+O	0	5	O	O	of	x	x	0
+B-FAC	0	6	O	O	a	x	x	0
+I-FAC	0	7	O	O	tire	x	x	0
+I-FAC	0	8	O	O	shop	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	sort	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	a	x	x	0
+B-FAC	0	6	O	O	mall	x	x	0
+O	0	7	O	O	area	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	hanging	x	x	0
+O	0	13	O	O	around	x	x	0
+B-FAC	0	14	O	O	a	x	x	0
+I-FAC	0	15	O	O	tire	x	x	0
+I-FAC	0	16	O	O	shop	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	An	x	x	0
+I-FAC	0	1	O	O	automotive	x	x	0
+I-FAC	0	2	O	O	tire	x	x	0
+I-FAC	0	3	O	O	shop	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	someone	x	x	0
+O	0	7	O	O	noticed	x	x	0
+B-PER	0	8	O	O	him	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	recognized	x	x	0
+B-PER	0	11	O	O	him	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Made	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	call	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	the	x	x	0
+B-PER	0	5	O	O	fugitive	x	x	0
+O	0	6	O	O	unit	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	went	x	x	0
+O	0	2	O	O	out	x	x	0
+B-TIME	0	3	O	O	this	x	x	0
+I-TIME	0	4	O	O	evening	x	x	0
+B-TIME	0	5	O	O	about	x	x	0
+I-TIME	0	6	O	O	8:45	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	sure	x	x	0
+O	0	10	O	O	enough	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	person	x	x	0
+B-PER	0	16	O	O	we	x	x	0
+O	0	17	O	O	were	x	x	0
+O	0	18	O	O	looking	x	x	0
+O	0	19	O	O	for	x	x	0
+B-TIME	0	20	O	O	all	x	x	0
+I-TIME	0	21	O	O	day	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	what	x	x	0
+

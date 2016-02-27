@@ -1,0 +1,1012 @@
+B-ORG	0	0	O	O	Dell	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	involved	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	class	x	x	0
+O	0	6	O	O	action	x	x	0
+O	0	7	O	O	suit	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	"	x	x	0
+B-Crime	0	10	O	O	bait	x	x	0
+I-Crime	0	11	O	O	and	x	x	0
+I-Crime	0	12	O	O	switch	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	where	x	x	0
+B-PER	0	16	O	O	a	x	x	0
+I-PER	0	17	O	O	nurse	x	x	0
+O	0	18	O	O	claims	x	x	0
+B-ORG	0	19	O	O	Dell	x	x	0
+O	0	20	O	O	switched	x	x	0
+O	0	21	O	O	parts	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	charged	x	x	0
+B-PER	0	24	O	O	her	x	x	0
+O	0	25	O	O	for	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	more	x	x	0
+O	0	28	O	O	expensive	x	x	0
+O	0	29	O	O	items	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	and	x	x	0
+O	0	32	O	O	for	x	x	0
+O	0	33	O	O	promising	x	x	0
+O	0	34	O	O	"	x	x	0
+O	0	35	O	O	easy	x	x	0
+O	0	36	O	O	credit	x	x	0
+O	0	37	O	O	"	x	x	0
+O	0	38	O	O	for	x	x	0
+O	0	39	O	O	which	x	x	0
+B-PER	0	40	O	O	no	x	x	0
+I-PER	0	41	O	O	one	x	x	0
+O	0	42	O	O	qualifies	x	x	0
+O	0	43	O	O	and	x	x	0
+O	0	44	O	O	then	x	x	0
+O	0	45	O	O	charges	x	x	0
+O	0	46	O	O	ridiculously	x	x	0
+O	0	47	O	O	high	x	x	0
+O	0	48	O	O	interest	x	x	0
+O	0	49	O	O	rates.	x	x	0
+O	0	50	O	O	*	x	x	0
+B-PER	0	51	O	O	TimDaniels	x	x	0
+O	0	52	O	O	*	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	seems	x	x	0
+B-PER	0	2	O	O	someone	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	read	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	credit	x	x	0
+O	0	8	O	O	terms	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	before	x	x	0
+O	0	11	O	O	purchasing	x	x	0
+O	0	12	O	O	item	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	"	x	x	0
+B-PER	0	15	O	O	buyers	x	x	0
+O	0	16	O	O	'	x	x	0
+O	0	17	O	O	remorse	x	x	0
+O	0	18	O	O	"	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	lawyers	x	x	0
+O	0	2	O	O	trying	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	make	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	buck	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hope	x	x	0
+O	0	1	O	O	federal	x	x	0
+O	0	2	O	O	tort	x	x	0
+O	0	3	O	O	reform	x	x	0
+O	0	4	O	O	gets	x	x	0
+O	0	5	O	O	passed	x	x	0
+O	0	6	O	O	by	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	congress	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	so	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	can	x	x	0
+O	0	13	O	O	get	x	x	0
+O	0	14	O	O	rid	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	these	x	x	0
+I-PER	0	17	O	O	charlatans	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rich	x	x	0
+I-PER	0	1	O	O	/	x	x	0
+I-PER	0	2	O	O	rerat	x	x	0
+O	0	3	O	O	(	x	x	0
+O	0	4	O	O	RRR	x	x	0
+O	0	5	O	O	News	x	x	0
+O	0	6	O	O	)	x	x	0
+O	0	7	O	O	(	x	x	0
+O	0	8	O	O	message	x	x	0
+O	0	9	O	O	rule	x	x	0
+O	0	10	O	O	)	x	x	0
+O	0	11	O	O	((	x	x	0
+O	0	12	O	O	Previous	x	x	0
+O	0	13	O	O	Text	x	x	0
+O	0	14	O	O	Snipped	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	Save	x	x	0
+O	0	17	O	O	Bandwidth	x	x	0
+O	0	18	O	O	When	x	x	0
+O	0	19	O	O	Appropriate	x	x	0
+O	0	20	O	O	))	x	x	0
+
+B-PER	0	0	O	O	i	x	x	0
+O	0	1	O	O	agree	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	buyer	x	x	0
+O	0	5	O	O	probably	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	read	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	credit	x	x	0
+O	0	11	O	O	terms	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	find	x	x	0
+B-PER	0	14	O	O	themselves	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	an	x	x	0
+O	0	17	O	O	unexpected	x	x	0
+O	0	18	O	O	rate	x	x	0
+O	0	19	O	O	...	x	x	0
+B-PER	0	20	O	O	i	x	x	0
+O	0	21	O	O	always	x	x	0
+O	0	22	O	O	see	x	x	0
+O	0	23	O	O	that	x	x	0
+O	0	24	O	O	"	x	x	0
+O	0	25	O	O	for	x	x	0
+B-PER	0	26	O	O	qualified	x	x	0
+I-PER	0	27	O	O	customers	x	x	0
+O	0	28	O	O	"	x	x	0
+O	0	29	O	O	in	x	x	0
+O	0	30	O	O	all	x	x	0
+O	0	31	O	O	of	x	x	0
+B-ORG	0	32	O	O	their	x	x	0
+O	0	33	O	O	advertisements	x	x	0
+O	0	34	O	O	that	x	x	0
+O	0	35	O	O	probably	x	x	0
+O	0	36	O	O	releases	x	x	0
+B-ORG	0	37	O	O	them	x	x	0
+O	0	38	O	O	of	x	x	0
+O	0	39	O	O	any	x	x	0
+O	0	40	O	O	wrong	x	x	0
+O	0	41	O	O	doing	x	x	0
+O	0	42	O	O	...	x	x	0
+O	0	43	O	O	but	x	x	0
+B-PER	0	44	O	O	i	x	x	0
+O	0	45	O	O	also	x	x	0
+O	0	46	O	O	believe	x	x	0
+O	0	47	O	O	in	x	x	0
+O	0	48	O	O	the	x	x	0
+B-ORG	0	49	O	O	court	x	x	0
+O	0	50	O	O	systems	x	x	0
+O	0	51	O	O	so	x	x	0
+O	0	52	O	O	let	x	x	0
+O	0	53	O	O	it	x	x	0
+O	0	54	O	O	take	x	x	0
+O	0	55	O	O	its	x	x	0
+O	0	56	O	O	course	x	x	0
+O	0	57	O	O	and	x	x	0
+O	0	58	O	O	see	x	x	0
+O	0	59	O	O	what	x	x	0
+O	0	60	O	O	happens	x	x	0
+O	0	61	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	the	x	x	0
+O	0	1	O	O	only	x	x	0
+O	0	2	O	O	tort	x	x	0
+O	0	3	O	O	reform	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	i	x	x	0
+O	0	6	O	O	think	x	x	0
+O	0	7	O	O	should	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	done	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	cap	x	x	0
+O	0	13	O	O	fees	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	lawyers	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	allowed	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	extract	x	x	0
+O	0	20	O	O	for	x	x	0
+O	0	21	O	O	class	x	x	0
+O	0	22	O	O	action	x	x	0
+O	0	23	O	O	suits	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	i	x	x	0
+O	0	1	O	O	feel	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	valuable	x	x	0
+O	0	7	O	O	public	x	x	0
+O	0	8	O	O	service	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	comes	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	class	x	x	0
+O	0	13	O	O	actions	x	x	0
+O	0	14	O	O	suits	x	x	0
+O	0	15	O	O	which	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	keep	x	x	0
+B-ORG	0	19	O	O	companies	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	straight	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	narrow	x	x	0
+O	0	25	O	O	so	x	x	0
+O	0	26	O	O	that	x	x	0
+B-ORG	0	27	O	O	they	x	x	0
+O	0	28	O	O	avoid	x	x	0
+O	0	29	O	O	such	x	x	0
+O	0	30	O	O	actions	x	x	0
+O	0	31	O	O	...	x	x	0
+O	0	32	O	O	but	x	x	0
+O	0	33	O	O	from	x	x	0
+O	0	34	O	O	a	x	x	0
+O	0	35	O	O	monetary	x	x	0
+O	0	36	O	O	perspective	x	x	0
+B-PER	0	37	O	O	the	x	x	0
+I-PER	0	38	O	O	only	x	x	0
+I-PER	0	39	O	O	real	x	x	0
+I-PER	0	40	O	O	winners	x	x	0
+I-PER	0	41	O	O	from	x	x	0
+I-PER	0	42	O	O	class	x	x	0
+I-PER	0	43	O	O	actions	x	x	0
+O	0	44	O	O	are	x	x	0
+B-PER	0	45	O	O	the	x	x	0
+I-PER	0	46	O	O	lawyers	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	i	x	x	0
+O	0	1	O	O	remember	x	x	0
+B-TIME	0	2	O	O	once	x	x	0
+O	0	3	O	O	receiving	x	x	0
+O	0	4	O	O	a	x	x	0
+B-Numeric	0	5	O	O	fifty	x	x	0
+I-Numeric	0	6	O	O	cent	x	x	0
+O	0	7	O	O	check	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	envelope	x	x	0
+O	0	11	O	O	with	x	x	0
+O	0	12	O	O	postage	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	at	x	x	0
+O	0	15	O	O	least	x	x	0
+O	0	16	O	O	half	x	x	0
+O	0	17	O	O	that	x	x	0
+O	0	18	O	O	amount	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	great	x	x	0
+O	0	22	O	O	17	x	x	0
+O	0	23	O	O	"	x	x	0
+O	0	24	O	O	monitor	x	x	0
+O	0	25	O	O	class	x	x	0
+O	0	26	O	O	action	x	x	0
+O	0	27	O	O	suit	x	x	0
+O	0	28	O	O	.	x	x	0
+
+O	0	0	O	O	Then	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	class	x	x	0
+O	0	5	O	O	action	x	x	0
+O	0	6	O	O	suit	x	x	0
+O	0	7	O	O	against	x	x	0
+B-ORG	0	8	O	O	Gateway	x	x	0
+O	0	9	O	O	brought	x	x	0
+O	0	10	O	O	by	x	x	0
+O	0	11	O	O	some	x	x	0
+B-GPE	0	12	O	O	Philadelphia	x	x	0
+O	0	13	O	O	lawyers	x	x	0
+B-TIME	0	14	O	O	a	x	x	0
+I-TIME	0	15	O	O	number	x	x	0
+I-TIME	0	16	O	O	of	x	x	0
+I-TIME	0	17	O	O	years	x	x	0
+I-TIME	0	18	O	O	ago	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Gateway	x	x	0
+O	0	1	O	O	advertised	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	stickered	x	x	0
+O	0	4	O	O	many	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	its	x	x	0
+O	0	7	O	O	486	x	x	0
+O	0	8	O	O	computers	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	"	x	x	0
+O	0	11	O	O	Pentium	x	x	0
+O	0	12	O	O	Ready	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	meaning	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	special	x	x	0
+O	0	19	O	O	Type	x	x	0
+O	0	20	O	O	3	x	x	0
+O	0	21	O	O	ZIF	x	x	0
+O	0	22	O	O	socket	x	x	0
+O	0	23	O	O	Pentium	x	x	0
+O	0	24	O	O	OverDrive	x	x	0
+O	0	25	O	O	could	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	installed	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	run	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Micronics	x	x	0
+O	0	1	O	O	designed	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	motherboards	x	x	0
+O	0	4	O	O	used	x	x	0
+O	0	5	O	O	by	x	x	0
+B-ORG	0	6	O	O	Gateway	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	basis	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	design	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	prototype	x	x	0
+O	0	17	O	O	Pentium	x	x	0
+O	0	18	O	O	OverDrive	x	x	0
+O	0	19	O	O	with	x	x	0
+O	0	20	O	O	an	x	x	0
+O	0	21	O	O	internal	x	x	0
+O	0	22	O	O	write-through	x	x	0
+O	0	23	O	O	cache	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	more	x	x	0
+O	0	27	O	O	conservative	x	x	0
+O	0	28	O	O	cache	x	x	0
+O	0	29	O	O	design	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+B-ORG	0	1	O	O	Intel	x	x	0
+O	0	2	O	O	changed	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	Pentium	x	x	0
+O	0	5	O	O	OverDrive	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	final	x	x	0
+O	0	10	O	O	version	x	x	0
+O	0	11	O	O	had	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	write-BACK	x	x	0
+O	0	14	O	O	cache	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+O	0	1	O	O	installed	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	a	x	x	0
+B-ORG	0	4	O	O	Gateway	x	x	0
+O	0	5	O	O	system	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	chip	x	x	0
+O	0	9	O	O	ran	x	x	0
+O	0	10	O	O	slower	x	x	0
+O	0	11	O	O	than	x	x	0
+O	0	12	O	O	slow	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	maybe	x	x	0
+O	0	15	O	O	about	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	fast	x	x	0
+O	0	18	O	O	as	x	x	0
+O	0	19	O	O	an	x	x	0
+B-ORG	0	20	O	O	IBM	x	x	0
+O	0	21	O	O	AT	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	bus-mastering	x	x	0
+O	0	25	O	O	devices	x	x	0
+O	0	26	O	O	like	x	x	0
+O	0	27	O	O	NICs	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	SCSI	x	x	0
+O	0	30	O	O	cards	x	x	0
+O	0	31	O	O	refused	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	work	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	lawyers	x	x	0
+O	0	3	O	O	sued	x	x	0
+B-ORG	0	4	O	O	Gateway	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	settlement	x	x	0
+O	0	9	O	O	approved	x	x	0
+O	0	10	O	O	by	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	judge	x	x	0
+O	0	13	O	O	consisted	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	megabucks	x	x	0
+O	0	16	O	O	for	x	x	0
+B-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	lawyers	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	coupons	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	owners	x	x	0
+O	0	23	O	O	of	x	x	0
+B-ORG	0	24	O	O	Gateway	x	x	0
+O	0	25	O	O	486	x	x	0
+O	0	26	O	O	computers	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	coupon	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	for	x	x	0
+B-Numeric	0	5	O	O	$50	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	purchase	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	Pentium	x	x	0
+O	0	13	O	O	OverDrive	x	x	0
+O	0	14	O	O	processor	x	x	0
+O	0	15	O	O	from	x	x	0
+B-ORG	0	16	O	O	Gateway	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	at	x	x	0
+O	0	19	O	O	its	x	x	0
+O	0	20	O	O	usual	x	x	0
+O	0	21	O	O	inflated	x	x	0
+O	0	22	O	O	prices	x	x	0
+O	0	23	O	O	!!!	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	let	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	discount	x	x	0
+O	0	4	O	O	coupon	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	processor	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	ca	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	use	x	x	0
+O	0	12	O	O	in	x	x	0
+B-PER	0	13	O	O	my	x	x	0
+O	0	14	O	O	system	x	x	0
+O	0	15	O	O	do	x	x	0
+O	0	16	O	O	for	x	x	0
+B-PER	0	17	O	O	me	x	x	0
+O	0	18	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+B-PER	0	2	O	O	how	x	x	0
+I-PER	0	3	O	O	many	x	x	0
+I-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	gleefully	x	x	0
+O	0	6	O	O	cashed	x	x	0
+O	0	7	O	O	in	x	x	0
+B-PER	0	8	O	O	their	x	x	0
+O	0	9	O	O	coupons	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	bought	x	x	0
+O	0	12	O	O	Pentium	x	x	0
+O	0	13	O	O	OverDrives	x	x	0
+O	0	14	O	O	from	x	x	0
+B-ORG	0	15	O	O	Gateway	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Intel	x	x	0
+O	0	1	O	O	eventually	x	x	0
+O	0	2	O	O	compensated	x	x	0
+O	0	3	O	O	by	x	x	0
+O	0	4	O	O	making	x	x	0
+O	0	5	O	O	available	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	interposer	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	little	x	x	0
+O	0	13	O	O	socketed	x	x	0
+O	0	14	O	O	thingie	x	x	0
+O	0	15	O	O	installed	x	x	0
+O	0	16	O	O	between	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	Pentium	x	x	0
+O	0	19	O	O	OverDrive	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	ZIF	x	x	0
+O	0	23	O	O	socket	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	sole	x	x	0
+O	0	2	O	O	purpose	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	interposer	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	raise	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	signal	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	CPU	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	force	x	x	0
+O	0	16	O	O	its	x	x	0
+O	0	17	O	O	cache	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	operate	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	write-thru	x	x	0
+O	0	23	O	O	mode	x	x	0
+O	0	24	O	O	which	x	x	0
+O	0	25	O	O	was	x	x	0
+O	0	26	O	O	compatible	x	x	0
+O	0	27	O	O	with	x	x	0
+O	0	28	O	O	most	x	x	0
+O	0	29	O	O	ZIF	x	x	0
+O	0	30	O	O	Socket	x	x	0
+O	0	31	O	O	3	x	x	0
+O	0	32	O	O	486	x	x	0
+O	0	33	O	O	motherboards	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Needless	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	least	x	x	0
+O	0	8	O	O	successful	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	OverDrive	x	x	0
+O	0	11	O	O	"	x	x	0
+O	0	12	O	O	CPU	x	x	0
+O	0	13	O	O	ever	x	x	0
+O	0	14	O	O	done	x	x	0
+O	0	15	O	O	by	x	x	0
+B-ORG	0	16	O	O	Intel	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	486-DX4	x	x	0
+O	0	2	O	O	OverDrive	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	OK	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	several	x	x	0
+O	0	9	O	O	Socket	x	x	0
+O	0	10	O	O	5	x	x	0
+O	0	11	O	O	Pentium	x	x	0
+O	0	12	O	O	OverDrives	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	Socket	x	x	0
+O	0	16	O	O	8	x	x	0
+O	0	17	O	O	Pentium	x	x	0
+O	0	18	O	O	Pro	x	x	0
+O	0	19	O	O	OverDrive	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Finally	x	x	0
+B-ORG	0	1	O	O	Intel	x	x	0
+O	0	2	O	O	gave	x	x	0
+O	0	3	O	O	up	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	OverDrives	x	x	0
+O	0	6	O	O	...	x	x	0
+
+
+
+B-PER	0	0	O	O	Ben	x	x	0
+I-PER	0	1	O	O	Myers	x	x	0
+
+O	0	0	O	O	Believe	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	or	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	companies	x	x	0
+B-ORG	0	7	O	O	that	x	x	0
+O	0	8	O	O	go	x	x	0
+O	0	9	O	O	over	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	line	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	need	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	be	x	x	0
+O	0	16	O	O	hit	x	x	0
+O	0	17	O	O	with	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	stick	x	x	0
+O	0	20	O	O	called	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	law	x	x	0
+O	0	23	O	O	suit	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	seems	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	fear	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	law	x	x	0
+O	0	6	O	O	suits	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	only	x	x	0
+O	0	10	O	O	thing	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	keeps	x	x	0
+O	0	13	O	O	some	x	x	0
+O	0	14	O	O	of	x	x	0
+B-ORG	0	15	O	O	these	x	x	0
+I-ORG	0	16	O	O	crooked	x	x	0
+I-ORG	0	17	O	O	companies	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	line	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	government	x	x	0
+O	0	2	O	O	sure	x	x	0
+O	0	3	O	O	does	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	resources	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	desire	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	pursue	x	x	0
+B-ORG	0	12	O	O	them	x	x	0
+O	0	13	O	O	so	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	left	x	x	0
+O	0	17	O	O	to	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	private	x	x	0
+I-ORG	0	20	O	O	sector	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	protect	x	x	0
+B-ORG	0	23	O	O	themselves	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Lawyers	x	x	0
+O	0	1	O	O	are	x	x	0
+B-PER	0	2	O	O	bounty	x	x	0
+I-PER	0	3	O	O	hunters	x	x	0
+I-PER	0	4	O	O	of	x	x	0
+I-PER	0	5	O	O	sorts	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	BTW	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	hate	x	x	0
+B-PER	0	4	O	O	lawyers	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	times	x	x	0
+O	0	9	O	O	that	x	x	0
+B-PER	0	10	O	O	they	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	useful	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+O	0	1	O	O	are	x	x	0
+B-PER	0	2	O	O	sleazebags	x	x	0
+O	0	3	O	O	but	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	most	x	x	0
+O	0	10	O	O	professions	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	least	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	little	x	x	0
+O	0	8	O	O	threat	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	"	x	x	0
+O	0	11	O	O	let	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	company	x	x	0
+O	0	14	O	O	beware	x	x	0
+O	0	15	O	O	"	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	maintain	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	balance	x	x	0
+O	0	20	O	O	otherwise	x	x	0
+O	0	21	O	O	it	x	x	0
+O	0	22	O	O	'll	x	x	0
+O	0	23	O	O	be	x	x	0
+O	0	24	O	O	open	x	x	0
+O	0	25	O	O	season	x	x	0
+O	0	26	O	O	on	x	x	0
+B-PER	0	27	O	O	consumers	x	x	0
+O	0	28	O	O	.	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	only	x	x	0
+O	0	2	O	O	people	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	profit	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	class	x	x	0
+O	0	7	O	O	actions	x	x	0
+O	0	8	O	O	are	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	lawyers	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Since	x	x	0
+B-ORG	0	1	O	O	companies	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	sued	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	class	x	x	0
+O	0	9	O	O	action	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	regardless	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	merits	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	case	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	threat	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	class	x	x	0
+O	0	24	O	O	action	x	x	0
+O	0	25	O	O	is	x	x	0
+O	0	26	O	O	not	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	detriment	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	believe	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	witness	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	Vioxx	x	x	0
+O	0	10	O	O	lawsuits	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	company	x	x	0
+I-ORG	0	2	O	O	making	x	x	0
+I-ORG	0	3	O	O	Vioxx	x	x	0
+O	0	4	O	O	determined	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	might	x	x	0
+O	0	7	O	O	increase	x	x	0
+O	0	8	O	O	mortality	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	pulled	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	from	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	market	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	it	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	being	x	x	0
+O	0	7	O	O	sued	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	companies	x	x	0
+I-ORG	0	2	O	O	making	x	x	0
+I-ORG	0	3	O	O	similar	x	x	0
+I-ORG	0	4	O	O	drugs	x	x	0
+I-ORG	0	5	O	O	(	x	x	0
+I-ORG	0	6	O	O	Celebrex	x	x	0
+I-ORG	0	7	O	O	and	x	x	0
+I-ORG	0	8	O	O	Bextra	x	x	0
+O	0	9	O	O	)	x	x	0
+O	0	10	O	O	did	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	pull	x	x	0
+B-ORG	0	13	O	O	their	x	x	0
+O	0	14	O	O	product	x	x	0
+O	0	15	O	O	from	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	market	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	being	x	x	0
+O	0	4	O	O	sued	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Doing	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	thing	x	x	0
+O	0	4	O	O	provides	x	x	0
+O	0	5	O	O	no	x	x	0
+O	0	6	O	O	protection	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	class	x	x	0
+O	0	9	O	O	action	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	class	x	x	0
+O	0	2	O	O	actions	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	enrich	x	x	0
+B-PER	0	6	O	O	lawyers	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	raise	x	x	0
+O	0	9	O	O	costs	x	x	0
+O	0	10	O	O	to	x	x	0
+B-PER	0	11	O	O	everyone	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	cost	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	class	x	x	0
+O	0	4	O	O	actions	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	factored	x	x	0
+O	0	7	O	O	into	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	cost	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	everything	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	buy	x	x	0
+O	0	14	O	O	.	x	x	0
+

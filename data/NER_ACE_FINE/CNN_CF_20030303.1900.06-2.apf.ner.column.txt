@@ -1,0 +1,313 @@
+O	0	0	O	O	OK	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Question	x	x	0
+O	0	1	O	O	from	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	audience	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	Paul	x	x	0
+O	0	3	O	O	Avalar	x	x	0
+O	0	4	O	O	(	x	x	0
+O	0	5	O	O	ph	x	x	0
+O	0	6	O	O	)	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	Tempe	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	Arizona	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	question	x	x	0
+O	0	4	O	O	also	x	x	0
+O	0	5	O	O	about	x	x	0
+B-PER	0	6	O	O	Khalid	x	x	0
+I-PER	0	7	O	O	Shaikh	x	x	0
+I-PER	0	8	O	O	Mohammed	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	how	x	x	0
+O	0	3	O	O	are	x	x	0
+B-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	argue	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	U.S.	x	x	0
+O	0	11	O	O	can	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	longer	x	x	0
+O	0	14	O	O	both	x	x	0
+O	0	15	O	O	fight	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	war	x	x	0
+O	0	18	O	O	with	x	x	0
+B-GPE	0	19	O	O	Iraq	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	also	x	x	0
+O	0	22	O	O	fight	x	x	0
+O	0	23	O	O	terrorism	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	specifically	x	x	0
+B-ORG	0	26	O	O	al	x	x	0
+I-ORG	0	27	O	O	Qaeda	x	x	0
+O	0	28	O	O	?	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	great	x	x	0
+O	0	4	O	O	question	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	an	x	x	0
+O	0	3	O	O	unanswerable	x	x	0
+O	0	4	O	O	point	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	able	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	answer	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	Tom	x	x	0
+I-PER	0	2	O	O	Andrews	x	x	0
+O	0	3	O	O	(	x	x	0
+O	0	4	O	O	ph	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	able	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	answer	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	Look	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	we	x	x	0
+O	0	3	O	O	need	x	x	0
+B-GPE	0	4	O	O	allies	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	catch	x	x	0
+B-PER	0	7	O	O	these	x	x	0
+I-PER	0	8	O	O	guys	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	got	x	x	0
+B-PER	0	2	O	O	him	x	x	0
+O	0	3	O	O	because	x	x	0
+B-GPE	0	4	O	O	the	x	x	0
+I-GPE	0	5	O	O	Pakistanis	x	x	0
+O	0	6	O	O	got	x	x	0
+B-PER	0	7	O	O	him	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	get	x	x	0
+B-PER	0	4	O	O	him	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	go	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	war	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	200,000	x	x	0
+I-PER	0	8	O	O	people	x	x	0
+O	0	9	O	O	start	x	x	0
+O	0	10	O	O	protesting	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Pakistan	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	put	x	x	0
+O	0	16	O	O	too	x	x	0
+O	0	17	O	O	much	x	x	0
+O	0	18	O	O	pressure	x	x	0
+O	0	19	O	O	on	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	government	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	becomes	x	x	0
+O	0	2	O	O	impossible	x	x	0
+O	0	3	O	O	for	x	x	0
+B-GPE	0	4	O	O	those	x	x	0
+I-GPE	0	5	O	O	governments	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	cooperate	x	x	0
+O	0	8	O	O	with	x	x	0
+B-GPE	0	9	O	O	us	x	x	0
+O	0	10	O	O	like	x	x	0
+B-GPE	0	11	O	O	they	x	x	0
+O	0	12	O	O	're	x	x	0
+O	0	13	O	O	cooperating	x	x	0
+B-TIME	0	14	O	O	now	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	go	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	war	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	would	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	worst	x	x	0
+O	0	12	O	O	thing	x	x	0
+B-GPE	0	13	O	O	we	x	x	0
+O	0	14	O	O	can	x	x	0
+O	0	15	O	O	do	x	x	0
+O	0	16	O	O	...	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	thing	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	Democrats	x	x	0
+O	0	7	O	O	ca	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	stand	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	good	x	x	0
+O	0	12	O	O	news	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	something	x	x	0
+B-ORG	0	4	O	O	you	x	x	0
+O	0	5	O	O	cannot	x	x	0
+O	0	6	O	O	handle	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	No.	x	x	0
+O	0	1	O	O	What	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	ca	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	stand	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	president	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	going	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	screw	x	x	0
+O	0	14	O	O	up	x	x	0
+B-GPE	0	15	O	O	our	x	x	0
+O	0	16	O	O	war	x	x	0
+O	0	17	O	O	against	x	x	0
+O	0	18	O	O	terrorism	x	x	0
+O	0	19	O	O	when	x	x	0
+B-PER	0	20	O	O	I	x	x	0
+O	0	21	O	O	thought	x	x	0
+O	0	22	O	O	that	x	x	0
+O	0	23	O	O	was	x	x	0
+B-PER	0	24	O	O	his	x	x	0
+O	0	25	O	O	job	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	From	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	left	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'm	x	x	0
+B-PER	0	6	O	O	Paul	x	x	0
+I-PER	0	7	O	O	Begala	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Good	x	x	0
+I-TIME	0	1	O	O	night	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	CROSSFIRE	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	From	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'm	x	x	0
+B-PER	0	6	O	O	Robert	x	x	0
+I-PER	0	7	O	O	Novak	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Join	x	x	0
+B-PER	0	1	O	O	us	x	x	0
+O	0	2	O	O	again	x	x	0
+O	0	3	O	O	next	x	x	0
+O	0	4	O	O	time	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	another	x	x	0
+O	0	7	O	O	edition	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	CROSSFIRE	x	x	0
+O	0	10	O	O	.	x	x	0
+

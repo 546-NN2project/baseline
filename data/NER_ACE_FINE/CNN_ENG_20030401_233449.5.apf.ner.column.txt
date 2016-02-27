@@ -1,0 +1,94 @@
+O	0	0	O	O	an	x	x	0
+O	0	1	O	O	airport	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	Key	x	x	0
+O	0	4	O	O	West	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Florida	x	x	0
+O	0	7	O	O	,	x	x	0
+B-TIME	0	8	O	O	today	x	x	0
+O	0	9	O	O	became	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	setting	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	what	x	x	0
+O	0	14	O	O	appeared	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	desperate	x	x	0
+O	0	19	O	O	attempt	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	enter	x	x	0
+B-GPE	0	22	O	O	the	x	x	0
+I-GPE	0	23	O	O	U.S.	x	x	0
+O	0	24	O	O	by	x	x	0
+O	0	25	O	O	a	x	x	0
+B-GPE	0	26	O	O	Cuban	x	x	0
+O	0	27	O	O	national	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	man	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	arrested	x	x	0
+B-FAC	0	4	O	O	there	x	x	0
+O	0	5	O	O	after	x	x	0
+B-PER	0	6	O	O	authorities	x	x	0
+O	0	7	O	O	say	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	hijacked	x	x	0
+O	0	10	O	O	a	x	x	0
+B-GPE	0	11	O	O	Cuban	x	x	0
+O	0	12	O	O	plane	x	x	0
+O	0	13	O	O	using	x	x	0
+O	0	14	O	O	what	x	x	0
+O	0	15	O	O	was	x	x	0
+O	0	16	O	O	reported	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	be	x	x	0
+B-WEA	0	19	O	O	grenades	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	ordering	x	x	0
+B-PER	0	22	O	O	the	x	x	0
+I-PER	0	23	O	O	pilots	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	fly	x	x	0
+O	0	26	O	O	to	x	x	0
+B-GPE	0	27	O	O	Florida	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	hijacker	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	off	x	x	0
+B-VEH	0	4	O	O	the	x	x	0
+I-VEH	0	5	O	O	plane	x	x	0
+O	0	6	O	O	wearing	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	jacket	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	America	x	x	0
+O	0	13	O	O	across	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	back	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	a	x	x	0
+I-PER	0	2	O	O	small	x	x	0
+I-PER	0	3	O	O	child	x	x	0
+O	0	4	O	O	clinging	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	leg	x	x	0
+O	0	8	O	O	.	x	x	0
+

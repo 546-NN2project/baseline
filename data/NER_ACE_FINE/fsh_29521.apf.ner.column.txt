@@ -1,0 +1,1370 @@
+O	0	0	O	O	9	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Elections	x	x	0
+O	0	1	O	O	Did	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	vote	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+B-TIME	0	6	O	O	recent	x	x	0
+B-GPE	0	7	O	O	US	x	x	0
+B-Job-Title	0	8	O	O	Presidential	x	x	0
+O	0	9	O	O	election	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	did	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	two	x	x	0
+I-PER	0	7	O	O	candidates	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	George	x	x	0
+I-PER	0	10	O	O	Bush	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	John	x	x	0
+I-PER	0	13	O	O	Kerry	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	about	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	Vice	x	x	0
+I-PER	0	4	O	O	Presidential	x	x	0
+I-PER	0	5	O	O	candidates	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Dick	x	x	0
+I-PER	0	8	O	O	Cheney	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	John	x	x	0
+I-PER	0	11	O	O	Edwards	x	x	0
+O	0	12	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	issues	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	most	x	x	0
+O	0	4	O	O	important	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	deciding	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	vote	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	vote	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	why	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	?	x	x	0
+
+B-PER	0	0	O	O	John	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Denver	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	this	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	Ivan	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Wisconsin	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Ivan	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Wisconsin	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	grew	x	x	0
+O	0	6	O	O	up	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	uh	x	x	0
+O	0	10	O	O	,	x	x	0
+B-TIME	0	11	O	O	hour	x	x	0
+O	0	12	O	O	north	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	Milwaukee	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	like	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	eh	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	uh	x	x	0
+O	0	21	O	O	,	x	x	0
+B-GPE	0	22	O	O	West	x	x	0
+I-GPE	0	23	O	O	Bend	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	er	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	uh	x	x	0
+O	0	28	O	O	,	x	x	0
+B-GPE	0	29	O	O	Fort	x	x	0
+I-GPE	0	30	O	O	Washington	x	x	0
+O	0	31	O	O	area	x	x	0
+O	0	32	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	uh	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	between	x	x	0
+B-LOC	0	8	O	O	Lake	x	x	0
+I-LOC	0	9	O	O	Geneva	x	x	0
+O	0	10	O	O	and	x	x	0
+B-GPE	0	11	O	O	Kenosha	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	okay	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Cool	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	man	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	thought	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	uh	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	put	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	whole	x	x	0
+O	0	12	O	O	election	x	x	0
+O	0	13	O	O	stuff	x	x	0
+O	0	14	O	O	behind	x	x	0
+B-PER	0	15	O	O	me	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	fact	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	thought	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	already	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	discussion	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	this	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	uh	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	about	x	x	0
+O	0	19	O	O	elections	x	x	0
+O	0	20	O	O	some	x	x	0
+O	0	21	O	O	time	x	x	0
+O	0	22	O	O	back	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	but	x	x	0
+B-PER	0	25	O	O	I	x	x	0
+O	0	26	O	O	guess	x	x	0
+O	0	27	O	O	it	x	x	0
+O	0	28	O	O	was	x	x	0
+O	0	29	O	O	question	x	x	0
+O	0	30	O	O	was	x	x	0
+O	0	31	O	O	framed	x	x	0
+O	0	32	O	O	differently	x	x	0
+O	0	33	O	O	,	x	x	0
+B-PER	0	34	O	O	I	x	x	0
+O	0	35	O	O	guess	x	x	0
+O	0	36	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	um	x	x	0
+O	0	3	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	vote	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	um	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	elections	x	x	0
+O	0	5	O	O	wore	x	x	0
+B-PER	0	6	O	O	me	x	x	0
+O	0	7	O	O	down	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	pretty	x	x	0
+O	0	3	O	O	tired	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	know	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	all	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	commercials	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	hype	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	I	x	x	0
+O	0	20	O	O	do	x	x	0
+O	0	21	O	O	n't	x	x	0
+O	0	22	O	O	know	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	it	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	lunch	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	work	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	whole	x	x	0
+O	0	10	O	O	lunch	x	x	0
+O	0	11	O	O	time	x	x	0
+O	0	12	O	O	all	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	do	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	see	x	x	0
+O	0	17	O	O	commercials	x	x	0
+O	0	18	O	O	about	x	x	0
+B-PER	0	19	O	O	the	x	x	0
+I-PER	0	20	O	O	politicians	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	,	x	x	0
+B-PER	0	23	O	O	you	x	x	0
+O	0	24	O	O	know	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	all	x	x	0
+O	0	27	O	O	that	x	x	0
+O	0	28	O	O	kind	x	x	0
+O	0	29	O	O	of	x	x	0
+O	0	30	O	O	stuff	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	um	x	x	0
+O	0	33	O	O	,	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	uh	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	voted	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	uh	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	yeah	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	feel	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	same	x	x	0
+O	0	14	O	O	way	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	get	x	x	0
+B-TIME	0	2	O	O	regardless	x	x	0
+I-TIME	0	3	O	O	of	x	x	0
+I-TIME	0	4	O	O	what	x	x	0
+I-TIME	0	5	O	O	year	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	or	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	candidates	x	x	0
+O	0	12	O	O	are	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	get	x	x	0
+O	0	15	O	O	tired	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	listening	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	basically	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	same	x	x	0
+O	0	8	O	O	thing	x	x	0
+O	0	9	O	O	all	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	time	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	uh	x	x	0
+O	0	15	O	O	,	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	they	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	tell	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	same	x	x	0
+O	0	8	O	O	thing	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	then	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	turn	x	x	0
+O	0	13	O	O	around	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	do	x	x	0
+O	0	16	O	O	something	x	x	0
+O	0	17	O	O	different	x	x	0
+O	0	18	O	O	all	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	time	x	x	0
+O	0	21	O	O	anyway	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	so	x	x	0
+O	0	24	O	O	it	x	x	0
+O	0	25	O	O	's	x	x	0
+B-PER	0	26	O	O	I	x	x	0
+O	0	27	O	O	do	x	x	0
+O	0	28	O	O	n't	x	x	0
+O	0	29	O	O	know	x	x	0
+O	0	30	O	O	if	x	x	0
+O	0	31	O	O	it	x	x	0
+O	0	32	O	O	's	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	uh	x	x	0
+O	0	35	O	O	,	x	x	0
+B-PER	0	36	O	O	I	x	x	0
+O	0	37	O	O	guess	x	x	0
+O	0	38	O	O	it	x	x	0
+O	0	39	O	O	's	x	x	0
+O	0	40	O	O	wor	x	x	0
+O	0	41	O	O	worth	x	x	0
+O	0	42	O	O	voting	x	x	0
+O	0	43	O	O	,	x	x	0
+O	0	44	O	O	but	x	x	0
+O	0	45	O	O	sometimes	x	x	0
+B-PER	0	46	O	O	I	x	x	0
+O	0	47	O	O	wonder	x	x	0
+O	0	48	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Was	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	uh	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Wisconsin	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	like	x	x	0
+B-GPE	0	8	O	O	a	x	x	0
+I-GPE	0	9	O	O	swing	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	er	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	uh	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	really	x	x	0
+O	0	18	O	O	pu	x	x	0
+O	0	19	O	O	or	x	x	0
+O	0	20	O	O	no	x	x	0
+O	0	21	O	O	it	x	x	0
+O	0	22	O	O	was	x	x	0
+B-GPE	0	23	O	O	Ohio	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	I	x	x	0
+O	0	26	O	O	think	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	was	x	x	0
+B-GPE	0	29	O	O	the	x	x	0
+I-GPE	0	30	O	O	really	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	uh	x	x	0
+O	0	33	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Ohio	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	th	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	big	x	x	0
+I-GPE	0	7	O	O	swing	x	x	0
+I-GPE	0	8	O	O	one	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+
+O	0	0	O	O	big	x	x	0
+O	0	1	O	O	upset	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	fairly	x	x	0
+O	0	1	O	O	close	x	x	0
+B-GPE	0	2	O	O	here	x	x	0
+O	0	3	O	O	,	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	yeah	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	uh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	it	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	uh	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	it	x	x	0
+O	0	10	O	O	went	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	uh	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	what	x	x	0
+O	0	15	O	O	color	x	x	0
+O	0	16	O	O	was	x	x	0
+B-GPE	0	17	O	O	it	x	x	0
+O	0	18	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Blue	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	guess	x	x	0
+B-GPE	0	3	O	O	it	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	uh-huh	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	ahead	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	parents	x	x	0
+O	0	4	O	O	live	x	x	0
+O	0	5	O	O	back	x	x	0
+B-GPE	0	6	O	O	there	x	x	0
+O	0	7	O	O	still	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	fact	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	just	x	x	0
+O	0	5	O	O	got	x	x	0
+O	0	6	O	O	back	x	x	0
+O	0	7	O	O	from	x	x	0
+B-FAC	0	8	O	O	Disney	x	x	0
+I-FAC	0	9	O	O	World	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	you	x	x	0
+O	0	12	O	O	know	x	x	0
+O	0	13	O	O	,	x	x	0
+B-TIME	0	14	O	O	about	x	x	0
+I-TIME	0	15	O	O	an	x	x	0
+I-TIME	0	16	O	O	hour	x	x	0
+I-TIME	0	17	O	O	ago	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	they	x	x	0
+O	0	20	O	O	're	x	x	0
+O	0	21	O	O	down	x	x	0
+B-FAC	0	22	O	O	there	x	x	0
+O	0	23	O	O	and	x	x	0
+B-PER	0	24	O	O	they	x	x	0
+O	0	25	O	O	're	x	x	0
+O	0	26	O	O	but	x	x	0
+B-PER	0	27	O	O	they	x	x	0
+O	0	28	O	O	're	x	x	0
+B-PER	0	29	O	O	both	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	uh	x	x	0
+O	0	32	O	O	,	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	one	x	x	0
+O	0	1	O	O	's	x	x	0
+B-ORG	0	2	O	O	one	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	one	x	x	0
+O	0	5	O	O	's	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	other	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	so	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	arg	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	know	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	they	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	go	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	vote	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	cancel	x	x	0
+B-PER	0	13	O	O	each	x	x	0
+I-PER	0	14	O	O	other	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	know	x	x	0
+O	0	19	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh-huh	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	kind	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	funny	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	so	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	'll	x	x	0
+O	0	4	O	O	just	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	see	x	x	0
+O	0	8	O	O	what	x	x	0
+O	0	9	O	O	happens	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	uh	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	Mr.	x	x	0
+O	0	15	O	O	Bush	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hopefully	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	choice	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	know	x	x	0
+O	0	8	O	O	,	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Wow	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	-	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	di	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	lot	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	faith	x	x	0
+O	0	10	O	O	in	x	x	0
+B-PER	0	11	O	O	any	x	x	0
+I-PER	0	12	O	O	of	x	x	0
+I-PER	0	13	O	O	them	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	really	x	x	0
+O	0	16	O	O	,	x	x	0
+
+O	0	0	O	O	nah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	er	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	mean	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	I	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	really	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	what	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	perfect	x	x	0
+O	0	15	O	O	choice	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	ah	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	ca	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	ever	x	x	0
+O	0	11	O	O	remember	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	perfect	x	x	0
+O	0	14	O	O	choice	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	've	x	x	0
+O	0	18	O	O	been	x	x	0
+O	0	19	O	O	voting	x	x	0
+O	0	20	O	O	since	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	uh	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	Nixon	x	x	0
+B-PER	0	25	O	O	McGovern	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	uh	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	so	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'd	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	've	x	x	0
+O	0	8	O	O	never	x	x	0
+O	0	9	O	O	ever	x	x	0
+O	0	10	O	O	seen	x	x	0
+B-PER	0	11	O	O	a	x	x	0
+I-PER	0	12	O	O	perfect	x	x	0
+I-PER	0	13	O	O	candidate	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	th	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	expected	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	mean	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	know	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	're	x	x	0
+O	0	15	O	O	all	x	x	0
+B-PER	0	16	O	O	human	x	x	0
+I-PER	0	17	O	O	beings	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	Ca	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	please	x	x	0
+B-PER	0	3	O	O	everybody	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yep	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	far	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	what	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	thought	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	various	x	x	0
+I-PER	0	13	O	O	candidates	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	uh	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	know	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	I	x	x	0
+O	0	21	O	O	guess	x	x	0
+B-PER	0	22	O	O	we	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	what	x	x	0
+B-PER	0	25	O	O	we	x	x	0
+O	0	26	O	O	said	x	x	0
+O	0	27	O	O	about	x	x	0
+B-PER	0	28	O	O	Bush	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	but	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	uh	x	x	0
+O	0	33	O	O	,	x	x	0
+B-PER	0	34	O	O	Kerry	x	x	0
+O	0	35	O	O	,	x	x	0
+B-PER	0	36	O	O	I	x	x	0
+O	0	37	O	O	do	x	x	0
+O	0	38	O	O	n't	x	x	0
+O	0	39	O	O	know	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	it	x	x	0
+O	0	42	O	O	's	x	x	0
+O	0	43	O	O	just	x	x	0
+B-LOC	0	44	O	O	that	x	x	0
+I-LOC	0	45	O	O	coast	x	x	0
+O	0	46	O	O	,	x	x	0
+O	0	47	O	O	uh	x	x	0
+O	0	48	O	O	,	x	x	0
+O	0	49	O	O	kind	x	x	0
+O	0	50	O	O	of	x	x	0
+O	0	51	O	O	persona	x	x	0
+O	0	52	O	O	or	x	x	0
+O	0	53	O	O	image	x	x	0
+O	0	54	O	O	,	x	x	0
+O	0	55	O	O	t	x	x	0
+O	0	56	O	O	,	x	x	0
+O	0	57	O	O	uh	x	x	0
+O	0	58	O	O	,	x	x	0
+B-PER	0	59	O	O	I	x	x	0
+O	0	60	O	O	do	x	x	0
+O	0	61	O	O	n't	x	x	0
+O	0	62	O	O	care	x	x	0
+O	0	63	O	O	for	x	x	0
+O	0	64	O	O	,	x	x	0
+O	0	65	O	O	for	x	x	0
+O	0	66	O	O	one	x	x	0
+O	0	67	O	O	thing	x	x	0
+O	0	68	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	From	x	x	0
+B-GPE	0	1	O	O	Massachusetts	x	x	0
+O	0	2	O	O	i	x	x	0
+B-PER	0	3	O	O	candidate	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Cheney	x	x	0
+O	0	5	O	O	which	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	kind	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	out	x	x	0
+B-PER	0	11	O	O	your	x	x	0
+O	0	12	O	O	way	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	uh	x	x	0
+O	0	15	O	O	,	x	x	0
+B-GPE	0	16	O	O	Wyoming	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Uh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	kind	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	non-descript	x	x	0
+I-PER	0	10	O	O	person	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	as	x	x	0
+O	0	13	O	O	far	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	like	x	x	0
+O	0	17	O	O	I	x	x	0
+B-PER	0	18	O	O	I	x	x	0
+O	0	19	O	O	'm	x	x	0
+O	0	20	O	O	sure	x	x	0
+B-PER	0	21	O	O	he	x	x	0
+O	0	22	O	O	's	x	x	0
+B-PER	0	23	O	O	he	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	probably	x	x	0
+B-PER	0	26	O	O	a	x	x	0
+I-PER	0	27	O	O	nice	x	x	0
+I-PER	0	28	O	O	guy	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	lot	x	x	0
+O	0	33	O	O	of	x	x	0
+O	0	34	O	O	fun	x	x	0
+O	0	35	O	O	at	x	x	0
+O	0	36	O	O	a	x	x	0
+O	0	37	O	O	party	x	x	0
+O	0	38	O	O	probably	x	x	0
+O	0	39	O	O	,	x	x	0
+B-PER	0	40	O	O	I	x	x	0
+O	0	41	O	O	do	x	x	0
+O	0	42	O	O	n't	x	x	0
+O	0	43	O	O	know	x	x	0
+O	0	44	O	O	,	x	x	0
+O	0	45	O	O	but	x	x	0
+O	0	46	O	O	,	x	x	0
+B-PER	0	47	O	O	you	x	x	0
+O	0	48	O	O	know	x	x	0
+O	0	49	O	O	,	x	x	0
+O	0	50	O	O	just	x	x	0
+O	0	51	O	O	from	x	x	0
+O	0	52	O	O	what	x	x	0
+B-PER	0	53	O	O	you	x	x	0
+O	0	54	O	O	see	x	x	0
+O	0	55	O	O	of	x	x	0
+B-PER	0	56	O	O	him	x	x	0
+O	0	57	O	O	,	x	x	0
+B-PER	0	58	O	O	he	x	x	0
+O	0	59	O	O	's	x	x	0
+O	0	60	O	O	just	x	x	0
+O	0	61	O	O	kind	x	x	0
+O	0	62	O	O	of	x	x	0
+O	0	63	O	O	kind	x	x	0
+O	0	64	O	O	of	x	x	0
+O	0	65	O	O	like	x	x	0
+B-PER	0	66	O	O	an	x	x	0
+I-PER	0	67	O	O	old	x	x	0
+I-PER	0	68	O	O	grandpa	x	x	0
+O	0	69	O	O	,	x	x	0
+B-PER	0	70	O	O	you	x	x	0
+O	0	71	O	O	know	x	x	0
+O	0	72	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	real	x	x	0
+O	0	5	O	O	grouchy	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	just	x	x	0
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	those	x	x	0
+O	0	2	O	O	debates	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	pitbull	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	c	x	x	0
+B-PER	0	6	O	O	him	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	uh	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	mean	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	uh	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	do	x	x	0
+O	0	18	O	O	n't	x	x	0
+O	0	19	O	O	know	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	he	x	x	0
+B-PER	0	22	O	O	he	x	x	0
+O	0	23	O	O	kind	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	picked	x	x	0
+O	0	26	O	O	apart	x	x	0
+B-PER	0	27	O	O	Edwards	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	um	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	but	x	x	0
+O	0	5	O	O	then	x	x	0
+B-PER	0	6	O	O	Edwards	x	x	0
+O	0	7	O	O	fought	x	x	0
+O	0	8	O	O	back	x	x	0
+O	0	9	O	O	kind	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	you	x	x	0
+O	0	12	O	O	know	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	then	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	stuff	x	x	0
+B-PER	0	18	O	O	you	x	x	0
+O	0	19	O	O	hear	x	x	0
+O	0	20	O	O	about	x	x	0
+B-PER	0	21	O	O	Edwards	x	x	0
+O	0	22	O	O	too	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	about	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	uh	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	how	x	x	0
+B-PER	0	30	O	O	he	x	x	0
+O	0	31	O	O	's	x	x	0
+B-PER	0	32	O	O	a	x	x	0
+I-PER	0	33	O	O	trial	x	x	0
+I-PER	0	34	O	O	lawyer	x	x	0
+O	0	35	O	O	and	x	x	0
+O	0	36	O	O	how	x	x	0
+B-PER	0	37	O	O	he	x	x	0
+O	0	38	O	O	made	x	x	0
+O	0	39	O	O	all	x	x	0
+B-PER	0	40	O	O	his	x	x	0
+B-Numeric	0	41	O	O	millions	x	x	0
+O	0	42	O	O	suing	x	x	0
+B-ORG	0	43	O	O	insurance	x	x	0
+I-ORG	0	44	O	O	companies	x	x	0
+O	0	45	O	O	and	x	x	0
+O	0	46	O	O	,	x	x	0
+O	0	47	O	O	um	x	x	0
+O	0	48	O	O	,	x	x	0
+B-PER	0	49	O	O	you	x	x	0
+O	0	50	O	O	know	x	x	0
+O	0	51	O	O	,	x	x	0
+O	0	52	O	O	there	x	x	0
+O	0	53	O	O	there	x	x	0
+O	0	54	O	O	's	x	x	0
+O	0	55	O	O	bad	x	x	0
+O	0	56	O	O	stuff	x	x	0
+B-PER	0	57	O	O	you	x	x	0
+O	0	58	O	O	hear	x	x	0
+O	0	59	O	O	about	x	x	0
+B-PER	0	60	O	O	both	x	x	0
+I-PER	0	61	O	O	of	x	x	0
+I-PER	0	62	O	O	them	x	x	0
+O	0	63	O	O	that	x	x	0
+O	0	64	O	O	,	x	x	0
+B-PER	0	65	O	O	you	x	x	0
+O	0	66	O	O	know	x	x	0
+O	0	67	O	O	,	x	x	0
+O	0	68	O	O	obviously	x	x	0
+B-PER	0	69	O	O	they	x	x	0
+O	0	70	O	O	want	x	x	0
+O	0	71	O	O	to	x	x	0
+O	0	72	O	O	tell	x	x	0
+B-PER	0	73	O	O	you	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	that	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	guess	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	really	x	x	0
+O	0	8	O	O	like	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	uh	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	uh	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	Kerry	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	like	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	changing	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	story	x	x	0
+O	0	23	O	O	all	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	time	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	like	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	oh	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	I	x	x	0
+B-PER	0	32	O	O	I	x	x	0
+O	0	33	O	O	believe	x	x	0
+O	0	34	O	O	in	x	x	0
+O	0	35	O	O	this	x	x	0
+O	0	36	O	O	but	x	x	0
+O	0	37	O	O	,	x	x	0
+O	0	38	O	O	uh	x	x	0
+O	0	39	O	O	,	x	x	0
+O	0	40	O	O	no	x	x	0
+B-PER	0	41	O	O	I	x	x	0
+O	0	42	O	O	do	x	x	0
+O	0	43	O	O	n't	x	x	0
+O	0	44	O	O	but	x	x	0
+O	0	45	O	O	yes	x	x	0
+B-PER	0	46	O	O	I	x	x	0
+O	0	47	O	O	do	x	x	0
+O	0	48	O	O	and	x	x	0
+O	0	49	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	you	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	kind	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	cut	x	x	0
+I-PER	0	6	O	O	and	x	x	0
+I-PER	0	7	O	O	dry	x	x	0
+I-PER	0	8	O	O	kind	x	x	0
+I-PER	0	9	O	O	of	x	x	0
+I-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	guy	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	opinion	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	'd	x	x	0
+O	0	7	O	O	rather	x	x	0
+O	0	8	O	O	just	x	x	0
+O	0	9	O	O	want	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	tell	x	x	0
+B-PER	0	13	O	O	me	x	x	0
+O	0	14	O	O	straight	x	x	0
+O	0	15	O	O	up	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	not	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	try	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	beat	x	x	0
+O	0	3	O	O	around	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	bush	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	get	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	vote	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	something	x	x	0
+O	0	12	O	O	like	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	guess	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	certain	x	x	0
+O	0	7	O	O	degree	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	uh	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	guess	x	x	0
+O	0	15	O	O	try	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	play	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	middle	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	try	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	please	x	x	0
+O	0	25	O	O	as	x	x	0
+O	0	26	O	O	many	x	x	0
+O	0	27	O	O	people	x	x	0
+O	0	28	O	O	as	x	x	0
+B-PER	0	29	O	O	they	x	x	0
+O	0	30	O	O	can	x	x	0
+O	0	31	O	O	but	x	x	0
+B-PER	0	32	O	O	Kerry	x	x	0
+O	0	33	O	O	was	x	x	0
+O	0	34	O	O	just	x	x	0
+O	0	35	O	O	all	x	x	0
+O	0	36	O	O	over	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	map	x	x	0
+O	0	39	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+

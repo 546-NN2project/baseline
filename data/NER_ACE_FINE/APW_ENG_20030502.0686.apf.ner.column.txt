@@ -1,0 +1,1091 @@
+B-GPE	0	0	O	O	LONDON	x	x	0
+O	0	1	O	O	(	x	x	0
+B-ORG	0	2	O	O	AP	x	x	0
+O	0	3	O	O	)	x	x	0
+B-GPE	0	4	O	O	The	x	x	0
+I-GPE	0	5	O	O	United	x	x	0
+I-GPE	0	6	O	O	States	x	x	0
+O	0	7	O	O	and	x	x	0
+B-GPE	0	8	O	O	Britain	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	preparing	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	resolution	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	would	x	x	0
+O	0	15	O	O	give	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	United	x	x	0
+I-ORG	0	18	O	O	Nations	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	role	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	humanitarian	x	x	0
+O	0	23	O	O	relief	x	x	0
+O	0	24	O	O	but	x	x	0
+O	0	25	O	O	not	x	x	0
+O	0	26	O	O	peacekeeping	x	x	0
+O	0	27	O	O	in	x	x	0
+B-GPE	0	28	O	O	Iraq	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	senior	x	x	0
+O	0	32	O	O	official	x	x	0
+O	0	33	O	O	in	x	x	0
+B-GPE	0	34	O	O	U.S.	x	x	0
+O	0	35	O	O	President	x	x	0
+O	0	36	O	O	George	x	x	0
+O	0	37	O	O	W.	x	x	0
+O	0	38	O	O	Bush	x	x	0
+O	0	39	O	O	's	x	x	0
+O	0	40	O	O	administration	x	x	0
+O	0	41	O	O	said	x	x	0
+B-TIME	0	42	O	O	Friday	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Separately	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	the	x	x	0
+I-GPE	0	3	O	O	United	x	x	0
+I-GPE	0	4	O	O	States	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	decided	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	divide	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	military	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	humanitarian	x	x	0
+O	0	13	O	O	relief	x	x	0
+O	0	14	O	O	mission	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	Iraq	x	x	0
+O	0	17	O	O	into	x	x	0
+O	0	18	O	O	three	x	x	0
+O	0	19	O	O	parts	x	x	0
+O	0	20	O	O	under	x	x	0
+B-GPE	0	21	O	O	American	x	x	0
+O	0	22	O	O	,	x	x	0
+B-GPE	0	23	O	O	British	x	x	0
+O	0	24	O	O	and	x	x	0
+B-GPE	0	25	O	O	Polish	x	x	0
+O	0	26	O	O	command	x	x	0
+O	0	27	O	O	,	x	x	0
+B-PER	0	28	O	O	the	x	x	0
+I-PER	0	29	O	O	official	x	x	0
+O	0	30	O	O	said	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	speaking	x	x	0
+O	0	33	O	O	on	x	x	0
+O	0	34	O	O	condition	x	x	0
+O	0	35	O	O	of	x	x	0
+O	0	36	O	O	anonymity	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Six	x	x	0
+B-GPE	0	1	O	O	European	x	x	0
+O	0	2	O	O	countries	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	agreed	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	contribute	x	x	0
+B-PER	0	7	O	O	troops	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	the	x	x	0
+B-GPE	0	10	O	O	British	x	x	0
+O	0	11	O	O	and	x	x	0
+B-GPE	0	12	O	O	Polish	x	x	0
+O	0	13	O	O	sectors	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	create	x	x	0
+B-ORG	0	16	O	O	an	x	x	0
+I-ORG	0	17	O	O	international	x	x	0
+I-ORG	0	18	O	O	stability	x	x	0
+I-ORG	0	19	O	O	force	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	official	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	draft	x	x	0
+O	0	2	O	O	resolution	x	x	0
+O	0	3	O	O	would	x	x	0
+O	0	4	O	O	limit	x	x	0
+O	0	5	O	O	the	x	x	0
+B-ORG	0	6	O	O	U.N.	x	x	0
+O	0	7	O	O	role	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	helping	x	x	0
+O	0	10	O	O	with	x	x	0
+B-PER	0	11	O	O	refugees	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	displaced	x	x	0
+I-PER	0	14	O	O	people	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	reconstruction	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	humanitarian	x	x	0
+O	0	19	O	O	assistance	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	official	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	United	x	x	0
+I-GPE	0	2	O	O	States	x	x	0
+O	0	3	O	O	and	x	x	0
+B-GPE	0	4	O	O	Britain	x	x	0
+O	0	5	O	O	agree	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	all	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	few	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	fine	x	x	0
+O	0	14	O	O	details	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	resolution	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	the	x	x	0
+I-PER	0	20	O	O	official	x	x	0
+O	0	21	O	O	said	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	though	x	x	0
+O	0	24	O	O	there	x	x	0
+O	0	25	O	O	is	x	x	0
+O	0	26	O	O	no	x	x	0
+O	0	27	O	O	timetable	x	x	0
+O	0	28	O	O	on	x	x	0
+O	0	29	O	O	when	x	x	0
+O	0	30	O	O	it	x	x	0
+O	0	31	O	O	would	x	x	0
+O	0	32	O	O	be	x	x	0
+O	0	33	O	O	introduced	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	U.N.	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	already	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	providing	x	x	0
+O	0	7	O	O	humanitarian	x	x	0
+O	0	8	O	O	relief	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	U.N.	x	x	0
+O	0	1	O	O	Secretary	x	x	0
+O	0	2	O	O	General	x	x	0
+O	0	3	O	O	Kofi	x	x	0
+O	0	4	O	O	Annan	x	x	0
+O	0	5	O	O	said	x	x	0
+B-TIME	0	6	O	O	this	x	x	0
+I-TIME	0	7	O	O	week	x	x	0
+O	0	8	O	O	that	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	body	x	x	0
+O	0	11	O	O	has	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	interest	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	policing	x	x	0
+B-GPE	0	16	O	O	a	x	x	0
+I-GPE	0	17	O	O	postwar	x	x	0
+I-GPE	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	although	x	x	0
+B-ORG	0	21	O	O	it	x	x	0
+O	0	22	O	O	could	x	x	0
+O	0	23	O	O	contribute	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	political	x	x	0
+O	0	27	O	O	resuscitation	x	x	0
+O	0	28	O	O	of	x	x	0
+B-GPE	0	29	O	O	the	x	x	0
+I-GPE	0	30	O	O	country	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Take	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	question	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	security	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	think	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	U.N.	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	want	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	take	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	''	x	x	0
+B-PER	0	14	O	O	Annan	x	x	0
+O	0	15	O	O	said	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	There	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	suggestion	x	x	0
+O	0	6	O	O	that	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	U.N.	x	x	0
+O	0	9	O	O	wanted	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	take	x	x	0
+O	0	12	O	O	over	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	whole	x	x	0
+I-GPE	0	15	O	O	Iraq	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	run	x	x	0
+B-GPE	0	18	O	O	it	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	which	x	x	0
+O	0	21	O	O	was	x	x	0
+O	0	22	O	O	also	x	x	0
+O	0	23	O	O	not	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	case	x	x	0
+O	0	26	O	O	.	x	x	0
+O	0	27	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	United	x	x	0
+I-ORG	0	3	O	O	Nations	x	x	0
+O	0	4	O	O	could	x	x	0
+O	0	5	O	O	contribute	x	x	0
+O	0	6	O	O	beyond	x	x	0
+O	0	7	O	O	humanitarian	x	x	0
+O	0	8	O	O	assistance	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	``	x	x	0
+O	0	11	O	O	political	x	x	0
+O	0	12	O	O	facilitation	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	''	x	x	0
+B-PER	0	15	O	O	Annan	x	x	0
+O	0	16	O	O	said	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	proposed	x	x	0
+O	0	2	O	O	draft	x	x	0
+O	0	3	O	O	resolution	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	probably	x	x	0
+O	0	6	O	O	face	x	x	0
+O	0	7	O	O	resistance	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	other	x	x	0
+B-ORG	0	10	O	O	U.N.	x	x	0
+O	0	11	O	O	Security	x	x	0
+O	0	12	O	O	Council	x	x	0
+O	0	13	O	O	members	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	favored	x	x	0
+O	0	17	O	O	a	x	x	0
+B-ORG	0	18	O	O	U.N.	x	x	0
+O	0	19	O	O	-	x	x	0
+O	0	20	O	O	convened	x	x	0
+O	0	21	O	O	conference	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	kind	x	x	0
+O	0	25	O	O	that	x	x	0
+O	0	26	O	O	helped	x	x	0
+O	0	27	O	O	establish	x	x	0
+B-GPE	0	28	O	O	Afghanistan	x	x	0
+O	0	29	O	O	's	x	x	0
+O	0	30	O	O	post-Taliban	x	x	0
+O	0	31	O	O	government	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+B-ORG	0	1	O	O	Defense	x	x	0
+O	0	2	O	O	Secretary	x	x	0
+O	0	3	O	O	Donald	x	x	0
+O	0	4	O	O	H.	x	x	0
+O	0	5	O	O	Rumsfeld	x	x	0
+O	0	6	O	O	discussed	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	resolution	x	x	0
+O	0	9	O	O	with	x	x	0
+B-PER	0	10	O	O	Prime	x	x	0
+I-PER	0	11	O	O	Minister	x	x	0
+O	0	12	O	O	Tony	x	x	0
+O	0	13	O	O	Blair	x	x	0
+O	0	14	O	O	and	x	x	0
+B-ORG	0	15	O	O	Defense	x	x	0
+O	0	16	O	O	Secretary	x	x	0
+O	0	17	O	O	Geoff	x	x	0
+O	0	18	O	O	Hoon	x	x	0
+O	0	19	O	O	on	x	x	0
+B-TIME	0	20	O	O	Friday	x	x	0
+O	0	21	O	O	as	x	x	0
+B-PER	0	22	O	O	Rumsfeld	x	x	0
+O	0	23	O	O	returned	x	x	0
+O	0	24	O	O	from	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	tour	x	x	0
+O	0	27	O	O	of	x	x	0
+B-GPE	0	28	O	O	Iraq	x	x	0
+O	0	29	O	O	,	x	x	0
+B-GPE	0	30	O	O	Afghanistan	x	x	0
+O	0	31	O	O	and	x	x	0
+O	0	32	O	O	the	x	x	0
+B-LOC	0	33	O	O	Persian	x	x	0
+I-LOC	0	34	O	O	Gulf	x	x	0
+O	0	35	O	O	region	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rumsfeld	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	afterward	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	hoped	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	U.N.	x	x	0
+O	0	7	O	O	would	x	x	0
+O	0	8	O	O	play	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	role	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	did	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	publicly	x	x	0
+O	0	15	O	O	discuss	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	draft	x	x	0
+O	0	18	O	O	resolution	x	x	0
+O	0	19	O	O	outlining	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	role	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hoon	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+O	0	3	O	O	joined	x	x	0
+B-PER	0	4	O	O	Rumsfeld	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	news	x	x	0
+O	0	8	O	O	conference	x	x	0
+O	0	9	O	O	at	x	x	0
+B-FAC	0	10	O	O	Heathrow	x	x	0
+I-FAC	0	11	O	O	airport	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	also	x	x	0
+O	0	14	O	O	did	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	mention	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	draft	x	x	0
+O	0	19	O	O	resolution	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	optimistic	x	x	0
+O	0	7	O	O	about	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	way	x	x	0
+O	0	10	O	O	forward	x	x	0
+O	0	11	O	O	''	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Iraq	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	Hoon	x	x	0
+O	0	16	O	O	said	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	International	x	x	0
+I-ORG	0	1	O	O	stability	x	x	0
+I-ORG	0	2	O	O	forces	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	sent	x	x	0
+O	0	6	O	O	to	x	x	0
+B-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	soon	x	x	0
+O	0	10	O	O	as	x	x	0
+O	0	11	O	O	possible	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	official	x	x	0
+O	0	16	O	O	said	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	though	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	was	x	x	0
+O	0	21	O	O	unclear	x	x	0
+O	0	22	O	O	when	x	x	0
+O	0	23	O	O	that	x	x	0
+O	0	24	O	O	would	x	x	0
+O	0	25	O	O	be	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Those	x	x	0
+I-PER	0	1	O	O	troops	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	work	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	restore	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	maintain	x	x	0
+O	0	8	O	O	order	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	supervise	x	x	0
+O	0	11	O	O	humanitarian	x	x	0
+O	0	12	O	O	projects	x	x	0
+O	0	13	O	O	such	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	restoration	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	water	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	electricity	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	delivery	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	food	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	medical	x	x	0
+O	0	27	O	O	aid	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	six	x	x	0
+O	0	2	O	O	nations	x	x	0
+O	0	3	O	O	contributing	x	x	0
+B-PER	0	4	O	O	troops	x	x	0
+O	0	5	O	O	are	x	x	0
+B-GPE	0	6	O	O	Italy	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	Spain	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	Ukraine	x	x	0
+O	0	11	O	O	,	x	x	0
+B-GPE	0	12	O	O	Denmark	x	x	0
+O	0	13	O	O	,	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	Netherlands	x	x	0
+O	0	16	O	O	and	x	x	0
+B-GPE	0	17	O	O	Bulgaria	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	the	x	x	0
+I-PER	0	20	O	O	official	x	x	0
+O	0	21	O	O	said	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Representatives	x	x	0
+O	0	1	O	O	of	x	x	0
+B-GPE	0	2	O	O	those	x	x	0
+I-GPE	0	3	O	O	countries	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	meet	x	x	0
+O	0	6	O	O	with	x	x	0
+B-GPE	0	7	O	O	British	x	x	0
+O	0	8	O	O	officials	x	x	0
+B-TIME	0	9	O	O	May	x	x	0
+I-TIME	0	10	O	O	7	x	x	0
+O	0	11	O	O	and	x	x	0
+B-GPE	0	12	O	O	Polish	x	x	0
+O	0	13	O	O	officials	x	x	0
+B-TIME	0	14	O	O	May	x	x	0
+I-TIME	0	15	O	O	22	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	determine	x	x	0
+O	0	18	O	O	what	x	x	0
+B-ORG	0	19	O	O	forces	x	x	0
+B-GPE	0	20	O	O	each	x	x	0
+I-GPE	0	21	O	O	country	x	x	0
+O	0	22	O	O	will	x	x	0
+O	0	23	O	O	contribute	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	whether	x	x	0
+B-ORG	0	26	O	O	they	x	x	0
+O	0	27	O	O	will	x	x	0
+O	0	28	O	O	be	x	x	0
+O	0	29	O	O	put	x	x	0
+O	0	30	O	O	under	x	x	0
+B-GPE	0	31	O	O	British	x	x	0
+O	0	32	O	O	or	x	x	0
+B-GPE	0	33	O	O	Polish	x	x	0
+O	0	34	O	O	command	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	of	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	stability	x	x	0
+I-ORG	0	6	O	O	force	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	comprised	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	American	x	x	0
+O	0	12	O	O	troops	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	While	x	x	0
+B-ORG	0	1	O	O	that	x	x	0
+I-ORG	0	2	O	O	portion	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	likely	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	consist	x	x	0
+O	0	7	O	O	of	x	x	0
+B-ORG	0	8	O	O	a	x	x	0
+I-ORG	0	9	O	O	military	x	x	0
+I-ORG	0	10	O	O	division	x	x	0
+O	0	11	O	O	_	x	x	0
+B-PER	0	12	O	O	about	x	x	0
+I-PER	0	13	O	O	20,000	x	x	0
+O	0	14	O	O	_	x	x	0
+O	0	15	O	O	the	x	x	0
+B-PER	0	16	O	O	troop	x	x	0
+O	0	17	O	O	strength	x	x	0
+O	0	18	O	O	of	x	x	0
+B-ORG	0	19	O	O	the	x	x	0
+I-ORG	0	20	O	O	other	x	x	0
+I-ORG	0	21	O	O	two	x	x	0
+I-ORG	0	22	O	O	sectors	x	x	0
+O	0	23	O	O	has	x	x	0
+O	0	24	O	O	yet	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	determined	x	x	0
+O	0	28	O	O	,	x	x	0
+B-PER	0	29	O	O	the	x	x	0
+I-PER	0	30	O	O	official	x	x	0
+O	0	31	O	O	said	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	international	x	x	0
+I-ORG	0	2	O	O	stabilization	x	x	0
+I-ORG	0	3	O	O	force	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	under	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	commander	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	Gen.	x	x	0
+I-PER	0	13	O	O	Tommy	x	x	0
+I-PER	0	14	O	O	Franks	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	least	x	x	0
+O	0	2	O	O	initially	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	coalition	x	x	0
+I-ORG	0	6	O	O	stability	x	x	0
+I-ORG	0	7	O	O	forces	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	augment	x	x	0
+O	0	10	O	O	rather	x	x	0
+O	0	11	O	O	than	x	x	0
+O	0	12	O	O	replace	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	135,000	x	x	0
+B-GPE	0	15	O	O	American	x	x	0
+O	0	16	O	O	troops	x	x	0
+O	0	17	O	O	inside	x	x	0
+B-GPE	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	the	x	x	0
+I-PER	0	21	O	O	official	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	stability	x	x	0
+I-ORG	0	2	O	O	forces	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	focus	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	providing	x	x	0
+O	0	7	O	O	security	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	humanitarian	x	x	0
+O	0	10	O	O	relief	x	x	0
+O	0	11	O	O	while	x	x	0
+O	0	12	O	O	other	x	x	0
+B-GPE	0	13	O	O	U.S.	x	x	0
+O	0	14	O	O	troops	x	x	0
+O	0	15	O	O	focus	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	rooting	x	x	0
+O	0	18	O	O	out	x	x	0
+O	0	19	O	O	leftover	x	x	0
+O	0	20	O	O	members	x	x	0
+O	0	21	O	O	of	x	x	0
+B-PER	0	22	O	O	Saddam	x	x	0
+I-PER	0	23	O	O	Hussein	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	government	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	other	x	x	0
+O	0	28	O	O	armed	x	x	0
+O	0	29	O	O	elements	x	x	0
+O	0	30	O	O	in	x	x	0
+B-GPE	0	31	O	O	Iraq	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rumsfeld	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	however	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	more	x	x	0
+O	0	8	O	O	troops	x	x	0
+B-GPE	0	9	O	O	other	x	x	0
+I-GPE	0	10	O	O	countries	x	x	0
+O	0	11	O	O	contribute	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	stability	x	x	0
+O	0	15	O	O	effort	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	fewer	x	x	0
+B-GPE	0	19	O	O	U.S.	x	x	0
+O	0	20	O	O	troops	x	x	0
+O	0	21	O	O	will	x	x	0
+O	0	22	O	O	be	x	x	0
+O	0	23	O	O	needed	x	x	0
+O	0	24	O	O	inside	x	x	0
+B-GPE	0	25	O	O	Iraq	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Planning	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	both	x	x	0
+O	0	3	O	O	the	x	x	0
+B-ORG	0	4	O	O	U.N.	x	x	0
+O	0	5	O	O	resolution	x	x	0
+O	0	6	O	O	and	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	international	x	x	0
+I-ORG	0	9	O	O	security	x	x	0
+I-ORG	0	10	O	O	force	x	x	0
+O	0	11	O	O	left	x	x	0
+O	0	12	O	O	out	x	x	0
+B-GPE	0	13	O	O	France	x	x	0
+O	0	14	O	O	,	x	x	0
+B-GPE	0	15	O	O	Germany	x	x	0
+O	0	16	O	O	and	x	x	0
+B-GPE	0	17	O	O	Russia	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	three	x	x	0
+B-GPE	0	20	O	O	U.S.	x	x	0
+O	0	21	O	O	allies	x	x	0
+B-GPE	0	22	O	O	that	x	x	0
+O	0	23	O	O	vehemently	x	x	0
+O	0	24	O	O	opposed	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	war	x	x	0
+O	0	27	O	O	in	x	x	0
+B-GPE	0	28	O	O	Iraq	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+B-ORG	0	3	O	O	NATO	x	x	0
+O	0	4	O	O	members	x	x	0
+B-GPE	0	5	O	O	who	x	x	0
+O	0	6	O	O	agreed	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	send	x	x	0
+B-PER	0	9	O	O	troops	x	x	0
+O	0	10	O	O	may	x	x	0
+O	0	11	O	O	want	x	x	0
+B-ORG	0	12	O	O	NATO	x	x	0
+O	0	13	O	O	authorization	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	action	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	the	x	x	0
+I-PER	0	19	O	O	official	x	x	0
+O	0	20	O	O	said	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Requests	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	such	x	x	0
+O	0	3	O	O	authorization	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	routed	x	x	0
+O	0	7	O	O	through	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	alliance	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	defense	x	x	0
+O	0	12	O	O	planning	x	x	0
+O	0	13	O	O	committee	x	x	0
+O	0	14	O	O	,	x	x	0
+B-ORG	0	15	O	O	which	x	x	0
+O	0	16	O	O	does	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	include	x	x	0
+B-GPE	0	19	O	O	France	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	official	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	outlines	x	x	0
+O	0	2	O	O	for	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	international	x	x	0
+I-ORG	0	5	O	O	stability	x	x	0
+I-ORG	0	6	O	O	force	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	decided	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	conference	x	x	0
+B-PER	0	12	O	O	Hoon	x	x	0
+O	0	13	O	O	hosted	x	x	0
+B-TIME	0	14	O	O	Wednesday	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	representatives	x	x	0
+O	0	17	O	O	from	x	x	0
+B-GPE	0	18	O	O	16	x	x	0
+I-GPE	0	19	O	O	countries	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	mostly	x	x	0
+B-ORG	0	22	O	O	NATO	x	x	0
+O	0	23	O	O	members	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Other	x	x	0
+O	0	1	O	O	countries	x	x	0
+O	0	2	O	O	including	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	Philippines	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	South	x	x	0
+I-GPE	0	7	O	O	Korea	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	Qatar	x	x	0
+O	0	10	O	O	and	x	x	0
+B-GPE	0	11	O	O	Australia	x	x	0
+O	0	12	O	O	agreed	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	send	x	x	0
+O	0	15	O	O	other	x	x	0
+O	0	16	O	O	help	x	x	0
+O	0	17	O	O	such	x	x	0
+O	0	18	O	O	as	x	x	0
+B-FAC	0	19	O	O	field	x	x	0
+I-FAC	0	20	O	O	hospitals	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	engineers	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	explosive	x	x	0
+I-PER	0	25	O	O	ordnance	x	x	0
+I-PER	0	26	O	O	disposal	x	x	0
+I-PER	0	27	O	O	teams	x	x	0
+O	0	28	O	O	or	x	x	0
+B-WEA	0	29	O	O	nuclear	x	x	0
+I-WEA	0	30	O	O	,	x	x	0
+I-WEA	0	31	O	O	biological	x	x	0
+I-WEA	0	32	O	O	and	x	x	0
+I-WEA	0	33	O	O	chemical	x	x	0
+I-WEA	0	34	O	O	weapons	x	x	0
+O	0	35	O	O	experts	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	British	x	x	0
+O	0	4	O	O	and	x	x	0
+B-GPE	0	5	O	O	Polish	x	x	0
+O	0	6	O	O	sectors	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	drawn	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	take	x	x	0
+O	0	12	O	O	into	x	x	0
+O	0	13	O	O	account	x	x	0
+O	0	14	O	O	ethnic	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	religious	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	tribal	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	political	x	x	0
+O	0	21	O	O	factions	x	x	0
+O	0	22	O	O	within	x	x	0
+B-GPE	0	23	O	O	Iraq	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	the	x	x	0
+I-PER	0	26	O	O	official	x	x	0
+O	0	27	O	O	said	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	example	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	although	x	x	0
+B-PER	0	4	O	O	ethnic	x	x	0
+I-PER	0	5	O	O	Kurds	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	majority	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	large	x	x	0
+O	0	11	O	O	parts	x	x	0
+O	0	12	O	O	of	x	x	0
+B-LOC	0	13	O	O	northern	x	x	0
+I-LOC	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	there	x	x	0
+O	0	17	O	O	are	x	x	0
+O	0	18	O	O	also	x	x	0
+O	0	19	O	O	large	x	x	0
+O	0	20	O	O	numbers	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	Kurds	x	x	0
+O	0	23	O	O	within	x	x	0
+B-GPE	0	24	O	O	Baghdad	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+B-PER	0	1	O	O	Arab	x	x	0
+O	0	2	O	O	countries	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	want	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	play	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	role	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	stability	x	x	0
+O	0	12	O	O	operation	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	but	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	reluctant	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	send	x	x	0
+B-PER	0	20	O	O	troops	x	x	0
+O	0	21	O	O	because	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	political	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	religious	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	ethnic	x	x	0
+O	0	28	O	O	considerations	x	x	0
+O	0	29	O	O	,	x	x	0
+B-PER	0	30	O	O	the	x	x	0
+I-PER	0	31	O	O	official	x	x	0
+O	0	32	O	O	said	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Countries	x	x	0
+O	0	1	O	O	in	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	Gulf	x	x	0
+I-ORG	0	4	O	O	Cooperation	x	x	0
+I-ORG	0	5	O	O	Council	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	offered	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	donate	x	x	0
+O	0	10	O	O	money	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	effort	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rumsfeld	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	met	x	x	0
+B-TIME	0	3	O	O	Friday	x	x	0
+O	0	4	O	O	with	x	x	0
+B-PER	0	5	O	O	King	x	x	0
+O	0	6	O	O	Abdullah	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Jordan	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	an	x	x	0
+B-GPE	0	11	O	O	American	x	x	0
+O	0	12	O	O	ally	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	Middle	x	x	0
+I-GPE	0	16	O	O	East	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Defense	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	say	x	x	0
+B-GPE	0	3	O	O	Jordan	x	x	0
+O	0	4	O	O	provided	x	x	0
+O	0	5	O	O	key	x	x	0
+O	0	6	O	O	help	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+B-GPE	0	9	O	O	Iraq	x	x	0
+O	0	10	O	O	war	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	acting	x	x	0
+O	0	13	O	O	as	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	staging	x	x	0
+O	0	16	O	O	area	x	x	0
+O	0	17	O	O	for	x	x	0
+B-GPE	0	18	O	O	U.S.	x	x	0
+O	0	19	O	O	special	x	x	0
+O	0	20	O	O	operations	x	x	0
+O	0	21	O	O	raids	x	x	0
+O	0	22	O	O	into	x	x	0
+B-LOC	0	23	O	O	western	x	x	0
+I-LOC	0	24	O	O	Iraq	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	prevent	x	x	0
+B-WEA	0	27	O	O	missiles	x	x	0
+O	0	28	O	O	from	x	x	0
+O	0	29	O	O	being	x	x	0
+O	0	30	O	O	fired	x	x	0
+O	0	31	O	O	at	x	x	0
+B-GPE	0	32	O	O	Jordan	x	x	0
+O	0	33	O	O	or	x	x	0
+B-GPE	0	34	O	O	Israel	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rumsfeld	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	two	x	x	0
+O	0	7	O	O	discussed	x	x	0
+O	0	8	O	O	.	x	x	0
+

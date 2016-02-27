@@ -1,0 +1,142 @@
+O	0	0	O	O	seven	x	x	0
+B-TIME	0	1	O	O	former	x	x	0
+O	0	2	O	O	p.o.w.s	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	getting	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	step	x	x	0
+O	0	7	O	O	closer	x	x	0
+O	0	8	O	O	to	x	x	0
+B-GPE	0	9	O	O	home	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	arriving	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	Ramstein	x	x	0
+O	0	6	O	O	Air	x	x	0
+O	0	7	O	O	Base	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	Germany	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	few	x	x	0
+O	0	12	O	O	hours	x	x	0
+O	0	13	O	O	from	x	x	0
+B-TIME	0	14	O	O	now	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Once	x	x	0
+O	0	1	O	O	doctors	x	x	0
+B-FAC	0	2	O	O	there	x	x	0
+O	0	3	O	O	say	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	good	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	go	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	seven	x	x	0
+O	0	12	O	O	will	x	x	0
+O	0	13	O	O	head	x	x	0
+B-GPE	0	14	O	O	stateside	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Doctors	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Kuwait	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	already	x	x	0
+O	0	5	O	O	said	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	six	x	x	0
+I-PER	0	8	O	O	men	x	x	0
+I-PER	0	9	O	O	and	x	x	0
+I-PER	0	10	O	O	one	x	x	0
+I-PER	0	11	O	O	woman	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	good	x	x	0
+O	0	15	O	O	shape	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	so	x	x	0
+B-PER	0	18	O	O	they	x	x	0
+O	0	19	O	O	may	x	x	0
+O	0	20	O	O	not	x	x	0
+O	0	21	O	O	have	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	stay	x	x	0
+O	0	24	O	O	in	x	x	0
+B-GPE	0	25	O	O	Germany	x	x	0
+O	0	26	O	O	very	x	x	0
+O	0	27	O	O	long	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	former	x	x	0
+O	0	2	O	O	p.o.w.s	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	rescued	x	x	0
+B-TIME	0	5	O	O	Sunday	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	75	x	x	0
+O	0	8	O	O	miles	x	x	0
+O	0	9	O	O	north	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	Baghdad	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	sticking	x	x	0
+O	0	4	O	O	close	x	x	0
+O	0	5	O	O	together	x	x	0
+O	0	6	O	O	ever	x	x	0
+O	0	7	O	O	since	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Medical	x	x	0
+I-PER	0	1	O	O	officers	x	x	0
+O	0	2	O	O	say	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	became	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	team	x	x	0
+O	0	7	O	O	while	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	captivity	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	want	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	stay	x	x	0
+O	0	14	O	O	together	x	x	0
+O	0	15	O	O	as	x	x	0
+B-PER	0	16	O	O	a	x	x	0
+I-PER	0	17	O	O	team	x	x	0
+O	0	18	O	O	until	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	time	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	go	x	x	0
+O	0	24	O	O	to	x	x	0
+B-PER	0	25	O	O	their	x	x	0
+O	0	26	O	O	separate	x	x	0
+O	0	27	O	O	homes	x	x	0
+O	0	28	O	O	.	x	x	0
+

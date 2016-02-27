@@ -1,0 +1,308 @@
+O	0	0	O	O	BLOEMFONTEIN	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	South	x	x	0
+I-GPE	0	3	O	O	Africa	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	South	x	x	0
+I-GPE	0	8	O	O	Africa	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	Supreme	x	x	0
+O	0	11	O	O	Court	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	Appeal	x	x	0
+O	0	14	O	O	ruled	x	x	0
+B-TIME	0	15	O	O	Tuesday	x	x	0
+O	0	16	O	O	against	x	x	0
+O	0	17	O	O	a	x	x	0
+B-GPE	0	18	O	O	state	x	x	0
+O	0	19	O	O	request	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	retry	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	head	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	apartheid	x	x	0
+O	0	26	O	O	's	x	x	0
+B-WEA	0	27	O	O	germ	x	x	0
+I-WEA	0	28	O	O	warfare	x	x	0
+O	0	29	O	O	program	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	once	x	x	0
+O	0	32	O	O	accused	x	x	0
+O	0	33	O	O	of	x	x	0
+O	0	34	O	O	plotting	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	poison	x	x	0
+B-PER	0	37	O	O	Nelson	x	x	0
+I-PER	0	38	O	O	Mandela	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Wouter	x	x	0
+I-PER	0	1	O	O	Basson	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	acquitted	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	April	x	x	0
+I-TIME	0	6	O	O	2002	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	46	x	x	0
+O	0	9	O	O	charges	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	ranging	x	x	0
+O	0	12	O	O	from	x	x	0
+B-Crime	0	13	O	O	murder	x	x	0
+O	0	14	O	O	and	x	x	0
+B-Crime	0	15	O	O	drug	x	x	0
+I-Crime	0	16	O	O	trafficking	x	x	0
+O	0	17	O	O	to	x	x	0
+B-Crime	0	18	O	O	fraud	x	x	0
+O	0	19	O	O	and	x	x	0
+B-Crime	0	20	O	O	theft	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Basson	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	accused	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	directing	x	x	0
+B-GPE	0	5	O	O	South	x	x	0
+I-GPE	0	6	O	O	Africa	x	x	0
+O	0	7	O	O	's	x	x	0
+B-TIME	0	8	O	O	former	x	x	0
+O	0	9	O	O	apartheid	x	x	0
+O	0	10	O	O	regime	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	biochemical	x	x	0
+O	0	13	O	O	efforts	x	x	0
+O	0	14	O	O	aimed	x	x	0
+O	0	15	O	O	at	x	x	0
+O	0	16	O	O	destroying	x	x	0
+B-ORG	0	17	O	O	its	x	x	0
+O	0	18	O	O	opponents	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	ruling	x	x	0
+O	0	2	O	O	by	x	x	0
+B-PER	0	3	O	O	judges	x	x	0
+O	0	4	O	O	Piet	x	x	0
+O	0	5	O	O	Streicher	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	Mohamed	x	x	0
+O	0	8	O	O	Navsa	x	x	0
+O	0	9	O	O	of	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	Supreme	x	x	0
+I-ORG	0	12	O	O	Court	x	x	0
+I-ORG	0	13	O	O	of	x	x	0
+I-ORG	0	14	O	O	Appeal	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	highest	x	x	0
+O	0	18	O	O	appeals	x	x	0
+O	0	19	O	O	court	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	country	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	means	x	x	0
+O	0	25	O	O	that	x	x	0
+B-PER	0	26	O	O	Basson	x	x	0
+O	0	27	O	O	cannot	x	x	0
+O	0	28	O	O	be	x	x	0
+O	0	29	O	O	tried	x	x	0
+O	0	30	O	O	again	x	x	0
+O	0	31	O	O	and	x	x	0
+B-PER	0	32	O	O	his	x	x	0
+O	0	33	O	O	acquittal	x	x	0
+O	0	34	O	O	stands	x	x	0
+O	0	35	O	O	,	x	x	0
+B-ORG	0	36	O	O	the	x	x	0
+I-ORG	0	37	O	O	South	x	x	0
+I-ORG	0	38	O	O	African	x	x	0
+I-ORG	0	39	O	O	Press	x	x	0
+I-ORG	0	40	O	O	Association	x	x	0
+O	0	41	O	O	reported	x	x	0
+O	0	42	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	state	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	appeal	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	based	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	judge	x	x	0
+O	0	9	O	O	refusing	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	recuse	x	x	0
+B-PER	0	12	O	O	himself	x	x	0
+O	0	13	O	O	during	x	x	0
+B-PER	0	14	O	O	Basson	x	x	0
+O	0	15	O	O	's	x	x	0
+B-TIME	0	16	O	O	2	x	x	0
+I-TIME	0	17	O	O	1/2-year	x	x	0
+O	0	18	O	O	trial	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	prosecution	x	x	0
+O	0	2	O	O	alleged	x	x	0
+O	0	3	O	O	presiding	x	x	0
+B-PER	0	4	O	O	Judge	x	x	0
+O	0	5	O	O	Willie	x	x	0
+O	0	6	O	O	Hartzenberg	x	x	0
+O	0	7	O	O	favored	x	x	0
+B-PER	0	8	O	O	Basson	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	appeal	x	x	0
+I-PER	0	2	O	O	judges	x	x	0
+O	0	3	O	O	found	x	x	0
+B-PER	0	4	O	O	Hartzenberg	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	refusal	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	relate	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	an	x	x	0
+O	0	12	O	O	error	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	law	x	x	0
+O	0	15	O	O	on	x	x	0
+B-PER	0	16	O	O	his	x	x	0
+O	0	17	O	O	part	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Basson	x	x	0
+O	0	1	O	O	headed	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	program	x	x	0
+O	0	4	O	O	named	x	x	0
+O	0	5	O	O	Project	x	x	0
+O	0	6	O	O	Coast	x	x	0
+O	0	7	O	O	in	x	x	0
+B-TIME	0	8	O	O	the	x	x	0
+I-TIME	0	9	O	O	1980's	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	During	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	trial	x	x	0
+B-PER	0	3	O	O	witnesses	x	x	0
+O	0	4	O	O	testified	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	project	x	x	0
+O	0	8	O	O	involved	x	x	0
+O	0	9	O	O	trying	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	create	x	x	0
+O	0	12	O	O	deadly	x	x	0
+O	0	13	O	O	bacteria	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	anti-fertility	x	x	0
+O	0	16	O	O	drugs	x	x	0
+O	0	17	O	O	that	x	x	0
+O	0	18	O	O	would	x	x	0
+O	0	19	O	O	only	x	x	0
+O	0	20	O	O	affect	x	x	0
+B-PER	0	21	O	O	blacks	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	poisoned	x	x	0
+B-PER	0	2	O	O	opponents	x	x	0
+O	0	3	O	O	'	x	x	0
+O	0	4	O	O	clothing	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	stockpiled	x	x	0
+B-WEA	0	7	O	O	cholera	x	x	0
+O	0	8	O	O	,	x	x	0
+B-WEA	0	9	O	O	HIV	x	x	0
+O	0	10	O	O	and	x	x	0
+B-WEA	0	11	O	O	anthrax	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	alleged	x	x	0
+I-PER	0	2	O	O	intended	x	x	0
+I-PER	0	3	O	O	victims	x	x	0
+O	0	4	O	O	included	x	x	0
+B-TIME	0	5	O	O	former	x	x	0
+O	0	6	O	O	President	x	x	0
+O	0	7	O	O	Nelson	x	x	0
+O	0	8	O	O	Mandela	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	several	x	x	0
+B-ORG	0	11	O	O	African	x	x	0
+I-ORG	0	12	O	O	National	x	x	0
+I-ORG	0	13	O	O	Congress	x	x	0
+O	0	14	O	O	leaders	x	x	0
+B-PER	0	15	O	O	who	x	x	0
+O	0	16	O	O	are	x	x	0
+B-TIME	0	17	O	O	now	x	x	0
+O	0	18	O	O	high-ranking	x	x	0
+B-GPE	0	19	O	O	government	x	x	0
+O	0	20	O	O	officials	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	accused	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	siphoning	x	x	0
+B-Numeric	0	7	O	O	millions	x	x	0
+I-Numeric	0	8	O	O	of	x	x	0
+I-Numeric	0	9	O	O	dollars	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	Project	x	x	0
+O	0	12	O	O	Coast	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	finance	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	lavish	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	globe-trotting	x	x	0
+O	0	19	O	O	lifestyle	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	selling	x	x	0
+O	0	23	O	O	drugs	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	sapa-es-dk	x	x	0
+O	0	2	O	O	)	x	x	0
+

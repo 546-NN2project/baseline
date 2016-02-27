@@ -1,0 +1,243 @@
+B-GPE	0	0	O	O	PARIS	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	May	x	x	0
+I-TIME	0	3	O	O	14	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AFP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	Israeli	x	x	0
+O	0	8	O	O	Foreign	x	x	0
+O	0	9	O	O	Minister	x	x	0
+O	0	10	O	O	Silvan	x	x	0
+O	0	11	O	O	Shalom	x	x	0
+O	0	12	O	O	on	x	x	0
+B-TIME	0	13	O	O	Wednesday	x	x	0
+O	0	14	O	O	stressed	x	x	0
+B-GPE	0	15	O	O	Qatar	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	role	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	Middle	x	x	0
+I-GPE	0	21	O	O	East	x	x	0
+O	0	22	O	O	peace	x	x	0
+O	0	23	O	O	process	x	x	0
+O	0	24	O	O	during	x	x	0
+O	0	25	O	O	talks	x	x	0
+O	0	26	O	O	with	x	x	0
+B-PER	0	27	O	O	his	x	x	0
+B-GPE	0	28	O	O	Qatari	x	x	0
+O	0	29	O	O	counterpart	x	x	0
+B-PER	0	30	O	O	Sheikh	x	x	0
+O	0	31	O	O	Hamad	x	x	0
+O	0	32	O	O	bin	x	x	0
+O	0	33	O	O	Jassem	x	x	0
+O	0	34	O	O	bin	x	x	0
+O	0	35	O	O	Jabr	x	x	0
+O	0	36	O	O	al-Thani	x	x	0
+O	0	37	O	O	in	x	x	0
+B-GPE	0	38	O	O	Paris	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Shalom	x	x	0
+O	0	1	O	O	told	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	joint	x	x	0
+I-PER	0	4	O	O	press	x	x	0
+I-PER	0	5	O	O	conference	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	tiny	x	x	0
+B-LOC	0	9	O	O	Gulf	x	x	0
+O	0	10	O	O	state	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	strong	x	x	0
+O	0	13	O	O	relationship	x	x	0
+O	0	14	O	O	with	x	x	0
+O	0	15	O	O	the	x	x	0
+B-TIME	0	16	O	O	recently	x	x	0
+O	0	17	O	O	appointed	x	x	0
+B-GPE	0	18	O	O	Palestinian	x	x	0
+O	0	19	O	O	prime	x	x	0
+O	0	20	O	O	minister	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	Mahmud	x	x	0
+I-PER	0	23	O	O	Abbas	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	could	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	boost	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	peace	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	discussed	x	x	0
+O	0	3	O	O	the	x	x	0
+B-GPE	0	4	O	O	Middle	x	x	0
+I-GPE	0	5	O	O	East	x	x	0
+O	0	6	O	O	peace	x	x	0
+O	0	7	O	O	process	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Over	x	x	0
+I-TIME	0	1	O	O	an	x	x	0
+I-TIME	0	2	O	O	hour	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	talks	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	asserted	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	will	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	both	x	x	0
+I-GPE	0	12	O	O	parties	x	x	0
+O	0	13	O	O	(	x	x	0
+B-GPE	0	14	O	O	Israel	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	the	x	x	0
+B-PER	0	17	O	O	Arab	x	x	0
+O	0	18	O	O	world	x	x	0
+O	0	19	O	O	)	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	do	x	x	0
+O	0	22	O	O	everything	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	return	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	negotiating	x	x	0
+O	0	28	O	O	table	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	"	x	x	0
+B-PER	0	31	O	O	Shalom	x	x	0
+O	0	32	O	O	said	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-GPE	0	1	O	O	Qatar	x	x	0
+O	0	2	O	O	is	x	x	0
+B-GPE	0	3	O	O	a	x	x	0
+I-GPE	0	4	O	O	very	x	x	0
+I-GPE	0	5	O	O	important	x	x	0
+I-GPE	0	6	O	O	country	x	x	0
+I-GPE	0	7	O	O	on	x	x	0
+I-GPE	0	8	O	O	this	x	x	0
+I-GPE	0	9	O	O	issue	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	special	x	x	0
+O	0	4	O	O	relationship	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	Qatari	x	x	0
+O	0	8	O	O	foreign	x	x	0
+O	0	9	O	O	minister	x	x	0
+O	0	10	O	O	has	x	x	0
+O	0	11	O	O	with	x	x	0
+B-PER	0	12	O	O	Abu	x	x	0
+I-PER	0	13	O	O	Mazen	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	"	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	said	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	using	x	x	0
+B-PER	0	20	O	O	Abbas	x	x	0
+O	0	21	O	O	's	x	x	0
+O	0	22	O	O	alternative	x	x	0
+O	0	23	O	O	name	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	meeting	x	x	0
+O	0	2	O	O	was	x	x	0
+B-PER	0	3	O	O	Shalom	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	first	x	x	0
+O	0	6	O	O	encounter	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	an	x	x	0
+B-PER	0	9	O	O	Arab	x	x	0
+O	0	10	O	O	counterpart	x	x	0
+O	0	11	O	O	since	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	took	x	x	0
+O	0	14	O	O	office	x	x	0
+O	0	15	O	O	as	x	x	0
+B-GPE	0	16	O	O	Israel	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	foreign	x	x	0
+O	0	19	O	O	minister	x	x	0
+O	0	20	O	O	on	x	x	0
+B-TIME	0	21	O	O	February	x	x	0
+I-TIME	0	22	O	O	27	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Qatar	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	economic	x	x	0
+O	0	3	O	O	links	x	x	0
+O	0	4	O	O	with	x	x	0
+B-GPE	0	5	O	O	Israel	x	x	0
+O	0	6	O	O	without	x	x	0
+O	0	7	O	O	maintaining	x	x	0
+O	0	8	O	O	diplomatic	x	x	0
+O	0	9	O	O	relations	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	face	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	criticism	x	x	0
+O	0	16	O	O	from	x	x	0
+O	0	17	O	O	other	x	x	0
+B-PER	0	18	O	O	Arab	x	x	0
+O	0	19	O	O	countries	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Afterwards	x	x	0
+B-PER	0	1	O	O	Shalom	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	fly	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	to	x	x	0
+B-GPE	0	7	O	O	London	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	talks	x	x	0
+O	0	10	O	O	with	x	x	0
+B-GPE	0	11	O	O	British	x	x	0
+O	0	12	O	O	Prime	x	x	0
+O	0	13	O	O	Minister	x	x	0
+O	0	14	O	O	Tony	x	x	0
+O	0	15	O	O	Blair	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	Foreign	x	x	0
+I-PER	0	18	O	O	Secretary	x	x	0
+O	0	19	O	O	Jack	x	x	0
+O	0	20	O	O	Straw	x	x	0
+O	0	21	O	O	.	x	x	0
+

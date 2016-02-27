@@ -1,0 +1,997 @@
+O	0	0	O	O	BAGHDAD	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Iraq	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	forces	x	x	0
+O	0	8	O	O	tightened	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	grip	x	x	0
+O	0	11	O	O	throughout	x	x	0
+B-GPE	0	12	O	O	Baghdad	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	entering	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	city	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	first	x	x	0
+O	0	20	O	O	time	x	x	0
+O	0	21	O	O	from	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	north	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	seizing	x	x	0
+O	0	26	O	O	a	x	x	0
+B-ORG	0	27	O	O	military	x	x	0
+O	0	28	O	O	airport	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	battling	x	x	0
+B-PER	0	31	O	O	snipers	x	x	0
+O	0	32	O	O	and	x	x	0
+B-ORG	0	33	O	O	Republican	x	x	0
+I-ORG	0	34	O	O	Guard	x	x	0
+O	0	35	O	O	fighters	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Meanwhile	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	military	x	x	0
+O	0	5	O	O	faced	x	x	0
+O	0	6	O	O	sharp	x	x	0
+O	0	7	O	O	criticism	x	x	0
+O	0	8	O	O	over	x	x	0
+O	0	9	O	O	assaults	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	killed	x	x	0
+B-PER	0	12	O	O	three	x	x	0
+I-PER	0	13	O	O	foreign	x	x	0
+I-PER	0	14	O	O	journalists	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Pentagon	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	said	x	x	0
+B-TIME	0	3	O	O	Tuesday	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	know	x	x	0
+O	0	8	O	O	whether	x	x	0
+B-GPE	0	9	O	O	Iraqi	x	x	0
+O	0	10	O	O	President	x	x	0
+O	0	11	O	O	Saddam	x	x	0
+O	0	12	O	O	Hussein	x	x	0
+O	0	13	O	O	died	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+B-GPE	0	16	O	O	U.S.	x	x	0
+O	0	17	O	O	airstrike	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	a	x	x	0
+B-GPE	0	20	O	O	Baghdad	x	x	0
+O	0	21	O	O	neighborhood	x	x	0
+B-TIME	0	22	O	O	the	x	x	0
+I-TIME	0	23	O	O	day	x	x	0
+I-TIME	0	24	O	O	before	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	strike	x	x	0
+O	0	2	O	O	destroyed	x	x	0
+B-FAC	0	3	O	O	three	x	x	0
+I-FAC	0	4	O	O	nearby	x	x	0
+I-FAC	0	5	O	O	houses	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	killed	x	x	0
+B-PER	0	8	O	O	at	x	x	0
+I-PER	0	9	O	O	least	x	x	0
+I-PER	0	10	O	O	two	x	x	0
+I-PER	0	11	O	O	people	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	Marines	x	x	0
+O	0	2	O	O	battled	x	x	0
+B-PER	0	3	O	O	snipers	x	x	0
+O	0	4	O	O	as	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	fought	x	x	0
+O	0	7	O	O	deeper	x	x	0
+O	0	8	O	O	into	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	capital	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	east	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	seized	x	x	0
+B-FAC	0	2	O	O	the	x	x	0
+I-FAC	0	3	O	O	Rasheed	x	x	0
+I-FAC	0	4	O	O	Airport	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	captured	x	x	0
+O	0	7	O	O	enough	x	x	0
+O	0	8	O	O	ammunition	x	x	0
+O	0	9	O	O	for	x	x	0
+B-PER	0	10	O	O	an	x	x	0
+I-PER	0	11	O	O	estimated	x	x	0
+I-PER	0	12	O	O	3,000	x	x	0
+I-PER	0	13	O	O	troops	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ominously	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	took	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	prison	x	x	0
+B-FAC	0	7	O	O	where	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	found	x	x	0
+B-GPE	0	10	O	O	U.S.	x	x	0
+O	0	11	O	O	Army	x	x	0
+O	0	12	O	O	uniforms	x	x	0
+O	0	13	O	O	and	x	x	0
+B-WEA	0	14	O	O	chemical	x	x	0
+I-WEA	0	15	O	O	weapons	x	x	0
+O	0	16	O	O	suits	x	x	0
+O	0	17	O	O	possibly	x	x	0
+O	0	18	O	O	belonging	x	x	0
+O	0	19	O	O	to	x	x	0
+B-GPE	0	20	O	O	American	x	x	0
+O	0	21	O	O	POWs	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+B-ORG	0	1	O	O	army	x	x	0
+O	0	2	O	O	units	x	x	0
+O	0	3	O	O	routed	x	x	0
+B-GPE	0	4	O	O	Iraqi	x	x	0
+O	0	5	O	O	fighters	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	a	x	x	0
+B-ORG	0	8	O	O	Republican	x	x	0
+I-ORG	0	9	O	O	Guard	x	x	0
+O	0	10	O	O	headquarters	x	x	0
+O	0	11	O	O	inside	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	capital	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Others	x	x	0
+O	0	1	O	O	discovered	x	x	0
+O	0	2	O	O	a	x	x	0
+B-FAC	0	3	O	O	12-room	x	x	0
+O	0	4	O	O	complex	x	x	0
+O	0	5	O	O	inside	x	x	0
+B-LOC	0	6	O	O	a	x	x	0
+I-LOC	0	7	O	O	cave	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	complete	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	white	x	x	0
+O	0	12	O	O	marble	x	x	0
+O	0	13	O	O	floors	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	fluorescent	x	x	0
+O	0	16	O	O	lighting	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Members	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	Army	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	V	x	x	0
+O	0	7	O	O	Corps	x	x	0
+O	0	8	O	O	opened	x	x	0
+O	0	9	O	O	up	x	x	0
+O	0	10	O	O	a	x	x	0
+B-TIME	0	11	O	O	new	x	x	0
+O	0	12	O	O	front	x	x	0
+O	0	13	O	O	by	x	x	0
+O	0	14	O	O	entering	x	x	0
+B-GPE	0	15	O	O	Baghdad	x	x	0
+O	0	16	O	O	from	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	north	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	toll	x	x	0
+O	0	2	O	O	on	x	x	0
+B-GPE	0	3	O	O	Iraqi	x	x	0
+O	0	4	O	O	civilians	x	x	0
+O	0	5	O	O	four	x	x	0
+O	0	6	O	O	days	x	x	0
+O	0	7	O	O	after	x	x	0
+B-PER	0	8	O	O	Americans	x	x	0
+O	0	9	O	O	first	x	x	0
+O	0	10	O	O	penetrated	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	Baghdad	x	x	0
+O	0	13	O	O	outskirts	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	unknown	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	World	x	x	0
+I-ORG	0	3	O	O	Health	x	x	0
+I-ORG	0	4	O	O	Organization	x	x	0
+O	0	5	O	O	said	x	x	0
+B-GPE	0	6	O	O	Baghdad	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	hospitals	x	x	0
+O	0	9	O	O	were	x	x	0
+O	0	10	O	O	running	x	x	0
+O	0	11	O	O	out	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	supplies	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	treat	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	burns	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	shrapnel	x	x	0
+O	0	20	O	O	wounds	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	spinal	x	x	0
+O	0	23	O	O	injuries	x	x	0
+O	0	24	O	O	caused	x	x	0
+O	0	25	O	O	by	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	fighting	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	however	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	remained	x	x	0
+O	0	6	O	O	defiant	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	saying	x	x	0
+B-GPE	0	9	O	O	Iraq	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	forces	x	x	0
+O	0	12	O	O	would	x	x	0
+O	0	13	O	O	never	x	x	0
+O	0	14	O	O	surrender	x	x	0
+O	0	15	O	O	to	x	x	0
+B-GPE	0	16	O	O	American	x	x	0
+O	0	17	O	O	forces	x	x	0
+O	0	18	O	O	:	x	x	0
+O	0	19	O	O	``	x	x	0
+B-ORG	0	20	O	O	They	x	x	0
+O	0	21	O	O	will	x	x	0
+O	0	22	O	O	be	x	x	0
+O	0	23	O	O	burnt	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	''	x	x	0
+O	0	26	O	O	said	x	x	0
+B-PER	0	27	O	O	Information	x	x	0
+I-PER	0	28	O	O	Minister	x	x	0
+B-PER	0	29	O	O	Mohammed	x	x	0
+I-PER	0	30	O	O	Saeed	x	x	0
+I-PER	0	31	O	O	al-Sahhaf	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-LOC	0	1	O	O	central	x	x	0
+I-LOC	0	2	O	O	Baghdad	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	a	x	x	0
+B-ORG	0	5	O	O	Reuters	x	x	0
+O	0	6	O	O	cameraman	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	cameraman	x	x	0
+O	0	10	O	O	for	x	x	0
+B-GPE	0	11	O	O	Spain	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	Telecinco	x	x	0
+O	0	14	O	O	died	x	x	0
+O	0	15	O	O	when	x	x	0
+O	0	16	O	O	an	x	x	0
+B-GPE	0	17	O	O	American	x	x	0
+O	0	18	O	O	tank	x	x	0
+O	0	19	O	O	fired	x	x	0
+O	0	20	O	O	on	x	x	0
+B-FAC	0	21	O	O	the	x	x	0
+I-FAC	0	22	O	O	Palestine	x	x	0
+I-FAC	0	23	O	O	Hotel	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	The	x	x	0
+O	0	2	O	O	incident	x	x	0
+O	0	3	O	O	...	x	x	0
+O	0	4	O	O	raises	x	x	0
+O	0	5	O	O	questions	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	judgment	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	advancing	x	x	0
+B-GPE	0	12	O	O	U.S.	x	x	0
+O	0	13	O	O	troops	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	known	x	x	0
+O	0	17	O	O	all	x	x	0
+O	0	18	O	O	along	x	x	0
+O	0	19	O	O	that	x	x	0
+B-FAC	0	20	O	O	this	x	x	0
+I-FAC	0	21	O	O	hotel	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	main	x	x	0
+O	0	25	O	O	base	x	x	0
+O	0	26	O	O	for	x	x	0
+O	0	27	O	O	almost	x	x	0
+O	0	28	O	O	all	x	x	0
+O	0	29	O	O	foreign	x	x	0
+O	0	30	O	O	journalists	x	x	0
+O	0	31	O	O	in	x	x	0
+B-GPE	0	32	O	O	Baghdad	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	''	x	x	0
+B-ORG	0	35	O	O	Reuters	x	x	0
+O	0	36	O	O	Editor-in-Chief	x	x	0
+B-PER	0	37	O	O	Geert	x	x	0
+I-PER	0	38	O	O	Linnebank	x	x	0
+O	0	39	O	O	said	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Tareq	x	x	0
+I-PER	0	1	O	O	Ayyoub	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	journalist	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	Al-Jazeera	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	died	x	x	0
+O	0	9	O	O	when	x	x	0
+O	0	10	O	O	a	x	x	0
+B-GPE	0	11	O	O	U.S.	x	x	0
+O	0	12	O	O	warplane	x	x	0
+O	0	13	O	O	bombed	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	Arab-language	x	x	0
+I-FAC	0	16	O	O	satellite	x	x	0
+I-FAC	0	17	O	O	television	x	x	0
+I-FAC	0	18	O	O	's	x	x	0
+I-FAC	0	19	O	O	office	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	An	x	x	0
+B-ORG	0	1	O	O	Abu	x	x	0
+I-ORG	0	2	O	O	Dhabi	x	x	0
+I-ORG	0	3	O	O	TV	x	x	0
+O	0	4	O	O	office	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Baghdad	x	x	0
+O	0	7	O	O	also	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	hit	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Al-Jazeera	x	x	0
+O	0	1	O	O	categorically	x	x	0
+O	0	2	O	O	denied	x	x	0
+O	0	3	O	O	that	x	x	0
+B-ORG	0	4	O	O	its	x	x	0
+B-GPE	0	5	O	O	Baghdad	x	x	0
+O	0	6	O	O	bureau	x	x	0
+O	0	7	O	O	had	x	x	0
+O	0	8	O	O	been	x	x	0
+O	0	9	O	O	used	x	x	0
+O	0	10	O	O	by	x	x	0
+B-GPE	0	11	O	O	Iraqi	x	x	0
+O	0	12	O	O	forces	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	fire	x	x	0
+O	0	15	O	O	on	x	x	0
+B-GPE	0	16	O	O	U.S.	x	x	0
+O	0	17	O	O	troops	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	U.S.	x	x	0
+I-ORG	0	1	O	O	Central	x	x	0
+I-ORG	0	2	O	O	Command	x	x	0
+O	0	3	O	O	said	x	x	0
+B-ORG	0	4	O	O	it	x	x	0
+O	0	5	O	O	fired	x	x	0
+O	0	6	O	O	on	x	x	0
+B-FAC	0	7	O	O	the	x	x	0
+I-FAC	0	8	O	O	TV	x	x	0
+I-FAC	0	9	O	O	office	x	x	0
+O	0	10	O	O	and	x	x	0
+B-FAC	0	11	O	O	the	x	x	0
+I-FAC	0	12	O	O	hotel	x	x	0
+O	0	13	O	O	after	x	x	0
+B-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	forces	x	x	0
+O	0	16	O	O	came	x	x	0
+O	0	17	O	O	under	x	x	0
+O	0	18	O	O	``	x	x	0
+O	0	19	O	O	significant	x	x	0
+O	0	20	O	O	''	x	x	0
+O	0	21	O	O	fire	x	x	0
+O	0	22	O	O	from	x	x	0
+B-FAC	0	23	O	O	those	x	x	0
+I-FAC	0	24	O	O	buildings	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Associated	x	x	0
+I-ORG	0	1	O	O	Press	x	x	0
+O	0	2	O	O	photographer	x	x	0
+O	0	3	O	O	Jerome	x	x	0
+O	0	4	O	O	Delay	x	x	0
+O	0	5	O	O	said	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	watched	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	top	x	x	0
+O	0	11	O	O	floor	x	x	0
+O	0	12	O	O	of	x	x	0
+B-FAC	0	13	O	O	the	x	x	0
+I-FAC	0	14	O	O	hotel	x	x	0
+O	0	15	O	O	as	x	x	0
+B-GPE	0	16	O	O	American	x	x	0
+O	0	17	O	O	tanks	x	x	0
+O	0	18	O	O	took	x	x	0
+O	0	19	O	O	up	x	x	0
+O	0	20	O	O	positions	x	x	0
+O	0	21	O	O	on	x	x	0
+B-FAC	0	22	O	O	the	x	x	0
+I-FAC	0	23	O	O	bridge	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	All	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	shooting	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	concentrated	x	x	0
+O	0	6	O	O	on	x	x	0
+B-FAC	0	7	O	O	the	x	x	0
+I-FAC	0	8	O	O	bridge	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	across	x	x	0
+B-LOC	0	11	O	O	the	x	x	0
+I-LOC	0	12	O	O	river	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	where	x	x	0
+B-GPE	0	16	O	O	U.S.	x	x	0
+O	0	17	O	O	forces	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	located	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	he	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	clear	x	x	0
+O	0	4	O	O	whether	x	x	0
+O	0	5	O	O	any	x	x	0
+B-GPE	0	6	O	O	Iraqi	x	x	0
+O	0	7	O	O	leader	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	killed	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	airstrike	x	x	0
+O	0	14	O	O	targeting	x	x	0
+B-PER	0	15	O	O	Saddam	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	an	x	x	0
+O	0	18	O	O	upscale	x	x	0
+B-GPE	0	19	O	O	Baghdad	x	x	0
+O	0	20	O	O	neighborhood	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	rescue	x	x	0
+O	0	2	O	O	workers	x	x	0
+O	0	3	O	O	pulled	x	x	0
+B-PER	0	4	O	O	two	x	x	0
+I-PER	0	5	O	O	bodies	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	rubble	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	toll	x	x	0
+O	0	13	O	O	could	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	as	x	x	0
+O	0	16	O	O	high	x	x	0
+O	0	17	O	O	as	x	x	0
+B-PER	0	18	O	O	14	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	know	x	x	0
+O	0	5	O	O	whether	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	survived	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	''	x	x	0
+B-GPE	0	10	O	O	U.S	x	x	0
+O	0	11	O	O	President	x	x	0
+O	0	12	O	O	George	x	x	0
+O	0	13	O	O	W.	x	x	0
+O	0	14	O	O	Bush	x	x	0
+O	0	15	O	O	said	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	Saddam	x	x	0
+O	0	18	O	O	at	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	joint	x	x	0
+O	0	21	O	O	news	x	x	0
+O	0	22	O	O	conference	x	x	0
+O	0	23	O	O	with	x	x	0
+B-GPE	0	24	O	O	British	x	x	0
+O	0	25	O	O	Prime	x	x	0
+O	0	26	O	O	Minister	x	x	0
+O	0	27	O	O	Tony	x	x	0
+O	0	28	O	O	Blair	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	The	x	x	0
+O	0	2	O	O	only	x	x	0
+O	0	3	O	O	thing	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	that	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	losing	x	x	0
+O	0	11	O	O	power	x	x	0
+O	0	12	O	O	.	x	x	0
+O	0	13	O	O	''	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraq	x	x	0
+O	0	1	O	O	's	x	x	0
+B-ORG	0	2	O	O	U.N.	x	x	0
+O	0	3	O	O	ambassador	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Mohammed	x	x	0
+I-PER	0	6	O	O	Al-Douri	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	said	x	x	0
+B-TIME	0	9	O	O	Tuesday	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	believes	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	Saddam	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	alive	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	although	x	x	0
+B-PER	0	18	O	O	al-Douri	x	x	0
+O	0	19	O	O	acknowledged	x	x	0
+B-PER	0	20	O	O	he	x	x	0
+O	0	21	O	O	has	x	x	0
+O	0	22	O	O	not	x	x	0
+O	0	23	O	O	communicated	x	x	0
+O	0	24	O	O	with	x	x	0
+B-GPE	0	25	O	O	Baghdad	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Bush	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	Blair	x	x	0
+O	0	3	O	O	sought	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	minimize	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	differences	x	x	0
+O	0	8	O	O	over	x	x	0
+B-GPE	0	9	O	O	who	x	x	0
+O	0	10	O	O	should	x	x	0
+O	0	11	O	O	govern	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	rebuild	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Blair	x	x	0
+O	0	1	O	O	favors	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	stronger	x	x	0
+B-ORG	0	4	O	O	U.N.	x	x	0
+O	0	5	O	O	role	x	x	0
+O	0	6	O	O	than	x	x	0
+B-PER	0	7	O	O	Bush	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	There	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	vital	x	x	0
+O	0	6	O	O	role	x	x	0
+O	0	7	O	O	for	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	U.N.	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	reconstruction	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	''	x	x	0
+B-PER	0	17	O	O	Blair	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	But	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	key	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	that	x	x	0
+B-GPE	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	end	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	run	x	x	0
+O	0	13	O	O	by	x	x	0
+O	0	14	O	O	the	x	x	0
+B-GPE	0	15	O	O	Iraqi	x	x	0
+O	0	16	O	O	people	x	x	0
+O	0	17	O	O	.	x	x	0
+O	0	18	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-LOC	0	1	O	O	northern	x	x	0
+I-LOC	0	2	O	O	Iraq	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Kurdish	x	x	0
+O	0	5	O	O	forces	x	x	0
+O	0	6	O	O	tightened	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	ring	x	x	0
+O	0	9	O	O	around	x	x	0
+B-GPE	0	10	O	O	Kirkuk	x	x	0
+O	0	11	O	O	on	x	x	0
+B-TIME	0	12	O	O	Tuesday	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	following	x	x	0
+O	0	15	O	O	heavy	x	x	0
+B-GPE	0	16	O	O	coalition	x	x	0
+O	0	17	O	O	airstrikes	x	x	0
+O	0	18	O	O	on	x	x	0
+B-GPE	0	19	O	O	Iraqi	x	x	0
+O	0	20	O	O	fronts	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kurdish	x	x	0
+O	0	1	O	O	militia	x	x	0
+O	0	2	O	O	took	x	x	0
+O	0	3	O	O	control	x	x	0
+O	0	4	O	O	of	x	x	0
+B-LOC	0	5	O	O	Sekamian	x	x	0
+I-LOC	0	6	O	O	plateau	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	10	x	x	0
+O	0	10	O	O	kilometers	x	x	0
+O	0	11	O	O	(	x	x	0
+O	0	12	O	O	six	x	x	0
+O	0	13	O	O	miles	x	x	0
+O	0	14	O	O	)	x	x	0
+O	0	15	O	O	north	x	x	0
+O	0	16	O	O	of	x	x	0
+B-GPE	0	17	O	O	Kirkuk	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	Kurdish	x	x	0
+O	0	20	O	O	media	x	x	0
+O	0	21	O	O	reported	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-LOC	0	0	O	O	The	x	x	0
+I-LOC	0	1	O	O	area	x	x	0
+O	0	2	O	O	affords	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	commanding	x	x	0
+O	0	5	O	O	view	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	city	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	vast	x	x	0
+O	0	12	O	O	oil	x	x	0
+O	0	13	O	O	fields	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Iraq	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	No.	x	x	0
+O	0	18	O	O	2	x	x	0
+O	0	19	O	O	oil	x	x	0
+O	0	20	O	O	region	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	military	x	x	0
+O	0	3	O	O	said	x	x	0
+B-VEH	0	4	O	O	two	x	x	0
+I-VEH	0	5	O	O	planes	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	lost	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	An	x	x	0
+B-VEH	0	1	O	O	A-10	x	x	0
+I-VEH	0	2	O	O	``	x	x	0
+I-VEH	0	3	O	O	Warthog	x	x	0
+O	0	4	O	O	''	x	x	0
+O	0	5	O	O	warplane	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	shot	x	x	0
+O	0	8	O	O	down	x	x	0
+O	0	9	O	O	near	x	x	0
+B-GPE	0	10	O	O	Baghdad	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	believed	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	first	x	x	0
+O	0	17	O	O	fixed-wing	x	x	0
+O	0	18	O	O	aircraft	x	x	0
+O	0	19	O	O	downed	x	x	0
+O	0	20	O	O	by	x	x	0
+O	0	21	O	O	an	x	x	0
+B-GPE	0	22	O	O	Iraqi	x	x	0
+O	0	23	O	O	surface-to-air	x	x	0
+O	0	24	O	O	missile	x	x	0
+O	0	25	O	O	since	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	war	x	x	0
+O	0	28	O	O	began	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	U.S.	x	x	0
+I-ORG	0	1	O	O	Central	x	x	0
+I-ORG	0	2	O	O	Command	x	x	0
+O	0	3	O	O	said	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	pilot	x	x	0
+O	0	6	O	O	ejected	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	recovered	x	x	0
+O	0	10	O	O	by	x	x	0
+B-PER	0	11	O	O	ground	x	x	0
+I-PER	0	12	O	O	forces	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	good	x	x	0
+O	0	17	O	O	condition	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+B-VEH	0	2	O	O	F-15E	x	x	0
+O	0	3	O	O	jet	x	x	0
+O	0	4	O	O	fighter	x	x	0
+O	0	5	O	O	also	x	x	0
+O	0	6	O	O	went	x	x	0
+O	0	7	O	O	down	x	x	0
+B-TIME	0	8	O	O	early	x	x	0
+I-TIME	0	9	O	O	Monday	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	search	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	under	x	x	0
+O	0	15	O	O	way	x	x	0
+O	0	16	O	O	for	x	x	0
+B-VEH	0	17	O	O	its	x	x	0
+B-PER	0	18	O	O	two-man	x	x	0
+O	0	19	O	O	crew	x	x	0
+O	0	20	O	O	,	x	x	0
+B-ORG	0	21	O	O	the	x	x	0
+I-ORG	0	22	O	O	military	x	x	0
+O	0	23	O	O	announced	x	x	0
+B-TIME	0	24	O	O	Tuesday	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Officials	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	whether	x	x	0
+B-VEH	0	5	O	O	the	x	x	0
+I-VEH	0	6	O	O	plane	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	shot	x	x	0
+O	0	9	O	O	down	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	crashed	x	x	0
+O	0	12	O	O	accidentally	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	British	x	x	0
+O	0	1	O	O	forces	x	x	0
+O	0	2	O	O	in	x	x	0
+B-LOC	0	3	O	O	southern	x	x	0
+I-LOC	0	4	O	O	Iraq	x	x	0
+O	0	5	O	O	worked	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	restore	x	x	0
+O	0	8	O	O	order	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	heavily	x	x	0
+O	0	12	O	O	looted	x	x	0
+O	0	13	O	O	streets	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Basra	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	as	x	x	0
+B-PER	0	18	O	O	desperate	x	x	0
+I-PER	0	19	O	O	citizens	x	x	0
+O	0	20	O	O	swarmed	x	x	0
+B-VEH	0	21	O	O	water	x	x	0
+I-VEH	0	22	O	O	tanker	x	x	0
+I-VEH	0	23	O	O	trucks	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	day	x	x	0
+O	0	26	O	O	after	x	x	0
+B-GPE	0	27	O	O	British	x	x	0
+O	0	28	O	O	soldiers	x	x	0
+O	0	29	O	O	claimed	x	x	0
+B-GPE	0	30	O	O	Iraq	x	x	0
+O	0	31	O	O	's	x	x	0
+O	0	32	O	O	second	x	x	0
+O	0	33	O	O	largest	x	x	0
+O	0	34	O	O	city	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	British	x	x	0
+O	0	1	O	O	forces	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	began	x	x	0
+O	0	4	O	O	establishing	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	country	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	first	x	x	0
+O	0	9	O	O	postwar	x	x	0
+O	0	10	O	O	administration	x	x	0
+B-TIME	0	11	O	O	Tuesday	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	granting	x	x	0
+B-PER	0	14	O	O	a	x	x	0
+I-PER	0	15	O	O	local	x	x	0
+I-PER	0	16	O	O	sheik	x	x	0
+O	0	17	O	O	power	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	set	x	x	0
+O	0	20	O	O	up	x	x	0
+O	0	21	O	O	an	x	x	0
+O	0	22	O	O	administrative	x	x	0
+O	0	23	O	O	committee	x	x	0
+O	0	24	O	O	representing	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	groups	x	x	0
+O	0	27	O	O	in	x	x	0
+B-LOC	0	28	O	O	the	x	x	0
+I-LOC	0	29	O	O	region	x	x	0
+O	0	30	O	O	.	x	x	0
+

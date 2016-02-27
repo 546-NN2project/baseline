@@ -1,0 +1,65 @@
+O	0	0	O	O	in	x	x	0
+B-LOC	0	1	O	O	northern	x	x	0
+I-LOC	0	2	O	O	Iraq	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	U.S.	x	x	0
+O	0	5	O	O	warplanes	x	x	0
+O	0	6	O	O	hit	x	x	0
+O	0	7	O	O	targets	x	x	0
+O	0	8	O	O	including	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	ridge	x	x	0
+O	0	11	O	O	east	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Mosul	x	x	0
+O	0	14	O	O	,	x	x	0
+B-LOC	0	15	O	O	where	x	x	0
+B-GPE	0	16	O	O	Iraqi	x	x	0
+O	0	17	O	O	troops	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	entrenched	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	Two	x	x	0
+I-VEH	0	1	O	O	f-14	x	x	0
+I-VEH	0	2	O	O	Tomcats	x	x	0
+O	0	3	O	O	struck	x	x	0
+B-LOC	0	4	O	O	the	x	x	0
+I-LOC	0	5	O	O	targets	x	x	0
+O	0	6	O	O	,	x	x	0
+B-LOC	0	7	O	O	the	x	x	0
+I-LOC	0	8	O	O	same	x	x	0
+I-LOC	0	9	O	O	area	x	x	0
+O	0	10	O	O	was	x	x	0
+B-LOC	0	11	O	O	a	x	x	0
+I-LOC	0	12	O	O	site	x	x	0
+I-LOC	0	13	O	O	of	x	x	0
+I-LOC	0	14	O	O	heavy	x	x	0
+I-LOC	0	15	O	O	bombing	x	x	0
+B-TIME	0	16	O	O	yesterday	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	After	x	x	0
+B-TIME	0	1	O	O	today	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	air	x	x	0
+O	0	4	O	O	strikes	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	13	x	x	0
+B-GPE	0	7	O	O	Iraqi	x	x	0
+O	0	8	O	O	soldiers	x	x	0
+O	0	9	O	O	abandoned	x	x	0
+B-PER	0	10	O	O	their	x	x	0
+O	0	11	O	O	posts	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	surrendered	x	x	0
+O	0	14	O	O	to	x	x	0
+B-PER	0	15	O	O	Kurdish	x	x	0
+O	0	16	O	O	fighters	x	x	0
+O	0	17	O	O	.	x	x	0
+

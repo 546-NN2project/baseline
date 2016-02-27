@@ -1,0 +1,558 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	researching	x	x	0
+B-PER	0	3	O	O	Meg	x	x	0
+I-PER	0	4	O	O	Tilly	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	internet	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	thus	x	x	0
+O	0	10	O	O	accidentally	x	x	0
+O	0	11	O	O	found	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	that	x	x	0
+B-PER	0	14	O	O	Jennifer	x	x	0
+I-PER	0	15	O	O	Tilly	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	born	x	x	0
+B-PER	0	18	O	O	Jennifer	x	x	0
+I-PER	0	19	O	O	Chan	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	documented	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	few	x	x	0
+O	0	6	O	O	web	x	x	0
+O	0	7	O	O	sites	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	used	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	wonder	x	x	0
+O	0	4	O	O	if	x	x	0
+B-PER	0	5	O	O	Meg	x	x	0
+I-PER	0	6	O	O	Tilly	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	part	x	x	0
+O	0	9	O	O	chinese	x	x	0
+O	0	10	O	O	because	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	her	x	x	0
+O	0	13	O	O	eyes	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	so	x	x	0
+O	0	16	O	O	now	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	wonder	x	x	0
+O	0	19	O	O	more	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	are	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	??????????	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	tall	x	x	0
+O	0	2	O	O	is	x	x	0
+B-PER	0	3	O	O	Meg	x	x	0
+I-PER	0	4	O	O	Tilly	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	ca	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	find	x	x	0
+O	0	4	O	O	any	x	x	0
+O	0	5	O	O	web	x	x	0
+O	0	6	O	O	sites	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	state	x	x	0
+O	0	9	O	O	how	x	x	0
+O	0	10	O	O	tall	x	x	0
+B-PER	0	11	O	O	she	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	!!!!	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	says	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	she	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	multi-racial	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	link	x	x	0
+O	0	9	O	O	:	x	x	0
+
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	bit	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	trivia	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	asked	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	LOT	x	x	0
+O	0	10	O	O	concerns	x	x	0
+B-PER	0	11	O	O	Meg	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	'ethnicity'	x	x	0
+O	0	14	O	O	.	x	x	0
+O	0	15	O	O	Well	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	longest	x	x	0
+O	0	20	O	O	time	x	x	0
+O	0	21	O	O	this	x	x	0
+O	0	22	O	O	was	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	topic	x	x	0
+B-PER	0	25	O	O	she	x	x	0
+O	0	26	O	O	and	x	x	0
+B-PER	0	27	O	O	her	x	x	0
+O	0	28	O	O	sister	x	x	0
+B-PER	0	29	O	O	Jennifer	x	x	0
+O	0	30	O	O	seemed	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	avoid	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	but	x	x	0
+B-TIME	0	35	O	O	a	x	x	0
+I-TIME	0	36	O	O	few	x	x	0
+I-TIME	0	37	O	O	months	x	x	0
+I-TIME	0	38	O	O	back	x	x	0
+O	0	39	O	O	,	x	x	0
+B-PER	0	40	O	O	Jennifer	x	x	0
+O	0	41	O	O	announced	x	x	0
+O	0	42	O	O	to	x	x	0
+B-PER	0	43	O	O	the	x	x	0
+I-PER	0	44	O	O	world	x	x	0
+O	0	45	O	O	that	x	x	0
+B-PER	0	46	O	O	their	x	x	0
+O	0	47	O	O	father	x	x	0
+O	0	48	O	O	is	x	x	0
+B-GPE	0	49	O	O	Chinese	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	should	x	x	0
+O	0	4	O	O	answer	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	THOSE	x	x	0
+O	0	8	O	O	questions	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Personally	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	never	x	x	0
+O	0	4	O	O	made	x	x	0
+O	0	5	O	O	much	x	x	0
+O	0	6	O	O	difference	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	me	x	x	0
+B-PER	0	9	O	O	she	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	who	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	what	x	x	0
+B-PER	0	14	O	O	she	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	Oh.	x	x	0
+O	0	1	O	O	.	x	x	0
+O	0	2	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	you	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	asking	x	x	0
+O	0	9	O	O	how	x	x	0
+O	0	10	O	O	TALL	x	x	0
+B-PER	0	11	O	O	she	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	an	x	x	0
+O	0	14	O	O	article	x	x	0
+O	0	15	O	O	about	x	x	0
+B-PER	0	16	O	O	Meg	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	the	x	x	0
+B-TIME	0	19	O	O	January	x	x	0
+I-TIME	0	20	O	O	1984	x	x	0
+O	0	21	O	O	issue	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	'Seventeen'	x	x	0
+O	0	24	O	O	magazine	x	x	0
+O	0	25	O	O	states	x	x	0
+B-PER	0	26	O	O	she	x	x	0
+O	0	27	O	O	is	x	x	0
+O	0	28	O	O	5	x	x	0
+O	0	29	O	O	ft	x	x	0
+O	0	30	O	O	6	x	x	0
+O	0	31	O	O	inches	x	x	0
+O	0	32	O	O	.	x	x	0
+
+O	0	0	O	O	Gads	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	never	x	x	0
+O	0	3	O	O	mind	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	she	x	x	0
+O	0	6	O	O	puts	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	too	x	x	0
+O	0	9	O	O	good	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	front	x	x	0
+O	0	12	O	O	for	x	x	0
+B-TIME	0	13	O	O	now	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	you	x	x	0
+O	0	16	O	O	Will	x	x	0
+O	0	17	O	O	see	x	x	0
+O	0	18	O	O	later	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Lady	x	x	0
+I-PER	0	1	O	O	Chatterly	x	x	0
+O	0	2	O	O	"	x	x	0
+B-PER	0	3	O	O	This	x	x	0
+O	0	4	O	O	must	x	x	0
+O	0	5	O	O	be	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	paid	x	x	0
+I-PER	0	8	O	O	poster	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	only	x	x	0
+O	0	4	O	O	thing	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	can	x	x	0
+O	0	7	O	O	logically	x	x	0
+O	0	8	O	O	explain	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	reluctance	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	coherent	x	x	0
+O	0	14	O	O	.	x	x	0
+O	0	15	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Meldon	x	x	0
+
+B-PER	0	0	O	O	they	x	x	0
+O	0	1	O	O	ARE	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	asian.	x	x	0
+O	0	4	O	O	what	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	big	x	x	0
+O	0	8	O	O	deal	x	x	0
+O	0	9	O	O	???	x	x	0
+O	0	10	O	O	why	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	so	x	x	0
+O	0	14	O	O	hard	x	x	0
+O	0	15	O	O	for	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	believe	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	such	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	revelation	x	x	0
+O	0	23	O	O	??	x	x	0
+
+O	0	0	O	O	Regardless	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	by	x	x	0
+O	0	5	O	O	far	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	better	x	x	0
+O	0	8	O	O	actor	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	two	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-PER	0	0	O	O	which	x	x	0
+I-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	big	x	x	0
+O	0	7	O	O	chill	x	x	0
+O	0	8	O	O	?	x	x	0
+O	0	9	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	she	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	talented	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	two	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	imo.	x	x	0
+B-PER	0	10	O	O	parismom	x	x	0
+
+O	0	0	O	O	-	x	x	0
+O	0	1	O	O	"	x	x	0
+O	0	2	O	O	Undoubtedly	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	some	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	can	x	x	0
+O	0	7	O	O	only	x	x	0
+O	0	8	O	O	exalt	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+B-PER	0	10	O	O	own	x	x	0
+O	0	11	O	O	beliefs	x	x	0
+O	0	12	O	O	by	x	x	0
+O	0	13	O	O	tearing	x	x	0
+O	0	14	O	O	down	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	beliefs	x	x	0
+O	0	17	O	O	of	x	x	0
+B-PER	0	18	O	O	others	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	trait	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	insecure	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	ones	x	x	0
+O	0	4	O	O	belief	x	x	0
+O	0	5	O	O	system	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	personal	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	private."	x	x	0
+B-PER	0	10	O	O	usenet	x	x	0
+I-PER	0	11	O	O	denizen	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	goodness	x	x	0
+O	0	3	O	O	...	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	never	x	x	0
+O	0	2	O	O	even	x	x	0
+O	0	3	O	O	realized	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	were	x	x	0
+B-PER	0	6	O	O	two	x	x	0
+I-PER	0	7	O	O	of	x	x	0
+I-PER	0	8	O	O	them	x	x	0
+O	0	9	O	O	till	x	x	0
+B-TIME	0	10	O	O	now	x	x	0
+O	0	11	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-PER	0	1	O	O	Tilly	x	x	0
+O	0	2	O	O	actress	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	*	x	x	0
+O	0	5	O	O	knew	x	x	0
+O	0	6	O	O	*	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	way	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	sometimes	x	x	0
+O	0	13	O	O	looking	x	x	0
+O	0	14	O	O	really	x	x	0
+O	0	15	O	O	good	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	sometimes	x	x	0
+O	0	18	O	O	like	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	bloated	x	x	0
+O	0	21	O	O	alcoholic	x	x	0
+O	0	22	O	O	sexpot	x	x	0
+B-PER	0	23	O	O	who	x	x	0
+O	0	24	O	O	'd	x	x	0
+O	0	25	O	O	spent	x	x	0
+O	0	26	O	O	way	x	x	0
+O	0	27	O	O	too	x	x	0
+O	0	28	O	O	much	x	x	0
+O	0	29	O	O	time	x	x	0
+O	0	30	O	O	on	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	barstool	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Mystery	x	x	0
+O	0	1	O	O	solved	x	x	0
+O	0	2	O	O	!	x	x	0
+
+B-PER	0	0	O	O	That	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	Meg	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	third	x	x	0
+I-PER	0	4	O	O	sister	x	x	0
+O	0	5	O	O	too	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	show	x	x	0
+O	0	10	O	O	biz	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	youngest	x	x	0
+O	0	14	O	O	of	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	3	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	think	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	forget	x	x	0
+B-PER	0	21	O	O	her	x	x	0
+O	0	22	O	O	name	x	x	0
+O	0	23	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Jennifer	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	certainly	x	x	0
+O	0	5	O	O	far	x	x	0
+O	0	6	O	O	sexier	x	x	0
+O	0	7	O	O	than	x	x	0
+B-PER	0	8	O	O	Meg	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Meg	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	sorta	x	x	0
+O	0	3	O	O	like	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	female	x	x	0
+I-PER	0	6	O	O	Steve	x	x	0
+I-PER	0	7	O	O	Buschemi	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Homely	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	but	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	good	x	x	0
+I-PER	0	5	O	O	actor	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	well	x	x	0
+O	0	8	O	O	respected	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jennifer	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	still	x	x	0
+O	0	3	O	O	smokin'	x	x	0
+O	0	4	O	O	hot	x	x	0
+O	0	5	O	O	at	x	x	0
+B-TIME	0	6	O	O	46	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Meg	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	one	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	has	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	child	x	x	0
+O	0	9	O	O	by	x	x	0
+B-PER	0	10	O	O	Colin	x	x	0
+I-PER	0	11	O	O	Firth	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rebecca	x	x	0
+

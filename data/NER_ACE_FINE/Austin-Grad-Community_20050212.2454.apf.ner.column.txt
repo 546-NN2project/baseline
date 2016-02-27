@@ -1,0 +1,458 @@
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	following	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	from	x	x	0
+B-PER	0	4	O	O	Mike	x	x	0
+I-PER	0	5	O	O	Black	x	x	0
+O	0	6	O	O	:	x	x	0
+B-PER	0	7	O	O	Friends	x	x	0
+O	0	8	O	O	:	x	x	0
+O	0	9	O	O	Please	x	x	0
+O	0	10	O	O	take	x	x	0
+B-TIME	0	11	O	O	some	x	x	0
+I-TIME	0	12	O	O	time	x	x	0
+I-TIME	0	13	O	O	next	x	x	0
+I-TIME	0	14	O	O	week	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	welcome	x	x	0
+O	0	17	O	O	a	x	x	0
+B-TIME	0	18	O	O	new	x	x	0
+B-PER	0	19	O	O	staff	x	x	0
+O	0	20	O	O	member	x	x	0
+O	0	21	O	O	for	x	x	0
+O	0	22	O	O	Landmark	x	x	0
+O	0	23	O	O	Education	x	x	0
+O	0	24	O	O	in	x	x	0
+B-GPE	0	25	O	O	Houston	x	x	0
+O	0	26	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	name	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	Janine	x	x	0
+O	0	4	O	O	Beck	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	she	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	Tucson	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	AZ	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	she	x	x	0
+B-TIME	0	15	O	O	most	x	x	0
+I-TIME	0	16	O	O	recently	x	x	0
+O	0	17	O	O	has	x	x	0
+O	0	18	O	O	been	x	x	0
+O	0	19	O	O	the	x	x	0
+B-PER	0	20	O	O	team	x	x	0
+O	0	21	O	O	leader	x	x	0
+O	0	22	O	O	for	x	x	0
+B-ORG	0	23	O	O	Landmark	x	x	0
+I-ORG	0	24	O	O	Education	x	x	0
+O	0	25	O	O	programs	x	x	0
+O	0	26	O	O	in	x	x	0
+B-GPE	0	27	O	O	Tucson	x	x	0
+O	0	28	O	O	(	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	title	x	x	0
+O	0	31	O	O	is	x	x	0
+B-Job-Title	0	32	O	O	Source	x	x	0
+I-Job-Title	0	33	O	O	Person	x	x	0
+O	0	34	O	O	)	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	the	x	x	0
+B-Job-Title	0	4	O	O	Registration	x	x	0
+I-Job-Title	0	5	O	O	Manager	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	Houston	x	x	0
+O	0	9	O	O	Center	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	accountable	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	causing	x	x	0
+O	0	14	O	O	registrations	x	x	0
+O	0	15	O	O	into	x	x	0
+O	0	16	O	O	the	x	x	0
+B-ORG	0	17	O	O	Landmark	x	x	0
+O	0	18	O	O	Forum	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	huge	x	x	0
+O	0	6	O	O	commitment	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	her	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	am	x	x	0
+O	0	13	O	O	excited	x	x	0
+O	0	14	O	O	about	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	difference	x	x	0
+B-PER	0	17	O	O	she	x	x	0
+O	0	18	O	O	will	x	x	0
+O	0	19	O	O	make	x	x	0
+O	0	20	O	O	in	x	x	0
+B-PER	0	21	O	O	my	x	x	0
+O	0	22	O	O	life	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	my	x	x	0
+O	0	25	O	O	family	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	in	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	lives	x	x	0
+O	0	31	O	O	of	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	people	x	x	0
+O	0	34	O	O	in	x	x	0
+O	0	35	O	O	this	x	x	0
+O	0	36	O	O	part	x	x	0
+O	0	37	O	O	of	x	x	0
+B-LOC	0	38	O	O	the	x	x	0
+I-LOC	0	39	O	O	world	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-PER	0	1	O	O	staff	x	x	0
+O	0	2	O	O	member	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	graduate	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	us	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	us	x	x	0
+B-PER	0	5	O	O	that	x	x	0
+O	0	6	O	O	choose	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	have	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	life	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	empowering	x	x	0
+B-PER	0	14	O	O	others	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	live	x	x	0
+O	0	17	O	O	life	x	x	0
+O	0	18	O	O	powerfully	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	live	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	life	x	x	0
+B-PER	0	23	O	O	they	x	x	0
+O	0	24	O	O	love	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	"	x	x	0
+B-PER	0	4	O	O	my	x	x	0
+O	0	5	O	O	life	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	then	x	x	0
+O	0	11	O	O	everything	x	x	0
+O	0	12	O	O	in	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	life	x	x	0
+O	0	15	O	O	becomes	x	x	0
+O	0	16	O	O	about	x	x	0
+O	0	17	O	O	that	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	married	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	your	x	x	0
+O	0	6	O	O	marriage	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	making	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	difference	x	x	0
+O	0	12	O	O	in	x	x	0
+B-LOC	0	13	O	O	the	x	x	0
+I-LOC	0	14	O	O	world	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	hobbies	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	hobbies	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	making	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	difference	x	x	0
+O	0	12	O	O	in	x	x	0
+B-LOC	0	13	O	O	the	x	x	0
+I-LOC	0	14	O	O	world	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	easy	x	x	0
+O	0	5	O	O	thing	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	take	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	mountain	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	steep	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	hard	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	climb	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	incredibly	x	x	0
+O	0	4	O	O	rewarding	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	fulfilling	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	gives	x	x	0
+O	0	9	O	O	purpose	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	meaning	x	x	0
+O	0	12	O	O	to	x	x	0
+B-PER	0	13	O	O	your	x	x	0
+O	0	14	O	O	life	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-PER	0	1	O	O	poet	x	x	0
+O	0	2	O	O	Rilke	x	x	0
+O	0	3	O	O	once	x	x	0
+O	0	4	O	O	said	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	spirit	x	x	0
+O	0	8	O	O	wants	x	x	0
+O	0	9	O	O	only	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	flight	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	as	x	x	0
+O	0	16	O	O	to	x	x	0
+B-PER	0	17	O	O	who	x	x	0
+O	0	18	O	O	actually	x	x	0
+O	0	19	O	O	accomplishes	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	in	x	x	0
+O	0	23	O	O	that	x	x	0
+B-PER	0	24	O	O	she	x	x	0
+O	0	25	O	O	only	x	x	0
+O	0	26	O	O	has	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	passing	x	x	0
+O	0	29	O	O	interest	x	x	0
+O	0	30	O	O	"	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Being	x	x	0
+O	0	1	O	O	a	x	x	0
+B-PER	0	2	O	O	staff	x	x	0
+O	0	3	O	O	member	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	about	x	x	0
+O	0	6	O	O	being	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	one	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	accomplishes	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Please	x	x	0
+O	0	1	O	O	take	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	few	x	x	0
+O	0	4	O	O	moments	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	drop	x	x	0
+B-PER	0	7	O	O	her	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	note	x	x	0
+O	0	10	O	O	(	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	do	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	have	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	email	x	x	0
+O	0	17	O	O	address	x	x	0
+O	0	18	O	O	for	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	snail	x	x	0
+O	0	6	O	O	mail	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	give	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	call	x	x	0
+O	0	13	O	O	at	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	center	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	or	x	x	0
+O	0	18	O	O	send	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	fax	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	welcome	x	x	0
+B-PER	0	24	O	O	her	x	x	0
+O	0	25	O	O	to	x	x	0
+B-PER	0	26	O	O	our	x	x	0
+O	0	27	O	O	Center	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Knowing	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	graduates	x	x	0
+B-FAC	0	3	O	O	here	x	x	0
+O	0	4	O	O	appreciate	x	x	0
+B-PER	0	5	O	O	her	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	make	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	huge	x	x	0
+O	0	10	O	O	difference	x	x	0
+O	0	11	O	O	for	x	x	0
+B-PER	0	12	O	O	her	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	phone	x	x	0
+O	0	2	O	O	number	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	the	x	x	0
+B-GPE	0	5	O	O	Houston	x	x	0
+O	0	6	O	O	Center	x	x	0
+O	0	7	O	O	is	x	x	0
+B-Contact-Info	0	8	O	O	713-865-9600	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	toll	x	x	0
+O	0	11	O	O	free	x	x	0
+B-Contact-Info	0	12	O	O	800-745-1997	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	Fax	x	x	0
+O	0	2	O	O	number	x	x	0
+O	0	3	O	O	is	x	x	0
+B-Contact-Info	0	4	O	O	713-626-3677	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	for	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	stand	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	partnership	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Mike	x	x	0
+I-PER	0	1	O	O	Black	x	x	0
+B-Contact-Info	0	2	O	O	m	x	x	0
+I-Contact-Info	0	3	O	O	...	x	x	0
+I-Contact-Info	0	4	O	O	@	x	x	0
+I-Contact-Info	0	5	O	O	bushblack.com	x	x	0
+B-Contact-Info	0	6	O	O	512-431-3537	x	x	0
+

@@ -1,0 +1,1351 @@
+O	0	0	O	O	2	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Workplace	x	x	0
+O	0	1	O	O	Culture	x	x	0
+O	0	2	O	O	Describe	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	organizational	x	x	0
+O	0	5	O	O	structure	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+B-TIME	0	8	O	O	current	x	x	0
+O	0	9	O	O	or	x	x	0
+B-TIME	0	10	O	O	former	x	x	0
+O	0	11	O	O	workplace	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	How	x	x	0
+I-PER	0	1	O	O	many	x	x	0
+I-PER	0	2	O	O	people	x	x	0
+O	0	3	O	O	work	x	x	0
+B-ORG	0	4	O	O	there	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	hierarchy	x	x	0
+O	0	11	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Who	x	x	0
+O	0	1	O	O	works	x	x	0
+O	0	2	O	O	for	x	x	0
+B-PER	0	3	O	O	whom	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	kind	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	job	x	x	0
+O	0	4	O	O	do	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Describe	x	x	0
+O	0	1	O	O	some	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	people	x	x	0
+B-PER	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	work	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	jobs	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	think	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	company	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	well-run	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	not	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	could	x	x	0
+O	0	5	O	O	make	x	x	0
+B-ORG	0	6	O	O	it	x	x	0
+O	0	7	O	O	better	x	x	0
+O	0	8	O	O	?	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	then	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	supposed	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	answer	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	um	x	x	0
+O	0	3	O	O	all	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	say	x	x	0
+O	0	7	O	O	about	x	x	0
+B-ORG	0	8	O	O	big	x	x	0
+I-ORG	0	9	O	O	corporations	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	's	x	x	0
+B-PER	0	13	O	O	too	x	x	0
+I-PER	0	14	O	O	many	x	x	0
+I-PER	0	15	O	O	chiefs	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Always	x	x	0
+B-PER	0	1	O	O	too	x	x	0
+I-PER	0	2	O	O	many	x	x	0
+I-PER	0	3	O	O	chiefs	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	with	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	constant	x	x	0
+O	0	4	O	O	merging	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	other	x	x	0
+I-ORG	0	7	O	O	banks	x	x	0
+O	0	8	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	ugh	x	x	0
+O	0	1	O	O	err	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	Or	x	x	0
+O	0	1	O	O	well	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	then	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	think	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	things	x	x	0
+O	0	9	O	O	like	x	x	0
+B-ORG	0	10	O	O	Enron	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	yeah	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	got	x	x	0
+B-PER	0	5	O	O	corrupted	x	x	0
+I-PER	0	6	O	O	chiefs	x	x	0
+O	0	7	O	O	too	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	everywhere	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	uh	x	x	0
+O	0	2	O	O	~	x	x	0
+O	0	3	O	O	CEO	x	x	0
+B-ORG	0	4	O	O	we	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	before	x	x	0
+B-ORG	0	7	O	O	we	x	x	0
+O	0	8	O	O	merged	x	x	0
+O	0	9	O	O	with	x	x	0
+B-ORG	0	10	O	O	Nations	x	x	0
+I-ORG	0	11	O	O	Bank	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	uh	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	about	x	x	0
+O	0	16	O	O	ran	x	x	0
+B-ORG	0	17	O	O	as	x	x	0
+O	0	18	O	O	into	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	ground	x	x	0
+O	0	21	O	O	with	x	x	0
+O	0	22	O	O	some	x	x	0
+O	0	23	O	O	hedge	x	x	0
+O	0	24	O	O	funds	x	x	0
+O	0	25	O	O	that	x	x	0
+B-PER	0	26	O	O	he	x	x	0
+O	0	27	O	O	had	x	x	0
+O	0	28	O	O	gone	x	x	0
+O	0	29	O	O	into	x	x	0
+O	0	30	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	then	x	x	0
+O	0	5	O	O	when	x	x	0
+B-ORG	0	6	O	O	we	x	x	0
+O	0	7	O	O	finish	x	x	0
+O	0	8	O	O	merging	x	x	0
+O	0	9	O	O	,	x	x	0
+B-ORG	0	10	O	O	they	x	x	0
+O	0	11	O	O	give	x	x	0
+B-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	guy	x	x	0
+O	0	14	O	O	something	x	x	0
+O	0	15	O	O	like	x	x	0
+O	0	16	O	O	a	x	x	0
+B-Numeric	0	17	O	O	twenty-five	x	x	0
+I-Numeric	0	18	O	O	million	x	x	0
+I-Numeric	0	19	O	O	dollar	x	x	0
+O	0	20	O	O	package	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	if	x	x	0
+B-PER	0	24	O	O	he	x	x	0
+O	0	25	O	O	dies	x	x	0
+O	0	26	O	O	,	x	x	0
+B-PER	0	27	O	O	his	x	x	0
+O	0	28	O	O	family	x	x	0
+O	0	29	O	O	still	x	x	0
+O	0	30	O	O	gets	x	x	0
+O	0	31	O	O	all	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	money	x	x	0
+O	0	34	O	O	.	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	way	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	No.	x	x	0
+B-ORG	0	1	O	O	They	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	anything	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	for	x	x	0
+B-PER	0	9	O	O	me	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+B-ORG	0	3	O	O	there	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	long	x	x	0
+O	0	7	O	O	time	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	used	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	manager	x	x	0
+B-ORG	0	15	O	O	there	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	way	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'd	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	kind	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	oh	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	once	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	unless	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	're	x	x	0
+O	0	14	O	O	prosecuted	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	just	x	x	0
+O	0	19	O	O	are	x	x	0
+O	0	20	O	O	constantly	x	x	0
+O	0	21	O	O	rolling	x	x	0
+O	0	22	O	O	in	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	dough	x	x	0
+O	0	25	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	long	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	ago	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+B-ORG	0	9	O	O	we	x	x	0
+O	0	10	O	O	just	x	x	0
+O	0	11	O	O	c	x	x	0
+O	0	12	O	O	oh	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	all	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	money	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	just	x	x	0
+O	0	20	O	O	about	x	x	0
+O	0	21	O	O	bankrupting	x	x	0
+B-ORG	0	22	O	O	us	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	crazy	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	ninety	x	x	0
+I-TIME	0	6	O	O	seven	x	x	0
+O	0	7	O	O	or	x	x	0
+B-TIME	0	8	O	O	eight	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	merged	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	ninety-eight	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	Bank	x	x	0
+I-ORG	0	5	O	O	of	x	x	0
+I-ORG	0	6	O	O	America	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	everywhere	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	um	x	x	0
+O	0	2	O	O	Mm	x	x	0
+O	0	3	O	O	Gosh	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	ca	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	think	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	anything	x	x	0
+O	0	10	O	O	else	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	say	x	x	0
+O	0	13	O	O	about	x	x	0
+B-ORG	0	14	O	O	them	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	good	x	x	0
+O	0	3	O	O	benefits	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	good	x	x	0
+O	0	2	O	O	pay	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	I	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	really	x	x	0
+O	0	6	O	O	familiar	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	working	x	x	0
+O	0	10	O	O	world	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	much	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	mean	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	with	x	x	0
+B-PER	0	6	O	O	my	x	x	0
+O	0	7	O	O	part-time	x	x	0
+O	0	8	O	O	job	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	lot	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	really	x	x	0
+O	0	17	O	O	good	x	x	0
+O	0	18	O	O	for	x	x	0
+B-PER	0	19	O	O	a	x	x	0
+I-PER	0	20	O	O	student	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	because	x	x	0
+B-PER	0	23	O	O	I	x	x	0
+O	0	24	O	O	only	x	x	0
+O	0	25	O	O	work	x	x	0
+O	0	26	O	O	uh	x	x	0
+B-TIME	0	27	O	O	two	x	x	0
+I-TIME	0	28	O	O	hours	x	x	0
+I-TIME	0	29	O	O	a	x	x	0
+I-TIME	0	30	O	O	night	x	x	0
+O	0	31	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	yeah	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	then	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	pretty	x	x	0
+O	0	9	O	O	flexible	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Like	x	x	0
+O	0	1	O	O	uh	x	x	0
+O	0	2	O	O	uh	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'm	x	x	0
+O	0	5	O	O	pretty	x	x	0
+O	0	6	O	O	busy	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	other	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	know	x	x	0
+B-ORG	0	12	O	O	student	x	x	0
+I-ORG	0	13	O	O	organizations	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	hanging	x	x	0
+O	0	17	O	O	out	x	x	0
+O	0	18	O	O	with	x	x	0
+B-PER	0	19	O	O	friends	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	stuff	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	so	x	x	0
+B-PER	0	24	O	O	I	x	x	0
+O	0	25	O	O	do	x	x	0
+O	0	26	O	O	n't	x	x	0
+O	0	27	O	O	have	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	work	x	x	0
+O	0	30	O	O	on	x	x	0
+B-TIME	0	31	O	O	the	x	x	0
+I-TIME	0	32	O	O	weekends	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	then	x	x	0
+B-PER	0	36	O	O	I	x	x	0
+O	0	37	O	O	can	x	x	0
+O	0	38	O	O	take	x	x	0
+O	0	39	O	O	off	x	x	0
+O	0	40	O	O	sometimes	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	good	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	pretty	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	deal	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	cool	x	x	0
+O	0	9	O	O	thing	x	x	0
+O	0	10	O	O	about	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	like	x	x	0
+B-PER	0	13	O	O	everybody	x	x	0
+I-PER	0	14	O	O	at	x	x	0
+I-PER	0	15	O	O	work	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	really	x	x	0
+O	0	18	O	O	friendly	x	x	0
+O	0	19	O	O	,	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	uh	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	really	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	what	x	x	0
+O	0	7	O	O	brings	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	is	x	x	0
+B-PER	0	11	O	O	our	x	x	0
+O	0	12	O	O	boss	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Like	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	just	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	really	x	x	0
+I-PER	0	6	O	O	nice	x	x	0
+I-PER	0	7	O	O	guy	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	pretty	x	x	0
+O	0	13	O	O	laid	x	x	0
+O	0	14	O	O	back	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	comes	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	handy	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Got	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	have	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	good	x	x	0
+I-PER	0	5	O	O	boss	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	if	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	any	x	x	0
+O	0	8	O	O	pudding	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	refrigerator	x	x	0
+B-PER	0	12	O	O	honey	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	got	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	go	x	x	0
+O	0	4	O	O	I	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	think	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	ate	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	all	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	go	x	x	0
+O	0	14	O	O	look	x	x	0
+O	0	15	O	O	around	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	know	x	x	0
+O	0	18	O	O	there	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	still	x	x	0
+O	0	21	O	O	some	x	x	0
+O	0	22	O	O	more	x	x	0
+O	0	23	O	O	um	x	x	0
+O	0	24	O	O	Trix	x	x	0
+O	0	25	O	O	yogurt	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	'll	x	x	0
+O	0	3	O	O	buy	x	x	0
+O	0	4	O	O	pudding	x	x	0
+O	0	5	O	O	on	x	x	0
+B-TIME	0	6	O	O	Friday	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	upset	x	x	0
+O	0	4	O	O	with	x	x	0
+B-PER	0	5	O	O	me	x	x	0
+O	0	6	O	O	cause	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	no	x	x	0
+O	0	10	O	O	pudding	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	've	x	x	0
+O	0	4	O	O	had	x	x	0
+B-PER	0	5	O	O	many	x	x	0
+I-PER	0	6	O	O	many	x	x	0
+I-PER	0	7	O	O	different	x	x	0
+I-PER	0	8	O	O	kinds	x	x	0
+I-PER	0	9	O	O	of	x	x	0
+I-PER	0	10	O	O	managers	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	when	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	're	x	x	0
+O	0	16	O	O	laid	x	x	0
+O	0	17	O	O	back	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	n't	x	x	0
+O	0	20	O	O	micro	x	x	0
+O	0	21	O	O	manage	x	x	0
+B-PER	0	22	O	O	you	x	x	0
+O	0	23	O	O	know	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	you	x	x	0
+O	0	26	O	O	definitely	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	work	x	x	0
+O	0	29	O	O	harder	x	x	0
+O	0	30	O	O	for	x	x	0
+B-PER	0	31	O	O	them	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	and	x	x	0
+O	0	34	O	O	do	x	x	0
+O	0	35	O	O	a	x	x	0
+O	0	36	O	O	better	x	x	0
+O	0	37	O	O	job	x	x	0
+O	0	38	O	O	and	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Did	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	ever	x	x	0
+O	0	3	O	O	see	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	uh	x	x	0
+O	0	6	O	O	movie	x	x	0
+O	0	7	O	O	Office	x	x	0
+O	0	8	O	O	Space	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	yes	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	took	x	x	0
+B-PER	0	2	O	O	me	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	second	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	sure	x	x	0
+O	0	9	O	O	did	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	always	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	or	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	lot	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	think	x	x	0
+B-ORG	0	12	O	O	college	x	x	0
+O	0	13	O	O	students	x	x	0
+O	0	14	O	O	think	x	x	0
+O	0	15	O	O	about	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	like	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	some	x	x	0
+B-ORG	0	20	O	O	office	x	x	0
+O	0	21	O	O	jobs	x	x	0
+O	0	22	O	O	,	x	x	0
+B-PER	0	23	O	O	you	x	x	0
+O	0	24	O	O	know	x	x	0
+O	0	25	O	O	?	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	uh	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	kind	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	job	x	x	0
+O	0	10	O	O	that	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	're	x	x	0
+O	0	13	O	O	t	x	x	0
+B-PER	0	14	O	O	everyone	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	trying	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	stay	x	x	0
+O	0	19	O	O	away	x	x	0
+O	0	20	O	O	from	x	x	0
+O	0	21	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	they	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	quite	x	x	0
+O	0	7	O	O	They	x	x	0
+O	0	8	O	O	they	x	x	0
+O	0	9	O	O	've	x	x	0
+O	0	10	O	O	gotten	x	x	0
+O	0	11	O	O	better	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	bigger	x	x	0
+I-ORG	0	4	O	O	companies	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	tried	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	stay	x	x	0
+O	0	9	O	O	away	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	cause	x	x	0
+O	0	14	O	O	uh	x	x	0
+O	0	15	O	O	The	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	that	x	x	0
+O	0	18	O	O	does	x	x	0
+O	0	19	O	O	wear	x	x	0
+B-PER	0	20	O	O	you	x	x	0
+O	0	21	O	O	out	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	remember	x	x	0
+B-ORG	0	2	O	O	Bank	x	x	0
+I-ORG	0	3	O	O	of	x	x	0
+I-ORG	0	4	O	O	America	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	kind	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	like	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	department	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	used	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	work	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	,	x	x	0
+B-TIME	0	19	O	O	years	x	x	0
+I-TIME	0	20	O	O	and	x	x	0
+I-TIME	0	21	O	O	years	x	x	0
+I-TIME	0	22	O	O	ago	x	x	0
+O	0	23	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	God	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Boring	x	x	0
+O	0	1	O	O	looking	x	x	0
+O	0	2	O	O	walls	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	boring	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	boring	x	x	0
+O	0	8	O	O	job	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	drained	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	life	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	whenever	x	x	0
+B-PER	0	9	O	O	we	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	go	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	work	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	sucked	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	tried	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	make	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	more	x	x	0
+O	0	7	O	O	entertaining	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-ORG	0	2	O	O	more	x	x	0
+I-ORG	0	3	O	O	companies	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	uh	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	employee	x	x	0
+O	0	13	O	O	satisfaction	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Finally	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Th	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	was	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	Bank	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	big	x	x	0
+O	0	7	O	O	deal	x	x	0
+B-TIME	0	8	O	O	last	x	x	0
+I-TIME	0	9	O	O	year	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	uh	x	x	0
+B-Numeric	0	13	O	O	ninety	x	x	0
+I-Numeric	0	14	O	O	percent	x	x	0
+B-PER	0	15	O	O	associate	x	x	0
+O	0	16	O	O	satisfaction	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	happy	x	x	0
+O	0	5	O	O	when	x	x	0
+B-ORG	0	6	O	O	they	x	x	0
+O	0	7	O	O	finally	x	x	0
+O	0	8	O	O	got	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	anything	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	like	x	x	0
+O	0	4	O	O	give	x	x	0
+B-PER	0	5	O	O	everybody	x	x	0
+O	0	6	O	O	bonuses	x	x	0
+O	0	7	O	O	or	x	x	0
+O	0	8	O	O	anything	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sheesh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	because	x	x	0
+B-ORG	0	2	O	O	they	x	x	0
+O	0	3	O	O	got	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	better	x	x	0
+O	0	6	O	O	insurance	x	x	0
+O	0	7	O	O	policies	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	some	x	x	0
+O	0	10	O	O	better	x	x	0
+O	0	11	O	O	bonuses	x	x	0
+O	0	12	O	O	that	x	x	0
+B-ORG	0	13	O	O	they	x	x	0
+O	0	14	O	O	paid	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	at	x	x	0
+B-TIME	0	17	O	O	the	x	x	0
+I-TIME	0	18	O	O	end	x	x	0
+I-TIME	0	19	O	O	of	x	x	0
+I-TIME	0	20	O	O	the	x	x	0
+I-TIME	0	21	O	O	month	x	x	0
+O	0	22	O	O	and	x	x	0
+B-PER	0	23	O	O	you	x	x	0
+O	0	24	O	O	know	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	little	x	x	0
+O	0	30	O	O	better	x	x	0
+O	0	31	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	well	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	got	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	make	x	x	0
+B-PER	0	8	O	O	your	x	x	0
+O	0	9	O	O	employees	x	x	0
+O	0	10	O	O	happy	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	otherwise	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	're	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	going	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	come	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	with	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	next	x	x	0
+O	0	23	O	O	product	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	?	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	work	x	x	0
+O	0	6	O	O	so	x	x	0
+O	0	7	O	O	hard	x	x	0
+O	0	8	O	O	for	x	x	0
+B-PER	0	9	O	O	ya	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	call	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	sick	x	x	0
+
+O	0	0	O	O	Yep	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	they	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	know	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	half-assed	x	x	0
+O	0	9	O	O	job	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	exactly	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	way	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	basic	x	x	0
+O	0	4	O	O	management	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Mhm	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Exactly	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Mikey	x	x	0
+O	0	1	O	O	hold	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'll	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	off	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	phone	x	x	0
+B-TIME	0	10	O	O	in	x	x	0
+I-TIME	0	11	O	O	a	x	x	0
+I-TIME	0	12	O	O	minute	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	((	x	x	0
+O	0	1	O	O	Sure	x	x	0
+O	0	2	O	O	))	x	x	0
+
+O	0	0	O	O	Sheesh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	worked	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	uh	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	like	x	x	0
+O	0	9	O	O	kind	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	like	x	x	0
+B-ORG	0	12	O	O	a	x	x	0
+I-ORG	0	13	O	O	Subway	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	uh	x	x	0
+B-ORG	0	16	O	O	Atlanta	x	x	0
+I-ORG	0	17	O	O	Bread	x	x	0
+I-ORG	0	18	O	O	Company	x	x	0
+O	0	19	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	man	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	oh	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	a	x	x	0
+B-TIME	0	10	O	O	summer	x	x	0
+O	0	11	O	O	job	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	my	x	x	0
+O	0	15	O	O	boss	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	like	x	x	0
+O	0	18	O	O	well	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	was	x	x	0
+O	0	21	O	O	also	x	x	0
+B-PER	0	22	O	O	the	x	x	0
+I-PER	0	23	O	O	owner	x	x	0
+

@@ -1,0 +1,1099 @@
+B-TIME	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+B-TIME	0	2	O	O	A	x	x	0
+I-TIME	0	3	O	O	Great	x	x	0
+I-TIME	0	4	O	O	Day	x	x	0
+O	0	5	O	O	For	x	x	0
+O	0	6	O	O	The	x	x	0
+B-GPE	0	7	O	O	Iraqi	x	x	0
+O	0	8	O	O	People	x	x	0
+O	0	9	O	O	...	x	x	0
+O	0	10	O	O	And	x	x	0
+O	0	11	O	O	A	x	x	0
+O	0	12	O	O	Vindication	x	x	0
+O	0	13	O	O	For	x	x	0
+B-GPE	0	14	O	O	American	x	x	0
+O	0	15	O	O	Foreign	x	x	0
+O	0	16	O	O	Policy	x	x	0
+O	0	17	O	O	And	x	x	0
+O	0	18	O	O	National	x	x	0
+O	0	19	O	O	Security	x	x	0
+O	0	20	O	O	Policy	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	It	x	x	0
+O	0	2	O	O	's	x	x	0
+B-TIME	0	3	O	O	A	x	x	0
+I-TIME	0	4	O	O	Great	x	x	0
+I-TIME	0	5	O	O	Day	x	x	0
+O	0	6	O	O	For	x	x	0
+B-PER	0	7	O	O	President	x	x	0
+I-PER	0	8	O	O	George	x	x	0
+I-PER	0	9	O	O	W.	x	x	0
+I-PER	0	10	O	O	Bush	x	x	0
+O	0	11	O	O	And	x	x	0
+B-PER	0	12	O	O	His	x	x	0
+O	0	13	O	O	Vision	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	Leadership	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	Excellent	x	x	0
+O	0	18	O	O	Management	x	x	0
+O	0	19	O	O	Talents	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	Endurance	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	Faith	x	x	0
+O	0	24	O	O	And	x	x	0
+O	0	25	O	O	Intelligence	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Compare	x	x	0
+O	0	1	O	O	&	x	x	0
+O	0	2	O	O	amp	x	x	0
+O	0	3	O	O	;	x	x	0
+O	0	4	O	O	Contrast	x	x	0
+B-PER	0	5	O	O	GWB	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	Vision	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	Leadership	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	Excellent	x	x	0
+O	0	12	O	O	Management	x	x	0
+O	0	13	O	O	Talents	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	Endurance	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	Faith	x	x	0
+O	0	18	O	O	And	x	x	0
+O	0	19	O	O	Intelligence	x	x	0
+O	0	20	O	O	With	x	x	0
+B-PER	0	21	O	O	LBJ	x	x	0
+O	0	22	O	O	's	x	x	0
+O	0	23	O	O	Lack	x	x	0
+O	0	24	O	O	Of	x	x	0
+O	0	25	O	O	Same	x	x	0
+O	0	26	O	O	In	x	x	0
+O	0	27	O	O	The	x	x	0
+B-GPE	0	28	O	O	Vietnam	x	x	0
+O	0	29	O	O	War	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Teddy	x	x	0
+I-PER	0	1	O	O	Kennedy	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	CLUE	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	THAT	x	x	0
+O	0	8	O	O	....	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	Forget	x	x	0
+O	0	3	O	O	To	x	x	0
+O	0	4	O	O	Ridicule	x	x	0
+O	0	5	O	O	And	x	x	0
+O	0	6	O	O	Excoriate	x	x	0
+B-GPE	0	7	O	O	The	x	x	0
+I-GPE	0	8	O	O	Germans	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	Russians	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	Chinese	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	Left-Wing	x	x	0
+I-PER	0	18	O	O	Spaniards	x	x	0
+O	0	19	O	O	And	x	x	0
+O	0	20	O	O	The	x	x	0
+O	0	21	O	O	Supine	x	x	0
+O	0	22	O	O	Appeasement-Oriented	x	x	0
+B-GPE	0	23	O	O	American	x	x	0
+O	0	24	O	O	Left-Wing	x	x	0
+O	0	25	O	O	Democrats	x	x	0
+O	0	26	O	O	As	x	x	0
+O	0	27	O	O	Well	x	x	0
+O	0	28	O	O	NOT	x	x	0
+O	0	29	O	O	Just	x	x	0
+B-GPE	0	30	O	O	The	x	x	0
+I-GPE	0	31	O	O	French	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	They	x	x	0
+I-GPE	0	1	O	O	All	x	x	0
+O	0	2	O	O	Fought	x	x	0
+O	0	3	O	O	AGAINST	x	x	0
+O	0	4	O	O	This	x	x	0
+O	0	5	O	O	Result	x	x	0
+O	0	6	O	O	Every	x	x	0
+O	0	7	O	O	Step	x	x	0
+O	0	8	O	O	Of	x	x	0
+O	0	9	O	O	The	x	x	0
+O	0	10	O	O	Way	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	D.	x	x	0
+I-PER	0	1	O	O	Spencer	x	x	0
+I-PER	0	2	O	O	Hines	x	x	0
+O	0	3	O	O	Lux	x	x	0
+O	0	4	O	O	et	x	x	0
+O	0	5	O	O	Veritas	x	x	0
+O	0	6	O	O	et	x	x	0
+O	0	7	O	O	Libertas	x	x	0
+O	0	8	O	O	Vires	x	x	0
+O	0	9	O	O	et	x	x	0
+O	0	10	O	O	Honor	x	x	0
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	see	x	x	0
+O	0	3	O	O	...	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	two	x	x	0
+O	0	2	O	O	main	x	x	0
+O	0	3	O	O	qualities	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	desired	x	x	0
+O	0	7	O	O	in	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	Commander-in-Chief	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	Generalship	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	Leadership	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	the	x	x	0
+I-GPE	0	3	O	O	United	x	x	0
+I-GPE	0	4	O	O	States	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	Commander-in-Chief	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	purely	x	x	0
+O	0	10	O	O	political	x	x	0
+O	0	11	O	O	post	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	generalship	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	usually	x	x	0
+O	0	16	O	O	undertaken	x	x	0
+O	0	17	O	O	by	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	generals	x	x	0
+O	0	20	O	O	proper	x	x	0
+O	0	21	O	O	under	x	x	0
+B-PER	0	22	O	O	the	x	x	0
+I-PER	0	23	O	O	Commander-in-Chief	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	provided	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	is	x	x	0
+O	0	28	O	O	understood	x	x	0
+O	0	29	O	O	that	x	x	0
+B-PER	0	30	O	O	the	x	x	0
+I-PER	0	31	O	O	Commander-in-Chief	x	x	0
+O	0	32	O	O	is	x	x	0
+O	0	33	O	O	ultimately	x	x	0
+O	0	34	O	O	responsible	x	x	0
+O	0	35	O	O	and	x	x	0
+O	0	36	O	O	accountable	x	x	0
+O	0	37	O	O	for	x	x	0
+O	0	38	O	O	the	x	x	0
+O	0	39	O	O	outcomes	x	x	0
+O	0	40	O	O	of	x	x	0
+B-PER	0	41	O	O	his	x	x	0
+O	0	42	O	O	general	x	x	0
+O	0	43	O	O	's	x	x	0
+O	0	44	O	O	generalship	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Generalship	x	x	0
+O	0	1	O	O	involves	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	technical	x	x	0
+O	0	4	O	O	skills	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	intelligence	x	x	0
+O	0	7	O	O	gathering	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	strategic	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	tactical	x	x	0
+O	0	12	O	O	planning	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	communication	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	orders	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Leadership	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	less	x	x	0
+O	0	4	O	O	rigidly	x	x	0
+O	0	5	O	O	defined	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	concerned	x	x	0
+O	0	9	O	O	less	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	coordination	x	x	0
+O	0	12	O	O	than	x	x	0
+O	0	13	O	O	motivation	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	how	x	x	0
+B-PER	0	16	O	O	a	x	x	0
+I-PER	0	17	O	O	commander	x	x	0
+O	0	18	O	O	seeks	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	inspire	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	men	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	fight	x	x	0
+O	0	25	O	O	harder	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	endure	x	x	0
+O	0	28	O	O	worse	x	x	0
+O	0	29	O	O	privations	x	x	0
+O	0	30	O	O	in	x	x	0
+O	0	31	O	O	order	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	beat	x	x	0
+B-PER	0	34	O	O	the	x	x	0
+I-PER	0	35	O	O	enemy	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	President	x	x	0
+O	0	1	O	O	Bush	x	x	0
+O	0	2	O	O	generalship	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	proven	x	x	0
+O	0	5	O	O	deficient	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	planning	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	war	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	inadequate	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	his	x	x	0
+O	0	9	O	O	monitoring	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	war	x	x	0
+O	0	13	O	O	after	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	invasion	x	x	0
+O	0	16	O	O	failed	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	correct	x	x	0
+O	0	19	O	O	course	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	face	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	change	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	circumstances	x	x	0
+O	0	28	O	O	brought	x	x	0
+O	0	29	O	O	by	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	strong	x	x	0
+O	0	32	O	O	and	x	x	0
+O	0	33	O	O	unexpected	x	x	0
+O	0	34	O	O	insurgency	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Commander-in-Chief	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	generalship	x	x	0
+O	0	4	O	O	can	x	x	0
+O	0	5	O	O	suffice	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	motivate	x	x	0
+B-PER	0	8	O	O	men	x	x	0
+O	0	9	O	O	if	x	x	0
+B-PER	0	10	O	O	they	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	higly	x	x	0
+O	0	13	O	O	confident	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	is	x	x	0
+B-PER	0	17	O	O	a	x	x	0
+I-PER	0	18	O	O	very	x	x	0
+I-PER	0	19	O	O	capable	x	x	0
+I-PER	0	20	O	O	and	x	x	0
+I-PER	0	21	O	O	skilled	x	x	0
+I-PER	0	22	O	O	general	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Eisenhower	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	position	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	case	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	President	x	x	0
+O	0	8	O	O	Bush	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	who	x	x	0
+O	0	11	O	O	unleashed	x	x	0
+O	0	12	O	O	hell	x	x	0
+O	0	13	O	O	acting	x	x	0
+O	0	14	O	O	on	x	x	0
+O	0	15	O	O	faulty	x	x	0
+O	0	16	O	O	intelligence	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	failed	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	find	x	x	0
+B-WEA	0	21	O	O	any	x	x	0
+I-WEA	0	22	O	O	WMD	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	left	x	x	0
+B-GPE	0	26	O	O	our	x	x	0
+O	0	27	O	O	boys	x	x	0
+O	0	28	O	O	at	x	x	0
+O	0	29	O	O	war	x	x	0
+O	0	30	O	O	wanting	x	x	0
+O	0	31	O	O	for	x	x	0
+O	0	32	O	O	armor	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	sort	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	generalship	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	rational	x	x	0
+O	0	10	O	O	grounds	x	x	0
+O	0	11	O	O	alone	x	x	0
+O	0	12	O	O	motivates	x	x	0
+B-PER	0	13	O	O	men	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	march	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	possible	x	x	0
+O	0	18	O	O	death	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Men	x	x	0
+O	0	1	O	O	unmotivated	x	x	0
+O	0	2	O	O	by	x	x	0
+O	0	3	O	O	bad	x	x	0
+O	0	4	O	O	generalship	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	still	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	motivated	x	x	0
+O	0	9	O	O	by	x	x	0
+O	0	10	O	O	exceptional	x	x	0
+O	0	11	O	O	leadership	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	theory	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	motivation	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	best	x	x	0
+O	0	6	O	O	carried	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	by	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	commander	x	x	0
+O	0	11	O	O	fighting	x	x	0
+O	0	12	O	O	alongside	x	x	0
+B-PER	0	13	O	O	his	x	x	0
+O	0	14	O	O	men	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Make	x	x	0
+O	0	1	O	O	no	x	x	0
+O	0	2	O	O	mistake	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	even	x	x	0
+O	0	5	O	O	when	x	x	0
+B-GPE	0	6	O	O	we	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	desire	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	president	x	x	0
+I-PER	0	12	O	O	with	x	x	0
+I-PER	0	13	O	O	a	x	x	0
+I-PER	0	14	O	O	preference	x	x	0
+I-PER	0	15	O	O	for	x	x	0
+I-PER	0	16	O	O	personal	x	x	0
+I-PER	0	17	O	O	combat	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	need	x	x	0
+O	0	21	O	O	for	x	x	0
+B-PER	0	22	O	O	a	x	x	0
+I-PER	0	23	O	O	commander	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	be	x	x	0
+O	0	26	O	O	seen	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	share	x	x	0
+O	0	29	O	O	dangers	x	x	0
+O	0	30	O	O	with	x	x	0
+B-PER	0	31	O	O	his	x	x	0
+O	0	32	O	O	men	x	x	0
+O	0	33	O	O	is	x	x	0
+O	0	34	O	O	as	x	x	0
+O	0	35	O	O	imperative	x	x	0
+B-TIME	0	36	O	O	today	x	x	0
+O	0	37	O	O	as	x	x	0
+O	0	38	O	O	it	x	x	0
+O	0	39	O	O	was	x	x	0
+O	0	40	O	O	in	x	x	0
+O	0	41	O	O	times	x	x	0
+O	0	42	O	O	of	x	x	0
+O	0	43	O	O	Alexander	x	x	0
+O	0	44	O	O	of	x	x	0
+B-GPE	0	45	O	O	Macedon	x	x	0
+O	0	46	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	why	x	x	0
+B-GPE	0	3	O	O	we	x	x	0
+O	0	4	O	O	look	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	the	x	x	0
+B-ORG	0	7	O	O	military	x	x	0
+O	0	8	O	O	record	x	x	0
+O	0	9	O	O	of	x	x	0
+B-GPE	0	10	O	O	our	x	x	0
+O	0	11	O	O	leaders	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	Kennedy	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	George	x	x	0
+I-PER	0	4	O	O	H.	x	x	0
+I-PER	0	5	O	O	Bush	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	even	x	x	0
+B-PER	0	9	O	O	John	x	x	0
+I-PER	0	10	O	O	Kerry	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	loser	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	had	x	x	0
+O	0	16	O	O	distinguished	x	x	0
+B-ORG	0	17	O	O	military	x	x	0
+O	0	18	O	O	careers	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	were	x	x	0
+O	0	21	O	O	apt	x	x	0
+O	0	22	O	O	substitutes	x	x	0
+O	0	23	O	O	for	x	x	0
+O	0	24	O	O	leading	x	x	0
+B-PER	0	25	O	O	men	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	battle	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	knowledge	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	Commander-in-Chief	x	x	0
+O	0	5	O	O	once	x	x	0
+O	0	6	O	O	faced	x	x	0
+O	0	7	O	O	grave	x	x	0
+O	0	8	O	O	danger	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	war	x	x	0
+O	0	11	O	O	bravely	x	x	0
+O	0	12	O	O	can	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	animating	x	x	0
+O	0	16	O	O	spirit	x	x	0
+O	0	17	O	O	of	x	x	0
+B-PER	0	18	O	O	troops	x	x	0
+I-PER	0	19	O	O	facing	x	x	0
+I-PER	0	20	O	O	the	x	x	0
+I-PER	0	21	O	O	same	x	x	0
+I-PER	0	22	O	O	dangers	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	George	x	x	0
+I-PER	0	1	O	O	W.	x	x	0
+I-PER	0	2	O	O	Bush	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	no	x	x	0
+O	0	5	O	O	distinguished	x	x	0
+B-ORG	0	6	O	O	military	x	x	0
+O	0	7	O	O	career	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	fact	x	x	0
+O	0	2	O	O	,	x	x	0
+B-VEH	0	3	O	O	CBS	x	x	0
+O	0	4	O	O	and	x	x	0
+B-VEH	0	5	O	O	carrier	x	x	0
+O	0	6	O	O	landings	x	x	0
+O	0	7	O	O	notwithstanding	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	every	x	x	0
+O	0	12	O	O	indication	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	peak	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	youth	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	avoided	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	dangers	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	war	x	x	0
+O	0	25	O	O	as	x	x	0
+O	0	26	O	O	much	x	x	0
+O	0	27	O	O	as	x	x	0
+B-PER	0	28	O	O	he	x	x	0
+O	0	29	O	O	could	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	sort	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	leadership	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	emotional	x	x	0
+O	0	10	O	O	grounds	x	x	0
+O	0	11	O	O	alone	x	x	0
+O	0	12	O	O	motivates	x	x	0
+B-PER	0	13	O	O	men	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	march	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	possible	x	x	0
+O	0	18	O	O	death	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+O	0	1	O	O	might	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	George	x	x	0
+I-PER	0	5	O	O	W.	x	x	0
+I-PER	0	6	O	O	Bush	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	neither	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	general	x	x	0
+O	0	11	O	O	nor	x	x	0
+B-PER	0	12	O	O	a	x	x	0
+I-PER	0	13	O	O	soldier	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	is	x	x	0
+B-PER	0	17	O	O	a	x	x	0
+I-PER	0	18	O	O	politician	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	charge	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	Grand	x	x	0
+O	0	6	O	O	Strategy	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	delegates	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	rest	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	True	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	as	x	x	0
+B-PER	0	2	O	O	Commander-in-Chief	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	is	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	Ultimate	x	x	0
+I-PER	0	7	O	O	General	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	First	x	x	0
+I-PER	0	11	O	O	Soldier	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	George	x	x	0
+I-PER	0	1	O	O	W.	x	x	0
+I-PER	0	2	O	O	Bush	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	Politician	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	very	x	x	0
+O	0	10	O	O	good	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	grand	x	x	0
+O	0	13	O	O	strategy	x	x	0
+O	0	14	O	O	either	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	aim	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	grand	x	x	0
+O	0	4	O	O	strategy	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	prosperous	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	secure	x	x	0
+O	0	10	O	O	peace	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	by	x	x	0
+B-PER	0	14	O	O	his	x	x	0
+O	0	15	O	O	several	x	x	0
+O	0	16	O	O	blunders	x	x	0
+O	0	17	O	O	over	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	psychology	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	opponents	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	political	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	economic	x	x	0
+O	0	28	O	O	effects	x	x	0
+O	0	29	O	O	of	x	x	0
+B-PER	0	30	O	O	his	x	x	0
+O	0	31	O	O	actions	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	and	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	failure	x	x	0
+O	0	36	O	O	to	x	x	0
+O	0	37	O	O	erradicate	x	x	0
+O	0	38	O	O	terrorism	x	x	0
+O	0	39	O	O	and	x	x	0
+O	0	40	O	O	even	x	x	0
+O	0	41	O	O	capture	x	x	0
+B-PER	0	42	O	O	he	x	x	0
+I-PER	0	43	O	O	most	x	x	0
+I-PER	0	44	O	O	wanted	x	x	0
+I-PER	0	45	O	O	terrorist	x	x	0
+O	0	46	O	O	,	x	x	0
+B-PER	0	47	O	O	George	x	x	0
+I-PER	0	48	O	O	W.	x	x	0
+I-PER	0	49	O	O	Bush	x	x	0
+O	0	50	O	O	,	x	x	0
+B-PER	0	51	O	O	he	x	x	0
+O	0	52	O	O	has	x	x	0
+O	0	53	O	O	failed	x	x	0
+O	0	54	O	O	to	x	x	0
+O	0	55	O	O	realize	x	x	0
+O	0	56	O	O	the	x	x	0
+O	0	57	O	O	aim	x	x	0
+O	0	58	O	O	of	x	x	0
+O	0	59	O	O	grand	x	x	0
+O	0	60	O	O	strategy	x	x	0
+O	0	61	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	glad	x	x	0
+O	0	4	O	O	if	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	becomes	x	x	0
+B-GPE	0	7	O	O	a	x	x	0
+I-GPE	0	8	O	O	truly	x	x	0
+I-GPE	0	9	O	O	democratic	x	x	0
+I-GPE	0	10	O	O	country	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	will	x	x	0
+B-GPE	0	2	O	O	it	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	at	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	price	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Are	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	willing	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	pay	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	deficit	x	x	0
+O	0	8	O	O	of	x	x	0
+B-Numeric	0	9	O	O	billions	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	thousands	x	x	0
+I-PER	0	12	O	O	of	x	x	0
+I-PER	0	13	O	O	Americans	x	x	0
+I-PER	0	14	O	O	dead	x	x	0
+I-PER	0	15	O	O	or	x	x	0
+I-PER	0	16	O	O	badly	x	x	0
+I-PER	0	17	O	O	wounded	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	unmeasurable	x	x	0
+O	0	22	O	O	disruption	x	x	0
+O	0	23	O	O	that	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	foreign	x	x	0
+O	0	26	O	O	war	x	x	0
+O	0	27	O	O	causes	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	life	x	x	0
+O	0	31	O	O	of	x	x	0
+B-GPE	0	32	O	O	our	x	x	0
+O	0	33	O	O	nation	x	x	0
+O	0	34	O	O	at	x	x	0
+O	0	35	O	O	all	x	x	0
+O	0	36	O	O	levels	x	x	0
+O	0	37	O	O	,	x	x	0
+O	0	38	O	O	for	x	x	0
+O	0	39	O	O	each	x	x	0
+O	0	40	O	O	country	x	x	0
+O	0	41	O	O	in	x	x	0
+B-LOC	0	42	O	O	the	x	x	0
+I-LOC	0	43	O	O	world	x	x	0
+B-GPE	0	44	O	O	that	x	x	0
+O	0	45	O	O	is	x	x	0
+O	0	46	O	O	in	x	x	0
+O	0	47	O	O	the	x	x	0
+O	0	48	O	O	grip	x	x	0
+O	0	49	O	O	of	x	x	0
+B-PER	0	50	O	O	a	x	x	0
+I-PER	0	51	O	O	tyrant	x	x	0
+O	0	52	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-GPE	0	1	O	O	those	x	x	0
+I-GPE	0	2	O	O	countries	x	x	0
+O	0	3	O	O	grow	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	generation	x	x	0
+I-PER	0	6	O	O	with	x	x	0
+I-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	guts	x	x	0
+I-PER	0	9	O	O	and	x	x	0
+I-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	willingness	x	x	0
+I-PER	0	12	O	O	to	x	x	0
+I-PER	0	13	O	O	originate	x	x	0
+I-PER	0	14	O	O	democratic	x	x	0
+I-PER	0	15	O	O	change	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	'll	x	x	0
+O	0	19	O	O	support	x	x	0
+O	0	20	O	O	joining	x	x	0
+B-GPE	0	21	O	O	other	x	x	0
+I-GPE	0	22	O	O	nations	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	back	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	ef	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	unilaterally	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	or	x	x	0
+O	0	4	O	O	worse	x	x	0
+O	0	5	O	O	leading	x	x	0
+B-GPE	0	6	O	O	a	x	x	0
+I-GPE	0	7	O	O	coalition	x	x	0
+O	0	8	O	O	featuring	x	x	0
+B-GPE	0	9	O	O	tyrannies	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	effect	x	x	0
+O	0	12	O	O	such	x	x	0
+O	0	13	O	O	change	x	x	0
+O	0	14	O	O	remains	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	bad	x	x	0
+O	0	17	O	O	idea	x	x	0
+O	0	18	O	O	,	x	x	0
+B-GPE	0	19	O	O	Iraq	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	elections	x	x	0
+O	0	22	O	O	notwithstanding	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	George	x	x	0
+I-PER	0	1	O	O	W.	x	x	0
+I-PER	0	2	O	O	Bush	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	well	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	industrial	x	x	0
+O	0	10	O	O	private	x	x	0
+O	0	11	O	O	sector	x	x	0
+O	0	12	O	O	where	x	x	0
+O	0	13	O	O	success	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	measured	x	x	0
+O	0	16	O	O	by	x	x	0
+O	0	17	O	O	return	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	investment	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Government	x	x	0
+O	0	1	O	O	suits	x	x	0
+B-PER	0	2	O	O	such	x	x	0
+I-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	man	x	x	0
+O	0	5	O	O	perfectly	x	x	0
+O	0	6	O	O	;	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	no	x	x	0
+O	0	10	O	O	balance	x	x	0
+O	0	11	O	O	sheet	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	worry	x	x	0
+O	0	14	O	O	about	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	every	x	x	0
+O	0	3	O	O	indication	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	the	x	x	0
+B-TIME	0	6	O	O	new	x	x	0
+O	0	7	O	O	rulers	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	Iraq	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	business	x	x	0
+O	0	13	O	O	as	x	x	0
+O	0	14	O	O	usual	x	x	0
+O	0	15	O	O	under	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	democratic	x	x	0
+O	0	18	O	O	varnish	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	interim	x	x	0
+I-GPE	0	2	O	O	government	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	hesitate	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	torture	x	x	0
+B-PER	0	8	O	O	opponents	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	just	x	x	0
+O	0	11	O	O	like	x	x	0
+B-PER	0	12	O	O	Saddam	x	x	0
+O	0	13	O	O	did.	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	Shiites	x	x	0
+O	0	16	O	O	will	x	x	0
+O	0	17	O	O	be	x	x	0
+O	0	18	O	O	no	x	x	0
+O	0	19	O	O	different	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+B-GPE	0	3	O	O	our	x	x	0
+O	0	4	O	O	return	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	investment	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraq	x	x	0
+O	0	1	O	O	wields	x	x	0
+O	0	2	O	O	democracy	x	x	0
+O	0	3	O	O	like	x	x	0
+B-PER	0	4	O	O	Britney	x	x	0
+I-PER	0	5	O	O	Spears	x	x	0
+O	0	6	O	O	wields	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	electric	x	x	0
+O	0	9	O	O	guitar	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	looks	x	x	0
+O	0	13	O	O	cool	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	trendy	x	x	0
+O	0	16	O	O	but	x	x	0
+B-PER	0	17	O	O	she	x	x	0
+O	0	18	O	O	has	x	x	0
+O	0	19	O	O	no	x	x	0
+O	0	20	O	O	idea	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	how	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	play	x	x	0
+O	0	25	O	O	it	x	x	0
+O	0	26	O	O	.	x	x	0
+

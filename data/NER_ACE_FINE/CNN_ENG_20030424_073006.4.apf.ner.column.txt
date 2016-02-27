@@ -1,0 +1,66 @@
+B-VEH	0	0	O	O	a	x	x	0
+I-VEH	0	1	O	O	cruise	x	x	0
+I-VEH	0	2	O	O	ship	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	being	x	x	0
+O	0	5	O	O	searched	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	Hawaii	x	x	0
+O	0	9	O	O	coast	x	x	0
+O	0	10	O	O	after	x	x	0
+O	0	11	O	O	two	x	x	0
+O	0	12	O	O	notes	x	x	0
+O	0	13	O	O	threatening	x	x	0
+B-PER	0	14	O	O	terrorist	x	x	0
+O	0	15	O	O	attack	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	found	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	board	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Royal	x	x	0
+I-ORG	0	1	O	O	Caribbean	x	x	0
+O	0	2	O	O	Cruise	x	x	0
+O	0	3	O	O	Ship	x	x	0
+B-VEH	0	4	O	O	Legend	x	x	0
+I-VEH	0	5	O	O	of	x	x	0
+I-VEH	0	6	O	O	the	x	x	0
+I-VEH	0	7	O	O	sea	x	x	0
+O	0	8	O	O	diverted	x	x	0
+O	0	9	O	O	to	x	x	0
+B-GPE	0	10	O	O	Honolulu	x	x	0
+O	0	11	O	O	when	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	notes	x	x	0
+O	0	14	O	O	were	x	x	0
+O	0	15	O	O	found	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	board	x	x	0
+B-TIME	0	18	O	O	yesterday	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Passengers	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	taken	x	x	0
+O	0	3	O	O	to	x	x	0
+B-VEH	0	4	O	O	the	x	x	0
+I-VEH	0	5	O	O	ship	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	dining	x	x	0
+O	0	8	O	O	rooms	x	x	0
+O	0	9	O	O	while	x	x	0
+B-WEA	0	10	O	O	bomb	x	x	0
+O	0	11	O	O	sniffing	x	x	0
+O	0	12	O	O	dogs	x	x	0
+O	0	13	O	O	went	x	x	0
+O	0	14	O	O	over	x	x	0
+B-VEH	0	15	O	O	the	x	x	0
+I-VEH	0	16	O	O	ship	x	x	0
+O	0	17	O	O	.	x	x	0
+

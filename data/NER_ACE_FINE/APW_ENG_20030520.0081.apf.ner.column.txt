@@ -1,0 +1,267 @@
+O	0	0	O	O	ANKARA	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Turkey	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	An	x	x	0
+O	0	7	O	O	explosion	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	cafe	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	one	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	capital	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	busiest	x	x	0
+O	0	18	O	O	intersections	x	x	0
+O	0	19	O	O	killed	x	x	0
+B-PER	0	20	O	O	one	x	x	0
+I-PER	0	21	O	O	woman	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	injured	x	x	0
+B-PER	0	24	O	O	another	x	x	0
+B-TIME	0	25	O	O	Tuesday	x	x	0
+O	0	26	O	O	,	x	x	0
+B-ORG	0	27	O	O	police	x	x	0
+O	0	28	O	O	said	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Police	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	investigating	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	cause	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	explosion	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	restroom	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	multistory	x	x	0
+O	0	14	O	O	Crocodile	x	x	0
+O	0	15	O	O	Cafe	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	commercial	x	x	0
+O	0	19	O	O	district	x	x	0
+O	0	20	O	O	of	x	x	0
+B-LOC	0	21	O	O	Kizilay	x	x	0
+O	0	22	O	O	during	x	x	0
+B-TIME	0	23	O	O	the	x	x	0
+I-TIME	0	24	O	O	morning	x	x	0
+I-TIME	0	25	O	O	rush	x	x	0
+I-TIME	0	26	O	O	hour	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	blast	x	x	0
+O	0	2	O	O	shattered	x	x	0
+O	0	3	O	O	walls	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	windows	x	x	0
+O	0	6	O	O	in	x	x	0
+B-FAC	0	7	O	O	the	x	x	0
+I-FAC	0	8	O	O	building	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Police	x	x	0
+O	0	1	O	O	recovered	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	body	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	woman	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	debris	x	x	0
+O	0	10	O	O	of	x	x	0
+B-FAC	0	11	O	O	the	x	x	0
+I-FAC	0	12	O	O	restroom	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	carried	x	x	0
+B-PER	0	15	O	O	it	x	x	0
+O	0	16	O	O	away	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	bodybag	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	News	x	x	0
+O	0	1	O	O	reports	x	x	0
+O	0	2	O	O	suggested	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	woman	x	x	0
+O	0	6	O	O	may	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	been	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	suicide	x	x	0
+I-PER	0	11	O	O	bomber	x	x	0
+O	0	12	O	O	or	x	x	0
+O	0	13	O	O	may	x	x	0
+O	0	14	O	O	have	x	x	0
+O	0	15	O	O	died	x	x	0
+O	0	16	O	O	when	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	bomb	x	x	0
+B-PER	0	19	O	O	she	x	x	0
+O	0	20	O	O	was	x	x	0
+O	0	21	O	O	planting	x	x	0
+O	0	22	O	O	exploded	x	x	0
+O	0	23	O	O	prematurely	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	but	x	x	0
+B-ORG	0	26	O	O	police	x	x	0
+O	0	27	O	O	and	x	x	0
+B-ORG	0	28	O	O	interior	x	x	0
+I-ORG	0	29	O	O	ministry	x	x	0
+O	0	30	O	O	officials	x	x	0
+O	0	31	O	O	refused	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	confirm	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	reports	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Ankara	x	x	0
+O	0	1	O	O	police	x	x	0
+O	0	2	O	O	chief	x	x	0
+O	0	3	O	O	Ercument	x	x	0
+O	0	4	O	O	Yilmaz	x	x	0
+O	0	5	O	O	visited	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	site	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	the	x	x	0
+B-TIME	0	10	O	O	morning	x	x	0
+O	0	11	O	O	blast	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	refused	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	say	x	x	0
+O	0	16	O	O	if	x	x	0
+B-WEA	0	17	O	O	a	x	x	0
+I-WEA	0	18	O	O	bomb	x	x	0
+O	0	19	O	O	had	x	x	0
+O	0	20	O	O	caused	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	explosion	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	Our	x	x	0
+O	0	2	O	O	colleagues	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	carrying	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	inspections	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	''	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	information	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	identity	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	injured	x	x	0
+I-PER	0	10	O	O	person	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	clear	x	x	0
+B-PER	0	4	O	O	how	x	x	0
+I-PER	0	5	O	O	many	x	x	0
+I-PER	0	6	O	O	people	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	in	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	cafe	x	x	0
+O	0	11	O	O	at	x	x	0
+B-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	time	x	x	0
+I-TIME	0	14	O	O	of	x	x	0
+I-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	blast	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	explosion	x	x	0
+O	0	2	O	O	comes	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	month	x	x	0
+O	0	5	O	O	after	x	x	0
+B-WEA	0	6	O	O	a	x	x	0
+I-WEA	0	7	O	O	bomb	x	x	0
+O	0	8	O	O	exploded	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	a	x	x	0
+B-ORG	0	11	O	O	McDonald	x	x	0
+I-ORG	0	12	O	O	's	x	x	0
+O	0	13	O	O	restaurant	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Istanbul	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	causing	x	x	0
+O	0	18	O	O	damage	x	x	0
+O	0	19	O	O	but	x	x	0
+O	0	20	O	O	no	x	x	0
+O	0	21	O	O	injuries	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Radical	x	x	0
+O	0	1	O	O	leftist	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Kurdish	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	Islamic	x	x	0
+O	0	6	O	O	groups	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	active	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	country	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	carried	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	bombings	x	x	0
+O	0	17	O	O	in	x	x	0
+B-TIME	0	18	O	O	the	x	x	0
+I-TIME	0	19	O	O	past	x	x	0
+O	0	20	O	O	.	x	x	0
+

@@ -1,0 +1,126 @@
+O	0	0	O	O	Two	x	x	0
+O	0	1	O	O	Americans	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+O	0	3	O	O	gave	x	x	0
+B-PER	0	4	O	O	their	x	x	0
+O	0	5	O	O	lives	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	Operation	x	x	0
+O	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	Freedom	x	x	0
+O	0	10	O	O	were	x	x	0
+O	0	11	O	O	buried	x	x	0
+O	0	12	O	O	at	x	x	0
+B-FAC	0	13	O	O	Arlington	x	x	0
+I-FAC	0	14	O	O	National	x	x	0
+I-FAC	0	15	O	O	Cemetery	x	x	0
+B-TIME	0	16	O	O	today	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Marine	x	x	0
+O	0	1	O	O	Lance	x	x	0
+O	0	2	O	O	Corporal	x	x	0
+O	0	3	O	O	Patrick	x	x	0
+O	0	4	O	O	Nixon	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	17	x	x	0
+O	0	9	O	O	killed	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	an	x	x	0
+O	0	12	O	O	ambush	x	x	0
+O	0	13	O	O	near	x	x	0
+B-GPE	0	14	O	O	Nasiriyah	x	x	0
+O	0	15	O	O	on	x	x	0
+B-TIME	0	16	O	O	March	x	x	0
+I-TIME	0	17	O	O	23	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+B-TIME	0	2	O	O	21	x	x	0
+I-TIME	0	3	O	O	years	x	x	0
+I-TIME	0	4	O	O	old	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	first	x	x	0
+I-PER	0	8	O	O	Tennessean	x	x	0
+I-PER	0	9	O	O	to	x	x	0
+I-PER	0	10	O	O	die	x	x	0
+I-PER	0	11	O	O	in	x	x	0
+I-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	war	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-GPE	0	1	O	O	Idaho	x	x	0
+O	0	2	O	O	Air	x	x	0
+O	0	3	O	O	National	x	x	0
+O	0	4	O	O	Guardsman	x	x	0
+B-PER	0	5	O	O	Major	x	x	0
+O	0	6	O	O	Gregory	x	x	0
+O	0	7	O	O	Stone	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	buried	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	honors	x	x	0
+O	0	12	O	O	at	x	x	0
+B-FAC	0	13	O	O	Arlington	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	died	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	injuries	x	x	0
+O	0	4	O	O	from	x	x	0
+O	0	5	O	O	a	x	x	0
+B-WEA	0	6	O	O	grenade	x	x	0
+O	0	7	O	O	attack	x	x	0
+O	0	8	O	O	by	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	fellow	x	x	0
+I-PER	0	11	O	O	soldier	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	special	x	x	0
+O	0	7	O	O	edition	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	INSIDE	x	x	0
+O	0	10	O	O	POLITICS	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	Judy	x	x	0
+I-PER	0	3	O	O	Woodruff	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	thank	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	joining	x	x	0
+B-ORG	0	5	O	O	us	x	x	0
+O	0	6	O	O	.	x	x	0
+

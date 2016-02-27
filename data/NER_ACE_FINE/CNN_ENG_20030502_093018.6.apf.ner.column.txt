@@ -1,0 +1,906 @@
+O	0	0	O	O	make	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	final	x	x	0
+B-FAC	0	3	O	O	port	x	x	0
+O	0	4	O	O	call	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	some	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	these	x	x	0
+O	0	9	O	O	men	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	women	x	x	0
+O	0	12	O	O	on	x	x	0
+O	0	13	O	O	board	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	been	x	x	0
+B-VEH	0	17	O	O	there	x	x	0
+O	0	18	O	O	for	x	x	0
+B-TIME	0	19	O	O	ten	x	x	0
+I-TIME	0	20	O	O	months	x	x	0
+O	0	21	O	O	at	x	x	0
+B-LOC	0	22	O	O	sea	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Chad	x	x	0
+I-PER	0	1	O	O	Myers	x	x	0
+O	0	2	O	O	joining	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	set	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Typical	x	x	0
+O	0	1	O	O	Perfect	x	x	0
+B-TIME	0	2	O	O	Day	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	San	x	x	0
+I-GPE	0	5	O	O	Diego	x	x	0
+O	0	6	O	O	waiting	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	these	x	x	0
+I-PER	0	9	O	O	men	x	x	0
+I-PER	0	10	O	O	and	x	x	0
+I-PER	0	11	O	O	women	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	come	x	x	0
+B-GPE	0	14	O	O	home	x	x	0
+O	0	15	O	O	.	x	x	0
+
+O	0	0	O	O	raining	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	L.A.	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	raining	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	San	x	x	0
+I-GPE	0	7	O	O	Francisco	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	nice	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	San	x	x	0
+I-GPE	0	12	O	O	Diego	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+B-GPE	0	2	O	O	a	x	x	0
+I-GPE	0	3	O	O	picture	x	x	0
+I-GPE	0	4	O	O	perfect	x	x	0
+I-GPE	0	5	O	O	place	x	x	0
+I-GPE	0	6	O	O	to	x	x	0
+I-GPE	0	7	O	O	live	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	72	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	sunny	x	x	0
+B-TIME	0	3	O	O	just	x	x	0
+I-TIME	0	4	O	O	about	x	x	0
+I-TIME	0	5	O	O	every	x	x	0
+I-TIME	0	6	O	O	day	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	have	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	ever	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	down	x	x	0
+B-GPE	0	5	O	O	there	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	no	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	it	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	quite	x	x	0
+O	0	3	O	O	stunning	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	beautiful	x	x	0
+O	0	3	O	O	out	x	x	0
+B-GPE	0	4	O	O	there	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	the	x	x	0
+B-PER	0	6	O	O	family	x	x	0
+O	0	7	O	O	members	x	x	0
+O	0	8	O	O	sitting	x	x	0
+O	0	9	O	O	at	x	x	0
+B-GPE	0	10	O	O	home	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	sitting	x	x	0
+O	0	13	O	O	on	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	dock	x	x	0
+O	0	16	O	O	looking	x	x	0
+O	0	17	O	O	at	x	x	0
+B-VEH	0	18	O	O	this	x	x	0
+I-VEH	0	19	O	O	boat	x	x	0
+O	0	20	O	O	coming	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	amazing	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	vacation	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	danger	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Your	x	x	0
+O	0	1	O	O	loved	x	x	0
+O	0	2	O	O	ones	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	danger	x	x	0
+O	0	6	O	O	for	x	x	0
+B-TIME	0	7	O	O	ten	x	x	0
+I-TIME	0	8	O	O	months	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+B-PER	0	1	O	O	He	x	x	0
+O	0	2	O	O	okay	x	x	0
+B-TIME	0	3	O	O	today	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+B-PER	0	1	O	O	She	x	x	0
+O	0	2	O	O	okay	x	x	0
+B-TIME	0	3	O	O	today	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Incredible	x	x	0
+O	0	1	O	O	sight	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	see	x	x	0
+B-PER	0	4	O	O	these	x	x	0
+I-PER	0	5	O	O	young	x	x	0
+I-PER	0	6	O	O	men	x	x	0
+I-PER	0	7	O	O	and	x	x	0
+I-PER	0	8	O	O	women	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+B-PER	0	2	O	O	children	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+B-TIME	0	2	O	O	18	x	x	0
+O	0	3	O	O	,	x	x	0
+B-TIME	0	4	O	O	19	x	x	0
+O	0	5	O	O	,	x	x	0
+B-TIME	0	6	O	O	20	x	x	0
+I-TIME	0	7	O	O	years	x	x	0
+I-TIME	0	8	O	O	old	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Think	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	when	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	doing	x	x	0
+O	0	6	O	O	when	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	was	x	x	0
+B-TIME	0	9	O	O	18	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	thinking	x	x	0
+O	0	14	O	O	about	x	x	0
+O	0	15	O	O	going	x	x	0
+O	0	16	O	O	to	x	x	0
+B-ORG	0	17	O	O	college	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	These	x	x	0
+I-PER	0	1	O	O	guys	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	running	x	x	0
+B-VEH	0	4	O	O	ships	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	some	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	these	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	say	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	are	x	x	0
+B-PER	0	9	O	O	children	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	these	x	x	0
+O	0	3	O	O	had	x	x	0
+B-PER	0	4	O	O	children	x	x	0
+O	0	5	O	O	while	x	x	0
+B-PER	0	6	O	O	they	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	out	x	x	0
+O	0	9	O	O	at	x	x	0
+B-LOC	0	10	O	O	sea	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	first	x	x	0
+O	0	16	O	O	time	x	x	0
+O	0	17	O	O	that	x	x	0
+O	0	18	O	O	first	x	x	0
+O	0	19	O	O	opportunity	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	get	x	x	0
+B-GPE	0	22	O	O	home	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	meet	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	hold	x	x	0
+B-PER	0	27	O	O	them	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	seen	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	reunions	x	x	0
+O	0	5	O	O	for	x	x	0
+B-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	past	x	x	0
+I-TIME	0	8	O	O	week	x	x	0
+I-TIME	0	9	O	O	or	x	x	0
+I-TIME	0	10	O	O	so	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	brings	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	emotion	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	it	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	Har	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	me	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	hold	x	x	0
+O	0	10	O	O	back	x	x	0
+O	0	11	O	O	tears	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	watching	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	sidelines	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	imagine	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	these	x	x	0
+I-PER	0	6	O	O	people	x	x	0
+O	0	7	O	O	must	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	thinking	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	how	x	x	0
+O	0	12	O	O	antsy	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	must	x	x	0
+O	0	15	O	O	be	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Got	x	x	0
+O	0	1	O	O	To	x	x	0
+O	0	2	O	O	think	x	x	0
+B-TIME	0	3	O	O	the	x	x	0
+I-TIME	0	4	O	O	last	x	x	0
+I-TIME	0	5	O	O	five	x	x	0
+I-TIME	0	6	O	O	minutes	x	x	0
+O	0	7	O	O	must	x	x	0
+O	0	8	O	O	feel	x	x	0
+O	0	9	O	O	like	x	x	0
+B-TIME	0	10	O	O	five	x	x	0
+I-TIME	0	11	O	O	days	x	x	0
+O	0	12	O	O	as	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	've	x	x	0
+O	0	15	O	O	spent	x	x	0
+B-TIME	0	16	O	O	ten	x	x	0
+I-TIME	0	17	O	O	months	x	x	0
+O	0	18	O	O	on	x	x	0
+B-LOC	0	19	O	O	the	x	x	0
+I-LOC	0	20	O	O	water	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	come	x	x	0
+B-GPE	0	4	O	O	home	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sense	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	anticipation	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	beginning	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	build	x	x	0
+O	0	7	O	O	on	x	x	0
+B-FAC	0	8	O	O	those	x	x	0
+I-FAC	0	9	O	O	docks	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	friend	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	mine	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	Richmond	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Virginia	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	radio	x	x	0
+O	0	11	O	O	up	x	x	0
+B-GPE	0	12	O	O	there	x	x	0
+B-ORG	0	13	O	O	WRBA	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	son	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	ships	x	x	0
+B-VEH	0	8	O	O	that	x	x	0
+O	0	9	O	O	escorted	x	x	0
+B-VEH	0	10	O	O	a	x	x	0
+I-VEH	0	11	O	O	carrier	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Although	x	x	0
+B-VEH	0	1	O	O	this	x	x	0
+O	0	2	O	O	came	x	x	0
+B-GPE	0	3	O	O	home	x	x	0
+O	0	4	O	O	by	x	x	0
+B-VEH	0	5	O	O	itself	x	x	0
+O	0	6	O	O	from	x	x	0
+B-GPE	0	7	O	O	Hawaii	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	so	x	x	0
+O	0	3	O	O	many	x	x	0
+O	0	4	O	O	other	x	x	0
+O	0	5	O	O	ships	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	there	x	x	0
+B-VEH	0	8	O	O	that	x	x	0
+O	0	9	O	O	escort	x	x	0
+B-VEH	0	10	O	O	this	x	x	0
+I-VEH	0	11	O	O	ship	x	x	0
+O	0	12	O	O	as	x	x	0
+B-VEH	0	13	O	O	it	x	x	0
+O	0	14	O	O	goes	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	not	x	x	0
+B-VEH	0	4	O	O	one	x	x	0
+I-VEH	0	5	O	O	ship	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+B-PER	0	1	O	O	just	x	x	0
+I-PER	0	2	O	O	5,000	x	x	0
+I-PER	0	3	O	O	people	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	battle	x	x	0
+O	0	4	O	O	group	x	x	0
+B-VEH	0	5	O	O	that	x	x	0
+O	0	6	O	O	goes	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	Eight	x	x	0
+I-VEH	0	1	O	O	,	x	x	0
+I-VEH	0	2	O	O	nine	x	x	0
+I-VEH	0	3	O	O	,	x	x	0
+I-VEH	0	4	O	O	ten	x	x	0
+I-VEH	0	5	O	O	ships	x	x	0
+O	0	6	O	O	and	x	x	0
+B-VEH	0	7	O	O	a	x	x	0
+I-VEH	0	8	O	O	submarine	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	while	x	x	0
+O	0	1	O	O	some	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	these	x	x	0
+I-PER	0	4	O	O	ladies	x	x	0
+I-PER	0	5	O	O	and	x	x	0
+I-PER	0	6	O	O	gentlemen	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	going	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	joining	x	x	0
+B-PER	0	12	O	O	their	x	x	0
+O	0	13	O	O	families	x	x	0
+O	0	14	O	O	half	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	them	x	x	0
+O	0	17	O	O	are	x	x	0
+O	0	18	O	O	going	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	stay	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	board	x	x	0
+O	0	23	O	O	because	x	x	0
+B-VEH	0	24	O	O	this	x	x	0
+B-VEH	0	25	O	O	the	x	x	0
+I-VEH	0	26	O	O	"	x	x	0
+I-VEH	0	27	O	O	Lincoln	x	x	0
+O	0	28	O	O	"	x	x	0
+O	0	29	O	O	is	x	x	0
+O	0	30	O	O	going	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	be	x	x	0
+O	0	33	O	O	docked	x	x	0
+O	0	34	O	O	in	x	x	0
+O	0	35	O	O	Everett	x	x	0
+O	0	36	O	O	,	x	x	0
+B-GPE	0	37	O	O	Washington	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	where	x	x	0
+B-FAC	0	3	O	O	the	x	x	0
+I-FAC	0	4	O	O	home	x	x	0
+I-FAC	0	5	O	O	base	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	make	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	trip	x	x	0
+O	0	9	O	O	up	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	coast	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-PER	0	0	O	O	they	x	x	0
+O	0	1	O	O	wo	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	see	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	loved	x	x	0
+O	0	8	O	O	ones	x	x	0
+O	0	9	O	O	until	x	x	0
+B-TIME	0	10	O	O	Tuesday	x	x	0
+O	0	11	O	O	or	x	x	0
+B-TIME	0	12	O	O	Wednesday	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+O	0	3	O	O	gets	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	get	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	first	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	drawing	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Was	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	raffle	x	x	0
+O	0	4	O	O	?	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	deal	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	person	x	x	0
+B-PER	0	8	O	O	who	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	going	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	getting	x	x	0
+O	0	14	O	O	off	x	x	0
+B-GPE	0	15	O	O	here	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	've	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	watching	x	x	0
+B-TIME	0	5	O	O	throughout	x	x	0
+I-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	morning	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	've	x	x	0
+O	0	11	O	O	been	x	x	0
+O	0	12	O	O	seeing	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	balloon	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	getting	x	x	0
+O	0	2	O	O	back	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	spending	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	tour	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Kuwait	x	x	0
+O	0	9	O	O	during	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	war	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Betsy	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	leaving	x	x	0
+B-PER	0	6	O	O	us	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	jumping	x	x	0
+O	0	3	O	O	ship	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	on	x	x	0
+B-PER	0	4	O	O	her	x	x	0
+B-PER	0	5	O	O	own	x	x	0
+O	0	6	O	O	.	x	x	0
+
+B-PER	0	0	O	O	she	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	water	x	x	0
+I-PER	0	6	O	O	skiers	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	let	x	x	0
+B-PER	0	4	O	O	her	x	x	0
+O	0	5	O	O	go	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	leaving	x	x	0
+B-PER	0	6	O	O	us	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	leave	x	x	0
+O	0	4	O	O	G	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	wish	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	best	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	betsy	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	blast	x	x	0
+O	0	5	O	O	having	x	x	0
+O	0	6	O	O	you.	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	pain	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	butt	x	x	0
+O	0	13	O	O	sometimes	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Been	x	x	0
+O	0	1	O	O	big	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	our	x	x	0
+O	0	5	O	O	group	x	x	0
+B-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	entire	x	x	0
+I-TIME	0	8	O	O	time	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Love	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Betsy	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Leon	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	say	x	x	0
+O	0	5	O	O	good-bye	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	betsy	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	these	x	x	0
+I-PER	0	3	O	O	ladies	x	x	0
+I-PER	0	4	O	O	and	x	x	0
+I-PER	0	5	O	O	gentlemen	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	going	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	saying	x	x	0
+O	0	11	O	O	hello	x	x	0
+O	0	12	O	O	to	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	families	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Standing	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	side	x	x	0
+O	0	4	O	O	of	x	x	0
+B-VEH	0	5	O	O	the	x	x	0
+I-VEH	0	6	O	O	ship	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ca	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	wait	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	off	x	x	0
+B-VEH	0	6	O	O	there	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	for	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	live	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	These	x	x	0
+O	0	1	O	O	reunions	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	should	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	happening	x	x	0
+O	0	4	O	O	any	x	x	0
+O	0	5	O	O	moment	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stay	x	x	0
+O	0	1	O	O	with	x	x	0
+B-PER	0	2	O	O	us	x	x	0
+O	0	3	O	O	.	x	x	0
+

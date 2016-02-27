@@ -1,0 +1,599 @@
+O	0	0	O	O	a	x	x	0
+O	0	1	O	O	national	x	x	0
+B-TIME	0	2	O	O	weeklong	x	x	0
+O	0	3	O	O	terror	x	x	0
+O	0	4	O	O	drill	x	x	0
+O	0	5	O	O	began	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Seattle	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	industrial	x	x	0
+O	0	11	O	O	lot	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	city	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Straun	x	x	0
+O	0	1	O	O	with	x	x	0
+B-VEH	0	2	O	O	smashed	x	x	0
+I-VEH	0	3	O	O	cars	x	x	0
+O	0	4	O	O	,	x	x	0
+B-VEH	0	5	O	O	buses	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	other	x	x	0
+O	0	8	O	O	debris	x	x	0
+O	0	9	O	O	representing	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	hypothetical	x	x	0
+O	0	12	O	O	damage	x	x	0
+O	0	13	O	O	from	x	x	0
+B-WEA	0	14	O	O	a	x	x	0
+I-WEA	0	15	O	O	fan	x	x	0
+I-WEA	0	16	O	O	that	x	x	0
+I-WEA	0	17	O	O	sized	x	x	0
+I-WEA	0	18	O	O	radioactive	x	x	0
+I-WEA	0	19	O	O	dirty	x	x	0
+I-WEA	0	20	O	O	bomb	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	test	x	x	0
+O	0	2	O	O	designed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	measure	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	responsiveness	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	emergency	x	x	0
+I-PER	0	9	O	O	workers	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	a	x	x	0
+B-PER	0	12	O	O	terrorist	x	x	0
+O	0	13	O	O	attack	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+B-TIME	0	3	O	O	a	x	x	0
+I-TIME	0	4	O	O	year	x	x	0
+I-TIME	0	5	O	O	and	x	x	0
+I-TIME	0	6	O	O	a	x	x	0
+I-TIME	0	7	O	O	half	x	x	0
+O	0	8	O	O	since	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	series	x	x	0
+O	0	11	O	O	of	x	x	0
+B-WEA	0	12	O	O	anthrax	x	x	0
+O	0	13	O	O	attacks	x	x	0
+O	0	14	O	O	killed	x	x	0
+B-PER	0	15	O	O	five	x	x	0
+I-PER	0	16	O	O	people	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	No	x	x	0
+I-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	ever	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	arrested	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	connection	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	case	x	x	0
+O	0	11	O	O	and	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	FBI	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	considering	x	x	0
+O	0	16	O	O	draining	x	x	0
+O	0	17	O	O	a	x	x	0
+B-GPE	0	18	O	O	Maryland	x	x	0
+O	0	19	O	O	pond	x	x	0
+O	0	20	O	O	relating	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	evidence	x	x	0
+O	0	23	O	O	for	x	x	0
+O	0	24	O	O	those	x	x	0
+O	0	25	O	O	unsolved	x	x	0
+O	0	26	O	O	attacks	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kelli	x	x	0
+I-PER	0	1	O	O	arena	x	x	0
+O	0	2	O	O	reports	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+B-ORG	0	2	O	O	The	x	x	0
+I-ORG	0	3	O	O	FBI	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	interest	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	this	x	x	0
+B-GPE	0	8	O	O	state	x	x	0
+O	0	9	O	O	park	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	Maryland	x	x	0
+O	0	12	O	O	dates	x	x	0
+O	0	13	O	O	back	x	x	0
+O	0	14	O	O	to	x	x	0
+B-TIME	0	15	O	O	last	x	x	0
+I-TIME	0	16	O	O	December	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Officials	x	x	0
+O	0	1	O	O	got	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	tip	x	x	0
+B-TIME	0	4	O	O	back	x	x	0
+I-TIME	0	5	O	O	then	x	x	0
+O	0	6	O	O	that	x	x	0
+B-PER	0	7	O	O	someone	x	x	0
+O	0	8	O	O	may	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	dumped	x	x	0
+O	0	11	O	O	equipment	x	x	0
+O	0	12	O	O	into	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	of	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	park	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	ponds	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Officials	x	x	0
+O	0	1	O	O	say	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	found	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	tip	x	x	0
+O	0	6	O	O	significant	x	x	0
+O	0	7	O	O	because	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	pond	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	about	x	x	0
+O	0	12	O	O	ten	x	x	0
+O	0	13	O	O	miles	x	x	0
+O	0	14	O	O	from	x	x	0
+O	0	15	O	O	Fort	x	x	0
+O	0	16	O	O	Dietrick	x	x	0
+B-FAC	0	17	O	O	where	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	army	x	x	0
+O	0	20	O	O	experimented	x	x	0
+O	0	21	O	O	with	x	x	0
+B-WEA	0	22	O	O	anthrax	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Agents	x	x	0
+O	0	1	O	O	searched	x	x	0
+B-LOC	0	2	O	O	the	x	x	0
+I-LOC	0	3	O	O	area	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	least	x	x	0
+O	0	6	O	O	four	x	x	0
+O	0	7	O	O	times	x	x	0
+O	0	8	O	O	since	x	x	0
+O	0	9	O	O	then	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	mayor	x	x	0
+O	0	2	O	O	says	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	FBI	x	x	0
+O	0	5	O	O	is	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+O	0	7	O	O	considering	x	x	0
+O	0	8	O	O	draining	x	x	0
+O	0	9	O	O	one	x	x	0
+O	0	10	O	O	of	x	x	0
+B-LOC	0	11	O	O	the	x	x	0
+I-LOC	0	12	O	O	ponds	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-ORG	0	1	O	O	police	x	x	0
+O	0	2	O	O	chief	x	x	0
+B-PER	0	3	O	O	dine	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	regular	x	x	0
+O	0	7	O	O	contact	x	x	0
+O	0	8	O	O	with	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	FBI	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	there	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	number	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	facets	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	investigation	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	significant	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	After	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	murder	x	x	0
+O	0	7	O	O	investigation	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Multiple	x	x	0
+O	0	1	O	O	Murder	x	x	0
+O	0	2	O	O	Investigation	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	so	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	'm	x	x	0
+O	0	7	O	O	sure	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	number	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	avenues	x	x	0
+O	0	14	O	O	that	x	x	0
+B-ORG	0	15	O	O	they	x	x	0
+O	0	16	O	O	're	x	x	0
+O	0	17	O	O	looking	x	x	0
+O	0	18	O	O	into	x	x	0
+O	0	19	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	According	x	x	0
+O	0	3	O	O	to	x	x	0
+B-ORG	0	4	O	O	government	x	x	0
+O	0	5	O	O	sources	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	agents	x	x	0
+O	0	8	O	O	in	x	x	0
+B-TIME	0	9	O	O	December	x	x	0
+O	0	10	O	O	found	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	large	x	x	0
+O	0	13	O	O	plastic	x	x	0
+O	0	14	O	O	enclosed	x	x	0
+O	0	15	O	O	container	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	large	x	x	0
+O	0	18	O	O	openings	x	x	0
+O	0	19	O	O	on	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	side	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Officials	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	no	x	x	0
+O	0	5	O	O	evidence	x	x	0
+O	0	6	O	O	connecting	x	x	0
+O	0	7	O	O	anything	x	x	0
+O	0	8	O	O	found	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	park	x	x	0
+O	0	12	O	O	to	x	x	0
+B-WEA	0	13	O	O	anthrax	x	x	0
+O	0	14	O	O	or	x	x	0
+O	0	15	O	O	the	x	x	0
+B-WEA	0	16	O	O	anthrax	x	x	0
+O	0	17	O	O	attacks	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Nor	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	any	x	x	0
+O	0	4	O	O	evidence	x	x	0
+O	0	5	O	O	linking	x	x	0
+B-PER	0	6	O	O	any	x	x	0
+I-PER	0	7	O	O	individual	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	deadly	x	x	0
+B-WEA	0	11	O	O	anthrax	x	x	0
+O	0	12	O	O	ledders	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	FBI	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	nothing	x	x	0
+O	0	5	O	O	publicly	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	anyone	x	x	0
+B-ORG	0	8	O	O	it	x	x	0
+O	0	9	O	O	may	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	investigating	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	but	x	x	0
+B-PER	0	14	O	O	Attorney	x	x	0
+I-PER	0	15	O	O	General	x	x	0
+O	0	16	O	O	John	x	x	0
+O	0	17	O	O	Ashcroft	x	x	0
+O	0	18	O	O	did	x	x	0
+O	0	19	O	O	refer	x	x	0
+O	0	20	O	O	publicly	x	x	0
+O	0	21	O	O	to	x	x	0
+B-PER	0	22	O	O	Steven	x	x	0
+I-PER	0	23	O	O	Hatfield	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	a	x	x	0
+B-TIME	0	26	O	O	former	x	x	0
+O	0	27	O	O	researcher	x	x	0
+O	0	28	O	O	as	x	x	0
+B-PER	0	29	O	O	a	x	x	0
+I-PER	0	30	O	O	person	x	x	0
+I-PER	0	31	O	O	of	x	x	0
+I-PER	0	32	O	O	interest	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	repeatedly	x	x	0
+O	0	3	O	O	proclaimed	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	innocence	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	spokesman	x	x	0
+O	0	9	O	O	told	x	x	0
+B-ORG	0	10	O	O	CNN	x	x	0
+O	0	11	O	O	-	x	x	0
+
+O	0	0	O	O	well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	FBI	x	x	0
+O	0	4	O	O	can	x	x	0
+O	0	5	O	O	drain	x	x	0
+B-LOC	0	6	O	O	the	x	x	0
+I-LOC	0	7	O	O	Pacific	x	x	0
+I-LOC	0	8	O	O	Ocean	x	x	0
+O	0	9	O	O	but	x	x	0
+B-ORG	0	10	O	O	they	x	x	0
+O	0	11	O	O	wo	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	find	x	x	0
+O	0	14	O	O	any	x	x	0
+O	0	15	O	O	evidence	x	x	0
+O	0	16	O	O	that	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	involved	x	x	0
+O	0	20	O	O	with	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	attacks	x	x	0
+O	0	23	O	O	because	x	x	0
+B-PER	0	24	O	O	he	x	x	0
+O	0	25	O	O	had	x	x	0
+O	0	26	O	O	nothing	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	do	x	x	0
+O	0	29	O	O	with	x	x	0
+O	0	30	O	O	the	x	x	0
+B-WEA	0	31	O	O	anthrax	x	x	0
+O	0	32	O	O	attacks	x	x	0
+O	0	33	O	O	at	x	x	0
+O	0	34	O	O	all	x	x	0
+O	0	35	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+B-PER	0	2	O	O	Investigators	x	x	0
+I-PER	0	3	O	O	involved	x	x	0
+I-PER	0	4	O	O	this	x	x	0
+I-PER	0	5	O	O	case	x	x	0
+O	0	6	O	O	clearly	x	x	0
+O	0	7	O	O	frustrated	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	18	x	x	0
+I-TIME	0	1	O	O	months	x	x	0
+I-TIME	0	2	O	O	later	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	still	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	single	x	x	0
+O	0	8	O	O	arrest	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	those	x	x	0
+O	0	11	O	O	attacks	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	killed	x	x	0
+B-PER	0	14	O	O	five	x	x	0
+I-PER	0	15	O	O	people	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	sickened	x	x	0
+B-PER	0	18	O	O	13	x	x	0
+I-PER	0	19	O	O	others	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Lou	x	x	0
+O	0	1	O	O	?	x	x	0
+
+B-PER	0	0	O	O	Kelly	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	where	x	x	0
+O	0	3	O	O	does	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	investigation	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	Hatfield	x	x	0
+O	0	8	O	O	stand	x	x	0
+O	0	9	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	rather	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	ca	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	think	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	another	x	x	0
+O	0	12	O	O	case	x	x	0
+O	0	13	O	O	like	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	rather	x	x	0
+O	0	4	O	O	public	x	x	0
+O	0	5	O	O	statements	x	x	0
+O	0	6	O	O	by	x	x	0
+B-PER	0	7	O	O	law	x	x	0
+I-PER	0	8	O	O	enforcement	x	x	0
+I-PER	0	9	O	O	officials	x	x	0
+O	0	10	O	O	saying	x	x	0
+O	0	11	O	O	that	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	suspect	x	x	0
+B-PER	0	16	O	O	that	x	x	0
+B-ORG	0	17	O	O	they	x	x	0
+O	0	18	O	O	think	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	's	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	Guy	x	x	0
+O	0	23	O	O	Athen	x	x	0
+B-PER	0	24	O	O	we	x	x	0
+O	0	25	O	O	have	x	x	0
+O	0	26	O	O	denial	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	then	x	x	0
+B-PER	0	29	O	O	we	x	x	0
+O	0	30	O	O	have	x	x	0
+O	0	31	O	O	this	x	x	0
+O	0	32	O	O	stuff	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	really	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	extraordinary	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	reporter	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	Well	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	Attorney	x	x	0
+I-PER	0	6	O	O	General	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	been	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	only	x	x	0
+O	0	11	O	O	person	x	x	0
+B-PER	0	12	O	O	that	x	x	0
+O	0	13	O	O	has	x	x	0
+O	0	14	O	O	even	x	x	0
+O	0	15	O	O	mentioned	x	x	0
+B-PER	0	16	O	O	Steven	x	x	0
+I-PER	0	17	O	O	Hatfield	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	name	x	x	0
+O	0	20	O	O	publicly	x	x	0
+O	0	21	O	O	and	x	x	0
+B-PER	0	22	O	O	he	x	x	0
+O	0	23	O	O	called	x	x	0
+B-PER	0	24	O	O	him	x	x	0
+B-PER	0	25	O	O	a	x	x	0
+I-PER	0	26	O	O	person	x	x	0
+I-PER	0	27	O	O	of	x	x	0
+I-PER	0	28	O	O	interest	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+B-PER	0	1	O	O	a	x	x	0
+I-PER	0	2	O	O	suspect	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+

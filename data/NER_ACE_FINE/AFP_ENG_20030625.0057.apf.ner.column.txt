@@ -1,0 +1,228 @@
+B-GPE	0	0	O	O	TOKYO	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	June	x	x	0
+I-TIME	0	3	O	O	25	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AFP	x	x	0
+O	0	6	O	O	)	x	x	0
+O	0	7	O	O	Major	x	x	0
+B-GPE	0	8	O	O	US	x	x	0
+O	0	9	O	O	insurance	x	x	0
+O	0	10	O	O	group	x	x	0
+O	0	11	O	O	AIG	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	final	x	x	0
+O	0	16	O	O	stage	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	talks	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	take	x	x	0
+O	0	21	O	O	over	x	x	0
+B-ORG	0	22	O	O	General	x	x	0
+I-ORG	0	23	O	O	Electric	x	x	0
+O	0	24	O	O	's	x	x	0
+B-GPE	0	25	O	O	Japanese	x	x	0
+O	0	26	O	O	life	x	x	0
+O	0	27	O	O	insurance	x	x	0
+O	0	28	O	O	arm	x	x	0
+O	0	29	O	O	in	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	deal	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	create	x	x	0
+B-GPE	0	34	O	O	Japan	x	x	0
+O	0	35	O	O	's	x	x	0
+O	0	36	O	O	sixth	x	x	0
+O	0	37	O	O	largest	x	x	0
+O	0	38	O	O	life	x	x	0
+O	0	39	O	O	insurer	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	reports	x	x	0
+O	0	42	O	O	said	x	x	0
+B-TIME	0	43	O	O	Wednesday	x	x	0
+O	0	44	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	American	x	x	0
+O	0	1	O	O	International	x	x	0
+O	0	2	O	O	Group	x	x	0
+O	0	3	O	O	Inc.	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	likely	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	acquire	x	x	0
+O	0	8	O	O	all	x	x	0
+O	0	9	O	O	shares	x	x	0
+O	0	10	O	O	in	x	x	0
+B-ORG	0	11	O	O	GE	x	x	0
+I-ORG	0	12	O	O	Edison	x	x	0
+I-ORG	0	13	O	O	Life	x	x	0
+I-ORG	0	14	O	O	Insurance	x	x	0
+O	0	15	O	O	by	x	x	0
+B-TIME	0	16	O	O	the	x	x	0
+I-TIME	0	17	O	O	end	x	x	0
+I-TIME	0	18	O	O	of	x	x	0
+I-TIME	0	19	O	O	September	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	also	x	x	0
+O	0	22	O	O	take	x	x	0
+O	0	23	O	O	over	x	x	0
+B-ORG	0	24	O	O	GE	x	x	0
+O	0	25	O	O	's	x	x	0
+B-GPE	0	26	O	O	US	x	x	0
+B-VEH	0	27	O	O	car	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	fire	x	x	0
+O	0	30	O	O	insurance	x	x	0
+O	0	31	O	O	operations	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	the	x	x	0
+O	0	34	O	O	reports	x	x	0
+O	0	35	O	O	said	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	total	x	x	0
+O	0	2	O	O	purchase	x	x	0
+O	0	3	O	O	cost	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	estimated	x	x	0
+O	0	6	O	O	at	x	x	0
+B-Numeric	0	7	O	O	300	x	x	0
+I-Numeric	0	8	O	O	billion	x	x	0
+I-Numeric	0	9	O	O	yen	x	x	0
+O	0	10	O	O	(	x	x	0
+B-Numeric	0	11	O	O	2.5	x	x	0
+I-Numeric	0	12	O	O	billion	x	x	0
+I-Numeric	0	13	O	O	dollars	x	x	0
+O	0	14	O	O	)	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	business	x	x	0
+B-TIME	0	18	O	O	daily	x	x	0
+B-ORG	0	19	O	O	Nihon	x	x	0
+I-ORG	0	20	O	O	Keizai	x	x	0
+O	0	21	O	O	and	x	x	0
+B-ORG	0	22	O	O	news	x	x	0
+I-ORG	0	23	O	O	agency	x	x	0
+O	0	24	O	O	Jiji	x	x	0
+O	0	25	O	O	Press	x	x	0
+O	0	26	O	O	said	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	GE	x	x	0
+O	0	1	O	O	Edison	x	x	0
+O	0	2	O	O	Life	x	x	0
+O	0	3	O	O	Insurance	x	x	0
+O	0	4	O	O	Co	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ltd.	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	key	x	x	0
+B-GPE	0	4	O	O	Japanese	x	x	0
+O	0	5	O	O	life	x	x	0
+O	0	6	O	O	insurance	x	x	0
+O	0	7	O	O	unit	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	US	x	x	0
+O	0	10	O	O	conglomerate	x	x	0
+O	0	11	O	O	General	x	x	0
+O	0	12	O	O	Electric	x	x	0
+O	0	13	O	O	Co	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	at	x	x	0
+O	0	3	O	O	the	x	x	0
+B-ORG	0	4	O	O	AIG	x	x	0
+B-GPE	0	5	O	O	Tokyo	x	x	0
+O	0	6	O	O	office	x	x	0
+O	0	7	O	O	or	x	x	0
+B-ORG	0	8	O	O	GE	x	x	0
+I-ORG	0	9	O	O	Edison	x	x	0
+O	0	10	O	O	were	x	x	0
+O	0	11	O	O	immediately	x	x	0
+O	0	12	O	O	available	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	comment	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	reports	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	GE	x	x	0
+I-ORG	0	1	O	O	Edison	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	be	x	x	0
+B-ORG	0	4	O	O	AIG	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	third	x	x	0
+O	0	7	O	O	life	x	x	0
+O	0	8	O	O	insurance	x	x	0
+O	0	9	O	O	unit	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	Japan	x	x	0
+O	0	12	O	O	following	x	x	0
+B-ORG	0	13	O	O	Alico	x	x	0
+I-ORG	0	14	O	O	Japan	x	x	0
+O	0	15	O	O	and	x	x	0
+B-ORG	0	16	O	O	AIG	x	x	0
+I-ORG	0	17	O	O	Star	x	x	0
+I-ORG	0	18	O	O	life	x	x	0
+I-ORG	0	19	O	O	Insurance	x	x	0
+I-ORG	0	20	O	O	Co	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	acquisition	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	GE	x	x	0
+I-ORG	0	4	O	O	Edison	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	expected	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	boost	x	x	0
+B-ORG	0	9	O	O	AIG	x	x	0
+O	0	10	O	O	's	x	x	0
+B-TIME	0	11	O	O	annual	x	x	0
+O	0	12	O	O	life	x	x	0
+O	0	13	O	O	insurance	x	x	0
+O	0	14	O	O	premium	x	x	0
+O	0	15	O	O	revenue	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	Japan	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	about	x	x	0
+B-Numeric	0	20	O	O	1.1	x	x	0
+I-Numeric	0	21	O	O	trillion	x	x	0
+I-Numeric	0	22	O	O	yen	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	ranking	x	x	0
+B-ORG	0	25	O	O	it	x	x	0
+O	0	26	O	O	sixth	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	the	x	x	0
+B-GPE	0	29	O	O	Japanese	x	x	0
+O	0	30	O	O	life	x	x	0
+O	0	31	O	O	insurance	x	x	0
+O	0	32	O	O	business	x	x	0
+O	0	33	O	O	.	x	x	0
+

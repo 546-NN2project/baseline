@@ -1,0 +1,73 @@
+O	0	0	O	O	from	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	air	x	x	0
+O	0	3	O	O	,	x	x	0
+B-VEH	0	4	O	O	it	x	x	0
+O	0	5	O	O	looks	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	big	x	x	0
+O	0	9	O	O	box	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	spifld	x	x	0
+O	0	12	O	O	matching	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	toothpicks	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	A	x	x	0
+I-VEH	0	1	O	O	runaway	x	x	0
+I-VEH	0	2	O	O	fragt	x	x	0
+I-VEH	0	3	O	O	train	x	x	0
+O	0	4	O	O	derailed	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	Commerce	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	California	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	spilled	x	x	0
+B-VEH	0	12	O	O	its	x	x	0
+O	0	13	O	O	load	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	lumber	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	national	x	x	0
+O	0	2	O	O	correspondent	x	x	0
+O	0	3	O	O	Frank	x	x	0
+O	0	4	O	O	Buckley	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	scene	x	x	0
+O	0	9	O	O	for	x	x	0
+B-ORG	0	10	O	O	us	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+B-GPE	0	2	O	O	there	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	joining	x	x	0
+B-ORG	0	5	O	O	us	x	x	0
+O	0	6	O	O	live	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	details	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	bad	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	?	x	x	0
+

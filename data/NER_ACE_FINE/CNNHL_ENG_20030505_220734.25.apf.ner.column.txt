@@ -1,0 +1,69 @@
+B-TIME	0	0	O	O	a	x	x	0
+I-TIME	0	1	O	O	week	x	x	0
+O	0	2	O	O	after	x	x	0
+O	0	3	O	O	these	x	x	0
+O	0	4	O	O	pictures	x	x	0
+O	0	5	O	O	surfaced	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	after	x	x	0
+O	0	9	O	O	saying	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	'd	x	x	0
+O	0	12	O	O	fight	x	x	0
+O	0	13	O	O	for	x	x	0
+B-PER	0	14	O	O	his	x	x	0
+O	0	15	O	O	job	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	Larry	x	x	0
+I-PER	0	18	O	O	Eustachy	x	x	0
+O	0	19	O	O	resigned	x	x	0
+O	0	20	O	O	as	x	x	0
+B-Job-Title	0	21	O	O	basketball	x	x	0
+I-Job-Title	0	22	O	O	coach	x	x	0
+O	0	23	O	O	at	x	x	0
+B-ORG	0	24	O	O	Iowa	x	x	0
+I-ORG	0	25	O	O	state	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	damage	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	credibility	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	too	x	x	0
+O	0	7	O	O	much	x	x	0
+O	0	8	O	O	after	x	x	0
+B-PER	0	9	O	O	eustachy	x	x	0
+O	0	10	O	O	admitted	x	x	0
+B-PER	0	11	O	O	he	x	x	0
+O	0	12	O	O	partied	x	x	0
+O	0	13	O	O	with	x	x	0
+O	0	14	O	O	students	x	x	0
+O	0	15	O	O	at	x	x	0
+B-ORG	0	16	O	O	rival	x	x	0
+I-ORG	0	17	O	O	schools	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	that	x	x	0
+B-PER	0	21	O	O	he	x	x	0
+O	0	22	O	O	's	x	x	0
+B-PER	0	23	O	O	an	x	x	0
+I-PER	0	24	O	O	alcoholic	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	seeped	x	x	0
+O	0	2	O	O	a	x	x	0
+B-Numeric	0	3	O	O	$960,000	x	x	0
+O	0	4	O	O	buyout	x	x	0
+O	0	5	O	O	from	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	university	x	x	0
+O	0	8	O	O	.	x	x	0
+

@@ -1,0 +1,507 @@
+O	0	0	O	O	okay	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Question	x	x	0
+O	0	1	O	O	of	x	x	0
+B-TIME	0	2	O	O	the	x	x	0
+I-TIME	0	3	O	O	day	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	Jack	x	x	0
+O	0	3	O	O	back	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Bill	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	new	x	x	0
+O	0	4	O	O	poll	x	x	0
+O	0	5	O	O	out	x	x	0
+B-TIME	0	6	O	O	this	x	x	0
+I-TIME	0	7	O	O	morning	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	ABC	x	x	0
+I-ORG	0	10	O	O	News	x	x	0
+B-ORG	0	11	O	O	Washington	x	x	0
+I-ORG	0	12	O	O	Post	x	x	0
+O	0	13	O	O	poll	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	suggests	x	x	0
+O	0	16	O	O	that	x	x	0
+B-PER	0	17	O	O	most	x	x	0
+I-PER	0	18	O	O	Americans	x	x	0
+O	0	19	O	O	would	x	x	0
+O	0	20	O	O	support	x	x	0
+B-GPE	0	21	O	O	U.S.	x	x	0
+O	0	22	O	O	military	x	x	0
+O	0	23	O	O	action	x	x	0
+O	0	24	O	O	against	x	x	0
+B-GPE	0	25	O	O	Iran	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	order	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	keep	x	x	0
+B-GPE	0	30	O	O	the	x	x	0
+I-GPE	0	31	O	O	country	x	x	0
+O	0	32	O	O	from	x	x	0
+O	0	33	O	O	acquiring	x	x	0
+B-WEA	0	34	O	O	nuclear	x	x	0
+I-WEA	0	35	O	O	weapons	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	According	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	survey	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	56	x	x	0
+I-PER	0	6	O	O	%	x	x	0
+O	0	7	O	O	said	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	back	x	x	0
+O	0	11	O	O	military	x	x	0
+O	0	12	O	O	force	x	x	0
+O	0	13	O	O	block	x	x	0
+B-GPE	0	14	O	O	Iran	x	x	0
+O	0	15	O	O	from	x	x	0
+O	0	16	O	O	developing	x	x	0
+B-WEA	0	17	O	O	nuclear	x	x	0
+I-WEA	0	18	O	O	weapons	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	38	x	x	0
+I-PER	0	1	O	O	%	x	x	0
+O	0	2	O	O	said	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	'd	x	x	0
+O	0	5	O	O	oppose	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	question	x	x	0
+B-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	morning	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Would	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	support	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	use	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	military	x	x	0
+O	0	7	O	O	force	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	block	x	x	0
+B-GPE	0	10	O	O	Iran	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	developing	x	x	0
+B-WEA	0	13	O	O	nuclear	x	x	0
+I-WEA	0	14	O	O	weapons	x	x	0
+O	0	15	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	gotten	x	x	0
+O	0	3	O	O	hundred	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	responses	x	x	0
+O	0	6	O	O	beginning	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	one	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	Edward	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Oklahoma	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	support	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	use	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	military	x	x	0
+O	0	6	O	O	force	x	x	0
+B-Numeric	0	7	O	O	100	x	x	0
+I-Numeric	0	8	O	O	%	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	problem	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	American	x	x	0
+O	0	8	O	O	forces	x	x	0
+O	0	9	O	O	bizy	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	Iraq	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	Afghanistan	x	x	0
+O	0	14	O	O	,	x	x	0
+B-GPE	0	15	O	O	Korea	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	the	x	x	0
+I-GPE	0	18	O	O	Balkans	x	x	0
+O	0	19	O	O	,	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	Philippines	x	x	0
+O	0	22	O	O	and	x	x	0
+B-GPE	0	23	O	O	Korea	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	can	x	x	0
+B-GPE	0	26	O	O	we	x	x	0
+O	0	27	O	O	be	x	x	0
+O	0	28	O	O	sure	x	x	0
+O	0	29	O	O	that	x	x	0
+B-GPE	0	30	O	O	France	x	x	0
+O	0	31	O	O	and	x	x	0
+B-GPE	0	32	O	O	Russia	x	x	0
+O	0	33	O	O	are	x	x	0
+O	0	34	O	O	up	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	job	x	x	0
+O	0	38	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	Bad	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sally	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Daytona	x	x	0
+I-GPE	0	3	O	O	Beach	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	if	x	x	0
+B-GPE	0	3	O	O	we	x	x	0
+O	0	4	O	O	're	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	get	x	x	0
+O	0	8	O	O	this	x	x	0
+O	0	9	O	O	terror	x	x	0
+O	0	10	O	O	thing	x	x	0
+O	0	11	O	O	overwith	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	think	x	x	0
+B-GPE	0	15	O	O	we	x	x	0
+O	0	16	O	O	need	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	clear	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	countries	x	x	0
+B-GPE	0	21	O	O	that	x	x	0
+O	0	22	O	O	house	x	x	0
+B-PER	0	23	O	O	them	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	deadly	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	let	x	x	0
+B-GPE	0	6	O	O	Iran	x	x	0
+O	0	7	O	O	let	x	x	0
+B-GPE	0	8	O	O	their	x	x	0
+O	0	9	O	O	hands	x	x	0
+O	0	10	O	O	on	x	x	0
+B-WEA	0	11	O	O	nuclear	x	x	0
+I-WEA	0	12	O	O	weapons	x	x	0
+O	0	13	O	O	employ	x	x	0
+B-PER	0	14	O	O	I	x	x	0
+O	0	15	O	O	would	x	x	0
+O	0	16	O	O	support	x	x	0
+O	0	17	O	O	any	x	x	0
+O	0	18	O	O	action	x	x	0
+O	0	19	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Karen	x	x	0
+I-PER	0	1	O	O	Brights	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	support	x	x	0
+B-GPE	0	7	O	O	Iran	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	do	x	x	0
+B-GPE	0	2	O	O	we	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	America	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	choose	x	x	0
+B-GPE	0	9	O	O	who	x	x	0
+O	0	10	O	O	has	x	x	0
+B-WEA	0	11	O	O	nukes	x	x	0
+O	0	12	O	O	and	x	x	0
+B-GPE	0	13	O	O	who	x	x	0
+O	0	14	O	O	does	x	x	0
+O	0	15	O	O	n't	x	x	0
+O	0	16	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	responsibility	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	United	x	x	0
+I-ORG	0	8	O	O	Nations	x	x	0
+O	0	9	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Kay	x	x	0
+O	0	1	O	O	Jones	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	Waterford	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Connecticut	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	sure	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	let	x	x	0
+B-GPE	0	10	O	O	's	x	x	0
+O	0	11	O	O	invade	x	x	0
+B-GPE	0	12	O	O	Iran	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Wior	x	x	0
+O	0	1	O	O	already	x	x	0
+O	0	2	O	O	over	x	x	0
+B-GPE	0	3	O	O	there	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	besides	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	biggest	x	x	0
+O	0	8	O	O	cost	x	x	0
+B-GPE	0	9	O	O	us	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	next	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	loss	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	life	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	transporting	x	x	0
+B-GPE	0	19	O	O	our	x	x	0
+O	0	20	O	O	troops	x	x	0
+O	0	21	O	O	overseas	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraq	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Iran	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	only	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	letter	x	x	0
+O	0	5	O	O	off	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	we	x	x	0
+O	0	8	O	O	could	x	x	0
+O	0	9	O	O	call	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	typo	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	little	x	x	0
+O	0	2	O	O	cruel	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Bill	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Montana	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Nuclear	x	x	0
+O	0	1	O	O	Weapons	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Iran	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	hope	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	Buzz	x	x	0
+O	0	8	O	O	writes	x	x	0
+B-PER	0	9	O	O	no	x	x	0
+I-PER	0	10	O	O	one	x	x	0
+O	0	11	O	O	wants	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	see	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	war	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	but	x	x	0
+B-PER	0	18	O	O	no	x	x	0
+I-PER	0	19	O	O	one	x	x	0
+O	0	20	O	O	upons	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	see	x	x	0
+O	0	23	O	O	another	x	x	0
+B-TIME	0	24	O	O	September	x	x	0
+I-TIME	0	25	O	O	11th	x	x	0
+O	0	26	O	O	even	x	x	0
+O	0	27	O	O	more	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Especially	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	nuclear	x	x	0
+B-TIME	0	3	O	O	September	x	x	0
+I-TIME	0	4	O	O	11th	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	support	x	x	0
+O	0	3	O	O	military	x	x	0
+O	0	4	O	O	action	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Iran	x	x	0
+O	0	7	O	O	if	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	helps	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	stabilize	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	area	x	x	0
+O	0	14	O	O	of	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	world	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	you	x	x	0
+O	0	1	O	O	see	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	way	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	you	x	x	0
+O	0	1	O	O	see	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	way	x	x	0
+O	0	6	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	fascinating	x	x	0
+O	0	5	O	O	if	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	put	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	map	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	dot	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	places	x	x	0
+B-LOC	0	19	O	O	that	x	x	0
+B-PER	0	20	O	O	you	x	x	0
+O	0	21	O	O	get	x	x	0
+O	0	22	O	O	an	x	x	0
+

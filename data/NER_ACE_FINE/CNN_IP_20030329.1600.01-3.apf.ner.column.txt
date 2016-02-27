@@ -1,0 +1,1271 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	hope	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	little	x	x	0
+O	0	6	O	O	rest	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	come	x	x	0
+O	0	3	O	O	back	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	many	x	x	0
+O	0	9	O	O	sad	x	x	0
+O	0	10	O	O	aspects	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	war	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	humanitarian	x	x	0
+O	0	16	O	O	aid	x	x	0
+O	0	17	O	O	rushed	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	people	x	x	0
+B-PER	0	20	O	O	who	x	x	0
+O	0	21	O	O	need	x	x	0
+O	0	22	O	O	it	x	x	0
+O	0	23	O	O	but	x	x	0
+O	0	24	O	O	not	x	x	0
+B-PER	0	25	O	O	everybody	x	x	0
+O	0	26	O	O	gets	x	x	0
+O	0	27	O	O	what	x	x	0
+B-PER	0	28	O	O	they	x	x	0
+O	0	29	O	O	came	x	x	0
+O	0	30	O	O	for	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Slowly	x	x	0
+O	0	1	O	O	humanitarian	x	x	0
+O	0	2	O	O	aid	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	rolling	x	x	0
+O	0	5	O	O	into	x	x	0
+B-LOC	0	6	O	O	southern	x	x	0
+I-LOC	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	dramatic	x	x	0
+O	0	10	O	O	scenes	x	x	0
+O	0	11	O	O	like	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	crowd	x	x	0
+O	0	17	O	O	tearing	x	x	0
+O	0	18	O	O	into	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	supplies	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	a	x	x	0
+B-VEH	0	23	O	O	convoy	x	x	0
+O	0	24	O	O	truck	x	x	0
+O	0	25	O	O	only	x	x	0
+O	0	26	O	O	underscores	x	x	0
+O	0	27	O	O	how	x	x	0
+O	0	28	O	O	desperate	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	need	x	x	0
+O	0	31	O	O	is	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Correspondent	x	x	0
+O	0	1	O	O	Martin	x	x	0
+O	0	2	O	O	Geissler	x	x	0
+O	0	3	O	O	files	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	report	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	town	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	Safwan	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	our	x	x	0
+O	0	2	O	O	convoy	x	x	0
+O	0	3	O	O	rolled	x	x	0
+O	0	4	O	O	through	x	x	0
+B-LOC	0	5	O	O	southern	x	x	0
+I-LOC	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	desperation	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	people	x	x	0
+B-LOC	0	12	O	O	here	x	x	0
+O	0	13	O	O	soon	x	x	0
+O	0	14	O	O	became	x	x	0
+O	0	15	O	O	evident	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-VEH	0	1	O	O	trucks	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	foot	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	came	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	town	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	Safwan	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	These	x	x	0
+I-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	without	x	x	0
+O	0	5	O	O	food	x	x	0
+O	0	6	O	O	or	x	x	0
+O	0	7	O	O	water	x	x	0
+O	0	8	O	O	supplies	x	x	0
+O	0	9	O	O	since	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	war	x	x	0
+O	0	12	O	O	began	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	desperate	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Within	x	x	0
+O	0	1	O	O	seconds	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	Kuwaiti	x	x	0
+O	0	4	O	O	aid	x	x	0
+O	0	5	O	O	workers	x	x	0
+B-PER	0	6	O	O	who	x	x	0
+O	0	7	O	O	had	x	x	0
+O	0	8	O	O	organized	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	trip	x	x	0
+O	0	11	O	O	were	x	x	0
+O	0	12	O	O	overpowered	x	x	0
+O	0	13	O	O	by	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	mob	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	These	x	x	0
+O	0	1	O	O	desperate	x	x	0
+O	0	2	O	O	scenes	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	exactly	x	x	0
+O	0	5	O	O	what	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	aide	x	x	0
+I-ORG	0	8	O	O	agencies	x	x	0
+O	0	9	O	O	wanted	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	avoid	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	survival	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	fittest	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Only	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	healthy	x	x	0
+I-PER	0	3	O	O	and	x	x	0
+I-PER	0	4	O	O	strong	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	food	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	weak	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	ill	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	left	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	nothing	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Despite	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	effort	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	help	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	Iraqi	x	x	0
+O	0	7	O	O	people	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	resentment	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	never	x	x	0
+O	0	12	O	O	far	x	x	0
+O	0	13	O	O	away	x	x	0
+O	0	14	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	hate	x	x	0
+B-GPE	0	2	O	O	U.S.	x	x	0
+B-GPE	0	3	O	O	We	x	x	0
+O	0	4	O	O	hate	x	x	0
+B-GPE	0	5	O	O	British	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	England	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	hate	x	x	0
+O	0	2	O	O	any	x	x	0
+O	0	3	O	O	state	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	war	x	x	0
+B-GPE	0	6	O	O	here	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	about	x	x	0
+B-PER	0	5	O	O	Saddam	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	regime	x	x	0
+O	0	8	O	O	?	x	x	0
+
+B-PER	0	0	O	O	Saddam	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	very	x	x	0
+I-PER	0	3	O	O	good	x	x	0
+I-PER	0	4	O	O	man	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	supplies	x	x	0
+O	0	3	O	O	ran	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	mood	x	x	0
+O	0	7	O	O	swung	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	frantic	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	ugly	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Delivery	x	x	0
+I-PER	0	1	O	O	drivers	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	threatened	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	buses	x	x	0
+O	0	4	O	O	in	x	x	0
+B-PER	0	5	O	O	our	x	x	0
+O	0	6	O	O	convoy	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	held	x	x	0
+O	0	9	O	O	up	x	x	0
+O	0	10	O	O	at	x	x	0
+O	0	11	O	O	knifepoint	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	troops	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	moved	x	x	0
+O	0	4	O	O	into	x	x	0
+B-GPE	0	5	O	O	Safwan	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	as	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	consequence	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	had	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	move	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	simply	x	x	0
+O	0	3	O	O	too	x	x	0
+O	0	4	O	O	dangerous	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	clear	x	x	0
+O	0	4	O	O	indication	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	despite	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	coalition	x	x	0
+O	0	9	O	O	reassurances	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	this	x	x	0
+O	0	12	O	O	part	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	safe	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	despite	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	aid	x	x	0
+O	0	21	O	O	being	x	x	0
+O	0	22	O	O	brought	x	x	0
+O	0	23	O	O	into	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	people	x	x	0
+B-LOC	0	26	O	O	here	x	x	0
+O	0	27	O	O	,	x	x	0
+B-LOC	0	28	O	O	it	x	x	0
+O	0	29	O	O	is	x	x	0
+O	0	30	O	O	still	x	x	0
+B-LOC	0	31	O	O	a	x	x	0
+I-LOC	0	32	O	O	very	x	x	0
+I-LOC	0	33	O	O	,	x	x	0
+I-LOC	0	34	O	O	very	x	x	0
+I-LOC	0	35	O	O	volatile	x	x	0
+I-LOC	0	36	O	O	area	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Tonight	x	x	0
+B-LOC	0	1	O	O	here	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	strong	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	eating	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	weak	x	x	0
+O	0	2	O	O	still	x	x	0
+O	0	3	O	O	go	x	x	0
+O	0	4	O	O	hungry	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Martin	x	x	0
+I-PER	0	1	O	O	Geissler	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	ITV	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	Safwan	x	x	0
+B-LOC	0	7	O	O	southern	x	x	0
+I-LOC	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	many	x	x	0
+O	0	2	O	O	different	x	x	0
+O	0	3	O	O	pictures	x	x	0
+B-ORG	0	4	O	O	we	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	getting	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	across	x	x	0
+B-GPE	0	9	O	O	that	x	x	0
+I-GPE	0	10	O	O	country	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	making	x	x	0
+B-PER	0	5	O	O	their	x	x	0
+O	0	6	O	O	voices	x	x	0
+O	0	7	O	O	heard	x	x	0
+O	0	8	O	O	at	x	x	0
+B-GPE	0	9	O	O	home	x	x	0
+O	0	10	O	O	and	x	x	0
+B-LOC	0	11	O	O	abroad	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-ORG	0	1	O	O	we	x	x	0
+O	0	2	O	O	return	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Americans	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	weekend	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	marching	x	x	0
+O	0	9	O	O	against	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	war	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	support	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	troops	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	check	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	demonstrations	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Here	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	the	x	x	0
+I-GPE	0	3	O	O	United	x	x	0
+I-GPE	0	4	O	O	States	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	weekend	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	as	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	did	x	x	0
+B-TIME	0	11	O	O	last	x	x	0
+I-TIME	0	12	O	O	weekend	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	anti-war	x	x	0
+I-PER	0	15	O	O	protesters	x	x	0
+O	0	16	O	O	taking	x	x	0
+O	0	17	O	O	to	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	street	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Los	x	x	0
+I-GPE	0	2	O	O	Angeles	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	International	x	x	0
+I-ORG	0	6	O	O	Black	x	x	0
+I-ORG	0	7	O	O	Coalition	x	x	0
+I-ORG	0	8	O	O	for	x	x	0
+I-ORG	0	9	O	O	Peace	x	x	0
+I-ORG	0	10	O	O	and	x	x	0
+I-ORG	0	11	O	O	Justice	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	sponsoring	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	rally	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	peace	x	x	0
+B-TIME	0	18	O	O	today	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Congresswoman	x	x	0
+O	0	1	O	O	Maxine	x	x	0
+O	0	2	O	O	Waters	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	among	x	x	0
+B-PER	0	5	O	O	those	x	x	0
+I-PER	0	6	O	O	scheduled	x	x	0
+I-PER	0	7	O	O	to	x	x	0
+I-PER	0	8	O	O	attend	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	meantime	x	x	0
+O	0	3	O	O	further	x	x	0
+O	0	4	O	O	north	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	California	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	San	x	x	0
+I-GPE	0	9	O	O	Francisco	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	setting	x	x	0
+B-TIME	0	13	O	O	today	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	rally	x	x	0
+O	0	17	O	O	aimed	x	x	0
+O	0	18	O	O	at	x	x	0
+O	0	19	O	O	boosting	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	moral	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	the	x	x	0
+B-GPE	0	24	O	O	American	x	x	0
+O	0	25	O	O	troops	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	the	x	x	0
+B-LOC	0	28	O	O	Persian	x	x	0
+I-LOC	0	29	O	O	Gulf	x	x	0
+O	0	30	O	O	region	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Rusty	x	x	0
+O	0	3	O	O	Dornin	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	with	x	x	0
+B-PER	0	6	O	O	us	x	x	0
+O	0	7	O	O	from	x	x	0
+B-GPE	0	8	O	O	San	x	x	0
+I-GPE	0	9	O	O	Francisco	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Rusty	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	sort	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	crowd	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	showing	x	x	0
+O	0	8	O	O	up	x	x	0
+B-GPE	0	9	O	O	there	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+B-PER	0	1	O	O	Judy	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	this	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	largest	x	x	0
+O	0	7	O	O	group	x	x	0
+O	0	8	O	O	really	x	x	0
+B-PER	0	9	O	O	we	x	x	0
+O	0	10	O	O	've	x	x	0
+O	0	11	O	O	seen	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	support	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	troops	x	x	0
+O	0	17	O	O	rallies	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	been	x	x	0
+B-TIME	0	21	O	O	over	x	x	0
+I-TIME	0	22	O	O	the	x	x	0
+I-TIME	0	23	O	O	last	x	x	0
+I-TIME	0	24	O	O	few	x	x	0
+I-TIME	0	25	O	O	weeks	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+B-GPE	0	2	O	O	this	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	home	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	anti	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	demonstrations	x	x	0
+O	0	11	O	O	stemming	x	x	0
+O	0	12	O	O	back	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	the	x	x	0
+B-GPE	0	15	O	O	Vietnam	x	x	0
+O	0	16	O	O	War	x	x	0
+O	0	17	O	O	but	x	x	0
+O	0	18	O	O	there	x	x	0
+O	0	19	O	O	are	x	x	0
+B-PER	0	20	O	O	close	x	x	0
+I-PER	0	21	O	O	to	x	x	0
+I-PER	0	22	O	O	between	x	x	0
+I-PER	0	23	O	O	500	x	x	0
+I-PER	0	24	O	O	and	x	x	0
+I-PER	0	25	O	O	1,000	x	x	0
+I-PER	0	26	O	O	people	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	getting	x	x	0
+O	0	3	O	O	various	x	x	0
+O	0	4	O	O	estimates	x	x	0
+O	0	5	O	O	on	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	crowd	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	show	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	interesting	x	x	0
+O	0	8	O	O	thing	x	x	0
+O	0	9	O	O	here	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+I-PER	0	1	O	O	folks	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	showing	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	solidarity	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	speakers	x	x	0
+I-PER	0	9	O	O	here	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	looking	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	of	x	x	0
+B-GPE	0	6	O	O	San	x	x	0
+I-GPE	0	7	O	O	Francisco	x	x	0
+O	0	8	O	O	's	x	x	0
+B-ORG	0	9	O	O	police	x	x	0
+O	0	10	O	O	department	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	officers	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	ask	x	x	0
+B-PER	0	3	O	O	them	x	x	0
+O	0	4	O	O	why	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	said	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	wearing	x	x	0
+O	0	5	O	O	skullcaps	x	x	0
+O	0	6	O	O	so	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	decided	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	adopt	x	x	0
+O	0	11	O	O	this	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	show	x	x	0
+O	0	14	O	O	solidarity	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	said	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	department	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	made	x	x	0
+O	0	7	O	O	any	x	x	0
+O	0	8	O	O	statement	x	x	0
+O	0	9	O	O	about	x	x	0
+O	0	10	O	O	whether	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	think	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	right	x	x	0
+O	0	17	O	O	or	x	x	0
+O	0	18	O	O	not	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	peaceful	x	x	0
+O	0	6	O	O	demonstration	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	officers	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	tell	x	x	0
+B-PER	0	8	O	O	me	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	largest	x	x	0
+O	0	14	O	O	pro-troops	x	x	0
+O	0	15	O	O	demonstration	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	has	x	x	0
+O	0	18	O	O	ever	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	San	x	x	0
+I-GPE	0	22	O	O	Francisco	x	x	0
+O	0	23	O	O	since	x	x	0
+O	0	24	O	O	the	x	x	0
+B-GPE	0	25	O	O	Vietnam	x	x	0
+O	0	26	O	O	War	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	far	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	peaceful	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	few	x	x	0
+O	0	9	O	O	verbal	x	x	0
+O	0	10	O	O	exchanges	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	one	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	most	x	x	0
+I-PER	0	16	O	O	enthusiastically	x	x	0
+I-PER	0	17	O	O	received	x	x	0
+I-PER	0	18	O	O	speakers	x	x	0
+I-PER	0	19	O	O	here	x	x	0
+O	0	20	O	O	was	x	x	0
+B-PER	0	21	O	O	Bessam	x	x	0
+I-PER	0	22	O	O	Al-Husaini	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	an	x	x	0
+I-PER	0	25	O	O	Iraqi	x	x	0
+I-PER	0	26	O	O	American	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	with	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	Iraqi	x	x	0
+I-ORG	0	5	O	O	American	x	x	0
+I-ORG	0	6	O	O	Council	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	feel	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	supporting	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	troops	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	does	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	Iraqi	x	x	0
+I-ORG	0	4	O	O	American	x	x	0
+I-ORG	0	5	O	O	Council	x	x	0
+O	0	6	O	O	feel	x	x	0
+O	0	7	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	Iraqi	x	x	0
+I-ORG	0	3	O	O	American	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	waiting	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	this	x	x	0
+O	0	9	O	O	liberation	x	x	0
+O	0	10	O	O	and	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	want	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	get	x	x	0
+O	0	15	O	O	rid	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	Saddam	x	x	0
+O	0	18	O	O	so	x	x	0
+O	0	19	O	O	bad	x	x	0
+O	0	20	O	O	and	x	x	0
+B-ORG	0	21	O	O	they	x	x	0
+O	0	22	O	O	will	x	x	0
+O	0	23	O	O	have	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	take	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	way	x	x	0
+O	0	29	O	O	it	x	x	0
+O	0	30	O	O	's	x	x	0
+O	0	31	O	O	been	x	x	0
+O	0	32	O	O	offered	x	x	0
+O	0	33	O	O	to	x	x	0
+B-ORG	0	34	O	O	us	x	x	0
+O	0	35	O	O	.	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	feel	x	x	0
+O	0	4	O	O	though	x	x	0
+O	0	5	O	O	seeing	x	x	0
+O	0	6	O	O	pictures	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	civilians	x	x	0
+I-PER	0	9	O	O	injured	x	x	0
+I-PER	0	10	O	O	in	x	x	0
+I-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	bombings	x	x	0
+O	0	13	O	O	?	x	x	0
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	get	x	x	0
+O	0	2	O	O	reports	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	these	x	x	0
+I-PER	0	5	O	O	civilians	x	x	0
+O	0	6	O	O	especially	x	x	0
+O	0	7	O	O	in	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	(	x	x	0
+I-PER	0	10	O	O	INAUDIBLE	x	x	0
+I-PER	0	11	O	O	)	x	x	0
+I-PER	0	12	O	O	population	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	been	x	x	0
+O	0	15	O	O	attacked	x	x	0
+O	0	16	O	O	by	x	x	0
+O	0	17	O	O	the	x	x	0
+B-GPE	0	18	O	O	Iraqi	x	x	0
+O	0	19	O	O	regime	x	x	0
+B-PER	0	20	O	O	themselves	x	x	0
+O	0	21	O	O	so	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	ca	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	blame	x	x	0
+B-GPE	0	26	O	O	the	x	x	0
+I-GPE	0	27	O	O	American	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	said	x	x	0
+O	0	30	O	O	look	x	x	0
+O	0	31	O	O	what	x	x	0
+B-GPE	0	32	O	O	the	x	x	0
+I-GPE	0	33	O	O	American	x	x	0
+O	0	34	O	O	doing	x	x	0
+O	0	35	O	O	to	x	x	0
+B-GPE	0	36	O	O	us	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	love	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	would	x	x	0
+O	0	8	O	O	draw	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	emotion	x	x	0
+O	0	12	O	O	from	x	x	0
+O	0	13	O	O	the	x	x	0
+B-PER	0	14	O	O	Arab	x	x	0
+O	0	15	O	O	world	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	the	x	x	0
+B-GPE	0	18	O	O	European	x	x	0
+O	0	19	O	O	country	x	x	0
+O	0	20	O	O	.	x	x	0
+
+O	0	0	O	O	Now	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	said	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	did	x	x	0
+O	0	5	O	O	talk	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	family	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Baghdad	x	x	0
+O	0	11	O	O	as	x	x	0
+O	0	12	O	O	well	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	also	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	somewhat	x	x	0
+O	0	18	O	O	suspicious	x	x	0
+O	0	19	O	O	of	x	x	0
+B-PER	0	20	O	O	the	x	x	0
+I-PER	0	21	O	O	Americans	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	mean	x	x	0
+O	0	4	O	O	the	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	people	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	been	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	primary	x	x	0
+I-GPE	0	11	O	O	victim	x	x	0
+I-GPE	0	12	O	O	from	x	x	0
+I-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	whole	x	x	0
+I-GPE	0	15	O	O	thing	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	family	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	still	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	fear	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	stay	x	x	0
+O	0	4	O	O	in	x	x	0
+B-FAC	0	5	O	O	one	x	x	0
+I-FAC	0	6	O	O	room	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	boarded	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	windows	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	built	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	brick	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	windows	x	x	0
+O	0	17	O	O	facing	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	street	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	yes	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+O	0	8	O	O	prayer	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	them	x	x	0
+O	0	11	O	O	but	x	x	0
+B-GPE	0	12	O	O	we	x	x	0
+O	0	13	O	O	can	x	x	0
+O	0	14	O	O	only	x	x	0
+O	0	15	O	O	do	x	x	0
+O	0	16	O	O	so	x	x	0
+O	0	17	O	O	much	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hopefully	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	short	x	x	0
+O	0	6	O	O	war	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	attack	x	x	0
+O	0	4	O	O	the	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	regime	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	live	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	liberty	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	freedom	x	x	0
+O	0	7	O	O	soon	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Now	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	understand	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	people	x	x	0
+I-PER	0	7	O	O	here	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	threatened	x	x	0
+O	0	11	O	O	by	x	x	0
+B-PER	0	12	O	O	anti-war	x	x	0
+I-PER	0	13	O	O	protesters	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Have	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	had	x	x	0
+B-PER	0	3	O	O	anyone	x	x	0
+O	0	4	O	O	either	x	x	0
+O	0	5	O	O	threatening	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	or	x	x	0
+O	0	8	O	O	...	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	problem	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	peaceful	x	x	0
+O	0	6	O	O	demonstration	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	OK	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	much	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Bessam	x	x	0
+I-PER	0	1	O	O	Al-Husaini	x	x	0
+O	0	2	O	O	here	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	very	x	x	0
+O	0	9	O	O	peaceful	x	x	0
+O	0	10	O	O	demonstration	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	wrapping	x	x	0
+O	0	3	O	O	up	x	x	0
+B-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	afternoon	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	looks	x	x	0
+O	0	9	O	O	like	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	civil	x	x	0
+O	0	12	O	O	disobedience	x	x	0
+O	0	13	O	O	acts	x	x	0
+O	0	14	O	O	by	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	anti-protesters	x	x	0
+O	0	17	O	O	are	x	x	0
+O	0	18	O	O	scheduled	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	get	x	x	0
+O	0	21	O	O	underway	x	x	0
+O	0	22	O	O	once	x	x	0
+O	0	23	O	O	again	x	x	0
+B-TIME	0	24	O	O	next	x	x	0
+I-TIME	0	25	O	O	week	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Judy	x	x	0
+O	0	1	O	O	...	x	x	0
+

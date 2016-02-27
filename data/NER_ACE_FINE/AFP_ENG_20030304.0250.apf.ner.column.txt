@@ -1,0 +1,243 @@
+O	0	0	O	O	DAVAO	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Philippines	x	x	0
+O	0	3	O	O	,	x	x	0
+B-TIME	0	4	O	O	March	x	x	0
+I-TIME	0	5	O	O	4	x	x	0
+O	0	6	O	O	(	x	x	0
+B-ORG	0	7	O	O	AFP	x	x	0
+O	0	8	O	O	)	x	x	0
+B-PER	0	9	O	O	At	x	x	0
+I-PER	0	10	O	O	least	x	x	0
+I-PER	0	11	O	O	19	x	x	0
+I-PER	0	12	O	O	people	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	killed	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	114	x	x	0
+I-PER	0	17	O	O	people	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	wounded	x	x	0
+O	0	20	O	O	in	x	x	0
+B-TIME	0	21	O	O	Tuesday	x	x	0
+O	0	22	O	O	's	x	x	0
+B-LOC	0	23	O	O	southern	x	x	0
+I-LOC	0	24	O	O	Philippines	x	x	0
+O	0	25	O	O	airport	x	x	0
+O	0	26	O	O	blast	x	x	0
+O	0	27	O	O	,	x	x	0
+B-PER	0	28	O	O	officials	x	x	0
+O	0	29	O	O	said	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	but	x	x	0
+O	0	32	O	O	reports	x	x	0
+O	0	33	O	O	said	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	death	x	x	0
+O	0	36	O	O	toll	x	x	0
+O	0	37	O	O	could	x	x	0
+O	0	38	O	O	climb	x	x	0
+O	0	39	O	O	to	x	x	0
+O	0	40	O	O	30	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Radio	x	x	0
+I-ORG	0	1	O	O	station	x	x	0
+O	0	2	O	O	DXDC	x	x	0
+O	0	3	O	O	placed	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	death	x	x	0
+O	0	6	O	O	toll	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	30	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	without	x	x	0
+O	0	11	O	O	giving	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	source	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	figure	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	which	x	x	0
+B-PER	0	19	O	O	officials	x	x	0
+O	0	20	O	O	could	x	x	0
+O	0	21	O	O	not	x	x	0
+O	0	22	O	O	immediately	x	x	0
+O	0	23	O	O	confirm	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Davao	x	x	0
+I-ORG	0	2	O	O	Medical	x	x	0
+I-ORG	0	3	O	O	Center	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	regional	x	x	0
+B-GPE	0	7	O	O	government	x	x	0
+O	0	8	O	O	hospital	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	recorded	x	x	0
+O	0	11	O	O	19	x	x	0
+O	0	12	O	O	deaths	x	x	0
+O	0	13	O	O	with	x	x	0
+B-PER	0	14	O	O	50	x	x	0
+O	0	15	O	O	wounded	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Medical	x	x	0
+I-PER	0	1	O	O	evacuation	x	x	0
+I-PER	0	2	O	O	workers	x	x	0
+O	0	3	O	O	however	x	x	0
+O	0	4	O	O	said	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	injured	x	x	0
+O	0	7	O	O	list	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	around	x	x	0
+O	0	10	O	O	114	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	spread	x	x	0
+O	0	13	O	O	out	x	x	0
+O	0	14	O	O	at	x	x	0
+B-FAC	0	15	O	O	various	x	x	0
+I-FAC	0	16	O	O	hospitals	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	A	x	x	0
+I-WEA	0	1	O	O	powerful	x	x	0
+I-WEA	0	2	O	O	bomb	x	x	0
+O	0	3	O	O	tore	x	x	0
+O	0	4	O	O	through	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	waiting	x	x	0
+O	0	7	O	O	shed	x	x	0
+O	0	8	O	O	at	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	Davao	x	x	0
+I-FAC	0	11	O	O	City	x	x	0
+I-FAC	0	12	O	O	international	x	x	0
+I-FAC	0	13	O	O	airport	x	x	0
+O	0	14	O	O	at	x	x	0
+O	0	15	O	O	about	x	x	0
+B-TIME	0	16	O	O	5.15	x	x	0
+I-TIME	0	17	O	O	pm	x	x	0
+O	0	18	O	O	(	x	x	0
+B-TIME	0	19	O	O	0915	x	x	0
+I-TIME	0	20	O	O	GMT	x	x	0
+O	0	21	O	O	)	x	x	0
+O	0	22	O	O	while	x	x	0
+O	0	23	O	O	another	x	x	0
+O	0	24	O	O	explosion	x	x	0
+O	0	25	O	O	hit	x	x	0
+O	0	26	O	O	a	x	x	0
+B-VEH	0	27	O	O	bus	x	x	0
+O	0	28	O	O	terminal	x	x	0
+O	0	29	O	O	at	x	x	0
+B-GPE	0	30	O	O	the	x	x	0
+I-GPE	0	31	O	O	city	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	reports	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	injuries	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	second	x	x	0
+O	0	9	O	O	blast	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-WEA	0	1	O	O	It	x	x	0
+O	0	2	O	O	's	x	x	0
+B-WEA	0	3	O	O	a	x	x	0
+I-WEA	0	4	O	O	very	x	x	0
+I-WEA	0	5	O	O	powerful	x	x	0
+I-WEA	0	6	O	O	bomb	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	The	x	x	0
+I-FAC	0	1	O	O	waiting	x	x	0
+I-FAC	0	2	O	O	shed	x	x	0
+O	0	3	O	O	literally	x	x	0
+O	0	4	O	O	exploded	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	said	x	x	0
+B-PER	0	8	O	O	Vice	x	x	0
+I-PER	0	9	O	O	Mayor	x	x	0
+O	0	10	O	O	Luis	x	x	0
+O	0	11	O	O	Bongoyan	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	speaking	x	x	0
+O	0	14	O	O	to	x	x	0
+B-ORG	0	15	O	O	local	x	x	0
+I-ORG	0	16	O	O	radio	x	x	0
+I-ORG	0	17	O	O	station	x	x	0
+O	0	18	O	O	Television	x	x	0
+O	0	19	O	O	footage	x	x	0
+O	0	20	O	O	showed	x	x	0
+B-PER	0	21	O	O	medical	x	x	0
+I-PER	0	22	O	O	teams	x	x	0
+O	0	23	O	O	carting	x	x	0
+O	0	24	O	O	away	x	x	0
+B-PER	0	25	O	O	dozens	x	x	0
+I-PER	0	26	O	O	of	x	x	0
+I-PER	0	27	O	O	wounded	x	x	0
+I-PER	0	28	O	O	victims	x	x	0
+O	0	29	O	O	with	x	x	0
+B-PER	0	30	O	O	fully	x	x	0
+I-PER	0	31	O	O	armed	x	x	0
+I-PER	0	32	O	O	troops	x	x	0
+I-PER	0	33	O	O	on	x	x	0
+I-PER	0	34	O	O	guard	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Many	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	victims	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	shown	x	x	0
+O	0	6	O	O	with	x	x	0
+O	0	7	O	O	hastily	x	x	0
+O	0	8	O	O	applied	x	x	0
+O	0	9	O	O	bandages	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	teams	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	nurses	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	doctors	x	x	0
+O	0	17	O	O	were	x	x	0
+O	0	18	O	O	seen	x	x	0
+O	0	19	O	O	in	x	x	0
+B-FAC	0	20	O	O	packed	x	x	0
+I-FAC	0	21	O	O	emergency	x	x	0
+I-FAC	0	22	O	O	rooms	x	x	0
+O	0	23	O	O	attending	x	x	0
+O	0	24	O	O	to	x	x	0
+B-PER	0	25	O	O	the	x	x	0
+I-PER	0	26	O	O	wounded	x	x	0
+O	0	27	O	O	.	x	x	0
+

@@ -1,0 +1,258 @@
+B-GPE	0	0	O	O	HONG	x	x	0
+I-GPE	0	1	O	O	KONG	x	x	0
+O	0	2	O	O	(	x	x	0
+B-ORG	0	3	O	O	AP	x	x	0
+O	0	4	O	O	)	x	x	0
+B-ORG	0	5	O	O	The	x	x	0
+I-ORG	0	6	O	O	Hong	x	x	0
+I-ORG	0	7	O	O	Kong	x	x	0
+I-ORG	0	8	O	O	Jockey	x	x	0
+I-ORG	0	9	O	O	Club	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	talks	x	x	0
+O	0	13	O	O	about	x	x	0
+O	0	14	O	O	buying	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	horse	x	x	0
+O	0	18	O	O	racing	x	x	0
+O	0	19	O	O	club	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	neighboring	x	x	0
+I-GPE	0	22	O	O	Macau	x	x	0
+O	0	23	O	O	,	x	x	0
+B-ORG	0	24	O	O	a	x	x	0
+I-ORG	0	25	O	O	newspaper	x	x	0
+O	0	26	O	O	reported	x	x	0
+B-TIME	0	27	O	O	Tuesday	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	South	x	x	0
+I-ORG	0	2	O	O	China	x	x	0
+I-ORG	0	3	O	O	Morning	x	x	0
+I-ORG	0	4	O	O	Post	x	x	0
+O	0	5	O	O	quoted	x	x	0
+B-ORG	0	6	O	O	Hong	x	x	0
+I-ORG	0	7	O	O	Kong	x	x	0
+I-ORG	0	8	O	O	Jockey	x	x	0
+I-ORG	0	9	O	O	Club	x	x	0
+O	0	10	O	O	Chief	x	x	0
+O	0	11	O	O	Executive	x	x	0
+O	0	12	O	O	Lawrence	x	x	0
+O	0	13	O	O	Wong	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	saying	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	discussions	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	underway	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	but	x	x	0
+O	0	22	O	O	no	x	x	0
+O	0	23	O	O	price	x	x	0
+O	0	24	O	O	was	x	x	0
+O	0	25	O	O	reported	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	Hong	x	x	0
+I-GPE	0	2	O	O	Kong	x	x	0
+O	0	3	O	O	club	x	x	0
+O	0	4	O	O	is	x	x	0
+B-ORG	0	5	O	O	a	x	x	0
+I-ORG	0	6	O	O	charitable	x	x	0
+I-ORG	0	7	O	O	entity	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	while	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	Macau	x	x	0
+I-ORG	0	12	O	O	Jockey	x	x	0
+I-ORG	0	13	O	O	Club	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	for-profit	x	x	0
+O	0	17	O	O	concern	x	x	0
+O	0	18	O	O	controlled	x	x	0
+O	0	19	O	O	by	x	x	0
+B-PER	0	20	O	O	gambling	x	x	0
+I-PER	0	21	O	O	tycoon	x	x	0
+O	0	22	O	O	Stanley	x	x	0
+O	0	23	O	O	Ho	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Hong	x	x	0
+I-GPE	0	1	O	O	Kong	x	x	0
+O	0	2	O	O	angered	x	x	0
+B-GPE	0	3	O	O	Macau	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	gaming	x	x	0
+O	0	6	O	O	industry	x	x	0
+B-TIME	0	7	O	O	last	x	x	0
+I-TIME	0	8	O	O	year	x	x	0
+O	0	9	O	O	when	x	x	0
+B-GPE	0	10	O	O	it	x	x	0
+O	0	11	O	O	banned	x	x	0
+O	0	12	O	O	gamblers	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Hong	x	x	0
+I-GPE	0	15	O	O	Kong	x	x	0
+O	0	16	O	O	from	x	x	0
+O	0	17	O	O	placing	x	x	0
+O	0	18	O	O	horse	x	x	0
+O	0	19	O	O	bets	x	x	0
+O	0	20	O	O	with	x	x	0
+O	0	21	O	O	anyone	x	x	0
+O	0	22	O	O	but	x	x	0
+B-ORG	0	23	O	O	the	x	x	0
+I-ORG	0	24	O	O	Hong	x	x	0
+I-ORG	0	25	O	O	Kong	x	x	0
+I-ORG	0	26	O	O	Jockey	x	x	0
+I-ORG	0	27	O	O	Club	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Macau	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	taking	x	x	0
+O	0	4	O	O	off-track	x	x	0
+O	0	5	O	O	bets	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	people	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	Hong	x	x	0
+I-GPE	0	10	O	O	Kong	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	offices	x	x	0
+O	0	15	O	O	handling	x	x	0
+O	0	16	O	O	those	x	x	0
+O	0	17	O	O	wagers	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	closed	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	Macau	x	x	0
+O	0	2	O	O	club	x	x	0
+B-TIME	0	3	O	O	later	x	x	0
+O	0	4	O	O	threatened	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	start	x	x	0
+O	0	7	O	O	taking	x	x	0
+O	0	8	O	O	wagers	x	x	0
+O	0	9	O	O	on	x	x	0
+B-GPE	0	10	O	O	Hong	x	x	0
+I-GPE	0	11	O	O	Kong	x	x	0
+O	0	12	O	O	races	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Macau	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	at	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	better	x	x	0
+O	0	19	O	O	price	x	x	0
+O	0	20	O	O	for	x	x	0
+B-PER	0	21	O	O	gamblers	x	x	0
+O	0	22	O	O	because	x	x	0
+O	0	23	O	O	less	x	x	0
+O	0	24	O	O	tax	x	x	0
+O	0	25	O	O	would	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	levied	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	but	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	plan	x	x	0
+O	0	32	O	O	never	x	x	0
+O	0	33	O	O	materialized	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Neither	x	x	0
+I-ORG	0	1	O	O	club	x	x	0
+O	0	2	O	O	immediately	x	x	0
+O	0	3	O	O	returned	x	x	0
+O	0	4	O	O	phone	x	x	0
+O	0	5	O	O	calls	x	x	0
+O	0	6	O	O	from	x	x	0
+B-ORG	0	7	O	O	The	x	x	0
+I-ORG	0	8	O	O	Associated	x	x	0
+I-ORG	0	9	O	O	Press	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	inquire	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	buyout	x	x	0
+O	0	15	O	O	talks	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Macau	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	gambling	x	x	0
+O	0	4	O	O	enclave	x	x	0
+O	0	5	O	O	60	x	x	0
+O	0	6	O	O	kilometers	x	x	0
+O	0	7	O	O	(	x	x	0
+O	0	8	O	O	40	x	x	0
+O	0	9	O	O	miles	x	x	0
+O	0	10	O	O	)	x	x	0
+O	0	11	O	O	west	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Hong	x	x	0
+I-GPE	0	14	O	O	Kong	x	x	0
+B-GPE	0	15	O	O	that	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	governed	x	x	0
+O	0	18	O	O	by	x	x	0
+B-GPE	0	19	O	O	the	x	x	0
+I-GPE	0	20	O	O	Portuguese	x	x	0
+O	0	21	O	O	for	x	x	0
+B-TIME	0	22	O	O	more	x	x	0
+I-TIME	0	23	O	O	than	x	x	0
+I-TIME	0	24	O	O	four	x	x	0
+I-TIME	0	25	O	O	centuries	x	x	0
+O	0	26	O	O	before	x	x	0
+B-GPE	0	27	O	O	it	x	x	0
+O	0	28	O	O	returned	x	x	0
+O	0	29	O	O	to	x	x	0
+B-GPE	0	30	O	O	Chinese	x	x	0
+O	0	31	O	O	sovereignty	x	x	0
+O	0	32	O	O	in	x	x	0
+B-TIME	0	33	O	O	1999	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Hong	x	x	0
+I-GPE	0	1	O	O	Kong	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	a	x	x	0
+B-TIME	0	4	O	O	former	x	x	0
+B-GPE	0	5	O	O	British	x	x	0
+O	0	6	O	O	colony	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	returned	x	x	0
+O	0	9	O	O	to	x	x	0
+B-GPE	0	10	O	O	Chinese	x	x	0
+O	0	11	O	O	rule	x	x	0
+O	0	12	O	O	in	x	x	0
+B-TIME	0	13	O	O	1997	x	x	0
+O	0	14	O	O	.	x	x	0
+

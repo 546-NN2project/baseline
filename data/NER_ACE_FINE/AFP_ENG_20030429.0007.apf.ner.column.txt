@@ -1,0 +1,246 @@
+B-GPE	0	0	O	O	SEOUL	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	April	x	x	0
+I-TIME	0	3	O	O	29	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AFP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	South	x	x	0
+I-GPE	0	8	O	O	Korea	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	ruling	x	x	0
+O	0	11	O	O	party	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	facing	x	x	0
+O	0	14	O	O	an	x	x	0
+O	0	15	O	O	internal	x	x	0
+O	0	16	O	O	reformist	x	x	0
+O	0	17	O	O	call	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	dissolving	x	x	0
+B-ORG	0	20	O	O	itself	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	create	x	x	0
+B-ORG	0	23	O	O	a	x	x	0
+I-ORG	0	24	O	O	new	x	x	0
+I-ORG	0	25	O	O	group	x	x	0
+O	0	26	O	O	after	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	humiliating	x	x	0
+O	0	29	O	O	defeat	x	x	0
+O	0	30	O	O	at	x	x	0
+B-TIME	0	31	O	O	last	x	x	0
+I-TIME	0	32	O	O	week	x	x	0
+O	0	33	O	O	's	x	x	0
+O	0	34	O	O	by-elections	x	x	0
+O	0	35	O	O	,	x	x	0
+B-ORG	0	36	O	O	party	x	x	0
+O	0	37	O	O	officials	x	x	0
+O	0	38	O	O	said	x	x	0
+B-TIME	0	39	O	O	Tuesday	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	ruling	x	x	0
+I-ORG	0	2	O	O	Millennium	x	x	0
+I-ORG	0	3	O	O	Democratic	x	x	0
+I-ORG	0	4	O	O	Party	x	x	0
+O	0	5	O	O	(	x	x	0
+B-ORG	0	6	O	O	MDP	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	founded	x	x	0
+O	0	10	O	O	by	x	x	0
+B-TIME	0	11	O	O	former	x	x	0
+O	0	12	O	O	president	x	x	0
+O	0	13	O	O	Kim	x	x	0
+O	0	14	O	O	Dae-Jung	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	has	x	x	0
+O	0	17	O	O	suffered	x	x	0
+O	0	18	O	O	declining	x	x	0
+O	0	19	O	O	popularity	x	x	0
+O	0	20	O	O	since	x	x	0
+B-PER	0	21	O	O	President	x	x	0
+O	0	22	O	O	Roh	x	x	0
+O	0	23	O	O	Moo-Hyun	x	x	0
+O	0	24	O	O	took	x	x	0
+O	0	25	O	O	office	x	x	0
+O	0	26	O	O	in	x	x	0
+B-TIME	0	27	O	O	February	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	group	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	18	x	x	0
+O	0	4	O	O	reformist	x	x	0
+B-ORG	0	5	O	O	MDP	x	x	0
+O	0	6	O	O	lawmakers	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	mostly	x	x	0
+B-PER	0	9	O	O	Roh	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	confidants	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	demanded	x	x	0
+B-TIME	0	14	O	O	late	x	x	0
+I-TIME	0	15	O	O	Wednesday	x	x	0
+O	0	16	O	O	that	x	x	0
+B-ORG	0	17	O	O	the	x	x	0
+I-ORG	0	18	O	O	party	x	x	0
+O	0	19	O	O	be	x	x	0
+O	0	20	O	O	"	x	x	0
+O	0	21	O	O	constructively	x	x	0
+O	0	22	O	O	dissolved	x	x	0
+O	0	23	O	O	"	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	create	x	x	0
+B-ORG	0	26	O	O	a	x	x	0
+I-ORG	0	27	O	O	new	x	x	0
+I-ORG	0	28	O	O	grouping	x	x	0
+O	0	29	O	O	,	x	x	0
+B-ORG	0	30	O	O	MDP	x	x	0
+O	0	31	O	O	officials	x	x	0
+O	0	32	O	O	said	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	established	x	x	0
+B-ORG	0	3	O	O	MDP	x	x	0
+O	0	4	O	O	leadership	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	opposed	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	sudden	x	x	0
+O	0	9	O	O	overhaul	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	added	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Reformist	x	x	0
+B-ORG	0	1	O	O	MDP	x	x	0
+O	0	2	O	O	members	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	however	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	vowed	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	launch	x	x	0
+B-ORG	0	9	O	O	a	x	x	0
+I-ORG	0	10	O	O	preparatory	x	x	0
+I-ORG	0	11	O	O	committee	x	x	0
+B-TIME	0	12	O	O	next	x	x	0
+I-TIME	0	13	O	O	month	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	make	x	x	0
+O	0	17	O	O	"	x	x	0
+O	0	18	O	O	tangible	x	x	0
+O	0	19	O	O	progress	x	x	0
+O	0	20	O	O	"	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	process	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	forging	x	x	0
+B-ORG	0	26	O	O	a	x	x	0
+I-ORG	0	27	O	O	new	x	x	0
+I-ORG	0	28	O	O	party	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	internal	x	x	0
+O	0	2	O	O	dispute	x	x	0
+O	0	3	O	O	erupted	x	x	0
+O	0	4	O	O	after	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	MDP	x	x	0
+O	0	7	O	O	lost	x	x	0
+O	0	8	O	O	three	x	x	0
+O	0	9	O	O	parliamentary	x	x	0
+O	0	10	O	O	seats	x	x	0
+O	0	11	O	O	in	x	x	0
+B-TIME	0	12	O	O	Thursday	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	by-elections	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	opposition	x	x	0
+I-ORG	0	2	O	O	Grand	x	x	0
+I-ORG	0	3	O	O	National	x	x	0
+I-ORG	0	4	O	O	Party	x	x	0
+O	0	5	O	O	(	x	x	0
+B-ORG	0	6	O	O	GNP	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	took	x	x	0
+O	0	9	O	O	two	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+B-ORG	0	12	O	O	National	x	x	0
+I-ORG	0	13	O	O	Assembly	x	x	0
+O	0	14	O	O	seats	x	x	0
+O	0	15	O	O	while	x	x	0
+B-ORG	0	16	O	O	a	x	x	0
+I-ORG	0	17	O	O	splinter	x	x	0
+I-ORG	0	18	O	O	reformist	x	x	0
+I-ORG	0	19	O	O	party	x	x	0
+O	0	20	O	O	got	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	third	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	latest	x	x	0
+O	0	3	O	O	wins	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	GNP	x	x	0
+O	0	7	O	O	increased	x	x	0
+B-ORG	0	8	O	O	its	x	x	0
+O	0	9	O	O	majority	x	x	0
+O	0	10	O	O	in	x	x	0
+B-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	272-seat	x	x	0
+I-ORG	0	13	O	O	National	x	x	0
+I-ORG	0	14	O	O	Assembly	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	153	x	x	0
+O	0	17	O	O	seats	x	x	0
+O	0	18	O	O	against	x	x	0
+O	0	19	O	O	101	x	x	0
+O	0	20	O	O	for	x	x	0
+B-ORG	0	21	O	O	the	x	x	0
+I-ORG	0	22	O	O	MDP	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	General	x	x	0
+O	0	1	O	O	elections	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	due	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	April	x	x	0
+I-TIME	0	6	O	O	next	x	x	0
+I-TIME	0	7	O	O	year	x	x	0
+O	0	8	O	O	.	x	x	0
+

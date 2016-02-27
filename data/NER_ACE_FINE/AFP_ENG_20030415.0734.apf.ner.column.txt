@@ -1,0 +1,240 @@
+B-GPE	0	0	O	O	BEIRUT	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	April	x	x	0
+I-TIME	0	3	O	O	15	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AFP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	Lebanese	x	x	0
+O	0	8	O	O	Prime	x	x	0
+O	0	9	O	O	Minister	x	x	0
+O	0	10	O	O	Rafiq	x	x	0
+O	0	11	O	O	Hariri	x	x	0
+O	0	12	O	O	submitted	x	x	0
+B-PER	0	13	O	O	his	x	x	0
+O	0	14	O	O	resignation	x	x	0
+B-TIME	0	15	O	O	Tuesday	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	it	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	accepted	x	x	0
+O	0	20	O	O	by	x	x	0
+B-PER	0	21	O	O	President	x	x	0
+O	0	22	O	O	Emile	x	x	0
+O	0	23	O	O	Lahoud	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	who	x	x	0
+O	0	26	O	O	asked	x	x	0
+B-PER	0	27	O	O	him	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	stay	x	x	0
+O	0	30	O	O	on	x	x	0
+O	0	31	O	O	in	x	x	0
+O	0	32	O	O	a	x	x	0
+B-PER	0	33	O	O	caretaker	x	x	0
+O	0	34	O	O	role	x	x	0
+O	0	35	O	O	,	x	x	0
+O	0	36	O	O	according	x	x	0
+O	0	37	O	O	to	x	x	0
+O	0	38	O	O	an	x	x	0
+O	0	39	O	O	official	x	x	0
+O	0	40	O	O	statement	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Hariri	x	x	0
+O	0	1	O	O	submitted	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	resignation	x	x	0
+O	0	4	O	O	during	x	x	0
+O	0	5	O	O	a	x	x	0
+B-TIME	0	6	O	O	10-minute	x	x	0
+O	0	7	O	O	meeting	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	head	x	x	0
+O	0	11	O	O	of	x	x	0
+B-GPE	0	12	O	O	state	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	the	x	x	0
+B-GPE	0	15	O	O	Baabda	x	x	0
+O	0	16	O	O	presidential	x	x	0
+O	0	17	O	O	palace	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	outside	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	capital	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	statement	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	give	x	x	0
+O	0	5	O	O	any	x	x	0
+O	0	6	O	O	reason	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	move	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	said	x	x	0
+B-PER	0	13	O	O	Lahoud	x	x	0
+O	0	14	O	O	would	x	x	0
+O	0	15	O	O	begin	x	x	0
+O	0	16	O	O	consultations	x	x	0
+B-TIME	0	17	O	O	Wednesday	x	x	0
+O	0	18	O	O	aimed	x	x	0
+O	0	19	O	O	at	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	formation	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	a	x	x	0
+B-TIME	0	24	O	O	new	x	x	0
+O	0	25	O	O	government	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Hariri	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	headed	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	country	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	government	x	x	0
+B-TIME	0	7	O	O	for	x	x	0
+I-TIME	0	8	O	O	nine	x	x	0
+I-TIME	0	9	O	O	of	x	x	0
+I-TIME	0	10	O	O	the	x	x	0
+I-TIME	0	11	O	O	past	x	x	0
+I-TIME	0	12	O	O	11	x	x	0
+I-TIME	0	13	O	O	years	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	highly	x	x	0
+I-PER	0	17	O	O	placed	x	x	0
+I-PER	0	18	O	O	governmental	x	x	0
+I-PER	0	19	O	O	sources	x	x	0
+O	0	20	O	O	said	x	x	0
+B-PER	0	21	O	O	he	x	x	0
+O	0	22	O	O	would	x	x	0
+O	0	23	O	O	probably	x	x	0
+O	0	24	O	O	stay	x	x	0
+O	0	25	O	O	on	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	job	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	current	x	x	0
+O	0	2	O	O	government	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	formed	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	October	x	x	0
+I-TIME	0	7	O	O	2000	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Under	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	power-sharing	x	x	0
+O	0	3	O	O	arrangement	x	x	0
+O	0	4	O	O	reached	x	x	0
+O	0	5	O	O	following	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	end	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	Lebanon	x	x	0
+O	0	10	O	O	's	x	x	0
+B-TIME	0	11	O	O	15-year	x	x	0
+O	0	12	O	O	civil	x	x	0
+O	0	13	O	O	war	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	1990	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	prime	x	x	0
+O	0	19	O	O	ministerial	x	x	0
+O	0	20	O	O	post	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	always	x	x	0
+O	0	23	O	O	held	x	x	0
+O	0	24	O	O	by	x	x	0
+B-PER	0	25	O	O	a	x	x	0
+I-PER	0	26	O	O	Sunni	x	x	0
+I-PER	0	27	O	O	Muslim	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	presidency	x	x	0
+O	0	31	O	O	by	x	x	0
+B-PER	0	32	O	O	a	x	x	0
+I-PER	0	33	O	O	Maronite	x	x	0
+I-PER	0	34	O	O	Christian	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Married	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	second	x	x	0
+O	0	4	O	O	time	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Hariri	x	x	0
+O	0	7	O	O	has	x	x	0
+B-PER	0	8	O	O	five	x	x	0
+I-PER	0	9	O	O	children	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	businessman	x	x	0
+B-PER	0	2	O	O	whose	x	x	0
+O	0	3	O	O	fortune	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	estimate	x	x	0
+O	0	6	O	O	at	x	x	0
+B-Numeric	0	7	O	O	10	x	x	0
+I-Numeric	0	8	O	O	billion	x	x	0
+I-Numeric	0	9	O	O	dollars	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	he	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	interests	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	banking	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	real	x	x	0
+O	0	18	O	O	estate	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	oil	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	manufacturing	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	owns	x	x	0
+B-ORG	0	3	O	O	a	x	x	0
+I-ORG	0	4	O	O	television	x	x	0
+I-ORG	0	5	O	O	and	x	x	0
+I-ORG	0	6	O	O	a	x	x	0
+I-ORG	0	7	O	O	radio	x	x	0
+I-ORG	0	8	O	O	station	x	x	0
+O	0	9	O	O	and	x	x	0
+B-ORG	0	10	O	O	a	x	x	0
+I-ORG	0	11	O	O	newspaper	x	x	0
+O	0	12	O	O	.	x	x	0
+

@@ -1,0 +1,71 @@
+B-WEA	0	0	O	O	a	x	x	0
+I-WEA	0	1	O	O	bomb	x	x	0
+O	0	2	O	O	exploded	x	x	0
+B-TIME	0	3	O	O	today	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	courtroom	x	x	0
+O	0	7	O	O	in	x	x	0
+B-LOC	0	8	O	O	southern	x	x	0
+I-LOC	0	9	O	O	Yemen	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	injuring	x	x	0
+B-PER	0	12	O	O	four	x	x	0
+I-PER	0	13	O	O	people	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	one	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	them	x	x	0
+B-PER	0	18	O	O	a	x	x	0
+I-PER	0	19	O	O	judge	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	man	x	x	0
+O	0	2	O	O	with	x	x	0
+B-WEA	0	3	O	O	a	x	x	0
+I-WEA	0	4	O	O	pistol	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	arrested	x	x	0
+O	0	7	O	O	outside	x	x	0
+O	0	8	O	O	of	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	courthouse	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	police	x	x	0
+O	0	13	O	O	say	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	admits	x	x	0
+O	0	16	O	O	planning	x	x	0
+B-WEA	0	17	O	O	the	x	x	0
+I-WEA	0	18	O	O	bombs	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	same	x	x	0
+O	0	4	O	O	courtroom	x	x	0
+B-FAC	0	5	O	O	where	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	suspected	x	x	0
+B-ORG	0	8	O	O	al	x	x	0
+I-ORG	0	9	O	O	Qaeda	x	x	0
+O	0	10	O	O	militant	x	x	0
+O	0	11	O	O	got	x	x	0
+B-Sentence	0	12	O	O	a	x	x	0
+I-Sentence	0	13	O	O	death	x	x	0
+I-Sentence	0	14	O	O	sentence	x	x	0
+B-TIME	0	15	O	O	last	x	x	0
+I-TIME	0	16	O	O	week	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	killing	x	x	0
+O	0	19	O	O	three	x	x	0
+B-GPE	0	20	O	O	American	x	x	0
+O	0	21	O	O	missionaries	x	x	0
+O	0	22	O	O	.	x	x	0
+

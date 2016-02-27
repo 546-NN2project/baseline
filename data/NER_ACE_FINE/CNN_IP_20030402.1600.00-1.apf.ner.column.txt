@@ -1,0 +1,811 @@
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Judy	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	much	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	of	x	x	0
+B-TIME	0	2	O	O	an	x	x	0
+I-TIME	0	3	O	O	hour	x	x	0
+I-TIME	0	4	O	O	or	x	x	0
+I-TIME	0	5	O	O	so	x	x	0
+I-TIME	0	6	O	O	ago	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	we	x	x	0
+O	0	9	O	O	got	x	x	0
+O	0	10	O	O	word	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	battlefield	x	x	0
+O	0	14	O	O	that	x	x	0
+B-GPE	0	15	O	O	U.S.	x	x	0
+O	0	16	O	O	forces	x	x	0
+O	0	17	O	O	were	x	x	0
+O	0	18	O	O	just	x	x	0
+O	0	19	O	O	15	x	x	0
+O	0	20	O	O	miles	x	x	0
+O	0	21	O	O	away	x	x	0
+O	0	22	O	O	from	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	southern	x	x	0
+O	0	25	O	O	edge	x	x	0
+O	0	26	O	O	of	x	x	0
+B-GPE	0	27	O	O	Baghdad	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	may	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	even	x	x	0
+O	0	5	O	O	closer	x	x	0
+B-TIME	0	6	O	O	right	x	x	0
+I-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	toughest	x	x	0
+O	0	2	O	O	fight	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	though	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	may	x	x	0
+O	0	7	O	O	lie	x	x	0
+O	0	8	O	O	ahead	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	heart	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	capital	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Pentagon	x	x	0
+O	0	1	O	O	sources	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	first	x	x	0
+O	0	5	O	O	phase	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	final	x	x	0
+O	0	9	O	O	push	x	x	0
+O	0	10	O	O	into	x	x	0
+B-GPE	0	11	O	O	Baghdad	x	x	0
+O	0	12	O	O	is	x	x	0
+B-TIME	0	13	O	O	now	x	x	0
+O	0	14	O	O	under	x	x	0
+O	0	15	O	O	way	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	-	x	x	0
+O	0	2	O	O	led	x	x	0
+O	0	3	O	O	forces	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	able	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	press	x	x	0
+O	0	8	O	O	farther	x	x	0
+O	0	9	O	O	north	x	x	0
+O	0	10	O	O	after	x	x	0
+O	0	11	O	O	defeating	x	x	0
+B-ORG	0	12	O	O	Iraqi	x	x	0
+I-ORG	0	13	O	O	Republican	x	x	0
+I-ORG	0	14	O	O	Guard	x	x	0
+O	0	15	O	O	units	x	x	0
+O	0	16	O	O	at	x	x	0
+B-GPE	0	17	O	O	Karbala	x	x	0
+O	0	18	O	O	and	x	x	0
+B-GPE	0	19	O	O	Kut	x	x	0
+O	0	20	O	O	(	x	x	0
+O	0	21	O	O	ph	x	x	0
+O	0	22	O	O	)	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	embedded	x	x	0
+O	0	2	O	O	reporters	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	two-pronged	x	x	0
+O	0	6	O	O	advance	x	x	0
+O	0	7	O	O	appears	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	moving	x	x	0
+O	0	11	O	O	faster	x	x	0
+O	0	12	O	O	than	x	x	0
+B-PER	0	13	O	O	commanders	x	x	0
+O	0	14	O	O	expected	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Pentagon	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	two	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+B-ORG	0	6	O	O	Republican	x	x	0
+I-ORG	0	7	O	O	Guard	x	x	0
+O	0	8	O	O	divisions	x	x	0
+O	0	9	O	O	defending	x	x	0
+B-GPE	0	10	O	O	Baghdad	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	longer	x	x	0
+B-ORG	0	14	O	O	credible	x	x	0
+I-ORG	0	15	O	O	forces	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Scenes	x	x	0
+O	0	1	O	O	from	x	x	0
+B-GPE	0	2	O	O	Najaf	x	x	0
+O	0	3	O	O	may	x	x	0
+O	0	4	O	O	also	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	bolstering	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	troops	x	x	0
+O	0	9	O	O	'	x	x	0
+O	0	10	O	O	spirit	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Iraqis	x	x	0
+B-PER	0	1	O	O	who	x	x	0
+O	0	2	O	O	initially	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	cautious	x	x	0
+O	0	5	O	O	when	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	forces	x	x	0
+O	0	8	O	O	arrived	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Najaf	x	x	0
+O	0	11	O	O	ended	x	x	0
+O	0	12	O	O	cheering	x	x	0
+B-PER	0	13	O	O	them	x	x	0
+O	0	14	O	O	on	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	shaking	x	x	0
+B-PER	0	17	O	O	their	x	x	0
+O	0	18	O	O	hands	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	patting	x	x	0
+B-PER	0	21	O	O	their	x	x	0
+O	0	22	O	O	backs	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	U.S.	x	x	0
+I-ORG	0	1	O	O	Army	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	7th	x	x	0
+O	0	4	O	O	Cavalry	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	forefront	x	x	0
+O	0	9	O	O	of	x	x	0
+B-GPE	0	10	O	O	U.S.	x	x	0
+O	0	11	O	O	troops	x	x	0
+O	0	12	O	O	since	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	first	x	x	0
+O	0	15	O	O	left	x	x	0
+B-GPE	0	16	O	O	Kuwait	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	crossed	x	x	0
+O	0	19	O	O	directly	x	x	0
+O	0	20	O	O	into	x	x	0
+O	0	21	O	O	the	x	x	0
+B-GPE	0	22	O	O	Iraqi	x	x	0
+O	0	23	O	O	desert	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	Walter	x	x	0
+O	0	2	O	O	Rodgers	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	embedded	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	unit	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	3rd	x	x	0
+O	0	10	O	O	Squadron	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	which	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	leading	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	3rd	x	x	0
+I-PER	0	17	O	O	Infantry	x	x	0
+I-PER	0	18	O	O	Division	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	march	x	x	0
+O	0	21	O	O	toward	x	x	0
+O	0	22	O	O	the	x	x	0
+B-GPE	0	23	O	O	Iraqi	x	x	0
+O	0	24	O	O	capital	x	x	0
+O	0	25	O	O	.	x	x	0
+
+O	0	0	O	O	Throughout	x	x	0
+B-TIME	0	1	O	O	the	x	x	0
+I-TIME	0	2	O	O	day	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	the	x	x	0
+B-ORG	0	6	O	O	U.S.	x	x	0
+I-ORG	0	7	O	O	Army	x	x	0
+O	0	8	O	O	7th	x	x	0
+O	0	9	O	O	Cavalry	x	x	0
+O	0	10	O	O	punched	x	x	0
+O	0	11	O	O	northward	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	general	x	x	0
+O	0	15	O	O	direction	x	x	0
+O	0	16	O	O	of	x	x	0
+B-GPE	0	17	O	O	Baghdad	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	we	x	x	0
+O	0	20	O	O	have	x	x	0
+O	0	21	O	O	seen	x	x	0
+O	0	22	O	O	huge	x	x	0
+O	0	23	O	O	convoys	x	x	0
+O	0	24	O	O	of	x	x	0
+B-PER	0	25	O	O	supply	x	x	0
+I-PER	0	26	O	O	troops	x	x	0
+I-PER	0	27	O	O	moving	x	x	0
+I-PER	0	28	O	O	ever	x	x	0
+I-PER	0	29	O	O	northward	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Indeed	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	arrows	x	x	0
+O	0	5	O	O	on	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Army	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	map	x	x	0
+O	0	10	O	O	seem	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	pointing	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	direction	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	southern	x	x	0
+O	0	20	O	O	suburbs	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	Baghdad	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Earlier	x	x	0
+I-TIME	0	1	O	O	in	x	x	0
+I-TIME	0	2	O	O	the	x	x	0
+I-TIME	0	3	O	O	day	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	1st	x	x	0
+O	0	7	O	O	Brigade	x	x	0
+O	0	8	O	O	of	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	3rd	x	x	0
+I-ORG	0	11	O	O	Infantry	x	x	0
+I-ORG	0	12	O	O	Division	x	x	0
+O	0	13	O	O	took	x	x	0
+B-GPE	0	14	O	O	Karbala	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	minimum	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	fight	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	3rd	x	x	0
+O	0	4	O	O	Brigade	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	3rd	x	x	0
+I-ORG	0	8	O	O	Infantry	x	x	0
+I-ORG	0	9	O	O	Division	x	x	0
+O	0	10	O	O	secured	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	town	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	Karbala	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Additionally	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	7th	x	x	0
+I-PER	0	4	O	O	Cavalry	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	pushed	x	x	0
+O	0	7	O	O	onward	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	general	x	x	0
+O	0	11	O	O	direction	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Baghdad	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Yesterday	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	50	x	x	0
+O	0	5	O	O	miles	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	southern	x	x	0
+O	0	9	O	O	suburbs	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	Baghdad	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	perhaps	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	distance	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Throughout	x	x	0
+B-TIME	0	1	O	O	the	x	x	0
+I-TIME	0	2	O	O	day	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	watched	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	3rd	x	x	0
+I-PER	0	9	O	O	Infantry	x	x	0
+I-PER	0	10	O	O	Division	x	x	0
+O	0	11	O	O	bring	x	x	0
+O	0	12	O	O	in	x	x	0
+B-PER	0	13	O	O	prisoners	x	x	0
+I-PER	0	14	O	O	of	x	x	0
+I-PER	0	15	O	O	war	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	soldiers	x	x	0
+O	0	2	O	O	glad	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	war	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	over	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	them	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	perhaps	x	x	0
+B-PER	0	11	O	O	100	x	x	0
+O	0	12	O	O	at	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	time	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	times	x	x	0
+O	0	3	O	O	when	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	7th	x	x	0
+O	0	6	O	O	Cavalry	x	x	0
+B-PER	0	7	O	O	itself	x	x	0
+O	0	8	O	O	got	x	x	0
+O	0	9	O	O	into	x	x	0
+O	0	10	O	O	some	x	x	0
+O	0	11	O	O	skirmishes	x	x	0
+O	0	12	O	O	as	x	x	0
+B-PER	0	13	O	O	it	x	x	0
+O	0	14	O	O	pushed	x	x	0
+O	0	15	O	O	forward	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	again	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	direction	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	Baghdad	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	bit	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	firefight	x	x	0
+O	0	7	O	O	when	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	7th	x	x	0
+I-PER	0	10	O	O	Cavalry	x	x	0
+O	0	11	O	O	came	x	x	0
+O	0	12	O	O	upon	x	x	0
+O	0	13	O	O	three	x	x	0
+B-GPE	0	14	O	O	Soviet	x	x	0
+O	0	15	O	O	vintage	x	x	0
+O	0	16	O	O	20	x	x	0
+O	0	17	O	O	millimeter	x	x	0
+O	0	18	O	O	anti-aircraft	x	x	0
+O	0	19	O	O	guns	x	x	0
+O	0	20	O	O	,	x	x	0
+B-WEA	0	21	O	O	ack-ack	x	x	0
+I-WEA	0	22	O	O	guns	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	Iraqi	x	x	0
+O	0	2	O	O	unit	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	possession	x	x	0
+O	0	5	O	O	of	x	x	0
+B-WEA	0	6	O	O	those	x	x	0
+I-WEA	0	7	O	O	guns	x	x	0
+O	0	8	O	O	fired	x	x	0
+B-WEA	0	9	O	O	mortars	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	direction	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	7th	x	x	0
+I-PER	0	16	O	O	Cavalry	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-VEH	0	1	O	O	Apache	x	x	0
+O	0	2	O	O	troop	x	x	0
+O	0	3	O	O	opened	x	x	0
+B-PER	0	4	O	O	its	x	x	0
+B-VEH	0	5	O	O	tank	x	x	0
+O	0	6	O	O	guns	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	opened	x	x	0
+B-PER	0	9	O	O	its	x	x	0
+O	0	10	O	O	own	x	x	0
+O	0	11	O	O	mortars	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	decimated	x	x	0
+B-PER	0	14	O	O	that	x	x	0
+I-PER	0	15	O	O	unit	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	put	x	x	0
+B-PER	0	18	O	O	it	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	existence	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	probably	x	x	0
+O	0	24	O	O	killed	x	x	0
+B-PER	0	25	O	O	some	x	x	0
+I-PER	0	26	O	O	20	x	x	0
+I-PER	0	27	O	O	Iraqis	x	x	0
+O	0	28	O	O	in	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	process	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	as	x	x	0
+B-PER	0	2	O	O	it	x	x	0
+O	0	3	O	O	continues	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	push	x	x	0
+O	0	6	O	O	ever	x	x	0
+O	0	7	O	O	closer	x	x	0
+O	0	8	O	O	towards	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	southern	x	x	0
+O	0	11	O	O	suburbs	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Baghdad	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Walter	x	x	0
+I-PER	0	1	O	O	Rodgers	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	U.S.	x	x	0
+O	0	8	O	O	7th	x	x	0
+O	0	9	O	O	Cavalry	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	Iraqi	x	x	0
+O	0	13	O	O	desert	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	similar	x	x	0
+O	0	5	O	O	story	x	x	0
+O	0	6	O	O	from	x	x	0
+B-ORG	0	7	O	O	CNN	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	Karl	x	x	0
+O	0	10	O	O	Penhaul	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	is	x	x	0
+B-TIME	0	13	O	O	now	x	x	0
+O	0	14	O	O	just	x	x	0
+O	0	15	O	O	miles	x	x	0
+O	0	16	O	O	from	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	southern	x	x	0
+O	0	19	O	O	outskirts	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	the	x	x	0
+B-GPE	0	22	O	O	Iraqi	x	x	0
+O	0	23	O	O	capital	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	embedded	x	x	0
+O	0	3	O	O	with	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	U.S.	x	x	0
+I-ORG	0	6	O	O	Army	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	11th	x	x	0
+O	0	9	O	O	Attack	x	x	0
+O	0	10	O	O	Helicopter	x	x	0
+O	0	11	O	O	Regiment	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	report	x	x	0
+O	0	4	O	O	just	x	x	0
+O	0	5	O	O	filed	x	x	0
+B-TIME	0	6	O	O	a	x	x	0
+I-TIME	0	7	O	O	few	x	x	0
+I-TIME	0	8	O	O	minutes	x	x	0
+I-TIME	0	9	O	O	ago	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	speed	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	push	x	x	0
+O	0	5	O	O	to	x	x	0
+B-GPE	0	6	O	O	Baghdad	x	x	0
+O	0	7	O	O	seems	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	gathered	x	x	0
+O	0	11	O	O	pace	x	x	0
+B-TIME	0	12	O	O	overnight	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	course	x	x	0
+O	0	17	O	O	of	x	x	0
+B-TIME	0	18	O	O	this	x	x	0
+I-TIME	0	19	O	O	morning	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	fact	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	much	x	x	0
+O	0	7	O	O	faster	x	x	0
+O	0	8	O	O	than	x	x	0
+O	0	9	O	O	many	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	U.S.	x	x	0
+O	0	13	O	O	commanders	x	x	0
+O	0	14	O	O	on	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	ground	x	x	0
+O	0	17	O	O	predicted	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	intensity	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	quick	x	x	0
+O	0	6	O	O	moving	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	very	x	x	0
+O	0	9	O	O	fluid	x	x	0
+O	0	10	O	O	battle	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	armor	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	mechanized	x	x	0
+O	0	5	O	O	infantry	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	artillery	x	x	0
+O	0	9	O	O	pieces	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	personnel	x	x	0
+O	0	12	O	O	on	x	x	0
+B-LOC	0	13	O	O	the	x	x	0
+I-LOC	0	14	O	O	ground	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	moving	x	x	0
+O	0	17	O	O	at	x	x	0
+O	0	18	O	O	rapid	x	x	0
+O	0	19	O	O	speeds	x	x	0
+O	0	20	O	O	.	x	x	0
+
+B-TIME	0	0	O	O	Overnight	x	x	0
+O	0	1	O	O	and	x	x	0
+B-TIME	0	2	O	O	early	x	x	0
+I-TIME	0	3	O	O	this	x	x	0
+I-TIME	0	4	O	O	morning	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	tanks	x	x	0
+O	0	8	O	O	and	x	x	0
+B-VEH	0	9	O	O	Bradley	x	x	0
+O	0	10	O	O	fighting	x	x	0
+O	0	11	O	O	vehicles	x	x	0
+O	0	12	O	O	of	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	3rd	x	x	0
+I-ORG	0	15	O	O	Infantry	x	x	0
+I-ORG	0	16	O	O	Division	x	x	0
+O	0	17	O	O	backed	x	x	0
+O	0	18	O	O	by	x	x	0
+O	0	19	O	O	the	x	x	0
+B-VEH	0	20	O	O	Apache	x	x	0
+O	0	21	O	O	attack	x	x	0
+O	0	22	O	O	helicopters	x	x	0
+O	0	23	O	O	of	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	11th	x	x	0
+I-ORG	0	26	O	O	Aviation	x	x	0
+I-ORG	0	27	O	O	Regiment	x	x	0
+O	0	28	O	O	punched	x	x	0
+O	0	29	O	O	through	x	x	0
+O	0	30	O	O	the	x	x	0
+B-ORG	0	31	O	O	Republican	x	x	0
+I-ORG	0	32	O	O	Guard	x	x	0
+O	0	33	O	O	defenses	x	x	0
+O	0	34	O	O	in	x	x	0
+O	0	35	O	O	and	x	x	0
+O	0	36	O	O	around	x	x	0
+B-GPE	0	37	O	O	Karbala	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	then	x	x	0
+O	0	3	O	O	able	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	advance	x	x	0
+O	0	6	O	O	far	x	x	0
+O	0	7	O	O	north	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	that	x	x	0
+I-GPE	0	10	O	O	city	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	as	x	x	0
+B-PER	0	14	O	O	we	x	x	0
+O	0	15	O	O	speak	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	U.S.	x	x	0
+O	0	18	O	O	commanders	x	x	0
+O	0	19	O	O	tell	x	x	0
+B-PER	0	20	O	O	me	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	elements	x	x	0
+O	0	23	O	O	of	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	3rd	x	x	0
+I-ORG	0	26	O	O	Infantry	x	x	0
+I-ORG	0	27	O	O	Division	x	x	0
+O	0	28	O	O	are	x	x	0
+B-TIME	0	29	O	O	now	x	x	0
+O	0	30	O	O	literally	x	x	0
+O	0	31	O	O	just	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	few	x	x	0
+O	0	34	O	O	miles	x	x	0
+O	0	35	O	O	from	x	x	0
+B-GPE	0	36	O	O	Baghdad	x	x	0
+O	0	37	O	O	.	x	x	0
+

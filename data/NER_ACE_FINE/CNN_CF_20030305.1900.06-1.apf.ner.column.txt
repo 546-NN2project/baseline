@@ -1,0 +1,586 @@
+O	0	0	O	O	Welcome	x	x	0
+O	0	1	O	O	back	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	CROSSFIRE	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Maybe	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	just	x	x	0
+B-PER	0	4	O	O	me	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	think	x	x	0
+B-PER	0	9	O	O	Michael	x	x	0
+I-PER	0	10	O	O	Jackson	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	kooky	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	wacky	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Time	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	Fireback	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	where	x	x	0
+B-PER	0	8	O	O	our	x	x	0
+I-PER	0	9	O	O	wacky	x	x	0
+I-PER	0	10	O	O	and	x	x	0
+I-PER	0	11	O	O	kooky	x	x	0
+I-PER	0	12	O	O	fans	x	x	0
+I-PER	0	13	O	O	and	x	x	0
+I-PER	0	14	O	O	friends	x	x	0
+I-PER	0	15	O	O	and	x	x	0
+I-PER	0	16	O	O	critics	x	x	0
+B-PER	0	17	O	O	right	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Don	x	x	0
+O	0	1	O	O	from	x	x	0
+O	0	2	O	O	Denver	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	Colorado	x	x	0
+O	0	5	O	O	writes	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	"	x	x	0
+B-PER	0	8	O	O	Paul	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	keep	x	x	0
+O	0	12	O	O	referencing	x	x	0
+B-ORG	0	13	O	O	Halliburton	x	x	0
+O	0	14	O	O	selling	x	x	0
+O	0	15	O	O	equipment	x	x	0
+O	0	16	O	O	to	x	x	0
+B-GPE	0	17	O	O	Iraq	x	x	0
+O	0	18	O	O	"	x	x	0
+O	0	19	O	O	which	x	x	0
+B-PER	0	20	O	O	I	x	x	0
+O	0	21	O	O	do	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	recall	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	reported	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	'The	x	x	0
+O	0	8	O	O	Wall	x	x	0
+O	0	9	O	O	Street	x	x	0
+O	0	10	O	O	Journal	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	'	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	transactions	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	legal	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	possible	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	equipment	x	x	0
+O	0	6	O	O	allowed	x	x	0
+B-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	produce	x	x	0
+O	0	10	O	O	oil	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	Oil	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	Food	x	x	0
+O	0	16	O	O	program	x	x	0
+O	0	17	O	O	authorized	x	x	0
+O	0	18	O	O	by	x	x	0
+B-ORG	0	19	O	O	the	x	x	0
+I-ORG	0	20	O	O	U.N	x	x	0
+O	0	21	O	O	.	x	x	0
+O	0	22	O	O	?	x	x	0
+O	0	23	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	legal	x	x	0
+O	0	3	O	O	because	x	x	0
+B-PER	0	4	O	O	Mr.	x	x	0
+O	0	5	O	O	Cheney	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	company	x	x	0
+O	0	8	O	O	used	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	loophole	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	went	x	x	0
+O	0	2	O	O	through	x	x	0
+B-ORG	0	3	O	O	a	x	x	0
+I-ORG	0	4	O	O	foreign	x	x	0
+I-ORG	0	5	O	O	subsidiary	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	enrich	x	x	0
+B-PER	0	4	O	O	Saddam	x	x	0
+I-PER	0	5	O	O	Hussein	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	his	x	x	0
+O	0	8	O	O	evil	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	ruthless	x	x	0
+O	0	11	O	O	regime	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+B-ORG	0	14	O	O	they	x	x	0
+O	0	15	O	O	were	x	x	0
+O	0	16	O	O	immoral	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	wrong	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Dick	x	x	0
+I-PER	0	1	O	O	Cheney	x	x	0
+O	0	2	O	O	should	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	never	x	x	0
+O	0	5	O	O	profited	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	doing	x	x	0
+O	0	9	O	O	business	x	x	0
+O	0	10	O	O	with	x	x	0
+B-PER	0	11	O	O	Saddam	x	x	0
+I-PER	0	12	O	O	Hussein	x	x	0
+O	0	13	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	agree	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	with	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	war	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	?	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	means	x	x	0
+B-PER	0	2	O	O	Cheney	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	hypocrite	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	trying	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	lead	x	x	0
+B-GPE	0	5	O	O	us	x	x	0
+O	0	6	O	O	into	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	war	x	x	0
+O	0	9	O	O	against	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	valued	x	x	0
+O	0	14	O	O	customers	x	x	0
+O	0	15	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	complete	x	x	0
+O	0	5	O	O	...	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	attacking	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	man	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	irrelevant	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	argument	x	x	0
+O	0	6	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	attacking	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	business	x	x	0
+O	0	5	O	O	practices	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	attacking	x	x	0
+O	0	7	O	O	OK	x	x	0
+O	0	8	O	O	great	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	great	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	nothing	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	whether	x	x	0
+B-GPE	0	7	O	O	we	x	x	0
+O	0	8	O	O	should	x	x	0
+O	0	9	O	O	go	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	war	x	x	0
+O	0	12	O	O	with	x	x	0
+B-GPE	0	13	O	O	Iraq	x	x	0
+O	0	14	O	O	or	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+B-TIME	0	1	O	O	yesterday	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	was	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	valued	x	x	0
+I-PER	0	6	O	O	customer	x	x	0
+O	0	7	O	O	,	x	x	0
+B-TIME	0	8	O	O	today	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	's	x	x	0
+B-PER	0	11	O	O	an	x	x	0
+I-PER	0	12	O	O	even	x	x	0
+I-PER	0	13	O	O	villain	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	Right	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	're	x	x	0
+O	0	3	O	O	against	x	x	0
+B-PER	0	4	O	O	Dick	x	x	0
+I-PER	0	5	O	O	Cheney	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	but	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	does	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	anything	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	do	x	x	0
+O	0	15	O	O	with	x	x	0
+B-PER	0	16	O	O	Saddam	x	x	0
+I-PER	0	17	O	O	Hussein	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Chad	x	x	0
+O	0	1	O	O	Hensley	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	Fairfax	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Virginia	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	writes	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	"	x	x	0
+B-GPE	0	11	O	O	France	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	Russia	x	x	0
+O	0	14	O	O	and	x	x	0
+B-GPE	0	15	O	O	German	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	all	x	x	0
+B-Numeric	0	18	O	O	multi-billion	x	x	0
+I-Numeric	0	19	O	O	dollar	x	x	0
+O	0	20	O	O	oil	x	x	0
+O	0	21	O	O	deals	x	x	0
+O	0	22	O	O	with	x	x	0
+B-PER	0	23	O	O	Saddam	x	x	0
+O	0	24	O	O	in	x	x	0
+B-GPE	0	25	O	O	Iraq	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	why	x	x	0
+B-GPE	0	3	O	O	they	x	x	0
+O	0	4	O	O	protest	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	war	x	x	0
+O	0	7	O	O	with	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	must	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	humanitarian	x	x	0
+O	0	5	O	O	reasons	x	x	0
+O	0	6	O	O	.	x	x	0
+O	0	7	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Chad	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	what	x	x	0
+B-PER	0	7	O	O	liberals	x	x	0
+O	0	8	O	O	assume	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+B-GPE	0	1	O	O	Europe	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	against	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	war	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	humanitarian	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	moral	x	x	0
+O	0	10	O	O	grounds	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	war	x	x	0
+O	0	19	O	O	because	x	x	0
+B-GPE	0	20	O	O	it	x	x	0
+O	0	21	O	O	wants	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	profit	x	x	0
+O	0	24	O	O	for	x	x	0
+B-ORG	0	25	O	O	the	x	x	0
+I-ORG	0	26	O	O	oil	x	x	0
+I-ORG	0	27	O	O	companies	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	weird	x	x	0
+O	0	4	O	O	assumption	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	n't	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	think	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	've	x	x	0
+O	0	6	O	O	never	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	believe	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	minute	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	this	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	war	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	oil	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	unwise	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	unjust	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	unwarranted	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	but	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	do	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	think	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	about	x	x	0
+O	0	22	O	O	oil	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	reason	x	x	0
+O	0	4	O	O	that	x	x	0
+B-GPE	0	5	O	O	France	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	Russia	x	x	0
+O	0	8	O	O	and	x	x	0
+B-GPE	0	9	O	O	Germany	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	against	x	x	0
+O	0	12	O	O	war	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	because	x	x	0
+B-GPE	0	15	O	O	they	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	democracies	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	people	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	against	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	called	x	x	0
+O	0	3	O	O	democracy	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Those	x	x	0
+I-PER	0	1	O	O	leaders	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	reflecting	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	views	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	people	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	They	x	x	0
+O	0	1	O	O	hate	x	x	0
+B-GPE	0	2	O	O	America	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Paul	x	x	0
+O	0	5	O	O	.	x	x	0
+

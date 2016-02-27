@@ -1,0 +1,72 @@
+O	0	0	O	O	and	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	pope	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	reportedly	x	x	0
+O	0	5	O	O	name	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	new	x	x	0
+O	0	8	O	O	head	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	troubled	x	x	0
+B-GPE	0	12	O	O	Boston	x	x	0
+O	0	13	O	O	archdiocese	x	x	0
+B-TIME	0	14	O	O	this	x	x	0
+I-TIME	0	15	O	O	week	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sean	x	x	0
+I-PER	0	1	O	O	Patrick	x	x	0
+I-PER	0	2	O	O	o'malley	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	Bishop	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	Palm	x	x	0
+O	0	8	O	O	Beach	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	Florida	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	expected	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	replace	x	x	0
+B-PER	0	16	O	O	Cardinal	x	x	0
+O	0	17	O	O	Bernard	x	x	0
+O	0	18	O	O	Law	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	according	x	x	0
+O	0	3	O	O	to	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	National	x	x	0
+I-ORG	0	6	O	O	Catholic	x	x	0
+I-ORG	0	7	O	O	reporter	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Law	x	x	0
+O	0	1	O	O	stepped	x	x	0
+O	0	2	O	O	down	x	x	0
+O	0	3	O	O	in	x	x	0
+B-TIME	0	4	O	O	December	x	x	0
+O	0	5	O	O	amid	x	x	0
+O	0	6	O	O	charges	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	widespread	x	x	0
+B-PER	0	9	O	O	child	x	x	0
+O	0	10	O	O	sexual	x	x	0
+O	0	11	O	O	abuse	x	x	0
+O	0	12	O	O	in	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	church	x	x	0
+O	0	15	O	O	.	x	x	0
+

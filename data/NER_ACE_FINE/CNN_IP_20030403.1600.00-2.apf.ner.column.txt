@@ -1,0 +1,812 @@
+B-PER	0	0	O	O	Wolf	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	going	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	break	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	here	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	because	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	parents	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	Jessica	x	x	0
+I-PER	0	15	O	O	Lynch	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	who	x	x	0
+O	0	18	O	O	live	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	Palestine	x	x	0
+O	0	21	O	O	,	x	x	0
+B-GPE	0	22	O	O	West	x	x	0
+I-GPE	0	23	O	O	Virginia	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	are	x	x	0
+O	0	26	O	O	before	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	microphones	x	x	0
+O	0	29	O	O	,	x	x	0
+B-PER	0	30	O	O	I	x	x	0
+O	0	31	O	O	'm	x	x	0
+O	0	32	O	O	told	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	just	x	x	0
+O	0	35	O	O	about	x	x	0
+O	0	36	O	O	to	x	x	0
+O	0	37	O	O	talk	x	x	0
+O	0	38	O	O	with	x	x	0
+B-PER	0	39	O	O	reporters	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	walking	x	x	0
+O	0	3	O	O	toward	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	press	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	listen	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Good	x	x	0
+B-TIME	0	1	O	O	afternoon	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	appreciate	x	x	0
+B-PER	0	2	O	O	y'all	x	x	0
+O	0	3	O	O	coming	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	what	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	're	x	x	0
+O	0	9	O	O	doing	x	x	0
+O	0	10	O	O	for	x	x	0
+B-PER	0	11	O	O	Jessie	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	all	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	other	x	x	0
+O	0	17	O	O	troops	x	x	0
+B-PER	0	18	O	O	that	x	x	0
+O	0	19	O	O	are	x	x	0
+O	0	20	O	O	missing	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	waiting	x	x	0
+B-TIME	0	4	O	O	all	x	x	0
+I-TIME	0	5	O	O	day	x	x	0
+O	0	6	O	O	word	x	x	0
+O	0	7	O	O	from	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	doctors	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	successively	x	x	0
+O	0	15	O	O	done	x	x	0
+O	0	16	O	O	one	x	x	0
+O	0	17	O	O	surgery	x	x	0
+O	0	18	O	O	on	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	other	x	x	0
+O	0	4	O	O	surgeries	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	take	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	patience	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	she	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	great	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	she	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	doing	x	x	0
+O	0	8	O	O	good	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	real	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	spirits	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	talked	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	talked	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	before	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	surgery	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	talked	x	x	0
+O	0	10	O	O	to	x	x	0
+B-PER	0	11	O	O	her	x	x	0
+O	0	12	O	O	after	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	surgery	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	she	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	doing	x	x	0
+O	0	20	O	O	good	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ca	x	x	0
+O	0	1	O	O	n't	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	?	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	bunch	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+B-PER	0	6	O	O	my	x	x	0
+O	0	7	O	O	mind	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	blank	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	doctor	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	completed	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	surgery	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	her	x	x	0
+O	0	8	O	O	back	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	released	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	pressure	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	nerve	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	realigned	x	x	0
+O	0	11	O	O	all	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	disks	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	put	x	x	0
+O	0	16	O	O	plates	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	stuff	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	that	x	x	0
+O	0	24	O	O	was	x	x	0
+O	0	25	O	O	because	x	x	0
+B-PER	0	26	O	O	she	x	x	0
+O	0	27	O	O	did	x	x	0
+O	0	28	O	O	n't	x	x	0
+O	0	29	O	O	have	x	x	0
+O	0	30	O	O	any	x	x	0
+O	0	31	O	O	feeling	x	x	0
+O	0	32	O	O	in	x	x	0
+B-PER	0	33	O	O	her	x	x	0
+O	0	34	O	O	feet	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	pretty	x	x	0
+O	0	6	O	O	sure	x	x	0
+B-TIME	0	7	O	O	right	x	x	0
+I-TIME	0	8	O	O	now	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	relieve	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	relieve	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	tension	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	feet	x	x	0
+O	0	21	O	O	will	x	x	0
+O	0	22	O	O	be	x	x	0
+O	0	23	O	O	able	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	move	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	heard	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	seen	x	x	0
+O	0	7	O	O	reports	x	x	0
+O	0	8	O	O	that	x	x	0
+B-PER	0	9	O	O	she	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	multiple	x	x	0
+O	0	12	O	O	gunshot	x	x	0
+O	0	13	O	O	wounds	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+B-WEA	0	16	O	O	knife	x	x	0
+O	0	17	O	O	stabbing	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	doctor	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	seen	x	x	0
+O	0	5	O	O	any	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	looked	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	gunshot	x	x	0
+O	0	5	O	O	wounds	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	the	x	x	0
+B-WEA	0	8	O	O	knife	x	x	0
+O	0	9	O	O	stabbing	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	there	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	no	x	x	0
+O	0	15	O	O	injury	x	x	0
+O	0	16	O	O	whatsoever	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	surgery	x	x	0
+O	0	4	O	O	again	x	x	0
+B-TIME	0	5	O	O	tomorrow	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	her	x	x	0
+O	0	8	O	O	legs	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	fractured	x	x	0
+O	0	3	O	O	legs	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	her	x	x	0
+O	0	6	O	O	right	x	x	0
+O	0	7	O	O	forearm	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	just	x	x	0
+O	0	4	O	O	waiting	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	good	x	x	0
+O	0	9	O	O	news	x	x	0
+O	0	10	O	O	too	x	x	0
+O	0	11	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	talked	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	before	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	after	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	surgery	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	like	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	said	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	she	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	just	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	she	x	x	0
+O	0	20	O	O	just	x	x	0
+O	0	21	O	O	sounded	x	x	0
+O	0	22	O	O	real	x	x	0
+O	0	23	O	O	good	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	,	x	x	0
+B-TIME	0	3	O	O	this	x	x	0
+I-TIME	0	4	O	O	morning	x	x	0
+B-PER	0	5	O	O	she	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	little	x	x	0
+O	0	9	O	O	groggy	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	yet	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	she	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	good	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	because	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	early	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	then	x	x	0
+B-TIME	0	2	O	O	this	x	x	0
+I-TIME	0	3	O	O	afternoon	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	after	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	surgery	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	she	x	x	0
+O	0	10	O	O	was	x	x	0
+B-PER	0	11	O	O	our	x	x	0
+O	0	12	O	O	Jessie	x	x	0
+O	0	13	O	O	again	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	those	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	gunshot	x	x	0
+O	0	5	O	O	wounds	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	cause	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	broken	x	x	0
+O	0	10	O	O	bones	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	do	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	know	x	x	0
+O	0	15	O	O	what	x	x	0
+O	0	16	O	O	caused	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	fractures	x	x	0
+O	0	19	O	O	?	x	x	0
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	idea	x	x	0
+O	0	4	O	O	at	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	time	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	caused	x	x	0
+O	0	9	O	O	them	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	know	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	good	x	x	0
+O	0	6	O	O	spirits	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	because	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	told	x	x	0
+B-PER	0	11	O	O	her	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	gonna	x	x	0
+O	0	15	O	O	put	x	x	0
+O	0	16	O	O	pink	x	x	0
+O	0	17	O	O	casts	x	x	0
+O	0	18	O	O	on	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	legs	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	arms	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	and	x	x	0
+B-PER	0	25	O	O	she	x	x	0
+O	0	26	O	O	had	x	x	0
+O	0	27	O	O	pink	x	x	0
+O	0	28	O	O	casts	x	x	0
+O	0	29	O	O	when	x	x	0
+B-PER	0	30	O	O	she	x	x	0
+O	0	31	O	O	was	x	x	0
+O	0	32	O	O	in	x	x	0
+O	0	33	O	O	the	x	x	0
+O	0	34	O	O	third	x	x	0
+O	0	35	O	O	grade	x	x	0
+O	0	36	O	O	on	x	x	0
+B-PER	0	37	O	O	her	x	x	0
+O	0	38	O	O	arm	x	x	0
+O	0	39	O	O	so	x	x	0
+B-PER	0	40	O	O	we	x	x	0
+O	0	41	O	O	know	x	x	0
+B-PER	0	42	O	O	she	x	x	0
+B-PER	0	43	O	O	her	x	x	0
+O	0	44	O	O	mind	x	x	0
+O	0	45	O	O	is	x	x	0
+O	0	46	O	O	working	x	x	0
+O	0	47	O	O	good	x	x	0
+O	0	48	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	she	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	spirits	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	hope	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	surgery	x	x	0
+O	0	12	O	O	will	x	x	0
+O	0	13	O	O	go	x	x	0
+O	0	14	O	O	good	x	x	0
+B-TIME	0	15	O	O	tomorrow	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	just	x	x	0
+O	0	18	O	O	as	x	x	0
+O	0	19	O	O	well	x	x	0
+O	0	20	O	O	as	x	x	0
+O	0	21	O	O	it	x	x	0
+O	0	22	O	O	did	x	x	0
+B-TIME	0	23	O	O	today	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-PER	0	3	O	O	us	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	she	x	x	0
+O	0	6	O	O	said	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	telephone	x	x	0
+O	0	12	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	said	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	good	x	x	0
+O	0	6	O	O	spirits	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	describe	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	conversation	x	x	0
+O	0	5	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	teased	x	x	0
+B-PER	0	2	O	O	her	x	x	0
+O	0	3	O	O	again	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	the	x	x	0
+B-ORG	0	6	O	O	Army	x	x	0
+O	0	7	O	O	jeeps	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	she	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	"	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	know	x	x	0
+O	0	15	O	O	where	x	x	0
+O	0	16	O	O	there	x	x	0
+O	0	17	O	O	's	x	x	0
+B-VEH	0	18	O	O	a	x	x	0
+I-VEH	0	19	O	O	bunch	x	x	0
+I-VEH	0	20	O	O	of	x	x	0
+I-VEH	0	21	O	O	that	x	x	0
+B-PER	0	22	O	O	we	x	x	0
+O	0	23	O	O	can	x	x	0
+O	0	24	O	O	find	x	x	0
+O	0	25	O	O	.	x	x	0
+O	0	26	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	know	x	x	0
+B-PER	0	4	O	O	she	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	good	x	x	0
+O	0	8	O	O	spirits	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	asking	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	hairbrush	x	x	0
+O	0	6	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Gregory	x	x	0
+I-PER	0	1	O	O	Lynch	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	father	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	Jessica	x	x	0
+I-PER	0	7	O	O	Lynch	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	Jessica	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	mother	x	x	0
+O	0	13	O	O	talking	x	x	0
+O	0	14	O	O	to	x	x	0
+B-PER	0	15	O	O	reporters	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	saying	x	x	0
+B-PER	0	18	O	O	they	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	talked	x	x	0
+O	0	21	O	O	to	x	x	0
+B-PER	0	22	O	O	her	x	x	0
+B-TIME	0	23	O	O	today	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	both	x	x	0
+O	0	26	O	O	before	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	after	x	x	0
+O	0	29	O	O	surgery	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	that	x	x	0
+B-PER	0	32	O	O	she	x	x	0
+O	0	33	O	O	says	x	x	0
+B-PER	0	34	O	O	she	x	x	0
+O	0	35	O	O	's	x	x	0
+O	0	36	O	O	feeling	x	x	0
+O	0	37	O	O	good	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	say	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	good	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	said	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	doctors	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	go	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	apparently	x	x	0
+O	0	10	O	O	do	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	work	x	x	0
+O	0	13	O	O	on	x	x	0
+B-PER	0	14	O	O	her	x	x	0
+O	0	15	O	O	spinal	x	x	0
+O	0	16	O	O	cord	x	x	0
+O	0	17	O	O	or	x	x	0
+O	0	18	O	O	spinal	x	x	0
+O	0	19	O	O	column	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	relieve	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	pressure	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	nerve	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	concerned	x	x	0
+O	0	3	O	O	because	x	x	0
+B-PER	0	4	O	O	she	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	feeling	x	x	0
+O	0	9	O	O	in	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	feet	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	say	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	doctors	x	x	0
+O	0	8	O	O	could	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	find	x	x	0
+O	0	11	O	O	either	x	x	0
+B-WEA	0	12	O	O	bullet	x	x	0
+O	0	13	O	O	or	x	x	0
+B-WEA	0	14	O	O	knife	x	x	0
+O	0	15	O	O	entry	x	x	0
+O	0	16	O	O	wounds	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	suggesting	x	x	0
+O	0	19	O	O	that	x	x	0
+B-PER	0	20	O	O	her	x	x	0
+O	0	21	O	O	broken	x	x	0
+O	0	22	O	O	bones	x	x	0
+O	0	23	O	O	came	x	x	0
+O	0	24	O	O	from	x	x	0
+O	0	25	O	O	some	x	x	0
+O	0	26	O	O	other	x	x	0
+O	0	27	O	O	source	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	it	x	x	0
+O	0	31	O	O	is	x	x	0
+O	0	32	O	O	not	x	x	0
+O	0	33	O	O	clear	x	x	0
+O	0	34	O	O	yet	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	parents	x	x	0
+O	0	2	O	O	said	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	know	x	x	0
+O	0	7	O	O	yet	x	x	0
+O	0	8	O	O	what	x	x	0
+O	0	9	O	O	caused	x	x	0
+B-PER	0	10	O	O	their	x	x	0
+O	0	11	O	O	daughter	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	injuries	x	x	0
+O	0	14	O	O	.	x	x	0
+

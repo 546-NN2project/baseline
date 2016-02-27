@@ -1,0 +1,842 @@
+O	0	0	O	O	Two	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	nephews	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	excluded	x	x	0
+O	0	6	O	O	from	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	brother	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	wedding	x	x	0
+B-TIME	0	11	O	O	this	x	x	0
+I-TIME	0	12	O	O	weekend	x	x	0
+O	0	13	O	O	because	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	not	x	x	0
+B-ORG	0	17	O	O	LDS	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	interest	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	neither	x	x	0
+O	0	4	O	O	went	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	reception	x	x	0
+O	0	8	O	O	either	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Both	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	extremely	x	x	0
+O	0	3	O	O	hurt	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	particularly	x	x	0
+O	0	6	O	O	since	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	know	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	brother	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	had	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	civil	x	x	0
+O	0	16	O	O	ceremony	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	then	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	married	x	x	0
+O	0	21	O	O	in	x	x	0
+B-FAC	0	22	O	O	the	x	x	0
+I-FAC	0	23	O	O	temple	x	x	0
+O	0	24	O	O	later	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	offended	x	x	0
+O	0	3	O	O	because	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	those	x	x	0
+I-PER	0	7	O	O	nephews	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	very	x	x	0
+O	0	12	O	O	close	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	really	x	x	0
+O	0	18	O	O	upset	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	groom	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	quite	x	x	0
+O	0	8	O	O	what	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	expected	x	x	0
+O	0	12	O	O	.	x	x	0
+O	0	13	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	bride	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	quite	x	x	0
+O	0	5	O	O	able	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	speak	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	front	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	strangers	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	so	x	x	0
+B-PER	0	14	O	O	I	x	x	0
+O	0	15	O	O	do	x	x	0
+O	0	16	O	O	n't	x	x	0
+O	0	17	O	O	know	x	x	0
+O	0	18	O	O	what	x	x	0
+B-PER	0	19	O	O	she	x	x	0
+O	0	20	O	O	thought	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	niece	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	she	x	x	0
+O	0	7	O	O	thought	x	x	0
+B-PER	0	8	O	O	her	x	x	0
+O	0	9	O	O	husband	x	x	0
+O	0	10	O	O	was	x	x	0
+B-PER	0	11	O	O	a	x	x	0
+I-PER	0	12	O	O	good	x	x	0
+I-PER	0	13	O	O	catch	x	x	0
+O	0	14	O	O	--	x	x	0
+B-PER	0	15	O	O	RM	x	x	0
+O	0	16	O	O	attending	x	x	0
+B-ORG	0	17	O	O	BYU	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	all	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	got	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	sort	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	icky	x	x	0
+O	0	7	O	O	feeling	x	x	0
+O	0	8	O	O	when	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	realized	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	only	x	x	0
+O	0	13	O	O	people	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	did	x	x	0
+O	0	16	O	O	attend	x	x	0
+B-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	kid	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	wedding	x	x	0
+O	0	21	O	O	was	x	x	0
+B-PER	0	22	O	O	his	x	x	0
+O	0	23	O	O	unmedicated	x	x	0
+O	0	24	O	O	bi-polar	x	x	0
+O	0	25	O	O	mother	x	x	0
+O	0	26	O	O	and	x	x	0
+B-PER	0	27	O	O	his	x	x	0
+O	0	28	O	O	father	x	x	0
+O	0	29	O	O	,	x	x	0
+B-PER	0	30	O	O	who	x	x	0
+O	0	31	O	O	suffers	x	x	0
+O	0	32	O	O	from	x	x	0
+O	0	33	O	O	Alzheimers	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Regards	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Lee	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	James	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	uM	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	feminist	x	x	0
+O	0	10	O	O	The	x	x	0
+O	0	11	O	O	religion	x	x	0
+B-ORG	0	12	O	O	that	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	afraid	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	science	x	x	0
+O	0	17	O	O	dishonors	x	x	0
+B-PER	0	18	O	O	God	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	commits	x	x	0
+O	0	21	O	O	suicide	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ralph	x	x	0
+I-PER	0	1	O	O	Waldo	x	x	0
+I-PER	0	2	O	O	Emerson	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	sad	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Lee	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	really	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	for	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	church	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	admit	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	civil	x	x	0
+O	0	14	O	O	ceremony	x	x	0
+O	0	15	O	O	followed	x	x	0
+O	0	16	O	O	by	x	x	0
+O	0	17	O	O	a	x	x	0
+B-FAC	0	18	O	O	temple	x	x	0
+O	0	19	O	O	sealing	x	x	0
+O	0	20	O	O	reaches	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	same	x	x	0
+O	0	23	O	O	goal	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	often	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	more	x	x	0
+O	0	29	O	O	loving	x	x	0
+O	0	30	O	O	way	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	than	x	x	0
+O	0	33	O	O	insisting	x	x	0
+O	0	34	O	O	that	x	x	0
+O	0	35	O	O	only	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	sealing	x	x	0
+O	0	38	O	O	is	x	x	0
+O	0	39	O	O	worth	x	x	0
+O	0	40	O	O	doing	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	change	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	sort	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	very	x	x	0
+O	0	8	O	O	simple	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	implement	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	most	x	x	0
+B-ORG	0	14	O	O	church	x	x	0
+O	0	15	O	O	members	x	x	0
+O	0	16	O	O	would	x	x	0
+O	0	17	O	O	like	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	better	x	x	0
+O	0	20	O	O	than	x	x	0
+O	0	21	O	O	allowing	x	x	0
+O	0	22	O	O	non-LDS	x	x	0
+B-PER	0	23	O	O	family	x	x	0
+O	0	24	O	O	members	x	x	0
+O	0	25	O	O	into	x	x	0
+B-FAC	0	26	O	O	the	x	x	0
+I-FAC	0	27	O	O	temple	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	which	x	x	0
+O	0	30	O	O	would	x	x	0
+O	0	31	O	O	actually	x	x	0
+O	0	32	O	O	be	x	x	0
+B-PER	0	33	O	O	my	x	x	0
+O	0	34	O	O	preference	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	thread	x	x	0
+B-TIME	0	5	O	O	recently	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	one	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	exMo	x	x	0
+O	0	11	O	O	fora	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	woman	x	x	0
+B-PER	0	15	O	O	whose	x	x	0
+O	0	16	O	O	bishop	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	who	x	x	0
+B-PER	0	19	O	O	she	x	x	0
+O	0	20	O	O	had	x	x	0
+O	0	21	O	O	been	x	x	0
+O	0	22	O	O	planning	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	have	x	x	0
+O	0	25	O	O	marry	x	x	0
+B-PER	0	26	O	O	her	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	was	x	x	0
+O	0	29	O	O	going	x	x	0
+O	0	30	O	O	out	x	x	0
+O	0	31	O	O	of	x	x	0
+B-GPE	0	32	O	O	town	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	so	x	x	0
+B-PER	0	35	O	O	she	x	x	0
+O	0	36	O	O	asked	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	stake	x	x	0
+O	0	39	O	O	president	x	x	0
+O	0	40	O	O	,	x	x	0
+B-PER	0	41	O	O	who	x	x	0
+B-PER	0	42	O	O	she	x	x	0
+O	0	43	O	O	did	x	x	0
+O	0	44	O	O	n't	x	x	0
+O	0	45	O	O	know	x	x	0
+O	0	46	O	O	well	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	insisted	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	needed	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	make	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	point	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	as	x	x	0
+O	0	11	O	O	part	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	performing	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	ceremony	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	that	x	x	0
+B-PER	0	18	O	O	she	x	x	0
+O	0	19	O	O	really	x	x	0
+O	0	20	O	O	needed	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	be	x	x	0
+O	0	23	O	O	married	x	x	0
+O	0	24	O	O	in	x	x	0
+B-FAC	0	25	O	O	the	x	x	0
+I-FAC	0	26	O	O	temple	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	even	x	x	0
+O	0	29	O	O	though	x	x	0
+B-PER	0	30	O	O	her	x	x	0
+O	0	31	O	O	fiance	x	x	0
+O	0	32	O	O	was	x	x	0
+O	0	33	O	O	not	x	x	0
+B-ORG	0	34	O	O	LDS	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	ultimately	x	x	0
+O	0	2	O	O	declined	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	services	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	message	x	x	0
+O	0	5	O	O	across	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	young	x	x	0
+I-PER	0	8	O	O	people	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	considering	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	feelings	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	their	x	x	0
+O	0	15	O	O	family	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	just	x	x	0
+O	0	18	O	O	as	x	x	0
+O	0	19	O	O	important	x	x	0
+O	0	20	O	O	as	x	x	0
+O	0	21	O	O	being	x	x	0
+O	0	22	O	O	sealed	x	x	0
+O	0	23	O	O	for	x	x	0
+B-TIME	0	24	O	O	time	x	x	0
+I-TIME	0	25	O	O	and	x	x	0
+I-TIME	0	26	O	O	all	x	x	0
+I-TIME	0	27	O	O	eternity	x	x	0
+O	0	28	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	sort	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	grassroots	x	x	0
+O	0	9	O	O	movement	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	think	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	since	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	likely	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	come	x	x	0
+O	0	21	O	O	through	x	x	0
+O	0	22	O	O	official	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	correlated	x	x	0
+O	0	25	O	O	channels	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Peggy	x	x	0
+O	0	1	O	O	A	x	x	0
+O	0	2	O	O	dog	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	never	x	x	0
+O	0	5	O	O	tell	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	she	x	x	0
+O	0	9	O	O	knows	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	smells	x	x	0
+O	0	13	O	O	of	x	x	0
+B-LOC	0	14	O	O	the	x	x	0
+I-LOC	0	15	O	O	world	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	but	x	x	0
+B-PER	0	18	O	O	you	x	x	0
+O	0	19	O	O	know	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	watching	x	x	0
+O	0	22	O	O	her	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	that	x	x	0
+B-PER	0	25	O	O	you	x	x	0
+O	0	26	O	O	know	x	x	0
+O	0	27	O	O	almost	x	x	0
+O	0	28	O	O	nothing	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Mary	x	x	0
+I-PER	0	1	O	O	Oliver	x	x	0
+
+O	0	0	O	O	*	x	x	0
+O	0	1	O	O	shrugs	x	x	0
+O	0	2	O	O	*	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	chose	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	civil	x	x	0
+O	0	9	O	O	ceremony	x	x	0
+O	0	10	O	O	largely	x	x	0
+O	0	11	O	O	because	x	x	0
+B-PER	0	12	O	O	my	x	x	0
+O	0	13	O	O	wife	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	were	x	x	0
+B-PER	0	17	O	O	both	x	x	0
+B-PER	0	18	O	O	converts	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	a	x	x	0
+B-FAC	0	21	O	O	temple	x	x	0
+O	0	22	O	O	ceremony	x	x	0
+O	0	23	O	O	would	x	x	0
+O	0	24	O	O	have	x	x	0
+O	0	25	O	O	excluded	x	x	0
+B-PER	0	26	O	O	both	x	x	0
+I-PER	0	27	O	O	families	x	x	0
+O	0	28	O	O	completely	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	From	x	x	0
+O	0	1	O	O	a	x	x	0
+B-PER	0	2	O	O	family	x	x	0
+O	0	3	O	O	standpoint	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	sounded	x	x	0
+O	0	6	O	O	liek	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	good	x	x	0
+O	0	9	O	O	decision	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	harmony	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	all	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	...	x	x	0
+O	0	16	O	O	plus	x	x	0
+O	0	17	O	O	the	x	x	0
+B-FAC	0	18	O	O	temple	x	x	0
+O	0	19	O	O	ceremony	x	x	0
+O	0	20	O	O	could	x	x	0
+O	0	21	O	O	be	x	x	0
+O	0	22	O	O	sealed	x	x	0
+B-TIME	0	23	O	O	a	x	x	0
+I-TIME	0	24	O	O	year	x	x	0
+I-TIME	0	25	O	O	later	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Unfortunately	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	started	x	x	0
+O	0	3	O	O	off	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	wrong	x	x	0
+O	0	7	O	O	foot	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	lot	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	reasons	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	marriage	x	x	0
+O	0	16	O	O	did	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	last	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	ca	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	help	x	x	0
+O	0	4	O	O	but	x	x	0
+O	0	5	O	O	wonder	x	x	0
+O	0	6	O	O	if	x	x	0
+O	0	7	O	O	perhaps	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	did	x	x	0
+B-PER	0	10	O	O	ourselves	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	diservice	x	x	0
+O	0	13	O	O	by	x	x	0
+O	0	14	O	O	not	x	x	0
+O	0	15	O	O	getting	x	x	0
+O	0	16	O	O	sealedi	x	x	0
+O	0	17	O	O	ntially	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	making	x	x	0
+B-PER	0	21	O	O	our	x	x	0
+O	0	22	O	O	marriage	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	gospel	x	x	0
+O	0	25	O	O	focused	x	x	0
+O	0	26	O	O	one	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Who	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	tough	x	x	0
+O	0	4	O	O	decision	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	make	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	despite	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	feeling	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+B-PER	0	12	O	O	myself	x	x	0
+O	0	13	O	O	caved	x	x	0
+B-PER	0	14	O	O	I	x	x	0
+O	0	15	O	O	feel	x	x	0
+B-PER	0	16	O	O	people	x	x	0
+O	0	17	O	O	should	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	understanding	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	rationale	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	if	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	sealed	x	x	0
+O	0	8	O	O	intially	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	simply	x	x	0
+O	0	11	O	O	would	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	been	x	x	0
+B-PER	0	15	O	O	ANYONE	x	x	0
+O	0	16	O	O	there	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	both	x	x	0
+B-PER	0	19	O	O	our	x	x	0
+O	0	20	O	O	families	x	x	0
+O	0	21	O	O	had	x	x	0
+O	0	22	O	O	harsh	x	x	0
+O	0	23	O	O	feeligns	x	x	0
+O	0	24	O	O	about	x	x	0
+B-ORG	0	25	O	O	the	x	x	0
+I-ORG	0	26	O	O	church	x	x	0
+O	0	27	O	O	as	x	x	0
+O	0	28	O	O	is	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	sealign	x	x	0
+O	0	33	O	O	would	x	x	0
+O	0	34	O	O	have	x	x	0
+O	0	35	O	O	only	x	x	0
+O	0	36	O	O	created	x	x	0
+O	0	37	O	O	more	x	x	0
+O	0	38	O	O	disharmony	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	though	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	think	x	x	0
+B-PER	0	7	O	O	we	x	x	0
+O	0	8	O	O	started	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	marriage	x	x	0
+O	0	11	O	O	with	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	compromise	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	deined	x	x	0
+B-PER	0	16	O	O	ourselves	x	x	0
+O	0	17	O	O	tremendous	x	x	0
+O	0	18	O	O	blessing	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	ultimately	x	x	0
+O	0	21	O	O	paid	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	price	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	Hmm	x	x	0
+O	0	1	O	O	...	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	how	x	x	0
+O	0	3	O	O	many	x	x	0
+O	0	4	O	O	success	x	x	0
+O	0	5	O	O	stories	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	people	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	chose	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	have	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	civil	x	x	0
+O	0	17	O	O	ceremony	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	went	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	later	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	be	x	x	0
+O	0	25	O	O	happily	x	x	0
+O	0	26	O	O	sealed	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	what	x	x	0
+O	0	5	O	O	happened	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+B-PER	0	8	O	O	own	x	x	0
+O	0	9	O	O	parents	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	largely	x	x	0
+O	0	12	O	O	because	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	decision	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	get	x	x	0
+O	0	17	O	O	married	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	my	x	x	0
+O	0	20	O	O	father	x	x	0
+O	0	21	O	O	's	x	x	0
+O	0	22	O	O	decision	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	join	x	x	0
+B-ORG	0	25	O	O	the	x	x	0
+I-ORG	0	26	O	O	church	x	x	0
+O	0	27	O	O	came	x	x	0
+O	0	28	O	O	very	x	x	0
+O	0	29	O	O	close	x	x	0
+O	0	30	O	O	together	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	and	x	x	0
+B-PER	0	33	O	O	they	x	x	0
+O	0	34	O	O	did	x	x	0
+O	0	35	O	O	n't	x	x	0
+O	0	36	O	O	want	x	x	0
+O	0	37	O	O	to	x	x	0
+O	0	38	O	O	wait	x	x	0
+O	0	39	O	O	the	x	x	0
+O	0	40	O	O	year	x	x	0
+O	0	41	O	O	until	x	x	0
+B-PER	0	42	O	O	he	x	x	0
+O	0	43	O	O	would	x	x	0
+O	0	44	O	O	be	x	x	0
+O	0	45	O	O	able	x	x	0
+O	0	46	O	O	to	x	x	0
+O	0	47	O	O	enter	x	x	0
+B-FAC	0	48	O	O	the	x	x	0
+I-FAC	0	49	O	O	temple	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	still	x	x	0
+O	0	3	O	O	together	x	x	0
+O	0	4	O	O	after	x	x	0
+B-TIME	0	5	O	O	more	x	x	0
+I-TIME	0	6	O	O	than	x	x	0
+I-TIME	0	7	O	O	55	x	x	0
+I-TIME	0	8	O	O	years	x	x	0
+O	0	9	O	O	.	x	x	0
+

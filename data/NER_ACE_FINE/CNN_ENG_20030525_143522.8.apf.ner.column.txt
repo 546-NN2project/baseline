@@ -1,0 +1,839 @@
+O	0	0	O	O	a	x	x	0
+O	0	1	O	O	series	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	commercials	x	x	0
+B-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	as	x	x	0
+O	0	8	O	O	fond	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	featuring	x	x	0
+B-PER	0	11	O	O	carrot	x	x	0
+I-PER	0	12	O	O	top	x	x	0
+O	0	13	O	O	as	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	pitches	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	one	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	oldest	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	most	x	x	0
+O	0	23	O	O	reared	x	x	0
+O	0	24	O	O	corporations	x	x	0
+O	0	25	O	O	in	x	x	0
+B-GPE	0	26	O	O	the	x	x	0
+I-GPE	0	27	O	O	land	x	x	0
+O	0	28	O	O	,	x	x	0
+B-ORG	0	29	O	O	at	x	x	0
+I-ORG	0	30	O	O	&	x	x	0
+I-ORG	0	31	O	O	amp	x	x	0
+I-ORG	0	32	O	O	;	x	x	0
+I-ORG	0	33	O	O	t	x	x	0
+O	0	34	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	training	x	x	0
+O	0	3	O	O	here	x	x	0
+O	0	4	O	O	?	x	x	0
+
+O	0	0	O	O	train	x	x	0
+B-PER	0	1	O	O	your	x	x	0
+O	0	2	O	O	finger	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	dial	x	x	0
+O	0	5	O	O	up	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	center	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	free	x	x	0
+O	0	3	O	O	for	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	cheap	x	x	0
+O	0	8	O	O	for	x	x	0
+B-PER	0	9	O	O	them	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	carrot	x	x	0
+I-PER	0	1	O	O	top	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	major	x	x	0
+O	0	4	O	O	exposure	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	tube	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	just	x	x	0
+O	0	11	O	O	something	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	makes	x	x	0
+B-PER	0	14	O	O	us	x	x	0
+O	0	15	O	O	curious	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-ORG	0	1	O	O	Fortune	x	x	0
+I-ORG	0	2	O	O	"	x	x	0
+I-ORG	0	3	O	O	magazine	x	x	0
+O	0	4	O	O	looked	x	x	0
+O	0	5	O	O	into	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	commercial	x	x	0
+O	0	8	O	O	appeal	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	must	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Andy	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	explain	x	x	0
+O	0	3	O	O	why	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	's	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	hot	x	x	0
+I-PER	0	8	O	O	commodity	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	no	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	ca	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	explain	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	all	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	sound	x	x	0
+O	0	4	O	O	off	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	blows	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	mind	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Probably	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	most	x	x	0
+O	0	3	O	O	annoying	x	x	0
+O	0	4	O	O	person	x	x	0
+O	0	5	O	O	on	x	x	0
+B-LOC	0	6	O	O	the	x	x	0
+I-LOC	0	7	O	O	planet	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	lightly	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	most	x	x	0
+O	0	2	O	O	annoying	x	x	0
+O	0	3	O	O	person	x	x	0
+O	0	4	O	O	on	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	planet	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	old	x	x	0
+O	0	4	O	O	blue	x	x	0
+O	0	5	O	O	chip	x	x	0
+O	0	6	O	O	company	x	x	0
+B-ORG	0	7	O	O	that	x	x	0
+O	0	8	O	O	uses	x	x	0
+B-PER	0	9	O	O	him	x	x	0
+O	0	10	O	O	as	x	x	0
+B-PER	0	11	O	O	a	x	x	0
+I-PER	0	12	O	O	pitch	x	x	0
+I-PER	0	13	O	O	man	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	never	x	x	0
+O	0	3	O	O	heard	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	this	x	x	0
+I-PER	0	6	O	O	guy	x	x	0
+O	0	7	O	O	before	x	x	0
+B-ORG	0	8	O	O	they	x	x	0
+O	0	9	O	O	started	x	x	0
+O	0	10	O	O	doing	x	x	0
+O	0	11	O	O	these	x	x	0
+O	0	12	O	O	commercials	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	more	x	x	0
+O	0	6	O	O	famous	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	hitting	x	x	0
+O	0	3	O	O	on	x	x	0
+B-PER	0	4	O	O	girls	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	advertising	x	x	0
+O	0	7	O	O	long	x	x	0
+O	0	8	O	O	distance	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	this	x	x	0
+O	0	2	O	O	is	x	x	0
+B-PER	0	3	O	O	carrot	x	x	0
+I-PER	0	4	O	O	top	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Does	x	x	0
+B-PER	0	1	O	O	anyone	x	x	0
+O	0	2	O	O	like	x	x	0
+B-PER	0	3	O	O	carrot	x	x	0
+I-PER	0	4	O	O	top	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	disgusting	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	actually	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	flew	x	x	0
+O	0	4	O	O	under	x	x	0
+B-PER	0	5	O	O	my	x	x	0
+O	0	6	O	O	radar	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	called	x	x	0
+B-GPE	0	2	O	O	Atlanta	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	background	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	this	x	x	0
+I-PER	0	8	O	O	guy	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	San	x	x	0
+I-ORG	0	2	O	O	Francisco	x	x	0
+I-ORG	0	3	O	O	Chronicle	x	x	0
+O	0	4	O	O	did	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	survey	x	x	0
+O	0	7	O	O	with	x	x	0
+B-ORG	0	8	O	O	its	x	x	0
+O	0	9	O	O	readers	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	most	x	x	0
+I-PER	0	12	O	O	annoying	x	x	0
+I-PER	0	13	O	O	celebrities	x	x	0
+I-PER	0	14	O	O	famous	x	x	0
+I-PER	0	15	O	O	for	x	x	0
+I-PER	0	16	O	O	just	x	x	0
+I-PER	0	17	O	O	being	x	x	0
+I-PER	0	18	O	O	famous	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Carrot	x	x	0
+I-PER	0	1	O	O	top	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kathy	x	x	0
+I-PER	0	1	O	O	Lee	x	x	0
+I-PER	0	2	O	O	Gifford	x	x	0
+B-PER	0	3	O	O	number	x	x	0
+I-PER	0	4	O	O	two	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	he	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	n't	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	celebrity	x	x	0
+O	0	5	O	O	until	x	x	0
+B-ORG	0	6	O	O	at	x	x	0
+I-ORG	0	7	O	O	&	x	x	0
+I-ORG	0	8	O	O	amp	x	x	0
+I-ORG	0	9	O	O	;	x	x	0
+I-ORG	0	10	O	O	t	x	x	0
+O	0	11	O	O	ever	x	x	0
+O	0	12	O	O	made	x	x	0
+B-PER	0	13	O	O	him	x	x	0
+B-PER	0	14	O	O	one	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anybody	x	x	0
+O	0	1	O	O	call	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	carrot	x	x	0
+O	0	4	O	O	top	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Auburn	x	x	0
+O	0	1	O	O	top	x	x	0
+O	0	2	O	O	?	x	x	0
+
+B-PER	0	0	O	O	nobody	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	celebrity	x	x	0
+O	0	4	O	O	until	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	media	x	x	0
+O	0	7	O	O	makes	x	x	0
+B-PER	0	8	O	O	him	x	x	0
+B-PER	0	9	O	O	one	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	picking	x	x	0
+O	0	4	O	O	on	x	x	0
+B-PER	0	5	O	O	my	x	x	0
+O	0	6	O	O	friend	x	x	0
+B-PER	0	7	O	O	Susan	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	really	x	x	0
+O	0	3	O	O	exercised	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	trying	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	make	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	living	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Has	x	x	0
+O	0	1	O	O	Somebody	x	x	0
+O	0	2	O	O	from	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	magazine	x	x	0
+O	0	5	O	O	spent	x	x	0
+O	0	6	O	O	time	x	x	0
+O	0	7	O	O	with	x	x	0
+B-PER	0	8	O	O	him	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	yes	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	hates	x	x	0
+B-PER	0	4	O	O	him	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	much	x	x	0
+O	0	7	O	O	as	x	x	0
+B-PER	0	8	O	O	everyone	x	x	0
+I-PER	0	9	O	O	else	x	x	0
+O	0	10	O	O	does	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	spent	x	x	0
+O	0	2	O	O	time	x	x	0
+O	0	3	O	O	with	x	x	0
+B-PER	0	4	O	O	this	x	x	0
+I-PER	0	5	O	O	guy	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	was	x	x	0
+B-GPE	0	9	O	O	Stockholm	x	x	0
+O	0	10	O	O	Syndrome	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	ended	x	x	0
+O	0	14	O	O	up	x	x	0
+O	0	15	O	O	liking	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	guy	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	maybe	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	's	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	Nice	x	x	0
+I-PER	0	5	O	O	Guy	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	does	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+B-GPE	0	13	O	O	Stockholm	x	x	0
+O	0	14	O	O	Syndrome	x	x	0
+O	0	15	O	O	.	x	x	0
+
+O	0	0	O	O	in	x	x	0
+O	0	1	O	O	defense	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	Carrot	x	x	0
+I-PER	0	4	O	O	Top	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	knows	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	insane	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	annoying	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	acknowledges	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	.	x	x	0
+
+B-PER	0	0	O	O	he	x	x	0
+O	0	1	O	O	wrote	x	x	0
+B-PER	0	2	O	O	carrot	x	x	0
+I-PER	0	3	O	O	top	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	those	x	x	0
+O	0	8	O	O	C	x	x	0
+O	0	9	O	O	list	x	x	0
+O	0	10	O	O	celebrities	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	wormed	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	way	x	x	0
+O	0	15	O	O	into	x	x	0
+B-PER	0	16	O	O	your	x	x	0
+O	0	17	O	O	consciousness	x	x	0
+O	0	18	O	O	without	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	knowing	x	x	0
+O	0	21	O	O	how	x	x	0
+O	0	22	O	O	it	x	x	0
+O	0	23	O	O	happened	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	here	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	story	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	kid	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	stormed	x	x	0
+O	0	10	O	O	into	x	x	0
+B-PER	0	11	O	O	our	x	x	0
+O	0	12	O	O	consciousness	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	Lebron	x	x	0
+I-PER	0	15	O	O	James	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-ORG	0	1	O	O	high	x	x	0
+I-ORG	0	2	O	O	school	x	x	0
+O	0	3	O	O	basketball	x	x	0
+O	0	4	O	O	phenom	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	Ohio	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	signed	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	only	x	x	0
+B-TIME	0	5	O	O	18	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	senior	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	has	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	played	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	nanosecond	x	x	0
+O	0	15	O	O	in	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	NBA	x	x	0
+O	0	18	O	O	yet	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yet	x	x	0
+O	0	1	O	O	already	x	x	0
+O	0	2	O	O	signed	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	sneaker	x	x	0
+O	0	5	O	O	deal	x	x	0
+O	0	6	O	O	that	x	x	0
+B-ORG	0	7	O	O	AP	x	x	0
+O	0	8	O	O	reports	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	worth	x	x	0
+O	0	11	O	O	more	x	x	0
+O	0	12	O	O	than	x	x	0
+B-Numeric	0	13	O	O	$90	x	x	0
+I-Numeric	0	14	O	O	million	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Lebron	x	x	0
+I-PER	0	1	O	O	James	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	expected	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+B-ORG	0	6	O	O	Cleveland	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	top	x	x	0
+O	0	9	O	O	pick	x	x	0
+O	0	10	O	O	after	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	won	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	number	x	x	0
+O	0	15	O	O	one	x	x	0
+O	0	16	O	O	pick	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	the	x	x	0
+B-ORG	0	19	O	O	NBA	x	x	0
+O	0	20	O	O	lottery	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Nike	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	hoping	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	phenom	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	help	x	x	0
+O	0	7	O	O	boost	x	x	0
+B-ORG	0	8	O	O	their	x	x	0
+O	0	9	O	O	sales	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	basketball	x	x	0
+O	0	12	O	O	shoes	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	crucial	x	x	0
+B-ORG	0	16	O	O	team	x	x	0
+O	0	17	O	O	market	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	course	x	x	0
+B-PER	0	3	O	O	everybody	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	got	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	opinion	x	x	0
+O	0	8	O	O	whether	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	kid	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	going	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	skip	x	x	0
+B-ORG	0	15	O	O	college	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	go	x	x	0
+O	0	18	O	O	right	x	x	0
+O	0	19	O	O	into	x	x	0
+B-ORG	0	20	O	O	the	x	x	0
+I-ORG	0	21	O	O	pros	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	worth	x	x	0
+O	0	24	O	O	this	x	x	0
+O	0	25	O	O	kind	x	x	0
+O	0	26	O	O	of	x	x	0
+O	0	27	O	O	money	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	mega	x	x	0
+O	0	3	O	O	bucks	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	only	x	x	0
+O	0	2	O	O	paid	x	x	0
+B-PER	0	3	O	O	tiger	x	x	0
+I-PER	0	4	O	O	woods	x	x	0
+B-Numeric	0	5	O	O	$40	x	x	0
+I-Numeric	0	6	O	O	million	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	his	x	x	0
+O	0	9	O	O	deal	x	x	0
+O	0	10	O	O	coming	x	x	0
+O	0	11	O	O	out	x	x	0
+O	0	12	O	O	of	x	x	0
+B-ORG	0	13	O	O	Stanford	x	x	0
+I-ORG	0	14	O	O	University	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	amateur	x	x	0
+O	0	5	O	O	golf	x	x	0
+O	0	6	O	O	career	x	x	0
+O	0	7	O	O	where	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	posted	x	x	0
+O	0	10	O	O	scores	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	did	x	x	0
+O	0	13	O	O	things	x	x	0
+O	0	14	O	O	comparable	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	what	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	done	x	x	0
+O	0	19	O	O	on	x	x	0
+O	0	20	O	O	the	x	x	0
+B-ORG	0	21	O	O	PGA	x	x	0
+O	0	22	O	O	tour	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nobody	x	x	0
+O	0	1	O	O	knows	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	this	x	x	0
+I-PER	0	4	O	O	kid	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	play	x	x	0
+O	0	7	O	O	against	x	x	0
+B-PER	0	8	O	O	Shaquille	x	x	0
+I-PER	0	9	O	O	o'neal	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	Nike	x	x	0
+O	0	1	O	O	and	x	x	0
+B-ORG	0	2	O	O	NBA	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	looking	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	next	x	x	0
+I-PER	0	8	O	O	big	x	x	0
+I-PER	0	9	O	O	thing	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	only	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	course	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	basketball	x	x	0
+O	0	8	O	O	skills	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	which	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	unquestionable	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	his	x	x	0
+O	0	2	O	O	personality	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+O	0	1	O	O	if	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	fact	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	team	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	ultimately	x	x	0
+O	0	8	O	O	plays	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	whether	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	Cleveland	x	x	0
+I-ORG	0	14	O	O	Cavaliers	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	or	x	x	0
+B-ORG	0	17	O	O	somebody	x	x	0
+I-ORG	0	18	O	O	else	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	whether	x	x	0
+B-ORG	0	21	O	O	they	x	x	0
+O	0	22	O	O	actually	x	x	0
+O	0	23	O	O	are	x	x	0
+O	0	24	O	O	any	x	x	0
+O	0	25	O	O	good	x	x	0
+O	0	26	O	O	.	x	x	0
+
+O	0	0	O	O	name	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	starting	x	x	0
+O	0	3	O	O	five	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	cavaliers	x	x	0
+O	0	8	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	ca	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	's	x	x	0
+B-PER	0	6	O	O	my	x	x	0
+O	0	7	O	O	point	x	x	0
+O	0	8	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	they	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	lowest	x	x	0
+O	0	4	O	O	attendance	x	x	0
+O	0	5	O	O	in	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	NBA	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	checked	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	guy	x	x	0
+O	0	2	O	O	,	x	x	0
+

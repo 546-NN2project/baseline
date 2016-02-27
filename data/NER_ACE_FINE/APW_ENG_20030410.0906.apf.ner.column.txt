@@ -1,0 +1,914 @@
+B-FAC	0	0	O	O	UNITED	x	x	0
+I-FAC	0	1	O	O	NATIONS	x	x	0
+O	0	2	O	O	(	x	x	0
+B-ORG	0	3	O	O	AP	x	x	0
+O	0	4	O	O	)	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	's	x	x	0
+B-ORG	0	7	O	O	U.N.	x	x	0
+O	0	8	O	O	Ambassador	x	x	0
+O	0	9	O	O	Mohammed	x	x	0
+O	0	10	O	O	Al-Douri	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	first	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	official	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	concede	x	x	0
+O	0	18	O	O	defeat	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	the	x	x	0
+B-GPE	0	21	O	O	U.S.	x	x	0
+O	0	22	O	O	-	x	x	0
+O	0	23	O	O	led	x	x	0
+O	0	24	O	O	war	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	met	x	x	0
+O	0	27	O	O	privately	x	x	0
+O	0	28	O	O	with	x	x	0
+B-PER	0	29	O	O	Secretary-General	x	x	0
+O	0	30	O	O	Kofi	x	x	0
+O	0	31	O	O	Annan	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	but	x	x	0
+O	0	34	O	O	refused	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	talk	x	x	0
+O	0	37	O	O	about	x	x	0
+O	0	38	O	O	rumors	x	x	0
+O	0	39	O	O	that	x	x	0
+B-PER	0	40	O	O	he	x	x	0
+O	0	41	O	O	was	x	x	0
+O	0	42	O	O	planning	x	x	0
+O	0	43	O	O	to	x	x	0
+O	0	44	O	O	leave	x	x	0
+B-GPE	0	45	O	O	New	x	x	0
+I-GPE	0	46	O	O	York	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	am	x	x	0
+O	0	3	O	O	sorry	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	''	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	No	x	x	0
+O	0	2	O	O	Answer	x	x	0
+O	0	3	O	O	.	x	x	0
+O	0	4	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	No	x	x	0
+O	0	2	O	O	comment	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	last	x	x	0
+O	0	4	O	O	word	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	''	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	told	x	x	0
+O	0	11	O	O	hordes	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	journalists	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	chased	x	x	0
+B-PER	0	16	O	O	him	x	x	0
+B-TIME	0	17	O	O	Thursday	x	x	0
+O	0	18	O	O	at	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+B-GPE	0	20	O	O	New	x	x	0
+I-GPE	0	21	O	O	York	x	x	0
+O	0	22	O	O	residence	x	x	0
+O	0	23	O	O	and	x	x	0
+B-ORG	0	24	O	O	U.N.	x	x	0
+O	0	25	O	O	headquarters	x	x	0
+O	0	26	O	O	seeking	x	x	0
+O	0	27	O	O	comment	x	x	0
+O	0	28	O	O	on	x	x	0
+B-PER	0	29	O	O	his	x	x	0
+O	0	30	O	O	talks	x	x	0
+O	0	31	O	O	with	x	x	0
+B-PER	0	32	O	O	the	x	x	0
+I-PER	0	33	O	O	secretary-general	x	x	0
+O	0	34	O	O	,	x	x	0
+B-PER	0	35	O	O	his	x	x	0
+B-TIME	0	36	O	O	future	x	x	0
+O	0	37	O	O	and	x	x	0
+O	0	38	O	O	the	x	x	0
+O	0	39	O	O	war	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Asked	x	x	0
+O	0	1	O	O	who	x	x	0
+O	0	2	O	O	should	x	x	0
+O	0	3	O	O	govern	x	x	0
+B-GPE	0	4	O	O	Iraq	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Al-Douri	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	:	x	x	0
+O	0	9	O	O	``	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	nothing	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	do	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	.	x	x	0
+O	0	18	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Annan	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	declined	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	comment	x	x	0
+O	0	5	O	O	on	x	x	0
+B-TIME	0	6	O	O	Thursday	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	meeting	x	x	0
+O	0	9	O	O	with	x	x	0
+B-PER	0	10	O	O	Al-Douri	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	fall	x	x	0
+O	0	3	O	O	of	x	x	0
+B-GPE	0	4	O	O	Baghdad	x	x	0
+B-TIME	0	5	O	O	Wednesday	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Al-Douri	x	x	0
+O	0	8	O	O	declared	x	x	0
+O	0	9	O	O	``	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	game	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	over	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	expressed	x	x	0
+O	0	17	O	O	hope	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	Iraqi	x	x	0
+O	0	21	O	O	people	x	x	0
+O	0	22	O	O	will	x	x	0
+B-TIME	0	23	O	O	now	x	x	0
+O	0	24	O	O	be	x	x	0
+O	0	25	O	O	able	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	live	x	x	0
+O	0	28	O	O	in	x	x	0
+O	0	29	O	O	peace	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	touch	x	x	0
+O	0	8	O	O	with	x	x	0
+B-GPE	0	9	O	O	Baghdad	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Beside	x	x	0
+O	0	1	O	O	meeting	x	x	0
+O	0	2	O	O	with	x	x	0
+B-PER	0	3	O	O	Annan	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Al-Douri	x	x	0
+O	0	6	O	O	spent	x	x	0
+B-TIME	0	7	O	O	several	x	x	0
+I-TIME	0	8	O	O	hours	x	x	0
+O	0	9	O	O	during	x	x	0
+O	0	10	O	O	the	x	x	0
+B-TIME	0	11	O	O	late	x	x	0
+I-TIME	0	12	O	O	morning	x	x	0
+O	0	13	O	O	and	x	x	0
+B-TIME	0	14	O	O	afternoon	x	x	0
+O	0	15	O	O	meeting	x	x	0
+O	0	16	O	O	with	x	x	0
+B-PER	0	17	O	O	ambassadors	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	diplomats	x	x	0
+O	0	20	O	O	in	x	x	0
+B-FAC	0	21	O	O	the	x	x	0
+I-FAC	0	22	O	O	Delegate	x	x	0
+I-FAC	0	23	O	O	's	x	x	0
+I-FAC	0	24	O	O	Lounge	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	wished	x	x	0
+B-PER	0	3	O	O	him	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	luck	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	do	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	what	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	to	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	secretary-general	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	what	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	be	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	next	x	x	0
+O	0	23	O	O	steps	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	''	x	x	0
+O	0	26	O	O	said	x	x	0
+B-GPE	0	27	O	O	Arab	x	x	0
+I-GPE	0	28	O	O	League	x	x	0
+O	0	29	O	O	Secretary-General	x	x	0
+O	0	30	O	O	Amr	x	x	0
+O	0	31	O	O	Moussa	x	x	0
+O	0	32	O	O	,	x	x	0
+B-PER	0	33	O	O	who	x	x	0
+O	0	34	O	O	talked	x	x	0
+O	0	35	O	O	with	x	x	0
+B-PER	0	36	O	O	Al-Douri	x	x	0
+O	0	37	O	O	before	x	x	0
+B-PER	0	38	O	O	his	x	x	0
+O	0	39	O	O	own	x	x	0
+O	0	40	O	O	meeting	x	x	0
+O	0	41	O	O	with	x	x	0
+B-PER	0	42	O	O	Annan	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	an	x	x	0
+O	0	2	O	O	interview	x	x	0
+O	0	3	O	O	with	x	x	0
+B-ORG	0	4	O	O	The	x	x	0
+I-ORG	0	5	O	O	Associated	x	x	0
+I-ORG	0	6	O	O	Press	x	x	0
+B-TIME	0	7	O	O	Wednesday	x	x	0
+I-TIME	0	8	O	O	night	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	Al-Douri	x	x	0
+O	0	11	O	O	said	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	will	x	x	0
+O	0	14	O	O	continue	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	work	x	x	0
+O	0	17	O	O	at	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	United	x	x	0
+I-ORG	0	20	O	O	Nations	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	had	x	x	0
+O	0	23	O	O	no	x	x	0
+O	0	24	O	O	intention	x	x	0
+O	0	25	O	O	of	x	x	0
+O	0	26	O	O	defecting	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Defecting	x	x	0
+O	0	2	O	O	from	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	?	x	x	0
+O	0	5	O	O	''	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	asked	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	think	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	government	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	already	x	x	0
+O	0	7	O	O	defected	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	more	x	x	0
+B-GPE	0	4	O	O	Iraqi	x	x	0
+O	0	5	O	O	government	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	defected	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	.	x	x	0
+O	0	11	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Annan	x	x	0
+O	0	1	O	O	said	x	x	0
+B-TIME	0	2	O	O	early	x	x	0
+I-TIME	0	3	O	O	Thursday	x	x	0
+O	0	4	O	O	_	x	x	0
+O	0	5	O	O	before	x	x	0
+O	0	6	O	O	meeting	x	x	0
+B-PER	0	7	O	O	Al-Douri	x	x	0
+O	0	8	O	O	_	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	talks	x	x	0
+O	0	12	O	O	with	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	envoy	x	x	0
+B-TIME	0	15	O	O	Monday	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	``	x	x	0
+B-PER	0	18	O	O	he	x	x	0
+O	0	19	O	O	did	x	x	0
+O	0	20	O	O	n't	x	x	0
+O	0	21	O	O	ask	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	an	x	x	0
+O	0	24	O	O	asylum	x	x	0
+O	0	25	O	O	or	x	x	0
+O	0	26	O	O	protection	x	x	0
+O	0	27	O	O	...	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	)	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	did	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	ask	x	x	0
+B-PER	0	7	O	O	me	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	help	x	x	0
+O	0	10	O	O	with	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+O	0	12	O	O	status	x	x	0
+O	0	13	O	O	.	x	x	0
+O	0	14	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	talk	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	what	x	x	0
+O	0	6	O	O	happens	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	depending	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	evolution	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	things	x	x	0
+O	0	14	O	O	on	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	ground	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	''	x	x	0
+B-PER	0	19	O	O	Annan	x	x	0
+O	0	20	O	O	said	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	ambassador	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	vehemently	x	x	0
+O	0	4	O	O	defended	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	country	x	x	0
+O	0	7	O	O	for	x	x	0
+B-TIME	0	8	O	O	months	x	x	0
+O	0	9	O	O	as	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	United	x	x	0
+I-GPE	0	12	O	O	States	x	x	0
+O	0	13	O	O	and	x	x	0
+B-GPE	0	14	O	O	its	x	x	0
+O	0	15	O	O	allies	x	x	0
+O	0	16	O	O	sought	x	x	0
+B-ORG	0	17	O	O	U.N.	x	x	0
+O	0	18	O	O	backing	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	war	x	x	0
+O	0	21	O	O	on	x	x	0
+B-GPE	0	22	O	O	Iraq	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Privately	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	many	x	x	0
+B-ORG	0	3	O	O	U.N.	x	x	0
+O	0	4	O	O	diplomats	x	x	0
+O	0	5	O	O	see	x	x	0
+B-PER	0	6	O	O	him	x	x	0
+O	0	7	O	O	as	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	respectable	x	x	0
+I-PER	0	10	O	O	colleague	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	sympathize	x	x	0
+O	0	3	O	O	with	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	need	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	create	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	new	x	x	0
+O	0	10	O	O	life	x	x	0
+O	0	11	O	O	for	x	x	0
+B-PER	0	12	O	O	himself	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	said	x	x	0
+B-GPE	0	16	O	O	Britain	x	x	0
+O	0	17	O	O	's	x	x	0
+B-ORG	0	18	O	O	U.N.	x	x	0
+O	0	19	O	O	Ambassador	x	x	0
+O	0	20	O	O	Jeremy	x	x	0
+O	0	21	O	O	Greenstock	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Al-Douri	x	x	0
+O	0	1	O	O	taught	x	x	0
+O	0	2	O	O	international	x	x	0
+O	0	3	O	O	law	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	Baghdad	x	x	0
+O	0	6	O	O	University	x	x	0
+O	0	7	O	O	for	x	x	0
+B-TIME	0	8	O	O	over	x	x	0
+I-TIME	0	9	O	O	30	x	x	0
+I-TIME	0	10	O	O	years	x	x	0
+O	0	11	O	O	before	x	x	0
+O	0	12	O	O	becoming	x	x	0
+O	0	13	O	O	a	x	x	0
+B-Job-Title	0	14	O	O	diplomat	x	x	0
+O	0	15	O	O	in	x	x	0
+B-TIME	0	16	O	O	1999	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	first	x	x	0
+O	0	19	O	O	at	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	United	x	x	0
+O	0	22	O	O	Nations	x	x	0
+O	0	23	O	O	in	x	x	0
+B-GPE	0	24	O	O	Geneva	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	since	x	x	0
+B-TIME	0	27	O	O	early	x	x	0
+I-TIME	0	28	O	O	2001	x	x	0
+O	0	29	O	O	at	x	x	0
+B-ORG	0	30	O	O	U.N.	x	x	0
+O	0	31	O	O	headquarters	x	x	0
+O	0	32	O	O	in	x	x	0
+B-GPE	0	33	O	O	New	x	x	0
+I-GPE	0	34	O	O	York	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	interview	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	would	x	x	0
+O	0	8	O	O	love	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	return	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	teaching	x	x	0
+O	0	13	O	O	but	x	x	0
+O	0	14	O	O	for	x	x	0
+B-TIME	0	15	O	O	now	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	plans	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	remain	x	x	0
+O	0	20	O	O	at	x	x	0
+B-ORG	0	21	O	O	the	x	x	0
+I-ORG	0	22	O	O	United	x	x	0
+I-ORG	0	23	O	O	Nations	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Things	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	crystalized	x	x	0
+B-TIME	0	5	O	O	one	x	x	0
+I-TIME	0	6	O	O	day	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	''	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	What	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	worried	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	things	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	settled	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	country	x	x	0
+O	0	13	O	O	...	x	x	0
+O	0	14	O	O	so	x	x	0
+B-TIME	0	15	O	O	in	x	x	0
+I-TIME	0	16	O	O	the	x	x	0
+I-TIME	0	17	O	O	future	x	x	0
+O	0	18	O	O	the	x	x	0
+B-GPE	0	19	O	O	Iraqi	x	x	0
+O	0	20	O	O	people	x	x	0
+O	0	21	O	O	will	x	x	0
+O	0	22	O	O	live	x	x	0
+O	0	23	O	O	in	x	x	0
+O	0	24	O	O	peace	x	x	0
+O	0	25	O	O	without	x	x	0
+O	0	26	O	O	sanctions	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	without	x	x	0
+O	0	29	O	O	wars	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	without	x	x	0
+O	0	32	O	O	suffering	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	message	x	x	0
+O	0	4	O	O	.	x	x	0
+O	0	5	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	Separately	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	lawyers	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	claim	x	x	0
+O	0	5	O	O	that	x	x	0
+B-GPE	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	helped	x	x	0
+O	0	8	O	O	plan	x	x	0
+O	0	9	O	O	the	x	x	0
+B-TIME	0	10	O	O	1995	x	x	0
+B-GPE	0	11	O	O	Oklahoma	x	x	0
+I-GPE	0	12	O	O	City	x	x	0
+O	0	13	O	O	bombing	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	killed	x	x	0
+B-PER	0	16	O	O	168	x	x	0
+I-PER	0	17	O	O	people	x	x	0
+O	0	18	O	O	asked	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	judge	x	x	0
+O	0	21	O	O	at	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	federal	x	x	0
+O	0	24	O	O	court	x	x	0
+O	0	25	O	O	in	x	x	0
+B-GPE	0	26	O	O	New	x	x	0
+I-GPE	0	27	O	O	York	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	force	x	x	0
+B-PER	0	30	O	O	Al-Douri	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	testify	x	x	0
+O	0	33	O	O	in	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	case	x	x	0
+O	0	36	O	O	and	x	x	0
+O	0	37	O	O	hold	x	x	0
+B-PER	0	38	O	O	the	x	x	0
+I-PER	0	39	O	O	envoy	x	x	0
+O	0	40	O	O	in	x	x	0
+O	0	41	O	O	contempt	x	x	0
+O	0	42	O	O	,	x	x	0
+O	0	43	O	O	saying	x	x	0
+B-PER	0	44	O	O	they	x	x	0
+O	0	45	O	O	worry	x	x	0
+O	0	46	O	O	that	x	x	0
+B-PER	0	47	O	O	he	x	x	0
+O	0	48	O	O	would	x	x	0
+O	0	49	O	O	flee	x	x	0
+B-GPE	0	50	O	O	the	x	x	0
+I-GPE	0	51	O	O	country	x	x	0
+O	0	52	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	U.N.	x	x	0
+O	0	2	O	O	spokesman	x	x	0
+O	0	3	O	O	Fred	x	x	0
+O	0	4	O	O	Eckhard	x	x	0
+O	0	5	O	O	said	x	x	0
+B-PER	0	6	O	O	Al-Douri	x	x	0
+O	0	7	O	O	still	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	diplomatic	x	x	0
+O	0	10	O	O	immunity	x	x	0
+O	0	11	O	O	as	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	ambassador	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Under	x	x	0
+B-ORG	0	1	O	O	U.N.	x	x	0
+O	0	2	O	O	rules	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	new	x	x	0
+B-GPE	0	6	O	O	Iraqi	x	x	0
+O	0	7	O	O	government	x	x	0
+O	0	8	O	O	would	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	ask	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	represent	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	country	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	which	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	General	x	x	0
+I-ORG	0	20	O	O	Assembly	x	x	0
+O	0	21	O	O	would	x	x	0
+O	0	22	O	O	then	x	x	0
+O	0	23	O	O	consider	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	He	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	still	x	x	0
+B-GPE	0	4	O	O	Iraq	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	ambassador	x	x	0
+O	0	7	O	O	at	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	United	x	x	0
+I-ORG	0	10	O	O	Nations	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	''	x	x	0
+B-GPE	0	13	O	O	White	x	x	0
+I-GPE	0	14	O	O	House	x	x	0
+O	0	15	O	O	spokesman	x	x	0
+O	0	16	O	O	Ari	x	x	0
+O	0	17	O	O	Fleischer	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	in	x	x	0
+B-GPE	0	20	O	O	Washington	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Legally	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	way	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	works	x	x	0
+O	0	9	O	O	at	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	U.N	x	x	0
+I-ORG	0	12	O	O	.	x	x	0
+O	0	13	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Larry	x	x	0
+I-PER	0	1	O	O	Klayman	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	chairman	x	x	0
+O	0	4	O	O	of	x	x	0
+B-ORG	0	5	O	O	Judicial	x	x	0
+I-ORG	0	6	O	O	Watch	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	which	x	x	0
+O	0	9	O	O	represent	x	x	0
+O	0	10	O	O	14	x	x	0
+O	0	11	O	O	survivors	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	victims	x	x	0
+O	0	14	O	O	'	x	x	0
+O	0	15	O	O	relatives	x	x	0
+B-PER	0	16	O	O	who	x	x	0
+O	0	17	O	O	have	x	x	0
+O	0	18	O	O	filed	x	x	0
+O	0	19	O	O	a	x	x	0
+B-Numeric	0	20	O	O	$1.5	x	x	0
+I-Numeric	0	21	O	O	billion	x	x	0
+O	0	22	O	O	federal	x	x	0
+O	0	23	O	O	lawsuit	x	x	0
+O	0	24	O	O	against	x	x	0
+B-GPE	0	25	O	O	Iraq	x	x	0
+O	0	26	O	O	in	x	x	0
+B-GPE	0	27	O	O	Washington	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	said	x	x	0
+B-PER	0	30	O	O	his	x	x	0
+O	0	31	O	O	organization	x	x	0
+O	0	32	O	O	had	x	x	0
+O	0	33	O	O	served	x	x	0
+O	0	34	O	O	a	x	x	0
+O	0	35	O	O	subpoena	x	x	0
+O	0	36	O	O	on	x	x	0
+B-PER	0	37	O	O	Al-Douri	x	x	0
+O	0	38	O	O	twice	x	x	0
+O	0	39	O	O	,	x	x	0
+O	0	40	O	O	on	x	x	0
+B-TIME	0	41	O	O	March	x	x	0
+I-TIME	0	42	O	O	26	x	x	0
+O	0	43	O	O	and	x	x	0
+B-TIME	0	44	O	O	March	x	x	0
+I-TIME	0	45	O	O	28	x	x	0
+O	0	46	O	O	,	x	x	0
+O	0	47	O	O	but	x	x	0
+O	0	48	O	O	said	x	x	0
+B-PER	0	49	O	O	he	x	x	0
+O	0	50	O	O	has	x	x	0
+O	0	51	O	O	not	x	x	0
+O	0	52	O	O	responded	x	x	0
+O	0	53	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	District	x	x	0
+O	0	2	O	O	Judge	x	x	0
+O	0	3	O	O	John	x	x	0
+O	0	4	O	O	S.	x	x	0
+O	0	5	O	O	Martin	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	immediately	x	x	0
+O	0	9	O	O	rule	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	scheduled	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	hearing	x	x	0
+O	0	14	O	O	for	x	x	0
+B-TIME	0	15	O	O	next	x	x	0
+I-TIME	0	16	O	O	week	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	April	x	x	0
+I-TIME	0	2	O	O	19	x	x	0
+I-TIME	0	3	O	O	,	x	x	0
+I-TIME	0	4	O	O	1995	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	bombing	x	x	0
+O	0	7	O	O	of	x	x	0
+B-FAC	0	8	O	O	the	x	x	0
+I-FAC	0	9	O	O	Alfred	x	x	0
+I-FAC	0	10	O	O	P.	x	x	0
+I-FAC	0	11	O	O	Murrah	x	x	0
+I-FAC	0	12	O	O	federal	x	x	0
+I-FAC	0	13	O	O	building	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	deadliest	x	x	0
+O	0	17	O	O	terrorist	x	x	0
+O	0	18	O	O	strike	x	x	0
+O	0	19	O	O	on	x	x	0
+B-GPE	0	20	O	O	American	x	x	0
+O	0	21	O	O	soil	x	x	0
+O	0	22	O	O	at	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	time	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	suit	x	x	0
+O	0	2	O	O	claims	x	x	0
+B-GPE	0	3	O	O	Iraqi	x	x	0
+O	0	4	O	O	officials	x	x	0
+O	0	5	O	O	provided	x	x	0
+O	0	6	O	O	money	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	training	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	convicted	x	x	0
+I-PER	0	11	O	O	bomber	x	x	0
+O	0	12	O	O	Timothy	x	x	0
+O	0	13	O	O	McVeigh	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	conspirator	x	x	0
+O	0	16	O	O	Terry	x	x	0
+O	0	17	O	O	Nichols	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	McVeigh	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	executed	x	x	0
+O	0	3	O	O	in	x	x	0
+B-TIME	0	4	O	O	2001	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	Nichols	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	serving	x	x	0
+B-Sentence	0	10	O	O	a	x	x	0
+I-Sentence	0	11	O	O	life	x	x	0
+I-Sentence	0	12	O	O	sentence	x	x	0
+O	0	13	O	O	.	x	x	0
+

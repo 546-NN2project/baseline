@@ -1,0 +1,65 @@
+B-PER	0	0	O	O	at	x	x	0
+I-PER	0	1	O	O	least	x	x	0
+I-PER	0	2	O	O	ten	x	x	0
+I-PER	0	3	O	O	people	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	injured	x	x	0
+O	0	7	O	O	and	x	x	0
+B-FAC	0	8	O	O	at	x	x	0
+I-FAC	0	9	O	O	least	x	x	0
+I-FAC	0	10	O	O	five	x	x	0
+I-FAC	0	11	O	O	homes	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	burned	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Benton	x	x	0
+I-GPE	0	16	O	O	harbor	x	x	0
+O	0	17	O	O	since	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	rioting	x	x	0
+O	0	20	O	O	began	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Police	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	still	x	x	0
+O	0	3	O	O	looking	x	x	0
+O	0	4	O	O	for	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	arsonists	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-GPE	0	1	O	O	city	x	x	0
+O	0	2	O	O	officials	x	x	0
+O	0	3	O	O	say	x	x	0
+B-PER	0	4	O	O	several	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	arrested	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	civil	x	x	0
+O	0	11	O	O	disobedience	x	x	0
+O	0	12	O	O	charges	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	One	x	x	0
+I-PER	0	1	O	O	person	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	arrested	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	assault	x	x	0
+O	0	6	O	O	with	x	x	0
+B-WEA	0	7	O	O	a	x	x	0
+I-WEA	0	8	O	O	deadly	x	x	0
+I-WEA	0	9	O	O	weapon	x	x	0
+O	0	10	O	O	.	x	x	0
+

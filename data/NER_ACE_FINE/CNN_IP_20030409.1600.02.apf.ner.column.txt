@@ -1,0 +1,1140 @@
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	looking	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	live	x	x	0
+O	0	5	O	O	pictures	x	x	0
+O	0	6	O	O	of	x	x	0
+B-FAC	0	7	O	O	the	x	x	0
+I-FAC	0	8	O	O	White	x	x	0
+I-FAC	0	9	O	O	House	x	x	0
+B-FAC	0	10	O	O	where	x	x	0
+B-PER	0	11	O	O	President	x	x	0
+O	0	12	O	O	Bush	x	x	0
+O	0	13	O	O	watched	x	x	0
+O	0	14	O	O	some	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	television	x	x	0
+O	0	18	O	O	coverage	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	events	x	x	0
+O	0	21	O	O	in	x	x	0
+B-GPE	0	22	O	O	Baghdad	x	x	0
+B-TIME	0	23	O	O	today	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Separately	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Vice	x	x	0
+I-PER	0	3	O	O	President	x	x	0
+O	0	4	O	O	Cheney	x	x	0
+O	0	5	O	O	shared	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	thoughts	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	speech	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	New	x	x	0
+I-GPE	0	13	O	O	Orleans	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+B-TIME	0	2	O	O	now	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	CNN	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	senior	x	x	0
+B-FAC	0	12	O	O	White	x	x	0
+I-FAC	0	13	O	O	House	x	x	0
+O	0	14	O	O	correspondent	x	x	0
+O	0	15	O	O	John	x	x	0
+O	0	16	O	O	King	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	they	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	happy	x	x	0
+B-FAC	0	7	O	O	there	x	x	0
+O	0	8	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Judy	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	they	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Behind	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	scenes	x	x	0
+O	0	3	O	O	privately	x	x	0
+B-FAC	0	4	O	O	here	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	palpable	x	x	0
+O	0	9	O	O	sense	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	vindication	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	although	x	x	0
+O	0	14	O	O	publicly	x	x	0
+O	0	15	O	O	caution	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	watchword	x	x	0
+B-FAC	0	19	O	O	here	x	x	0
+O	0	20	O	O	,	x	x	0
+B-ORG	0	21	O	O	administration	x	x	0
+O	0	22	O	O	officials	x	x	0
+O	0	23	O	O	from	x	x	0
+B-PER	0	24	O	O	the	x	x	0
+I-PER	0	25	O	O	vice	x	x	0
+I-PER	0	26	O	O	president	x	x	0
+O	0	27	O	O	on	x	x	0
+O	0	28	O	O	down	x	x	0
+O	0	29	O	O	saying	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	war	x	x	0
+O	0	32	O	O	is	x	x	0
+O	0	33	O	O	not	x	x	0
+O	0	34	O	O	over	x	x	0
+O	0	35	O	O	yet	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	toughest	x	x	0
+O	0	4	O	O	fighting	x	x	0
+O	0	5	O	O	could	x	x	0
+O	0	6	O	O	still	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	ahead	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Mostly	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	believe	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	those	x	x	0
+B-LOC	0	5	O	O	northern	x	x	0
+I-LOC	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	areas	x	x	0
+B-PER	0	8	O	O	Brent	x	x	0
+I-PER	0	9	O	O	Sadler	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	just	x	x	0
+O	0	12	O	O	talking	x	x	0
+O	0	13	O	O	about	x	x	0
+O	0	14	O	O	before	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	break	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	believe	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	pictures	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+B-TIME	0	9	O	O	today	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	hand	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	send	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	powerful	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	message	x	x	0
+O	0	21	O	O	as	x	x	0
+B-PER	0	22	O	O	you	x	x	0
+O	0	23	O	O	can	x	x	0
+O	0	24	O	O	send	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	people	x	x	0
+O	0	28	O	O	in	x	x	0
+O	0	29	O	O	the	x	x	0
+B-PER	0	30	O	O	Arab	x	x	0
+O	0	31	O	O	world	x	x	0
+B-PER	0	32	O	O	who	x	x	0
+O	0	33	O	O	have	x	x	0
+O	0	34	O	O	criticized	x	x	0
+O	0	35	O	O	this	x	x	0
+O	0	36	O	O	war	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	People	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Baghdad	x	x	0
+O	0	3	O	O	celebrating	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	troops	x	x	0
+O	0	2	O	O	assisting	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	pulling	x	x	0
+O	0	5	O	O	down	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	statue	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	Saddam	x	x	0
+I-PER	0	10	O	O	Hussein	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Across	x	x	0
+O	0	1	O	O	the	x	x	0
+B-PER	0	2	O	O	Arab	x	x	0
+O	0	3	O	O	world	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	administration	x	x	0
+O	0	7	O	O	hopes	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	send	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	signal	x	x	0
+O	0	12	O	O	that	x	x	0
+B-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	United	x	x	0
+I-GPE	0	15	O	O	States	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	there	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	help	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	Iraqi	x	x	0
+I-GPE	0	22	O	O	people	x	x	0
+O	0	23	O	O	regain	x	x	0
+O	0	24	O	O	control	x	x	0
+O	0	25	O	O	of	x	x	0
+B-GPE	0	26	O	O	their	x	x	0
+I-GPE	0	27	O	O	own	x	x	0
+O	0	28	O	O	country	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	as	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	liberty	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	not	x	x	0
+O	0	35	O	O	as	x	x	0
+O	0	36	O	O	any	x	x	0
+O	0	37	O	O	imperial	x	x	0
+O	0	38	O	O	or	x	x	0
+O	0	39	O	O	occupying	x	x	0
+O	0	40	O	O	force	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	same	x	x	0
+O	0	6	O	O	time	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	though	x	x	0
+O	0	9	O	O	,	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	White	x	x	0
+I-ORG	0	12	O	O	House	x	x	0
+O	0	13	O	O	worries	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	the	x	x	0
+B-GPE	0	16	O	O	American	x	x	0
+O	0	17	O	O	people	x	x	0
+O	0	18	O	O	might	x	x	0
+O	0	19	O	O	see	x	x	0
+O	0	20	O	O	these	x	x	0
+O	0	21	O	O	pictures	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	think	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	war	x	x	0
+O	0	26	O	O	is	x	x	0
+O	0	27	O	O	over	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Defense	x	x	0
+I-PER	0	1	O	O	Secretary	x	x	0
+O	0	2	O	O	Rumsfeld	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	Vice	x	x	0
+I-PER	0	5	O	O	President	x	x	0
+O	0	6	O	O	Cheney	x	x	0
+O	0	7	O	O	among	x	x	0
+B-PER	0	8	O	O	those	x	x	0
+I-PER	0	9	O	O	saying	x	x	0
+I-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	toughest	x	x	0
+I-PER	0	12	O	O	fighting	x	x	0
+I-PER	0	13	O	O	might	x	x	0
+I-PER	0	14	O	O	still	x	x	0
+I-PER	0	15	O	O	lie	x	x	0
+I-PER	0	16	O	O	ahead	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	still	x	x	0
+O	0	19	O	O	unanswered	x	x	0
+O	0	20	O	O	questions	x	x	0
+O	0	21	O	O	about	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	whereabouts	x	x	0
+O	0	24	O	O	of	x	x	0
+B-PER	0	25	O	O	Saddam	x	x	0
+I-PER	0	26	O	O	Hussein	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	other	x	x	0
+O	0	29	O	O	key	x	x	0
+O	0	30	O	O	members	x	x	0
+O	0	31	O	O	of	x	x	0
+O	0	32	O	O	the	x	x	0
+B-GPE	0	33	O	O	Iraqi	x	x	0
+O	0	34	O	O	leadership	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	vice	x	x	0
+I-PER	0	2	O	O	president	x	x	0
+O	0	3	O	O	made	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	argument	x	x	0
+B-TIME	0	6	O	O	today	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	even	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	sounds	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	note	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	caution	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	sense	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	little	x	x	0
+O	0	15	O	O	tiny	x	x	0
+O	0	16	O	O	bit	x	x	0
+O	0	17	O	O	of	x	x	0
+B-PER	0	18	O	O	we	x	x	0
+O	0	19	O	O	told	x	x	0
+B-PER	0	20	O	O	you	x	x	0
+O	0	21	O	O	so	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	Bottom	x	x	0
+O	0	1	O	O	line	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	with	x	x	0
+B-PER	0	4	O	O	less	x	x	0
+I-PER	0	5	O	O	than	x	x	0
+I-PER	0	6	O	O	half	x	x	0
+I-PER	0	7	O	O	of	x	x	0
+I-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	ground	x	x	0
+I-PER	0	10	O	O	forces	x	x	0
+O	0	11	O	O	and	x	x	0
+B-VEH	0	12	O	O	two-thirds	x	x	0
+I-VEH	0	13	O	O	of	x	x	0
+I-VEH	0	14	O	O	the	x	x	0
+I-VEH	0	15	O	O	air	x	x	0
+I-VEH	0	16	O	O	assets	x	x	0
+O	0	17	O	O	used	x	x	0
+B-TIME	0	18	O	O	12	x	x	0
+I-TIME	0	19	O	O	years	x	x	0
+I-TIME	0	20	O	O	ago	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	Desert	x	x	0
+O	0	23	O	O	Storm	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	Secretary	x	x	0
+O	0	26	O	O	Rumsfeld	x	x	0
+O	0	27	O	O	and	x	x	0
+B-PER	0	28	O	O	General	x	x	0
+O	0	29	O	O	Franks	x	x	0
+O	0	30	O	O	have	x	x	0
+O	0	31	O	O	achieved	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	far	x	x	0
+O	0	34	O	O	more	x	x	0
+O	0	35	O	O	difficult	x	x	0
+O	0	36	O	O	objective	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yet	x	x	0
+O	0	1	O	O	until	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	war	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	fully	x	x	0
+O	0	6	O	O	won	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	we	x	x	0
+O	0	9	O	O	cannot	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	overconfident	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	our	x	x	0
+O	0	14	O	O	position	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-GPE	0	1	O	O	we	x	x	0
+O	0	2	O	O	must	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	underestimate	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	desperation	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	whatever	x	x	0
+O	0	9	O	O	forces	x	x	0
+O	0	10	O	O	remain	x	x	0
+O	0	11	O	O	loyal	x	x	0
+O	0	12	O	O	to	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	dictator	x	x	0
+O	0	15	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	hear	x	x	0
+O	0	4	O	O	from	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	president	x	x	0
+B-TIME	0	7	O	O	today	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	we	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	told	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	but	x	x	0
+B-TIME	0	14	O	O	before	x	x	0
+I-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	week	x	x	0
+I-TIME	0	17	O	O	is	x	x	0
+I-TIME	0	18	O	O	out	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	perhaps	x	x	0
+B-TIME	0	21	O	O	as	x	x	0
+I-TIME	0	22	O	O	early	x	x	0
+I-TIME	0	23	O	O	as	x	x	0
+I-TIME	0	24	O	O	tomorrow	x	x	0
+B-PER	0	25	O	O	officials	x	x	0
+O	0	26	O	O	say	x	x	0
+B-PER	0	27	O	O	the	x	x	0
+I-PER	0	28	O	O	president	x	x	0
+O	0	29	O	O	is	x	x	0
+O	0	30	O	O	likely	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	offer	x	x	0
+B-PER	0	33	O	O	his	x	x	0
+O	0	34	O	O	thoughts	x	x	0
+O	0	35	O	O	on	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	challenges	x	x	0
+O	0	38	O	O	just	x	x	0
+O	0	39	O	O	ahead	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	again	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	behind	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	scenes	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	sense	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	vindication	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	but	x	x	0
+O	0	14	O	O	also	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	cautious	x	x	0
+O	0	17	O	O	attitude	x	x	0
+O	0	18	O	O	because	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	fighting	x	x	0
+O	0	22	O	O	still	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	come	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	tell	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	though	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	Judy	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	the	x	x	0
+B-ORG	0	11	O	O	CIA	x	x	0
+O	0	12	O	O	Director	x	x	0
+O	0	13	O	O	George	x	x	0
+O	0	14	O	O	Tenet	x	x	0
+O	0	15	O	O	walked	x	x	0
+O	0	16	O	O	out	x	x	0
+O	0	17	O	O	of	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	White	x	x	0
+I-FAC	0	20	O	O	House	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	short	x	x	0
+O	0	23	O	O	time	x	x	0
+O	0	24	O	O	ago	x	x	0
+O	0	25	O	O	with	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	giant	x	x	0
+O	0	28	O	O	smile	x	x	0
+O	0	29	O	O	on	x	x	0
+B-PER	0	30	O	O	his	x	x	0
+O	0	31	O	O	face	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	cannot	x	x	0
+O	0	2	O	O	recall	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	moment	x	x	0
+O	0	5	O	O	since	x	x	0
+B-TIME	0	6	O	O	September	x	x	0
+I-TIME	0	7	O	O	11	x	x	0
+I-TIME	0	8	O	O	,	x	x	0
+I-TIME	0	9	O	O	2001	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	those	x	x	0
+O	0	12	O	O	tragic	x	x	0
+O	0	13	O	O	events	x	x	0
+O	0	14	O	O	when	x	x	0
+B-PER	0	15	O	O	we	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	seen	x	x	0
+O	0	18	O	O	the	x	x	0
+B-ORG	0	19	O	O	CIA	x	x	0
+O	0	20	O	O	director	x	x	0
+O	0	21	O	O	look	x	x	0
+O	0	22	O	O	so	x	x	0
+O	0	23	O	O	happy	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	John	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	given	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	that	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	've	x	x	0
+O	0	9	O	O	said	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	know	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	there	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	an	x	x	0
+B-GPE	0	17	O	O	American	x	x	0
+O	0	18	O	O	retired	x	x	0
+B-Job-Title	0	19	O	O	general	x	x	0
+O	0	20	O	O	waiting	x	x	0
+O	0	21	O	O	in	x	x	0
+B-GPE	0	22	O	O	Kuwait	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	addition	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	what	x	x	0
+O	0	7	O	O	steps	x	x	0
+O	0	8	O	O	are	x	x	0
+B-ORG	0	9	O	O	they	x	x	0
+O	0	10	O	O	already	x	x	0
+O	0	11	O	O	taking	x	x	0
+O	0	12	O	O	at	x	x	0
+B-FAC	0	13	O	O	the	x	x	0
+I-FAC	0	14	O	O	White	x	x	0
+I-FAC	0	15	O	O	House	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	plan	x	x	0
+O	0	18	O	O	for	x	x	0
+B-ORG	0	19	O	O	a	x	x	0
+I-ORG	0	20	O	O	post-Saddam	x	x	0
+I-ORG	0	21	O	O	Hussein	x	x	0
+I-ORG	0	22	O	O	government	x	x	0
+O	0	23	O	O	in	x	x	0
+B-GPE	0	24	O	O	Iraq	x	x	0
+O	0	25	O	O	?	x	x	0
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	planning	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	accelerate	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	planning	x	x	0
+O	0	7	O	O	process	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jay	x	x	0
+I-PER	0	1	O	O	Garner	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	retired	x	x	0
+B-Job-Title	0	4	O	O	general	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	go	x	x	0
+O	0	7	O	O	into	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	soon	x	x	0
+O	0	10	O	O	with	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+O	0	12	O	O	troops	x	x	0
+O	0	13	O	O	soon	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	say	x	x	0
+B-PER	0	2	O	O	troops	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	civilians	x	x	0
+O	0	3	O	O	from	x	x	0
+B-GPE	0	4	O	O	the	x	x	0
+I-GPE	0	5	O	O	U.S.	x	x	0
+I-GPE	0	6	O	O	government	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	take	x	x	0
+O	0	3	O	O	place	x	x	0
+O	0	4	O	O	soon	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	awaiting	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	word	x	x	0
+O	0	5	O	O	from	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Pentagon	x	x	0
+O	0	8	O	O	that	x	x	0
+B-ORG	0	9	O	O	it	x	x	0
+O	0	10	O	O	believes	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	security	x	x	0
+O	0	13	O	O	environment	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	secure	x	x	0
+O	0	16	O	O	enough	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	happen	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	beginning	x	x	0
+B-TIME	0	2	O	O	as	x	x	0
+I-TIME	0	3	O	O	early	x	x	0
+I-TIME	0	4	O	O	as	x	x	0
+I-TIME	0	5	O	O	next	x	x	0
+I-TIME	0	6	O	O	week	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	will	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	series	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	town	x	x	0
+O	0	15	O	O	meetings	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	if	x	x	0
+B-PER	0	18	O	O	you	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	invitations	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	issued	x	x	0
+O	0	5	O	O	by	x	x	0
+B-PER	0	6	O	O	General	x	x	0
+O	0	7	O	O	Tommy	x	x	0
+O	0	8	O	O	Franks	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	trying	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	identify	x	x	0
+O	0	5	O	O	Iraqis	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	within	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	country	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	as	x	x	0
+O	0	12	O	O	well	x	x	0
+O	0	13	O	O	as	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	dissidents	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	exiles	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	diaspora	x	x	0
+B-ORG	0	21	O	O	they	x	x	0
+O	0	22	O	O	call	x	x	0
+O	0	23	O	O	it	x	x	0
+B-FAC	0	24	O	O	here	x	x	0
+O	0	25	O	O	at	x	x	0
+B-FAC	0	26	O	O	the	x	x	0
+I-FAC	0	27	O	O	White	x	x	0
+I-FAC	0	28	O	O	House	x	x	0
+O	0	29	O	O	,	x	x	0
+B-PER	0	30	O	O	who	x	x	0
+O	0	31	O	O	will	x	x	0
+O	0	32	O	O	be	x	x	0
+O	0	33	O	O	part	x	x	0
+O	0	34	O	O	of	x	x	0
+O	0	35	O	O	a	x	x	0
+O	0	36	O	O	planning	x	x	0
+O	0	37	O	O	process	x	x	0
+O	0	38	O	O	to	x	x	0
+O	0	39	O	O	begin	x	x	0
+O	0	40	O	O	the	x	x	0
+O	0	41	O	O	process	x	x	0
+B-ORG	0	42	O	O	they	x	x	0
+O	0	43	O	O	say	x	x	0
+O	0	44	O	O	it	x	x	0
+O	0	45	O	O	could	x	x	0
+O	0	46	O	O	takes	x	x	0
+B-TIME	0	47	O	O	weeks	x	x	0
+I-TIME	0	48	O	O	or	x	x	0
+I-TIME	0	49	O	O	more	x	x	0
+O	0	50	O	O	of	x	x	0
+O	0	51	O	O	selecting	x	x	0
+B-PER	0	52	O	O	who	x	x	0
+O	0	53	O	O	should	x	x	0
+O	0	54	O	O	be	x	x	0
+O	0	55	O	O	part	x	x	0
+O	0	56	O	O	of	x	x	0
+O	0	57	O	O	that	x	x	0
+O	0	58	O	O	interim	x	x	0
+B-GPE	0	59	O	O	Iraqi	x	x	0
+O	0	60	O	O	authority	x	x	0
+O	0	61	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	person	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	invited	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	planning	x	x	0
+O	0	13	O	O	process	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	those	x	x	0
+O	0	16	O	O	planning	x	x	0
+O	0	17	O	O	meetings	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	is	x	x	0
+B-PER	0	20	O	O	Ahmed	x	x	0
+I-PER	0	21	O	O	Chalabi	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	leader	x	x	0
+O	0	4	O	O	of	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	Iraqi	x	x	0
+I-ORG	0	7	O	O	National	x	x	0
+I-ORG	0	8	O	O	Congress	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	known	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	favorite	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	Vice	x	x	0
+I-PER	0	9	O	O	President	x	x	0
+O	0	10	O	O	Dick	x	x	0
+O	0	11	O	O	Cheney	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	Defense	x	x	0
+I-PER	0	15	O	O	Secretary	x	x	0
+O	0	16	O	O	Rumsfeld	x	x	0
+O	0	17	O	O	and	x	x	0
+B-PER	0	18	O	O	Secretary	x	x	0
+O	0	19	O	O	Rumsfeld	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	top	x	x	0
+O	0	22	O	O	deputy	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	Paul	x	x	0
+I-PER	0	25	O	O	Wolfowitz	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	involved	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	planning	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	those	x	x	0
+O	0	10	O	O	meetings	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	should	x	x	0
+O	0	4	O	O	report	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	sense	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	annoyance	x	x	0
+B-FAC	0	12	O	O	here	x	x	0
+O	0	13	O	O	at	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	White	x	x	0
+I-FAC	0	16	O	O	House	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	even	x	x	0
+O	0	19	O	O	among	x	x	0
+O	0	20	O	O	some	x	x	0
+O	0	21	O	O	of	x	x	0
+B-PER	0	22	O	O	Mr.	x	x	0
+O	0	23	O	O	Chalabi	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	top	x	x	0
+O	0	26	O	O	supporters	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	that	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	since	x	x	0
+O	0	31	O	O	returning	x	x	0
+O	0	32	O	O	to	x	x	0
+B-GPE	0	33	O	O	Iraq	x	x	0
+O	0	34	O	O	in	x	x	0
+B-TIME	0	35	O	O	recent	x	x	0
+I-TIME	0	36	O	O	days	x	x	0
+O	0	37	O	O	,	x	x	0
+B-PER	0	38	O	O	he	x	x	0
+O	0	39	O	O	has	x	x	0
+O	0	40	O	O	complained	x	x	0
+O	0	41	O	O	frequently	x	x	0
+O	0	42	O	O	,	x	x	0
+O	0	43	O	O	including	x	x	0
+O	0	44	O	O	on	x	x	0
+B-ORG	0	45	O	O	our	x	x	0
+O	0	46	O	O	air	x	x	0
+B-TIME	0	47	O	O	earlier	x	x	0
+I-TIME	0	48	O	O	today	x	x	0
+O	0	49	O	O	,	x	x	0
+O	0	50	O	O	that	x	x	0
+B-GPE	0	51	O	O	the	x	x	0
+I-GPE	0	52	O	O	United	x	x	0
+I-GPE	0	53	O	O	States	x	x	0
+O	0	54	O	O	is	x	x	0
+O	0	55	O	O	moving	x	x	0
+O	0	56	O	O	too	x	x	0
+O	0	57	O	O	slowly	x	x	0
+O	0	58	O	O	to	x	x	0
+O	0	59	O	O	get	x	x	0
+O	0	60	O	O	in	x	x	0
+O	0	61	O	O	the	x	x	0
+O	0	62	O	O	reconstruction	x	x	0
+O	0	63	O	O	efforts	x	x	0
+O	0	64	O	O	,	x	x	0
+O	0	65	O	O	to	x	x	0
+O	0	66	O	O	restore	x	x	0
+O	0	67	O	O	electricity	x	x	0
+O	0	68	O	O	and	x	x	0
+O	0	69	O	O	restore	x	x	0
+O	0	70	O	O	water	x	x	0
+O	0	71	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Over	x	x	0
+O	0	1	O	O	at	x	x	0
+B-FAC	0	2	O	O	the	x	x	0
+I-FAC	0	3	O	O	Pentagon	x	x	0
+B-TIME	0	4	O	O	today	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Defense	x	x	0
+I-PER	0	7	O	O	Secretary	x	x	0
+O	0	8	O	O	Rumsfeld	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	again	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	supporter	x	x	0
+O	0	14	O	O	of	x	x	0
+B-PER	0	15	O	O	Mr.	x	x	0
+O	0	16	O	O	Chalabi	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	in	x	x	0
+B-PER	0	22	O	O	his	x	x	0
+O	0	23	O	O	view	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	services	x	x	0
+O	0	26	O	O	were	x	x	0
+O	0	27	O	O	already	x	x	0
+O	0	28	O	O	at	x	x	0
+O	0	29	O	O	their	x	x	0
+O	0	30	O	O	prewar	x	x	0
+O	0	31	O	O	levels	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	Mr.	x	x	0
+O	0	2	O	O	Rumsfeld	x	x	0
+O	0	3	O	O	went	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	say	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	Secretary	x	x	0
+O	0	9	O	O	Rumsfeld	x	x	0
+O	0	10	O	O	went	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	say	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	there	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	still	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	war	x	x	0
+O	0	20	O	O	going	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	still	x	x	0
+O	0	24	O	O	quite	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	dangerous	x	x	0
+O	0	27	O	O	situation	x	x	0
+B-PER	0	28	O	O	Judy	x	x	0
+O	0	29	O	O	.	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	caught	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	irritation	x	x	0
+O	0	8	O	O	in	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	choice	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	right	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	John	x	x	0
+I-PER	0	4	O	O	King	x	x	0
+O	0	5	O	O	,	x	x	0
+B-ORG	0	6	O	O	our	x	x	0
+O	0	7	O	O	senior	x	x	0
+B-FAC	0	8	O	O	White	x	x	0
+I-FAC	0	9	O	O	House	x	x	0
+O	0	10	O	O	correspondent	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	thank	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Still	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	come	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	warfare	x	x	0
+O	0	5	O	O	amid	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	celebrations	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	Baghdad	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	Iraqis	x	x	0
+O	0	2	O	O	poured	x	x	0
+O	0	3	O	O	into	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	streets	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	mark	x	x	0
+B-PER	0	8	O	O	their	x	x	0
+O	0	9	O	O	apparent	x	x	0
+B-TIME	0	10	O	O	new	x	x	0
+O	0	11	O	O	freedom	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	American	x	x	0
+O	0	14	O	O	troops	x	x	0
+O	0	15	O	O	come	x	x	0
+O	0	16	O	O	under	x	x	0
+O	0	17	O	O	fire	x	x	0
+O	0	18	O	O	from	x	x	0
+B-LOC	0	19	O	O	a	x	x	0
+I-LOC	0	20	O	O	different	x	x	0
+I-LOC	0	21	O	O	area	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Martin	x	x	0
+O	0	3	O	O	Savidge	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	show	x	x	0
+B-PER	0	6	O	O	us	x	x	0
+O	0	7	O	O	what	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	came	x	x	0
+O	0	10	O	O	up	x	x	0
+O	0	11	O	O	against	x	x	0
+O	0	12	O	O	at	x	x	0
+B-FAC	0	13	O	O	Baghdad	x	x	0
+I-FAC	0	14	O	O	University	x	x	0
+O	0	15	O	O	.	x	x	0
+

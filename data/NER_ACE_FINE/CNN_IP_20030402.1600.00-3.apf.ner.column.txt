@@ -1,0 +1,444 @@
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	rescued	x	x	0
+B-GPE	0	3	O	O	American	x	x	0
+O	0	4	O	O	prisoner	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	war	x	x	0
+O	0	7	O	O	Jessica	x	x	0
+O	0	8	O	O	Lynch	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	expected	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	arrive	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	Ramstein	x	x	0
+O	0	15	O	O	air	x	x	0
+O	0	16	O	O	base	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	Germany	x	x	0
+B-TIME	0	19	O	O	just	x	x	0
+I-TIME	0	20	O	O	about	x	x	0
+I-TIME	0	21	O	O	an	x	x	0
+I-TIME	0	22	O	O	hour	x	x	0
+I-TIME	0	23	O	O	from	x	x	0
+I-TIME	0	24	O	O	now	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	live	x	x	0
+O	0	4	O	O	coverage	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	her	x	x	0
+O	0	7	O	O	arrival	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Lynch	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	rescued	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	daring	x	x	0
+O	0	6	O	O	raid	x	x	0
+O	0	7	O	O	by	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	forces	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	Saddam	x	x	0
+O	0	13	O	O	hospital	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Nasiriya	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	nightscope	x	x	0
+O	0	2	O	O	video	x	x	0
+O	0	3	O	O	shows	x	x	0
+B-PER	0	4	O	O	troops	x	x	0
+O	0	5	O	O	carrying	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	19-year-old	x	x	0
+B-ORG	0	8	O	O	Army	x	x	0
+O	0	9	O	O	private	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	a	x	x	0
+B-VEH	0	12	O	O	Blackhawk	x	x	0
+O	0	13	O	O	helicopter	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	though	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	11	x	x	0
+I-PER	0	7	O	O	bodies	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	also	x	x	0
+O	0	10	O	O	recovered	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	operation	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+B-ORG	0	16	O	O	military	x	x	0
+O	0	17	O	O	officials	x	x	0
+O	0	18	O	O	say	x	x	0
+B-PER	0	19	O	O	they	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	working	x	x	0
+B-TIME	0	22	O	O	now	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	identify	x	x	0
+B-PER	0	25	O	O	them	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	she	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	Germany	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Lynch	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	treated	x	x	0
+O	0	10	O	O	for	x	x	0
+B-WEA	0	11	O	O	bullet	x	x	0
+O	0	12	O	O	wounds	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	broken	x	x	0
+O	0	15	O	O	bones	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	reported	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	stable	x	x	0
+O	0	7	O	O	condition	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	than	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	dozen	x	x	0
+O	0	6	O	O	other	x	x	0
+O	0	7	O	O	members	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	her	x	x	0
+B-ORG	0	10	O	O	Army	x	x	0
+O	0	11	O	O	maintenance	x	x	0
+O	0	12	O	O	unit	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	ambushed	x	x	0
+O	0	15	O	O	near	x	x	0
+B-GPE	0	16	O	O	Nasiriya	x	x	0
+B-TIME	0	17	O	O	more	x	x	0
+I-TIME	0	18	O	O	than	x	x	0
+I-TIME	0	19	O	O	a	x	x	0
+I-TIME	0	20	O	O	week	x	x	0
+I-TIME	0	21	O	O	ago	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	Meantime	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	Palestine	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	West	x	x	0
+I-GPE	0	5	O	O	Virginia	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	lot	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	joy	x	x	0
+O	0	13	O	O	over	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	news	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	Jessica	x	x	0
+I-PER	0	18	O	O	Lynch	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	rescue	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+I-PER	0	1	O	O	father	x	x	0
+I-PER	0	2	O	O	,	x	x	0
+I-PER	0	3	O	O	mother	x	x	0
+I-PER	0	4	O	O	and	x	x	0
+I-PER	0	5	O	O	other	x	x	0
+I-PER	0	6	O	O	family	x	x	0
+I-PER	0	7	O	O	members	x	x	0
+B-PER	0	8	O	O	say	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+B-PER	0	10	O	O	never	x	x	0
+O	0	11	O	O	gave	x	x	0
+O	0	12	O	O	up	x	x	0
+O	0	13	O	O	hope	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	despite	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+O	0	17	O	O	fears	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	what	x	x	0
+O	0	20	O	O	might	x	x	0
+O	0	21	O	O	have	x	x	0
+O	0	22	O	O	happened	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	say	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	grateful	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	her	x	x	0
+O	0	8	O	O	rescuers	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	ca	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	say	x	x	0
+O	0	5	O	O	how	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	military	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	functioning	x	x	0
+O	0	10	O	O	over	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	because	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	'm	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	there	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	doing	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	job	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	know	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	thoughts	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	soldiers	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	the	x	x	0
+I-PER	0	21	O	O	men	x	x	0
+O	0	22	O	O	and	x	x	0
+B-PER	0	23	O	O	women	x	x	0
+B-PER	0	24	O	O	that	x	x	0
+O	0	25	O	O	went	x	x	0
+O	0	26	O	O	into	x	x	0
+B-FAC	0	27	O	O	that	x	x	0
+I-FAC	0	28	O	O	building	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	brought	x	x	0
+B-PER	0	31	O	O	her	x	x	0
+O	0	32	O	O	out	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+B-PER	0	2	O	O	heroes	x	x	0
+O	0	3	O	O	in	x	x	0
+B-PER	0	4	O	O	my	x	x	0
+O	0	5	O	O	book	x	x	0
+O	0	6	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	West	x	x	0
+I-GPE	0	1	O	O	Virginia	x	x	0
+O	0	2	O	O	's	x	x	0
+B-GPE	0	3	O	O	United	x	x	0
+I-GPE	0	4	O	O	States	x	x	0
+O	0	5	O	O	Senator	x	x	0
+O	0	6	O	O	Robert	x	x	0
+O	0	7	O	O	Byrd	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	also	x	x	0
+O	0	10	O	O	praising	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	rescue	x	x	0
+O	0	13	O	O	.	x	x	0
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	rescued	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	daring	x	x	0
+O	0	6	O	O	effort	x	x	0
+O	0	7	O	O	by	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	brave	x	x	0
+B-ORG	0	10	O	O	Army	x	x	0
+O	0	11	O	O	rangers	x	x	0
+O	0	12	O	O	and	x	x	0
+B-ORG	0	13	O	O	Navy	x	x	0
+O	0	14	O	O	SEALS	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	today	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	safe	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Safe	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Safe	x	x	0
+O	0	1	O	O	once	x	x	0
+O	0	2	O	O	again	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	state	x	x	0
+O	0	2	O	O	of	x	x	0
+B-GPE	0	3	O	O	West	x	x	0
+I-GPE	0	4	O	O	Virginia	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	relieved	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	community	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	exuberant	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	family	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	overjoyed	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	spoke	x	x	0
+O	0	2	O	O	with	x	x	0
+B-PER	0	3	O	O	Jessica	x	x	0
+I-PER	0	4	O	O	Lynch	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	father	x	x	0
+B-TIME	0	7	O	O	last	x	x	0
+I-TIME	0	8	O	O	evening	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	shared	x	x	0
+O	0	11	O	O	with	x	x	0
+B-PER	0	12	O	O	him	x	x	0
+B-PER	0	13	O	O	our	x	x	0
+O	0	14	O	O	thoughts	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	good	x	x	0
+O	0	17	O	O	wishes	x	x	0
+O	0	18	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Senator	x	x	0
+O	0	1	O	O	Byrd	x	x	0
+O	0	2	O	O	called	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	rescue	x	x	0
+O	0	5	O	O	miraculous	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	march	x	x	0
+O	0	7	O	O	toward	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+O	0	9	O	O	after	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	quick	x	x	0
+O	0	12	O	O	break	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	preview	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	potential	x	x	0
+O	0	4	O	O	battles	x	x	0
+O	0	5	O	O	ahead	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	strategies	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	play	x	x	0
+O	0	11	O	O	when	x	x	0
+B-PER	0	12	O	O	we	x	x	0
+O	0	13	O	O	check	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	with	x	x	0
+B-ORG	0	16	O	O	our	x	x	0
+B-ORG	0	17	O	O	military	x	x	0
+O	0	18	O	O	analyst	x	x	0
+O	0	19	O	O	.	x	x	0
+

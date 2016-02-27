@@ -1,0 +1,896 @@
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	something	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	look	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Today	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	Pentagon	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	comparing	x	x	0
+O	0	5	O	O	suicide	x	x	0
+O	0	6	O	O	bombing	x	x	0
+O	0	7	O	O	attacks	x	x	0
+O	0	8	O	O	on	x	x	0
+B-GPE	0	9	O	O	coalition	x	x	0
+O	0	10	O	O	forces	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	terrorism	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Four	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	Army	x	x	0
+O	0	3	O	O	soldiers	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	killed	x	x	0
+O	0	6	O	O	when	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	suicide	x	x	0
+I-PER	0	9	O	O	bomber	x	x	0
+O	0	10	O	O	attacked	x	x	0
+O	0	11	O	O	a	x	x	0
+B-ORG	0	12	O	O	military	x	x	0
+O	0	13	O	O	checkpoint	x	x	0
+B-TIME	0	14	O	O	today	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	Najaf	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Chris	x	x	0
+O	0	3	O	O	Plante	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	chasing	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	down	x	x	0
+O	0	9	O	O	for	x	x	0
+B-ORG	0	10	O	O	us	x	x	0
+O	0	11	O	O	at	x	x	0
+B-FAC	0	12	O	O	the	x	x	0
+I-FAC	0	13	O	O	Pentagon	x	x	0
+B-TIME	0	14	O	O	right	x	x	0
+I-TIME	0	15	O	O	now	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hello	x	x	0
+B-PER	0	1	O	O	Chris	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Judy	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Four	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	soldiers	x	x	0
+O	0	3	O	O	from	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	3rd	x	x	0
+I-ORG	0	6	O	O	Infantry	x	x	0
+I-ORG	0	7	O	O	Division	x	x	0
+O	0	8	O	O	manning	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	checkpoint	x	x	0
+O	0	11	O	O	near	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	town	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Najaf	x	x	0
+O	0	16	O	O	killed	x	x	0
+B-TIME	0	17	O	O	today	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	an	x	x	0
+O	0	20	O	O	apparent	x	x	0
+O	0	21	O	O	suicide	x	x	0
+O	0	22	O	O	bombing	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	man	x	x	0
+O	0	2	O	O	driving	x	x	0
+B-VEH	0	3	O	O	what	x	x	0
+O	0	4	O	O	appeared	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	be	x	x	0
+B-VEH	0	7	O	O	a	x	x	0
+I-VEH	0	8	O	O	taxicab	x	x	0
+O	0	9	O	O	came	x	x	0
+O	0	10	O	O	to	x	x	0
+B-FAC	0	11	O	O	the	x	x	0
+I-FAC	0	12	O	O	checkpoint	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	waved	x	x	0
+B-PER	0	15	O	O	soldiers	x	x	0
+O	0	16	O	O	over	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	appeared	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	having	x	x	0
+O	0	22	O	O	mechanical	x	x	0
+O	0	23	O	O	problems	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	some	x	x	0
+O	0	26	O	O	kind	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	soldiers	x	x	0
+O	0	3	O	O	approached	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	man	x	x	0
+O	0	7	O	O	detonated	x	x	0
+B-WEA	0	8	O	O	explosives	x	x	0
+O	0	9	O	O	in	x	x	0
+B-VEH	0	10	O	O	the	x	x	0
+I-VEH	0	11	O	O	car	x	x	0
+O	0	12	O	O	killing	x	x	0
+B-PER	0	13	O	O	all	x	x	0
+I-PER	0	14	O	O	four	x	x	0
+I-PER	0	15	O	O	of	x	x	0
+I-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	soldiers	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	something	x	x	0
+O	0	3	O	O	that	x	x	0
+B-GPE	0	4	O	O	Iraqi	x	x	0
+O	0	5	O	O	Vice	x	x	0
+O	0	6	O	O	President	x	x	0
+O	0	7	O	O	Ramadan	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	said	x	x	0
+O	0	10	O	O	would	x	x	0
+O	0	11	O	O	take	x	x	0
+O	0	12	O	O	place	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	long	x	x	0
+O	0	4	O	O	before	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	conflict	x	x	0
+O	0	7	O	O	ever	x	x	0
+O	0	8	O	O	began	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	reiterated	x	x	0
+B-TIME	0	2	O	O	today	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	a	x	x	0
+B-ORG	0	5	O	O	press	x	x	0
+O	0	6	O	O	conference	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	would	x	x	0
+O	0	12	O	O	just	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	beginning	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	this	x	x	0
+O	0	18	O	O	that	x	x	0
+B-PER	0	19	O	O	they	x	x	0
+O	0	20	O	O	would	x	x	0
+O	0	21	O	O	plan	x	x	0
+O	0	22	O	O	on	x	x	0
+O	0	23	O	O	killing	x	x	0
+O	0	24	O	O	thousands	x	x	0
+O	0	25	O	O	of	x	x	0
+B-GPE	0	26	O	O	U.S.	x	x	0
+O	0	27	O	O	troops	x	x	0
+O	0	28	O	O	with	x	x	0
+O	0	29	O	O	suicide	x	x	0
+O	0	30	O	O	bombing	x	x	0
+O	0	31	O	O	similar	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	this	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	in	x	x	0
+B-LOC	0	3	O	O	southern	x	x	0
+I-LOC	0	4	O	O	Iraq	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+O	0	6	O	O	near	x	x	0
+B-GPE	0	7	O	O	Basra	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	two	x	x	0
+I-PER	0	10	O	O	members	x	x	0
+O	0	11	O	O	claimed	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	members	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	Saddam	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	Thataeen	x	x	0
+O	0	19	O	O	(	x	x	0
+O	0	20	O	O	ph	x	x	0
+O	0	21	O	O	)	x	x	0
+O	0	22	O	O	group	x	x	0
+O	0	23	O	O	surrendered	x	x	0
+O	0	24	O	O	to	x	x	0
+B-GPE	0	25	O	O	U.S.	x	x	0
+O	0	26	O	O	troops	x	x	0
+O	0	27	O	O	saying	x	x	0
+O	0	28	O	O	that	x	x	0
+B-PER	0	29	O	O	they	x	x	0
+O	0	30	O	O	had	x	x	0
+O	0	31	O	O	been	x	x	0
+O	0	32	O	O	ordered	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	carry	x	x	0
+O	0	35	O	O	out	x	x	0
+O	0	36	O	O	suicide	x	x	0
+O	0	37	O	O	bombings	x	x	0
+B-LOC	0	38	O	O	down	x	x	0
+I-LOC	0	39	O	O	there	x	x	0
+O	0	40	O	O	but	x	x	0
+O	0	41	O	O	that	x	x	0
+B-PER	0	42	O	O	they	x	x	0
+O	0	43	O	O	did	x	x	0
+O	0	44	O	O	n't	x	x	0
+O	0	45	O	O	want	x	x	0
+O	0	46	O	O	to	x	x	0
+O	0	47	O	O	die	x	x	0
+O	0	48	O	O	for	x	x	0
+B-ORG	0	49	O	O	the	x	x	0
+I-ORG	0	50	O	O	regime	x	x	0
+O	0	51	O	O	so	x	x	0
+B-PER	0	52	O	O	they	x	x	0
+O	0	53	O	O	were	x	x	0
+O	0	54	O	O	surrendering	x	x	0
+O	0	55	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	the	x	x	0
+B-ORG	0	2	O	O	Pentagon	x	x	0
+O	0	3	O	O	briefing	x	x	0
+B-TIME	0	4	O	O	today	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	General	x	x	0
+O	0	7	O	O	Stanley	x	x	0
+O	0	8	O	O	McChrystal	x	x	0
+O	0	9	O	O	said	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	looked	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	lot	x	x	0
+O	0	15	O	O	like	x	x	0
+O	0	16	O	O	terrorism	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	looks	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	feels	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	terrorism	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	requires	x	x	0
+O	0	10	O	O	is	x	x	0
+B-PER	0	11	O	O	units	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	conduct	x	x	0
+O	0	14	O	O	forced	x	x	0
+O	0	15	O	O	production	x	x	0
+O	0	16	O	O	activities	x	x	0
+O	0	17	O	O	which	x	x	0
+B-PER	0	18	O	O	they	x	x	0
+O	0	19	O	O	are	x	x	0
+O	0	20	O	O	prepared	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	do	x	x	0
+O	0	23	O	O	all	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	time	x	x	0
+O	0	26	O	O	but	x	x	0
+O	0	27	O	O	clearly	x	x	0
+O	0	28	O	O	when	x	x	0
+B-PER	0	29	O	O	you	x	x	0
+O	0	30	O	O	see	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	tactic	x	x	0
+O	0	33	O	O	like	x	x	0
+O	0	34	O	O	this	x	x	0
+O	0	35	O	O	,	x	x	0
+O	0	36	O	O	it	x	x	0
+O	0	37	O	O	requires	x	x	0
+O	0	38	O	O	strict	x	x	0
+O	0	39	O	O	adherence	x	x	0
+O	0	40	O	O	or	x	x	0
+O	0	41	O	O	adjustments	x	x	0
+O	0	42	O	O	to	x	x	0
+B-PER	0	43	O	O	your	x	x	0
+O	0	44	O	O	tactics	x	x	0
+O	0	45	O	O	,	x	x	0
+O	0	46	O	O	techniques	x	x	0
+O	0	47	O	O	and	x	x	0
+O	0	48	O	O	procedures	x	x	0
+O	0	49	O	O	to	x	x	0
+O	0	50	O	O	ensure	x	x	0
+O	0	51	O	O	that	x	x	0
+O	0	52	O	O	places	x	x	0
+O	0	53	O	O	like	x	x	0
+B-FAC	0	54	O	O	checkpoints	x	x	0
+O	0	55	O	O	are	x	x	0
+O	0	56	O	O	not	x	x	0
+O	0	57	O	O	vulnerable	x	x	0
+O	0	58	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	wo	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	change	x	x	0
+B-ORG	0	5	O	O	our	x	x	0
+O	0	6	O	O	overall	x	x	0
+O	0	7	O	O	rules	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	engagement	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	effect	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	operation	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	large	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	protect	x	x	0
+B-GPE	0	11	O	O	our	x	x	0
+O	0	12	O	O	soldiers	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	clearly	x	x	0
+O	0	15	O	O	requires	x	x	0
+O	0	16	O	O	great	x	x	0
+O	0	17	O	O	care	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	certainly	x	x	0
+O	0	2	O	O	an	x	x	0
+O	0	3	O	O	unpleasant	x	x	0
+O	0	4	O	O	development	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+B-PER	0	6	O	O	Judy	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	another	x	x	0
+O	0	9	O	O	item	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	docket	x	x	0
+O	0	13	O	O	over	x	x	0
+B-GPE	0	14	O	O	here	x	x	0
+B-TIME	0	15	O	O	today	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	failure	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	number	x	x	0
+O	0	22	O	O	of	x	x	0
+B-WEA	0	23	O	O	cruise	x	x	0
+O	0	24	O	O	missiles	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	Tomahawk	x	x	0
+O	0	1	O	O	land	x	x	0
+O	0	2	O	O	detect	x	x	0
+O	0	3	O	O	missiles	x	x	0
+O	0	4	O	O	being	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	launched	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	ships	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	eastern	x	x	0
+I-LOC	0	12	O	O	Mediterranean	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	in	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	Red	x	x	0
+I-LOC	0	17	O	O	Sea	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	suffered	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	number	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	failures	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Pentagon	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	total	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	seven	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	the	x	x	0
+B-WEA	0	9	O	O	cruise	x	x	0
+O	0	10	O	O	missiles	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	failed	x	x	0
+O	0	13	O	O	crashing	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Turkey	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	Saudi	x	x	0
+I-GPE	0	19	O	O	Arabia	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	injuries	x	x	0
+O	0	2	O	O	reported	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	The	x	x	0
+I-WEA	0	1	O	O	missiles	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	programmed	x	x	0
+O	0	4	O	O	so	x	x	0
+O	0	5	O	O	that	x	x	0
+B-WEA	0	6	O	O	they	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	detonate	x	x	0
+O	0	10	O	O	until	x	x	0
+B-WEA	0	11	O	O	they	x	x	0
+O	0	12	O	O	reach	x	x	0
+B-WEA	0	13	O	O	their	x	x	0
+O	0	14	O	O	target	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-WEA	0	1	O	O	they	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	astray	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	then	x	x	0
+B-WEA	0	6	O	O	the	x	x	0
+I-WEA	0	7	O	O	warheads	x	x	0
+O	0	8	O	O	never	x	x	0
+O	0	9	O	O	arm	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	claiming	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	about	x	x	0
+B-Numeric	0	16	O	O	one	x	x	0
+I-Numeric	0	17	O	O	percent	x	x	0
+O	0	18	O	O	of	x	x	0
+B-WEA	0	19	O	O	the	x	x	0
+I-WEA	0	20	O	O	warheads	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	fired	x	x	0
+O	0	3	O	O	675	x	x	0
+O	0	4	O	O	or	x	x	0
+O	0	5	O	O	so	x	x	0
+B-WEA	0	6	O	O	tomahawk	x	x	0
+O	0	7	O	O	land	x	x	0
+O	0	8	O	O	detect	x	x	0
+O	0	9	O	O	missiles	x	x	0
+O	0	10	O	O	from	x	x	0
+B-VEH	0	11	O	O	ships	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	seven	x	x	0
+O	0	14	O	O	of	x	x	0
+B-WEA	0	15	O	O	those	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	failed	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Judy	x	x	0
+O	0	1	O	O	...	x	x	0
+
+B-PER	0	0	O	O	Chris	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	quickly	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	new	x	x	0
+O	0	6	O	O	information	x	x	0
+O	0	7	O	O	from	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	Pentagon	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	about	x	x	0
+O	0	12	O	O	any	x	x	0
+O	0	13	O	O	concerns	x	x	0
+B-ORG	0	14	O	O	they	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	about	x	x	0
+B-PER	0	17	O	O	Saddam	x	x	0
+I-PER	0	18	O	O	Hussein	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	ongoing	x	x	0
+O	0	21	O	O	air	x	x	0
+O	0	22	O	O	defense	x	x	0
+O	0	23	O	O	capability	x	x	0
+O	0	24	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	major	x	x	0
+O	0	4	O	O	concern	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Pentagon	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	that	x	x	0
+B-ORG	0	4	O	O	they	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	air	x	x	0
+O	0	8	O	O	dominance	x	x	0
+O	0	9	O	O	as	x	x	0
+B-ORG	0	10	O	O	they	x	x	0
+B-TIME	0	11	O	O	now	x	x	0
+O	0	12	O	O	call	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	over	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	vast	x	x	0
+O	0	17	O	O	majority	x	x	0
+O	0	18	O	O	of	x	x	0
+B-GPE	0	19	O	O	the	x	x	0
+I-GPE	0	20	O	O	country	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	there	x	x	0
+O	0	23	O	O	are	x	x	0
+B-LOC	0	24	O	O	certain	x	x	0
+I-LOC	0	25	O	O	areas	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	only	x	x	0
+O	0	28	O	O	certain	x	x	0
+O	0	29	O	O	areas	x	x	0
+O	0	30	O	O	of	x	x	0
+B-LOC	0	31	O	O	downtown	x	x	0
+I-LOC	0	32	O	O	Iraq	x	x	0
+B-LOC	0	33	O	O	where	x	x	0
+O	0	34	O	O	battle	x	x	0
+O	0	35	O	O	management	x	x	0
+O	0	36	O	O	radars	x	x	0
+O	0	37	O	O	linked	x	x	0
+O	0	38	O	O	to	x	x	0
+B-WEA	0	39	O	O	surface	x	x	0
+I-WEA	0	40	O	O	to	x	x	0
+I-WEA	0	41	O	O	air	x	x	0
+I-WEA	0	42	O	O	missiles	x	x	0
+O	0	43	O	O	are	x	x	0
+O	0	44	O	O	still	x	x	0
+O	0	45	O	O	in	x	x	0
+O	0	46	O	O	tact	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	reason	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	they	x	x	0
+O	0	4	O	O	're	x	x	0
+O	0	5	O	O	still	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	tact	x	x	0
+O	0	8	O	O	according	x	x	0
+O	0	9	O	O	to	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	briefing	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	had	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	turned	x	x	0
+O	0	19	O	O	them	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	as	x	x	0
+O	0	23	O	O	long	x	x	0
+O	0	24	O	O	as	x	x	0
+B-PER	0	25	O	O	they	x	x	0
+O	0	26	O	O	do	x	x	0
+O	0	27	O	O	n't	x	x	0
+O	0	28	O	O	turn	x	x	0
+O	0	29	O	O	them	x	x	0
+O	0	30	O	O	on	x	x	0
+O	0	31	O	O	,	x	x	0
+B-GPE	0	32	O	O	the	x	x	0
+I-GPE	0	33	O	O	U.S.	x	x	0
+O	0	34	O	O	has	x	x	0
+O	0	35	O	O	trouble	x	x	0
+O	0	36	O	O	locating	x	x	0
+B-WEA	0	37	O	O	them	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	assure	x	x	0
+B-PER	0	2	O	O	us	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	soon	x	x	0
+O	0	6	O	O	as	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	do	x	x	0
+O	0	9	O	O	start	x	x	0
+O	0	10	O	O	turning	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	these	x	x	0
+O	0	13	O	O	radars	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	'll	x	x	0
+O	0	17	O	O	take	x	x	0
+O	0	18	O	O	those	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	too	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	finish	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	job	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	terms	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	airspace	x	x	0
+O	0	29	O	O	over	x	x	0
+O	0	30	O	O	Baghdad.Judy	x	x	0
+O	0	31	O	O	...	x	x	0
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	right	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	paying	x	x	0
+O	0	3	O	O	attention	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	those	x	x	0
+O	0	7	O	O	details	x	x	0
+O	0	8	O	O	for	x	x	0
+B-ORG	0	9	O	O	us	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	Chris	x	x	0
+O	0	12	O	O	Plante	x	x	0
+O	0	13	O	O	at	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	Pentagon	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	looking	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	live	x	x	0
+O	0	5	O	O	pictures	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	Baghdad	x	x	0
+B-GPE	0	8	O	O	where	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	been	x	x	0
+O	0	12	O	O	more	x	x	0
+O	0	13	O	O	strikes	x	x	0
+O	0	14	O	O	,	x	x	0
+B-WEA	0	15	O	O	more	x	x	0
+I-WEA	0	16	O	O	bombs	x	x	0
+O	0	17	O	O	dropped	x	x	0
+O	0	18	O	O	,	x	x	0
+B-WEA	0	19	O	O	more	x	x	0
+I-WEA	0	20	O	O	missiles	x	x	0
+B-TIME	0	21	O	O	this	x	x	0
+I-TIME	0	22	O	O	evening	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	course	x	x	0
+O	0	26	O	O	as	x	x	0
+O	0	27	O	O	always	x	x	0
+O	0	28	O	O	,	x	x	0
+B-ORG	0	29	O	O	CNN	x	x	0
+O	0	30	O	O	keeping	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	close	x	x	0
+O	0	33	O	O	eye	x	x	0
+O	0	34	O	O	,	x	x	0
+O	0	35	O	O	a	x	x	0
+O	0	36	O	O	close	x	x	0
+O	0	37	O	O	watch	x	x	0
+O	0	38	O	O	,	x	x	0
+O	0	39	O	O	a	x	x	0
+O	0	40	O	O	close	x	x	0
+O	0	41	O	O	listen	x	x	0
+O	0	42	O	O	on	x	x	0
+O	0	43	O	O	what	x	x	0
+O	0	44	O	O	's	x	x	0
+O	0	45	O	O	going	x	x	0
+O	0	46	O	O	on	x	x	0
+O	0	47	O	O	in	x	x	0
+B-GPE	0	48	O	O	Baghdad	x	x	0
+O	0	49	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Coming	x	x	0
+O	0	1	O	O	up	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	coalition	x	x	0
+O	0	4	O	O	forces	x	x	0
+O	0	5	O	O	control	x	x	0
+O	0	6	O	O	several	x	x	0
+O	0	7	O	O	parts	x	x	0
+O	0	8	O	O	of	x	x	0
+B-LOC	0	9	O	O	southern	x	x	0
+I-LOC	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	but	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	still	x	x	0
+O	0	14	O	O	face	x	x	0
+O	0	15	O	O	some	x	x	0
+O	0	16	O	O	serious	x	x	0
+O	0	17	O	O	problems	x	x	0
+O	0	18	O	O	including	x	x	0
+O	0	19	O	O	pockets	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	resistance	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	story	x	x	0
+O	0	2	O	O	when	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	come	x	x	0
+O	0	5	O	O	back	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Since	x	x	0
+O	0	1	O	O	marching	x	x	0
+O	0	2	O	O	into	x	x	0
+B-GPE	0	3	O	O	Iraq	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	coalition	x	x	0
+O	0	6	O	O	troops	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	engaged	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	some	x	x	0
+O	0	11	O	O	fierce	x	x	0
+O	0	12	O	O	battles	x	x	0
+O	0	13	O	O	with	x	x	0
+B-PER	0	14	O	O	Saddam	x	x	0
+I-PER	0	15	O	O	Hussein	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	forces	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	serious	x	x	0
+O	0	2	O	O	problem	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	still	x	x	0
+O	0	5	O	O	face	x	x	0
+O	0	6	O	O	though	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	pockets	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	resistance	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Reporter	x	x	0
+O	0	1	O	O	David	x	x	0
+O	0	2	O	O	Bowden	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	British	x	x	0
+O	0	7	O	O	forces	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	Umm	x	x	0
+O	0	10	O	O	Qasr	x	x	0
+O	0	11	O	O	in	x	x	0
+B-LOC	0	12	O	O	southern	x	x	0
+I-LOC	0	13	O	O	Iraq	x	x	0
+O	0	14	O	O	.	x	x	0
+

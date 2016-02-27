@@ -1,0 +1,958 @@
+B-ORG	0	0	O	O	our	x	x	0
+O	0	1	O	O	founder	x	x	0
+O	0	2	O	O	here	x	x	0
+O	0	3	O	O	at	x	x	0
+B-ORG	0	4	O	O	CNN	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Ted	x	x	0
+I-PER	0	7	O	O	Turner	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	sold	x	x	0
+O	0	11	O	O	more	x	x	0
+O	0	12	O	O	than	x	x	0
+O	0	13	O	O	half	x	x	0
+O	0	14	O	O	0	x	x	0
+B-PER	0	15	O	O	his	x	x	0
+O	0	16	O	O	stake	x	x	0
+O	0	17	O	O	in	x	x	0
+B-ORG	0	18	O	O	AOL	x	x	0
+I-ORG	0	19	O	O	Time	x	x	0
+I-ORG	0	20	O	O	Warner	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	shares	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	lot	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	money	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Andy	x	x	0
+I-PER	0	1	O	O	Serwer	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	look	x	x	0
+O	0	4	O	O	into	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	Mark	x	x	0
+O	0	9	O	O	Muz	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	're	x	x	0
+O	0	3	O	O	investing	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	why	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+O	0	7	O	O	?	x	x	0
+
+O	0	0	O	O	Chitchat	x	x	0
+O	0	1	O	O	in	x	x	0
+B-FAC	0	2	O	O	the	x	x	0
+I-FAC	0	3	O	O	time	x	x	0
+I-FAC	0	4	O	O	life	x	x	0
+I-FAC	0	5	O	O	building	x	x	0
+O	0	6	O	O	here	x	x	0
+O	0	7	O	O	at	x	x	0
+B-ORG	0	8	O	O	AOL	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	all	x	x	0
+O	0	11	O	O	over	x	x	0
+B-FAC	0	12	O	O	Wall	x	x	0
+I-FAC	0	13	O	O	Street	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	Ted	x	x	0
+I-PER	0	16	O	O	Turner	x	x	0
+O	0	17	O	O	selling	x	x	0
+O	0	18	O	O	60	x	x	0
+O	0	19	O	O	million	x	x	0
+O	0	20	O	O	shares	x	x	0
+O	0	21	O	O	for	x	x	0
+B-Numeric	0	22	O	O	$800	x	x	0
+I-Numeric	0	23	O	O	million	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	more	x	x	0
+O	0	26	O	O	than	x	x	0
+O	0	27	O	O	half	x	x	0
+O	0	28	O	O	of	x	x	0
+B-PER	0	29	O	O	his	x	x	0
+O	0	30	O	O	stake	x	x	0
+O	0	31	O	O	in	x	x	0
+B-ORG	0	32	O	O	the	x	x	0
+I-ORG	0	33	O	O	company	x	x	0
+O	0	34	O	O	,	x	x	0
+B-PER	0	35	O	O	he	x	x	0
+O	0	36	O	O	opens	x	x	0
+O	0	37	O	O	40	x	x	0
+O	0	38	O	O	million	x	x	0
+O	0	39	O	O	plus	x	x	0
+B-TIME	0	40	O	O	now	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Question	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	why	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	is	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	selling	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	begin	x	x	0
+O	0	5	O	O	up	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	at	x	x	0
+O	0	3	O	O	least	x	x	0
+O	0	4	O	O	hedging	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	bets	x	x	0
+O	0	7	O	O	by	x	x	0
+O	0	8	O	O	keeping	x	x	0
+O	0	9	O	O	40	x	x	0
+O	0	10	O	O	million	x	x	0
+O	0	11	O	O	shares	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	basically	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	decided	x	x	0
+O	0	17	O	O	that	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	company	x	x	0
+O	0	20	O	O	is	x	x	0
+O	0	21	O	O	not	x	x	0
+O	0	22	O	O	going	x	x	0
+O	0	23	O	O	wait	x	x	0
+B-PER	0	24	O	O	he	x	x	0
+O	0	25	O	O	wants	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	go	x	x	0
+O	0	29	O	O	and	x	x	0
+B-PER	0	30	O	O	he	x	x	0
+O	0	31	O	O	's	x	x	0
+O	0	32	O	O	bailing	x	x	0
+O	0	33	O	O	out	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	concern	x	x	0
+O	0	7	O	O	obviously	x	x	0
+O	0	8	O	O	by	x	x	0
+O	0	9	O	O	people	x	x	0
+B-PER	0	10	O	O	who	x	x	0
+O	0	11	O	O	still	x	x	0
+O	0	12	O	O	own	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	stock	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	point	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	if	x	x	0
+B-PER	0	6	O	O	Ted	x	x	0
+I-PER	0	7	O	O	Turner	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	so	x	x	0
+O	0	10	O	O	smart	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	's	x	x	0
+B-PER	0	14	O	O	a	x	x	0
+I-PER	0	15	O	O	very	x	x	0
+I-PER	0	16	O	O	smart	x	x	0
+I-PER	0	17	O	O	guy	x	x	0
+O	0	18	O	O	but	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	did	x	x	0
+O	0	21	O	O	not	x	x	0
+O	0	22	O	O	sell	x	x	0
+O	0	23	O	O	at	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	top	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	okay	x	x	0
+O	0	28	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	sell	x	x	0
+O	0	4	O	O	at	x	x	0
+B-Numeric	0	5	O	O	$60	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	hind	x	x	0
+O	0	1	O	O	sight	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	gotten	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-PER	0	0	O	O	he	x	x	0
+O	0	1	O	O	believed	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	merger	x	x	0
+O	0	5	O	O	like	x	x	0
+B-PER	0	6	O	O	most	x	x	0
+I-PER	0	7	O	O	other	x	x	0
+I-PER	0	8	O	O	people	x	x	0
+O	0	9	O	O	did	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	look	x	x	0
+O	0	3	O	O	back	x	x	0
+B-TIME	0	4	O	O	five	x	x	0
+I-TIME	0	5	O	O	years	x	x	0
+I-TIME	0	6	O	O	from	x	x	0
+I-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	can	x	x	0
+O	0	11	O	O	see	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	has	x	x	0
+O	0	15	O	O	lost	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	lot	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	money	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	still	x	x	0
+O	0	5	O	O	had	x	x	0
+B-Numeric	0	6	O	O	$1.7	x	x	0
+I-Numeric	0	7	O	O	billion	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	we	x	x	0
+O	0	10	O	O	're	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	shedding	x	x	0
+O	0	13	O	O	tears	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	have	x	x	0
+B-Numeric	0	3	O	O	$8	x	x	0
+I-Numeric	0	4	O	O	billion	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	left	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	table	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	look	x	x	0
+O	0	3	O	O	back	x	x	0
+B-TIME	0	4	O	O	five	x	x	0
+I-TIME	0	5	O	O	years	x	x	0
+I-TIME	0	6	O	O	from	x	x	0
+I-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	say	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	when	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	stock	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	either	x	x	0
+O	0	16	O	O	at	x	x	0
+B-Numeric	0	17	O	O	$13	x	x	0
+O	0	18	O	O	still	x	x	0
+O	0	19	O	O	or	x	x	0
+B-Numeric	0	20	O	O	$8	x	x	0
+O	0	21	O	O	or	x	x	0
+B-Numeric	0	22	O	O	$30	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	say	x	x	0
+O	0	25	O	O	,	x	x	0
+B-PER	0	26	O	O	he	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	either	x	x	0
+O	0	29	O	O	very	x	x	0
+O	0	30	O	O	smart	x	x	0
+O	0	31	O	O	or	x	x	0
+O	0	32	O	O	not	x	x	0
+O	0	33	O	O	smart	x	x	0
+O	0	34	O	O	at	x	x	0
+O	0	35	O	O	all	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	still	x	x	0
+O	0	3	O	O	hedging	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	bet	x	x	0
+O	0	6	O	O	by	x	x	0
+O	0	7	O	O	keeping	x	x	0
+O	0	8	O	O	40	x	x	0
+O	0	9	O	O	million	x	x	0
+O	0	10	O	O	stake	x	x	0
+O	0	11	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	hope	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	wrong	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	me	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	too	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	question	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'm	x	x	0
+O	0	5	O	O	an	x	x	0
+B-ORG	0	6	O	O	AOL	x	x	0
+O	0	7	O	O	shareholder	x	x	0
+O	0	8	O	O	sitting	x	x	0
+O	0	9	O	O	at	x	x	0
+B-FAC	0	10	O	O	home	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	hearing	x	x	0
+O	0	13	O	O	this	x	x	0
+O	0	14	O	O	news	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	done	x	x	0
+O	0	17	O	O	this	x	x	0
+O	0	18	O	O	set	x	x	0
+O	0	19	O	O	off	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	few	x	x	0
+O	0	22	O	O	alarms	x	x	0
+O	0	23	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Will	x	x	0
+B-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	panic	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	everybody	x	x	0
+O	0	5	O	O	sell	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	stock	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	weaker	x	x	0
+B-TIME	0	7	O	O	today	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Again	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	stock	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	drifted	x	x	0
+O	0	9	O	O	below	x	x	0
+B-Numeric	0	10	O	O	$10	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	neighborhood	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	while	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	done	x	x	0
+O	0	2	O	O	see	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	thing	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	down	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	lot	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Interesting	x	x	0
+O	0	1	O	O	point	x	x	0
+O	0	2	O	O	here	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	suggesting	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	may	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	raising	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	money	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	buy	x	x	0
+O	0	16	O	O	those	x	x	0
+B-GPE	0	17	O	O	Atlanta	x	x	0
+O	0	18	O	O	sports	x	x	0
+O	0	19	O	O	teams	x	x	0
+B-ORG	0	20	O	O	that	x	x	0
+O	0	21	O	O	apparently	x	x	0
+O	0	22	O	O	are	x	x	0
+O	0	23	O	O	on	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	block	x	x	0
+O	0	26	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	the	x	x	0
+I-ORG	0	1	O	O	braves	x	x	0
+I-ORG	0	2	O	O	and	x	x	0
+I-ORG	0	3	O	O	thrashers	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	you	x	x	0
+O	0	1	O	O	really	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	?	x	x	0
+
+B-PER	0	0	O	O	you	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'm	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	sure	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	loves	x	x	0
+O	0	2	O	O	apparently	x	x	0
+B-ORG	0	3	O	O	they	x	x	0
+O	0	4	O	O	're	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	sale	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	about	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	thank	x	x	0
+O	0	1	O	O	you	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	check	x	x	0
+O	0	3	O	O	4	x	x	0
+O	0	4	O	O	with	x	x	0
+B-PER	0	5	O	O	Jack	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	question	x	x	0
+O	0	2	O	O	of	x	x	0
+B-TIME	0	3	O	O	the	x	x	0
+I-TIME	0	4	O	O	day	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Bill	x	x	0
+I-PER	0	7	O	O	Bennet	x	x	0
+O	0	8	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	figure	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	Turner	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	smarter	x	x	0
+O	0	6	O	O	than	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	am	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	'm	x	x	0
+O	0	12	O	O	selling	x	x	0
+B-PER	0	13	O	O	my	x	x	0
+O	0	14	O	O	80	x	x	0
+O	0	15	O	O	shares	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	80	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	them	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-Numeric	0	0	O	O	$13	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	change	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Talking	x	x	0
+O	0	1	O	O	about	x	x	0
+B-PER	0	2	O	O	Bill	x	x	0
+I-PER	0	3	O	O	Bennet	x	x	0
+B-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	morning	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	country	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	leading	x	x	0
+O	0	12	O	O	Crusaders	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	morality	x	x	0
+B-PER	0	15	O	O	author	x	x	0
+I-PER	0	16	O	O	of	x	x	0
+I-PER	0	17	O	O	"	x	x	0
+I-PER	0	18	O	O	Virtues	x	x	0
+O	0	19	O	O	"	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	admits	x	x	0
+B-PER	0	22	O	O	he	x	x	0
+O	0	23	O	O	has	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	gambling	x	x	0
+O	0	26	O	O	problem	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Me	x	x	0
+B-PER	0	1	O	O	He	x	x	0
+O	0	2	O	O	made	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	admission	x	x	0
+O	0	5	O	O	after	x	x	0
+B-PER	0	6	O	O	Bennett	x	x	0
+O	0	7	O	O	lost	x	x	0
+B-Numeric	0	8	O	O	up	x	x	0
+I-Numeric	0	9	O	O	to	x	x	0
+I-Numeric	0	10	O	O	$8	x	x	0
+I-Numeric	0	11	O	O	million	x	x	0
+O	0	12	O	O	in	x	x	0
+B-FAC	0	13	O	O	casinos	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	last	x	x	0
+I-TIME	0	17	O	O	decade	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	articles	x	x	0
+O	0	2	O	O	say	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	won	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	times	x	x	0
+O	0	7	O	O	that	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	had	x	x	0
+B-Numeric	0	10	O	O	$200,000	x	x	0
+O	0	11	O	O	lines	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	credit	x	x	0
+O	0	14	O	O	at	x	x	0
+B-FAC	0	15	O	O	several	x	x	0
+I-FAC	0	16	O	O	laying	x	x	0
+I-FAC	0	17	O	O	casinos	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Gambling	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	however	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	Vices	x	x	0
+B-PER	0	12	O	O	Bennett	x	x	0
+O	0	13	O	O	thinks	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	undermining	x	x	0
+B-GPE	0	16	O	O	American	x	x	0
+O	0	17	O	O	culture	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	hear	x	x	0
+O	0	4	O	O	from	x	x	0
+B-PER	0	5	O	O	viewers	x	x	0
+B-TIME	0	6	O	O	this	x	x	0
+I-TIME	0	7	O	O	morning	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	say	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	stop	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	News	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	Bill	x	x	0
+I-PER	0	3	O	O	Bennet	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	gambling	x	x	0
+O	0	6	O	O	changed	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	opinion	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	him	x	x	0
+O	0	11	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Many	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	many	x	x	0
+O	0	3	O	O	responses	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hypocrite	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	word	x	x	0
+O	0	5	O	O	present	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	many	x	x	0
+O	0	8	O	O	e-mails	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hypocrite	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Barbara	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Bill	x	x	0
+I-PER	0	3	O	O	Bennet	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	Glam	x	x	0
+O	0	6	O	O	gambling	x	x	0
+O	0	7	O	O	loss	x	x	0
+O	0	8	O	O	changed	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	opinion	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Linda	x	x	0
+O	0	1	O	O	write	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	what	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	wants	x	x	0
+O	0	8	O	O	with	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	money	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	thought	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	smarter	x	x	0
+O	0	5	O	O	than	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Lawrence	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Missouri	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	after	x	x	0
+O	0	5	O	O	sitting	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	front	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	TV	x	x	0
+B-TIME	0	11	O	O	night	x	x	0
+I-TIME	0	12	O	O	after	x	x	0
+I-TIME	0	13	O	O	night	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	listening	x	x	0
+O	0	16	O	O	to	x	x	0
+B-PER	0	17	O	O	him	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	watching	x	x	0
+O	0	20	O	O	every	x	x	0
+O	0	21	O	O	perversion	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	Sin	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	evil	x	x	0
+O	0	26	O	O	known	x	x	0
+O	0	27	O	O	to	x	x	0
+B-PER	0	28	O	O	man	x	x	0
+O	0	29	O	O	or	x	x	0
+O	0	30	O	O	beast	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	being	x	x	0
+O	0	33	O	O	glamourized	x	x	0
+O	0	34	O	O	by	x	x	0
+O	0	35	O	O	sitcoms	x	x	0
+O	0	36	O	O	and	x	x	0
+B-PER	0	37	O	O	TV	x	x	0
+I-PER	0	38	O	O	talking	x	x	0
+I-PER	0	39	O	O	heads	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	imagine	x	x	0
+B-PER	0	42	O	O	my	x	x	0
+O	0	43	O	O	shock	x	x	0
+O	0	44	O	O	in	x	x	0
+O	0	45	O	O	hearing	x	x	0
+O	0	46	O	O	that	x	x	0
+B-PER	0	47	O	O	Bill	x	x	0
+I-PER	0	48	O	O	Bennet	x	x	0
+O	0	49	O	O	being	x	x	0
+O	0	50	O	O	soundly	x	x	0
+O	0	51	O	O	condemned	x	x	0
+O	0	52	O	O	for	x	x	0
+O	0	53	O	O	gambling	x	x	0
+O	0	54	O	O	,	x	x	0
+O	0	55	O	O	is	x	x	0
+O	0	56	O	O	this	x	x	0
+O	0	57	O	O	the	x	x	0
+O	0	58	O	O	beginning	x	x	0
+O	0	59	O	O	of	x	x	0
+O	0	60	O	O	a	x	x	0
+O	0	61	O	O	new	x	x	0
+O	0	62	O	O	morality	x	x	0
+O	0	63	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Chad	x	x	0
+B-GPE	0	1	O	O	New	x	x	0
+I-GPE	0	2	O	O	York	x	x	0
+O	0	3	O	O	big	x	x	0
+O	0	4	O	O	deal	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	have	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	done	x	x	0
+O	0	4	O	O	wrong	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	morning	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	ai	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	telling	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Chad	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	David	x	x	0
+O	0	1	O	O	say	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	opinion	x	x	0
+O	0	4	O	O	did	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	change	x	x	0
+O	0	7	O	O	because	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	new	x	x	0
+O	0	11	O	O	news	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	always	x	x	0
+O	0	2	O	O	thought	x	x	0
+B-PER	0	3	O	O	Bennett	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	louse.	x	x	0
+B-Contact-Info	0	7	O	O	am	x	x	0
+I-Contact-Info	0	8	O	O	@	x	x	0
+I-Contact-Info	0	9	O	O	cnn.com	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	address	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Unburden	x	x	0
+B-PER	0	1	O	O	yourself	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	we	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	talk	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	Jeff	x	x	0
+I-PER	0	8	O	O	Greenfield	x	x	0
+O	0	9	O	O	coming	x	x	0
+O	0	10	O	O	up	x	x	0
+O	0	11	O	O	.	x	x	0
+

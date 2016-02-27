@@ -1,0 +1,1043 @@
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	as	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	listened	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	John	x	x	0
+I-PER	0	7	O	O	King	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	report	x	x	0
+O	0	10	O	O	,	x	x	0
+B-ORG	0	11	O	O	we	x	x	0
+O	0	12	O	O	can	x	x	0
+O	0	13	O	O	tell	x	x	0
+B-PER	0	14	O	O	you	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	President	x	x	0
+O	0	17	O	O	Bush	x	x	0
+O	0	18	O	O	has	x	x	0
+O	0	19	O	O	just	x	x	0
+B-PER	0	20	O	O	his	x	x	0
+O	0	21	O	O	plane	x	x	0
+O	0	22	O	O	has	x	x	0
+O	0	23	O	O	just	x	x	0
+O	0	24	O	O	landed	x	x	0
+O	0	25	O	O	at	x	x	0
+B-FAC	0	26	O	O	Andrews	x	x	0
+I-FAC	0	27	O	O	Air	x	x	0
+I-FAC	0	28	O	O	Force	x	x	0
+I-FAC	0	29	O	O	Base	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	just	x	x	0
+O	0	32	O	O	close	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	the	x	x	0
+B-GPE	0	35	O	O	Washington	x	x	0
+O	0	36	O	O	area	x	x	0
+O	0	37	O	O	,	x	x	0
+B-PER	0	38	O	O	the	x	x	0
+I-PER	0	39	O	O	president	x	x	0
+O	0	40	O	O	having	x	x	0
+O	0	41	O	O	flown	x	x	0
+O	0	42	O	O	back	x	x	0
+O	0	43	O	O	to	x	x	0
+B-GPE	0	44	O	O	the	x	x	0
+I-GPE	0	45	O	O	United	x	x	0
+I-GPE	0	46	O	O	States	x	x	0
+O	0	47	O	O	from	x	x	0
+O	0	48	O	O	that	x	x	0
+O	0	49	O	O	meeting	x	x	0
+O	0	50	O	O	in	x	x	0
+B-LOC	0	51	O	O	Northern	x	x	0
+I-LOC	0	52	O	O	Ireland	x	x	0
+O	0	53	O	O	in	x	x	0
+B-GPE	0	54	O	O	Belfast	x	x	0
+O	0	55	O	O	with	x	x	0
+O	0	56	O	O	the	x	x	0
+B-GPE	0	57	O	O	British	x	x	0
+O	0	58	O	O	prime	x	x	0
+O	0	59	O	O	minister	x	x	0
+O	0	60	O	O	,	x	x	0
+B-PER	0	61	O	O	Tony	x	x	0
+I-PER	0	62	O	O	Blair	x	x	0
+O	0	63	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	heard	x	x	0
+B-PER	0	3	O	O	John	x	x	0
+O	0	4	O	O	reporting	x	x	0
+O	0	5	O	O	about	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	primarily	x	x	0
+O	0	2	O	O	talked	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	war	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	aftermath	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	discussed	x	x	0
+B-LOC	0	4	O	O	the	x	x	0
+I-LOC	0	5	O	O	Middle	x	x	0
+I-LOC	0	6	O	O	East	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	well	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	getting	x	x	0
+O	0	13	O	O	the	x	x	0
+B-LOC	0	14	O	O	Northern	x	x	0
+I-LOC	0	15	O	O	Ireland	x	x	0
+O	0	16	O	O	peace	x	x	0
+O	0	17	O	O	process	x	x	0
+O	0	18	O	O	started	x	x	0
+O	0	19	O	O	up	x	x	0
+O	0	20	O	O	again	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	Saddam	x	x	0
+I-PER	0	6	O	O	Hussein	x	x	0
+O	0	7	O	O	ruled	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	with	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	iron	x	x	0
+O	0	12	O	O	fist	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	say	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+B-TIME	0	7	O	O	past	x	x	0
+O	0	8	O	O	tense	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	regime	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	left	x	x	0
+O	0	4	O	O	behind	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	disturbing	x	x	0
+O	0	7	O	O	evidence	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	support	x	x	0
+O	0	10	O	O	those	x	x	0
+O	0	11	O	O	claims	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	abandoned	x	x	0
+B-ORG	0	2	O	O	secret	x	x	0
+I-ORG	0	3	O	O	police	x	x	0
+O	0	4	O	O	headquarters	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Basra	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	just	x	x	0
+O	0	9	O	O	one	x	x	0
+O	0	10	O	O	example	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	ITN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Bill	x	x	0
+O	0	3	O	O	Neely	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Royal	x	x	0
+I-ORG	0	8	O	O	Marines	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	takes	x	x	0
+B-PER	0	12	O	O	us	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	tour	x	x	0
+O	0	16	O	O	of	x	x	0
+B-GPE	0	17	O	O	Basra	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	chamber	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	horrors	x	x	0
+O	0	22	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Saddam	x	x	0
+I-PER	0	1	O	O	Hussein	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	Iraq	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	state	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	terror	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-FAC	0	11	O	O	this	x	x	0
+O	0	12	O	O	is	x	x	0
+B-FAC	0	13	O	O	where	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	planned	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	perpetrated	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	headquarters	x	x	0
+O	0	22	O	O	of	x	x	0
+B-PER	0	23	O	O	his	x	x	0
+O	0	24	O	O	secret	x	x	0
+O	0	25	O	O	police	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	this	x	x	0
+O	0	28	O	O	one	x	x	0
+O	0	29	O	O	in	x	x	0
+B-GPE	0	30	O	O	Basra	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	No	x	x	0
+B-GPE	0	1	O	O	British	x	x	0
+O	0	2	O	O	soldier	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+B-FAC	0	5	O	O	here	x	x	0
+O	0	6	O	O	yet	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Today	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	walked	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	met	x	x	0
+B-PER	0	9	O	O	Iraqis	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	none	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	whom	x	x	0
+O	0	14	O	O	had	x	x	0
+O	0	15	O	O	ever	x	x	0
+O	0	16	O	O	been	x	x	0
+O	0	17	O	O	inside	x	x	0
+O	0	18	O	O	willingly	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	follow	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	horrific	x	x	0
+O	0	7	O	O	education	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	terror	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	torture	x	x	0
+O	0	12	O	O	:	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	smoking	x	x	0
+O	0	16	O	O	basement	x	x	0
+O	0	17	O	O	of	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	bombed	x	x	0
+I-FAC	0	20	O	O	building	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	warren	x	x	0
+O	0	24	O	O	of	x	x	0
+B-FAC	0	25	O	O	cells	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	Here	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	prisoners	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	tortured	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	course	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	died	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	died	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	people	x	x	0
+O	0	4	O	O	in	x	x	0
+B-FAC	0	5	O	O	prison	x	x	0
+O	0	6	O	O	without	x	x	0
+O	0	7	O	O	court	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	without	x	x	0
+O	0	10	O	O	trial	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Any	x	x	0
+O	0	1	O	O	people	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+B-PER	0	3	O	O	Saddam	x	x	0
+O	0	4	O	O	did	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-FAC	0	0	O	O	The	x	x	0
+I-FAC	0	1	O	O	building	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	crumbling	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Down	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	went	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	further	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	cells	x	x	0
+B-FAC	0	7	O	O	that	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	no	x	x	0
+O	0	10	O	O	light	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	little	x	x	0
+O	0	13	O	O	air	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	cockroaches	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	filth	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	ground	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	gas	x	x	0
+O	0	27	O	O	mask	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	bottles	x	x	0
+O	0	30	O	O	of	x	x	0
+O	0	31	O	O	chemicals	x	x	0
+O	0	32	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	imagine	x	x	0
+O	0	3	O	O	this	x	x	0
+B-TIME	0	4	O	O	every	x	x	0
+I-TIME	0	5	O	O	day	x	x	0
+O	0	6	O	O	,	x	x	0
+B-TIME	0	7	O	O	every	x	x	0
+I-TIME	0	8	O	O	month	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	So	x	x	0
+I-PER	0	1	O	O	many	x	x	0
+I-PER	0	2	O	O	people	x	x	0
+O	0	3	O	O	come	x	x	0
+B-FAC	0	4	O	O	here	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	we	x	x	0
+O	0	8	O	O	do	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	know	x	x	0
+O	0	11	O	O	about	x	x	0
+B-PER	0	12	O	O	them	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	all	x	x	0
+O	0	15	O	O	.	x	x	0
+
+B-PER	0	0	O	O	These	x	x	0
+I-PER	0	1	O	O	ordinary	x	x	0
+I-PER	0	2	O	O	Iraqis	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	terrified	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	come	x	x	0
+B-FAC	0	8	O	O	here	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	until	x	x	0
+B-TIME	0	11	O	O	today	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	though	x	x	0
+B-PER	0	14	O	O	one	x	x	0
+I-PER	0	15	O	O	student	x	x	0
+I-PER	0	16	O	O	on	x	x	0
+I-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	left	x	x	0
+O	0	19	O	O	had	x	x	0
+O	0	20	O	O	been	x	x	0
+B-FAC	0	21	O	O	here	x	x	0
+B-TIME	0	22	O	O	before	x	x	0
+O	0	23	O	O	.	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	prisoners	x	x	0
+B-FAC	0	6	O	O	here	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	For	x	x	0
+O	0	6	O	O	how	x	x	0
+O	0	7	O	O	long	x	x	0
+O	0	8	O	O	?	x	x	0
+
+B-TIME	0	0	O	O	Eight	x	x	0
+I-TIME	0	1	O	O	years	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-TIME	0	0	O	O	Eight	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	nine	x	x	0
+O	0	3	O	O	,	x	x	0
+B-TIME	0	4	O	O	eight	x	x	0
+I-TIME	0	5	O	O	years	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	his	x	x	0
+O	0	2	O	O	crime	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	eight	x	x	0
+I-TIME	0	5	O	O	years	x	x	0
+O	0	6	O	O	in	x	x	0
+B-FAC	0	7	O	O	jail	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	prayed	x	x	0
+O	0	2	O	O	too	x	x	0
+O	0	3	O	O	much	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	seen	x	x	0
+O	0	7	O	O	as	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	dangerous	x	x	0
+I-PER	0	10	O	O	radical	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-FAC	0	5	O	O	More	x	x	0
+I-FAC	0	6	O	O	cells	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	But	x	x	0
+O	0	5	O	O	the	x	x	0
+B-ORG	0	6	O	O	Mukhabarat	x	x	0
+O	0	7	O	O	headquarters	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	more	x	x	0
+O	0	10	O	O	horrors	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	reveal	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	tied	x	x	0
+B-PER	0	3	O	O	their	x	x	0
+O	0	4	O	O	hands	x	x	0
+O	0	5	O	O	behind	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	hung	x	x	0
+B-PER	0	8	O	O	them	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	hung	x	x	0
+B-PER	0	11	O	O	them	x	x	0
+O	0	12	O	O	for	x	x	0
+B-TIME	0	13	O	O	many	x	x	0
+I-TIME	0	14	O	O	days	x	x	0
+O	0	15	O	O	.	x	x	0
+
+B-PER	0	0	O	O	These	x	x	0
+I-PER	0	1	O	O	men	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	relatives	x	x	0
+O	0	4	O	O	murdered	x	x	0
+B-FAC	0	5	O	O	here	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	desperate	x	x	0
+O	0	2	O	O	are	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	tell	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	story	x	x	0
+O	0	8	O	O	that	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	began	x	x	0
+O	0	11	O	O	reenacting	x	x	0
+O	0	12	O	O	what	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	their	x	x	0
+O	0	16	O	O	brothers	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	friends	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	suffered	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	hook	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	ceiling	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	one	x	x	0
+O	0	8	O	O	purpose	x	x	0
+O	0	9	O	O	only	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	another	x	x	0
+O	0	12	O	O	hook	x	x	0
+O	0	13	O	O	in	x	x	0
+B-FAC	0	14	O	O	a	x	x	0
+I-FAC	0	15	O	O	different	x	x	0
+I-FAC	0	16	O	O	cell	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	different	x	x	0
+O	0	20	O	O	form	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	torture	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Saddam	x	x	0
+I-PER	0	1	O	O	Hussein	x	x	0
+O	0	2	O	O	controlled	x	x	0
+B-GPE	0	3	O	O	Iraq	x	x	0
+O	0	4	O	O	through	x	x	0
+O	0	5	O	O	fear	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	torture	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	execution	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	happened	x	x	0
+B-FAC	0	3	O	O	here	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	tens	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	thousands	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	Iraqis	x	x	0
+B-PER	0	10	O	O	that	x	x	0
+B-PER	0	11	O	O	Saddam	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	secret	x	x	0
+O	0	14	O	O	police	x	x	0
+O	0	15	O	O	deemed	x	x	0
+O	0	16	O	O	dangerous	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	man	x	x	0
+O	0	2	O	O	cowered	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	months	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	crammed	x	x	0
+O	0	7	O	O	with	x	x	0
+B-PER	0	8	O	O	300	x	x	0
+I-PER	0	9	O	O	mothers	x	x	0
+O	0	10	O	O	into	x	x	0
+B-FAC	0	11	O	O	a	x	x	0
+I-FAC	0	12	O	O	huge	x	x	0
+I-FAC	0	13	O	O	cell	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Hamid	x	x	0
+I-PER	0	1	O	O	Fatil	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	ph	x	x	0
+O	0	4	O	O	)	x	x	0
+O	0	5	O	O	may	x	x	0
+O	0	6	O	O	look	x	x	0
+O	0	7	O	O	like	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	acting	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	tortured	x	x	0
+B-FAC	0	16	O	O	here	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	along	x	x	0
+O	0	19	O	O	with	x	x	0
+B-PER	0	20	O	O	his	x	x	0
+O	0	21	O	O	two	x	x	0
+O	0	22	O	O	brothers	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	who	x	x	0
+O	0	25	O	O	were	x	x	0
+O	0	26	O	O	executed	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	man	x	x	0
+O	0	2	O	O	was	x	x	0
+B-FAC	0	3	O	O	here	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	too	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	with	x	x	0
+B-PER	0	8	O	O	his	x	x	0
+O	0	9	O	O	brother	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	sentenced	x	x	0
+B-PER	0	2	O	O	him	x	x	0
+O	0	3	O	O	to	x	x	0
+B-Sentence	0	4	O	O	death	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	sent	x	x	0
+B-PER	0	3	O	O	him	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Baghdad	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	killed	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	hanged	x	x	0
+B-GPE	0	3	O	O	there	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	hanged	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	prisoner	x	x	0
+I-PER	0	4	O	O	under	x	x	0
+I-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	name	x	x	0
+I-PER	0	7	O	O	of	x	x	0
+I-PER	0	8	O	O	Ahmed	x	x	0
+I-PER	0	9	O	O	Adis	x	x	0
+I-PER	0	10	O	O	Aeid	x	x	0
+O	0	11	O	O	(	x	x	0
+O	0	12	O	O	ph	x	x	0
+O	0	13	O	O	)	x	x	0
+O	0	14	O	O	.	x	x	0
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	kept	x	x	0
+O	0	2	O	O	records	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	prisoners	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	these	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	their	x	x	0
+O	0	9	O	O	fingerprints	x	x	0
+O	0	10	O	O	all	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	left	x	x	0
+O	0	14	O	O	of	x	x	0
+B-PER	0	15	O	O	them	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	apart	x	x	0
+O	0	18	O	O	from	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	photographs	x	x	0
+B-PER	0	21	O	O	they	x	x	0
+O	0	22	O	O	took	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	exactly	x	x	0
+O	0	25	O	O	what	x	x	0
+B-PER	0	26	O	O	they	x	x	0
+O	0	27	O	O	had	x	x	0
+O	0	28	O	O	done	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	If	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	an	x	x	0
+O	0	9	O	O	evil	x	x	0
+O	0	10	O	O	center	x	x	0
+O	0	11	O	O	to	x	x	0
+B-PER	0	12	O	O	Saddam	x	x	0
+I-PER	0	13	O	O	Hussein	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	regime	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	then	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	surely	x	x	0
+B-FAC	0	21	O	O	here	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	in	x	x	0
+B-FAC	0	24	O	O	other	x	x	0
+I-FAC	0	25	O	O	places	x	x	0
+I-FAC	0	26	O	O	of	x	x	0
+I-FAC	0	27	O	O	torture	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	plenty	x	x	0
+B-FAC	0	4	O	O	here	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	simply	x	x	0
+O	0	8	O	O	cannot	x	x	0
+O	0	9	O	O	show	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-FAC	0	1	O	O	this	x	x	0
+I-FAC	0	2	O	O	block	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	was	x	x	0
+B-PER	0	6	O	O	men	x	x	0
+O	0	7	O	O	over	x	x	0
+O	0	8	O	O	here	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	hundreds	x	x	0
+I-PER	0	11	O	O	of	x	x	0
+I-PER	0	12	O	O	them	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	women	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	children	x	x	0
+O	0	18	O	O	here	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	To	x	x	0
+O	0	5	O	O	call	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	this	x	x	0
+B-FAC	0	8	O	O	a	x	x	0
+I-FAC	0	9	O	O	chamber	x	x	0
+I-FAC	0	10	O	O	of	x	x	0
+I-FAC	0	11	O	O	horrors	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	cliche	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-FAC	0	1	O	O	this	x	x	0
+I-FAC	0	2	O	O	place	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	beyond	x	x	0
+O	0	5	O	O	cliche	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	hundreds	x	x	0
+O	0	2	O	O	or	x	x	0
+O	0	3	O	O	thousands	x	x	0
+B-PER	0	4	O	O	who	x	x	0
+O	0	5	O	O	died	x	x	0
+B-FAC	0	6	O	O	here	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	given	x	x	0
+O	0	10	O	O	no	x	x	0
+O	0	11	O	O	trial	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	no	x	x	0
+O	0	14	O	O	voice	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	cry	x	x	0
+O	0	17	O	O	out	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	ground	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	found	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	book	x	x	0
+O	0	8	O	O	called	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	The	x	x	0
+O	0	11	O	O	Psychology	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	Interrogation	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	"	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	if	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	men	x	x	0
+B-PER	0	20	O	O	who	x	x	0
+O	0	21	O	O	worked	x	x	0
+B-FAC	0	22	O	O	here	x	x	0
+O	0	23	O	O	for	x	x	0
+B-PER	0	24	O	O	Saddam	x	x	0
+O	0	25	O	O	needed	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	handbook	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	glad	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	fresh	x	x	0
+O	0	6	O	O	air	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	glad	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	leave	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	glad	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	could	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	No	x	x	0
+I-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	knows	x	x	0
+O	0	3	O	O	yet	x	x	0
+O	0	4	O	O	whether	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	new	x	x	0
+I-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	kind	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	place	x	x	0
+B-GPE	0	14	O	O	where	x	x	0
+B-PER	0	15	O	O	these	x	x	0
+I-PER	0	16	O	O	children	x	x	0
+O	0	17	O	O	can	x	x	0
+O	0	18	O	O	grow	x	x	0
+O	0	19	O	O	up	x	x	0
+O	0	20	O	O	free	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	fear	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	horror	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	torture	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Bill	x	x	0
+I-PER	0	1	O	O	Neely	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	ITV	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Basra	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	Unspeakable	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Journalists	x	x	0
+O	0	1	O	O	killed	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	line	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	duty	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+O	0	9	O	O	how	x	x	0
+O	0	10	O	O	neutral	x	x	0
+O	0	11	O	O	are	x	x	0
+B-PER	0	12	O	O	reporters	x	x	0
+I-PER	0	13	O	O	in	x	x	0
+I-PER	0	14	O	O	a	x	x	0
+I-PER	0	15	O	O	war	x	x	0
+O	0	16	O	O	supposed	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	?	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	Jeff	x	x	0
+O	0	2	O	O	Greenfield	x	x	0
+O	0	3	O	O	examines	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	question	x	x	0
+O	0	6	O	O	when	x	x	0
+B-ORG	0	7	O	O	we	x	x	0
+O	0	8	O	O	come	x	x	0
+O	0	9	O	O	back	x	x	0
+O	0	10	O	O	.	x	x	0
+

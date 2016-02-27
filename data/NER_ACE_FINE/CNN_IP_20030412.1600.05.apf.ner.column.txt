@@ -1,0 +1,385 @@
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	toughest	x	x	0
+O	0	4	O	O	jobs	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	right	x	x	0
+B-TIME	0	8	O	O	now	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+B-ORG	0	13	O	O	military	x	x	0
+O	0	14	O	O	doctor	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	medical	x	x	0
+O	0	2	O	O	correspondent	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Dr.	x	x	0
+O	0	5	O	O	Sanjay	x	x	0
+O	0	6	O	O	Gupta	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	traveling	x	x	0
+O	0	11	O	O	with	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	Devil	x	x	0
+I-ORG	0	14	O	O	Docs	x	x	0
+O	0	15	O	O	throughout	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	war	x	x	0
+O	0	18	O	O	and	x	x	0
+B-TIME	0	19	O	O	now	x	x	0
+B-ORG	0	20	O	O	they	x	x	0
+O	0	21	O	O	are	x	x	0
+O	0	22	O	O	close	x	x	0
+O	0	23	O	O	to	x	x	0
+B-GPE	0	24	O	O	Baghdad	x	x	0
+O	0	25	O	O	.	x	x	0
+
+O	0	0	O	O	Each	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	these	x	x	0
+O	0	3	O	O	bangs	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	explosions	x	x	0
+O	0	6	O	O	comes	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	story	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	'll	x	x	0
+O	0	3	O	O	never	x	x	0
+O	0	4	O	O	know	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+B-PER	0	1	O	O	others	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	stories	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	seen	x	x	0
+O	0	8	O	O	in	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	injuries	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nobody	x	x	0
+O	0	1	O	O	knows	x	x	0
+O	0	2	O	O	these	x	x	0
+O	0	3	O	O	stories	x	x	0
+O	0	4	O	O	better	x	x	0
+O	0	5	O	O	than	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Devil	x	x	0
+I-ORG	0	8	O	O	Docs	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	Naval	x	x	0
+O	0	11	O	O	corpsmen	x	x	0
+B-ORG	0	12	O	O	who	x	x	0
+O	0	13	O	O	never	x	x	0
+O	0	14	O	O	look	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	other	x	x	0
+O	0	17	O	O	way	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	but	x	x	0
+O	0	20	O	O	rather	x	x	0
+O	0	21	O	O	face	x	x	0
+O	0	22	O	O	what	x	x	0
+O	0	23	O	O	needs	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	be	x	x	0
+O	0	26	O	O	done	x	x	0
+O	0	27	O	O	without	x	x	0
+O	0	28	O	O	flinching	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	often	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	first	x	x	0
+O	0	5	O	O	faces	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	injured	x	x	0
+O	0	8	O	O	see	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	be	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+B-GPE	0	12	O	O	Iraqi	x	x	0
+O	0	13	O	O	or	x	x	0
+B-GPE	0	14	O	O	coalition	x	x	0
+O	0	15	O	O	force	x	x	0
+O	0	16	O	O	members	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Even	x	x	0
+O	0	1	O	O	while	x	x	0
+O	0	2	O	O	statutes	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	coming	x	x	0
+O	0	5	O	O	down	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	dancing	x	x	0
+O	0	10	O	O	in	x	x	0
+B-FAC	0	11	O	O	the	x	x	0
+I-FAC	0	12	O	O	streets	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	consequences	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	continuing	x	x	0
+O	0	18	O	O	firefights	x	x	0
+O	0	19	O	O	are	x	x	0
+O	0	20	O	O	seen	x	x	0
+O	0	21	O	O	here	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	work	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	Devil	x	x	0
+I-ORG	0	5	O	O	Docs	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	by	x	x	0
+O	0	8	O	O	no	x	x	0
+O	0	9	O	O	means	x	x	0
+O	0	10	O	O	over	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Navy	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	set	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	a	x	x	0
+B-VEH	0	6	O	O	helicopter	x	x	0
+O	0	7	O	O	landing	x	x	0
+O	0	8	O	O	zone	x	x	0
+O	0	9	O	O	just	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	100	x	x	0
+O	0	12	O	O	meters	x	x	0
+O	0	13	O	O	from	x	x	0
+B-FAC	0	14	O	O	a	x	x	0
+I-FAC	0	15	O	O	mobile	x	x	0
+I-FAC	0	16	O	O	operating	x	x	0
+I-FAC	0	17	O	O	room	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	just	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	outskirts	x	x	0
+O	0	23	O	O	of	x	x	0
+B-GPE	0	24	O	O	Baghdad	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	closest	x	x	0
+I-ORG	0	4	O	O	front	x	x	0
+I-ORG	0	5	O	O	line	x	x	0
+I-ORG	0	6	O	O	surgical	x	x	0
+I-ORG	0	7	O	O	company	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Corpsmen	x	x	0
+O	0	1	O	O	quickly	x	x	0
+O	0	2	O	O	take	x	x	0
+B-PER	0	3	O	O	patients	x	x	0
+O	0	4	O	O	by	x	x	0
+B-VEH	0	5	O	O	ambulance	x	x	0
+O	0	6	O	O	away	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	blowing	x	x	0
+O	0	10	O	O	sand	x	x	0
+O	0	11	O	O	to	x	x	0
+B-FAC	0	12	O	O	a	x	x	0
+I-FAC	0	13	O	O	triage	x	x	0
+I-FAC	0	14	O	O	tent	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+B-FAC	0	2	O	O	there	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	doctors	x	x	0
+O	0	5	O	O	begin	x	x	0
+B-ORG	0	6	O	O	their	x	x	0
+O	0	7	O	O	work	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Over	x	x	0
+B-TIME	0	1	O	O	45	x	x	0
+I-TIME	0	2	O	O	minutes	x	x	0
+O	0	3	O	O	as	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	watched	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	32	x	x	0
+I-PER	0	8	O	O	patients	x	x	0
+O	0	9	O	O	were	x	x	0
+O	0	10	O	O	delivered	x	x	0
+B-FAC	0	11	O	O	here	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	evaluated	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	nine	x	x	0
+O	0	16	O	O	operations	x	x	0
+O	0	17	O	O	started	x	x	0
+O	0	18	O	O	;	x	x	0
+O	0	19	O	O	29	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	those	x	x	0
+I-PER	0	22	O	O	delivered	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	Marines	x	x	0
+O	0	25	O	O	involved	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	firefight	x	x	0
+O	0	29	O	O	in	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	center	x	x	0
+O	0	32	O	O	of	x	x	0
+B-GPE	0	33	O	O	Baghdad	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Their	x	x	0
+O	0	1	O	O	stories	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	seen	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	shrapnel	x	x	0
+O	0	8	O	O	wounds	x	x	0
+O	0	9	O	O	of	x	x	0
+B-WEA	0	10	O	O	rocket-propelled	x	x	0
+I-WEA	0	11	O	O	grenades	x	x	0
+O	0	12	O	O	and	x	x	0
+B-WEA	0	13	O	O	bullet	x	x	0
+O	0	14	O	O	wounds	x	x	0
+O	0	15	O	O	from	x	x	0
+B-WEA	0	16	O	O	semi-automatic	x	x	0
+I-WEA	0	17	O	O	weapons	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	operations	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	on	x	x	0
+B-PER	0	4	O	O	their	x	x	0
+O	0	5	O	O	hands	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	abdomen	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	face	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Two	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	Marines	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	too	x	x	0
+O	0	6	O	O	far	x	x	0
+O	0	7	O	O	gone	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	many	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	survivors	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	news	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	most	x	x	0
+O	0	11	O	O	difficult	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	handle	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Along	x	x	0
+O	0	1	O	O	with	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	medical	x	x	0
+O	0	4	O	O	care	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	hands	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	held	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	spirits	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	lifted	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Dr.	x	x	0
+O	0	1	O	O	Sanjay	x	x	0
+O	0	2	O	O	Gupta	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	CNN	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Devil	x	x	0
+I-ORG	0	8	O	O	Docs	x	x	0
+O	0	9	O	O	outside	x	x	0
+B-GPE	0	10	O	O	Baghdad	x	x	0
+O	0	11	O	O	.	x	x	0
+

@@ -1,0 +1,391 @@
+B-FAC	0	0	O	O	House	x	x	0
+O	0	1	O	O	clearance	x	x	0
+B-PER	0	2	O	O	Royal	x	x	0
+I-PER	0	3	O	O	Marine	x	x	0
+O	0	4	O	O	style	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	troops	x	x	0
+I-PER	0	7	O	O	from	x	x	0
+I-PER	0	8	O	O	(	x	x	0
+I-PER	0	9	O	O	UNINTELLIGIBLE	x	x	0
+I-PER	0	10	O	O	)	x	x	0
+I-PER	0	11	O	O	commando	x	x	0
+O	0	12	O	O	task	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	seek	x	x	0
+O	0	15	O	O	out	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	last	x	x	0
+O	0	18	O	O	pockets	x	x	0
+O	0	19	O	O	of	x	x	0
+B-GPE	0	20	O	O	Iraqi	x	x	0
+O	0	21	O	O	resistance	x	x	0
+O	0	22	O	O	in	x	x	0
+B-GPE	0	23	O	O	Umm	x	x	0
+I-GPE	0	24	O	O	Qasr	x	x	0
+O	0	25	O	O	go	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	hard	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	arrest	x	x	0
+O	0	30	O	O	suspected	x	x	0
+B-ORG	0	31	O	O	regime	x	x	0
+O	0	32	O	O	sympathizers	x	x	0
+O	0	33	O	O	and	x	x	0
+O	0	34	O	O	search	x	x	0
+O	0	35	O	O	for	x	x	0
+B-WEA	0	36	O	O	weapons	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	pretty	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	no	x	x	0
+O	0	8	O	O	please	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	thank	x	x	0
+B-PER	0	11	O	O	you	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	for	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	Marines	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	every	x	x	0
+O	0	18	O	O	door	x	x	0
+O	0	19	O	O	potentially	x	x	0
+O	0	20	O	O	hides	x	x	0
+B-PER	0	21	O	O	a	x	x	0
+I-PER	0	22	O	O	gunman	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	when	x	x	0
+B-PER	0	25	O	O	your	x	x	0
+O	0	26	O	O	life	x	x	0
+O	0	27	O	O	is	x	x	0
+O	0	28	O	O	on	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	line	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	manners	x	x	0
+O	0	33	O	O	go	x	x	0
+O	0	34	O	O	out	x	x	0
+O	0	35	O	O	the	x	x	0
+O	0	36	O	O	window	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Iraqis	x	x	0
+I-PER	0	2	O	O	arrested	x	x	0
+O	0	3	O	O	looked	x	x	0
+O	0	4	O	O	bemused	x	x	0
+O	0	5	O	O	(	x	x	0
+O	0	6	O	O	ph	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	plead	x	x	0
+O	0	10	O	O	innocence	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	many	x	x	0
+O	0	14	O	O	militia	x	x	0
+B-GPE	0	15	O	O	here	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	pretending	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	surrender	x	x	0
+O	0	20	O	O	only	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	open	x	x	0
+O	0	23	O	O	fire	x	x	0
+O	0	24	O	O	on	x	x	0
+B-PER	0	25	O	O	their	x	x	0
+O	0	26	O	O	captors	x	x	0
+O	0	27	O	O	later	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	first	x	x	0
+O	0	30	O	O	impressions	x	x	0
+O	0	31	O	O	can	x	x	0
+O	0	32	O	O	be	x	x	0
+O	0	33	O	O	deceptive	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	lethal	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	patrol	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	find	x	x	0
+B-WEA	0	4	O	O	hidden	x	x	0
+I-WEA	0	5	O	O	weapons	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	not	x	x	0
+B-WEA	0	3	O	O	the	x	x	0
+I-WEA	0	4	O	O	first	x	x	0
+O	0	5	O	O	and	x	x	0
+B-WEA	0	6	O	O	they	x	x	0
+O	0	7	O	O	're	x	x	0
+O	0	8	O	O	unlikely	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	be	x	x	0
+B-WEA	0	11	O	O	the	x	x	0
+I-WEA	0	12	O	O	last	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Marines	x	x	0
+O	0	2	O	O	believe	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	firm	x	x	0
+O	0	7	O	O	hold	x	x	0
+O	0	8	O	O	on	x	x	0
+B-GPE	0	9	O	O	Umm	x	x	0
+I-GPE	0	10	O	O	Qasr	x	x	0
+B-TIME	0	11	O	O	right	x	x	0
+I-TIME	0	12	O	O	now	x	x	0
+O	0	13	O	O	but	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	ca	x	x	0
+O	0	16	O	O	n't	x	x	0
+O	0	17	O	O	afford	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	slack	x	x	0
+O	0	20	O	O	in	x	x	0
+B-PER	0	21	O	O	their	x	x	0
+O	0	22	O	O	grip	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	allow	x	x	0
+O	0	25	O	O	those	x	x	0
+B-PER	0	26	O	O	who	x	x	0
+O	0	27	O	O	are	x	x	0
+O	0	28	O	O	hostile	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	the	x	x	0
+B-GPE	0	31	O	O	coalition	x	x	0
+O	0	32	O	O	forces	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	regroup	x	x	0
+O	0	35	O	O	and	x	x	0
+O	0	36	O	O	begin	x	x	0
+O	0	37	O	O	again	x	x	0
+B-PER	0	38	O	O	their	x	x	0
+O	0	39	O	O	cycle	x	x	0
+O	0	40	O	O	of	x	x	0
+O	0	41	O	O	violence	x	x	0
+O	0	42	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	Marines	x	x	0
+O	0	2	O	O	with	x	x	0
+B-PER	0	3	O	O	their	x	x	0
+O	0	4	O	O	snipers	x	x	0
+O	0	5	O	O	have	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+B-PER	0	7	O	O	snipers	x	x	0
+O	0	8	O	O	have	x	x	0
+B-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	spread	x	x	0
+B-PER	0	11	O	O	their	x	x	0
+O	0	12	O	O	area	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	operations	x	x	0
+O	0	15	O	O	north	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	include	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	town	x	x	0
+O	0	20	O	O	of	x	x	0
+B-GPE	0	21	O	O	Umm	x	x	0
+I-GPE	0	22	O	O	Kiou	x	x	0
+O	0	23	O	O	(	x	x	0
+O	0	24	O	O	ph	x	x	0
+O	0	25	O	O	)	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	Umm	x	x	0
+I-GPE	0	3	O	O	Qasr	x	x	0
+O	0	4	O	O	before	x	x	0
+B-GPE	0	5	O	O	it	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	're	x	x	0
+B-GPE	0	9	O	O	here	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	clear	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	opponents	x	x	0
+O	0	15	O	O	to	x	x	0
+B-ORG	0	16	O	O	regime	x	x	0
+O	0	17	O	O	change	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	man	x	x	0
+O	0	2	O	O	in	x	x	0
+B-VEH	0	3	O	O	this	x	x	0
+I-VEH	0	4	O	O	vehicle	x	x	0
+O	0	5	O	O	took	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	pot	x	x	0
+O	0	8	O	O	shot	x	x	0
+O	0	9	O	O	at	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	commandos	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	painful	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	bloody	x	x	0
+O	0	6	O	O	mistake	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	sent	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	our	x	x	0
+O	0	6	O	O	companies	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	about	x	x	0
+I-PER	0	9	O	O	100	x	x	0
+I-PER	0	10	O	O	men	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	here	x	x	0
+B-TIME	0	13	O	O	this	x	x	0
+I-TIME	0	14	O	O	morning	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	we	x	x	0
+O	0	17	O	O	took	x	x	0
+B-PER	0	18	O	O	about	x	x	0
+I-PER	0	19	O	O	12	x	x	0
+I-PER	0	20	O	O	or	x	x	0
+I-PER	0	21	O	O	13	x	x	0
+I-PER	0	22	O	O	prisoners	x	x	0
+O	0	23	O	O	,	x	x	0
+B-PER	0	24	O	O	three	x	x	0
+I-PER	0	25	O	O	or	x	x	0
+I-PER	0	26	O	O	four	x	x	0
+I-PER	0	27	O	O	enemy	x	x	0
+O	0	28	O	O	were	x	x	0
+O	0	29	O	O	injured	x	x	0
+O	0	30	O	O	and	x	x	0
+B-PER	0	31	O	O	they	x	x	0
+O	0	32	O	O	've	x	x	0
+B-TIME	0	33	O	O	now	x	x	0
+O	0	34	O	O	been	x	x	0
+O	0	35	O	O	flown	x	x	0
+O	0	36	O	O	out	x	x	0
+O	0	37	O	O	and	x	x	0
+B-PER	0	38	O	O	we	x	x	0
+O	0	39	O	O	're	x	x	0
+O	0	40	O	O	treating	x	x	0
+B-PER	0	41	O	O	them	x	x	0
+O	0	42	O	O	including	x	x	0
+O	0	43	O	O	a	x	x	0
+O	0	44	O	O	man	x	x	0
+B-PER	0	45	O	O	who	x	x	0
+O	0	46	O	O	is	x	x	0
+O	0	47	O	O	almost	x	x	0
+O	0	48	O	O	dead	x	x	0
+O	0	49	O	O	with	x	x	0
+O	0	50	O	O	a	x	x	0
+O	0	51	O	O	gunshot	x	x	0
+O	0	52	O	O	wound	x	x	0
+O	0	53	O	O	to	x	x	0
+O	0	54	O	O	the	x	x	0
+O	0	55	O	O	chest	x	x	0
+O	0	56	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+B-TIME	0	2	O	O	now	x	x	0
+O	0	3	O	O	evacuated	x	x	0
+B-PER	0	4	O	O	them	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	enemy	x	x	0
+B-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	either	x	x	0
+O	0	12	O	O	fled	x	x	0
+O	0	13	O	O	or	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	've	x	x	0
+O	0	16	O	O	been	x	x	0
+O	0	17	O	O	captured	x	x	0
+O	0	18	O	O	.	x	x	0
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Royal	x	x	0
+I-PER	0	2	O	O	Marines	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	satisfied	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	control	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	small	x	x	0
+O	0	12	O	O	corner	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Their	x	x	0
+O	0	1	O	O	task	x	x	0
+B-TIME	0	2	O	O	now	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	keep	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	way	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	David	x	x	0
+O	0	1	O	O	Bowden	x	x	0
+O	0	2	O	O	in	x	x	0
+B-LOC	0	3	O	O	southern	x	x	0
+I-LOC	0	4	O	O	Iraq	x	x	0
+O	0	5	O	O	.	x	x	0
+

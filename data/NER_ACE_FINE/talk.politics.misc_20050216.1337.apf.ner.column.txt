@@ -1,0 +1,425 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	why	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	Army	x	x	0
+O	0	5	O	O	and	x	x	0
+B-ORG	0	6	O	O	Marines	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	deploy	x	x	0
+B-WEA	0	10	O	O	infantry	x	x	0
+I-WEA	0	11	O	O	combat	x	x	0
+I-WEA	0	12	O	O	drones	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Michael	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	17	x	x	0
+I-TIME	0	2	O	O	Feb	x	x	0
+I-TIME	0	3	O	O	2005	x	x	0
+I-TIME	0	4	O	O	09:39:05	x	x	0
+I-TIME	0	5	O	O	0800	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	"	x	x	0
+B-PER	0	8	O	O	Michael	x	x	0
+I-PER	0	9	O	O	Ejercito	x	x	0
+O	0	10	O	O	"	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	long	x	x	0
+O	0	5	O	O	drive	x	x	0
+O	0	6	O	O	to	x	x	0
+B-FAC	0	7	O	O	any	x	x	0
+I-FAC	0	8	O	O	nuclear	x	x	0
+I-FAC	0	9	O	O	facility	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Someone	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	BOUND	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	notice	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hmmm	x	x	0
+O	0	1	O	O	...	x	x	0
+O	0	2	O	O	now	x	x	0
+O	0	3	O	O	if	x	x	0
+B-VEH	0	4	O	O	the	x	x	0
+I-VEH	0	5	O	O	drone	x	x	0
+I-VEH	0	6	O	O	aircraft	x	x	0
+O	0	7	O	O	could	x	x	0
+O	0	8	O	O	lift	x	x	0
+B-WEA	0	9	O	O	a	x	x	0
+I-WEA	0	10	O	O	drone	x	x	0
+I-WEA	0	11	O	O	soldier	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	parachute	x	x	0
+O	0	14	O	O	......	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	well	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	think	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	really	x	x	0
+O	0	10	O	O	much	x	x	0
+B-GPE	0	11	O	O	we	x	x	0
+O	0	12	O	O	CAN	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	about	x	x	0
+B-GPE	0	15	O	O	Iranian	x	x	0
+O	0	16	O	O	nukes	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Learning	x	x	0
+O	0	1	O	O	from	x	x	0
+B-GPE	0	2	O	O	others	x	x	0
+O	0	3	O	O	mistakes	x	x	0
+B-GPE	0	4	O	O	they	x	x	0
+O	0	5	O	O	've	x	x	0
+O	0	6	O	O	widely	x	x	0
+O	0	7	O	O	dispersed	x	x	0
+B-GPE	0	8	O	O	their	x	x	0
+O	0	9	O	O	facilities	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	even	x	x	0
+O	0	12	O	O	put	x	x	0
+B-FAC	0	13	O	O	some	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	dense	x	x	0
+O	0	16	O	O	urban	x	x	0
+O	0	17	O	O	areas	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	lay	x	x	0
+O	0	6	O	O	down	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	law	x	x	0
+O	0	9	O	O	relative	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	what	x	x	0
+O	0	12	O	O	HAPPENS	x	x	0
+O	0	13	O	O	if	x	x	0
+B-GPE	0	14	O	O	Iranian	x	x	0
+O	0	15	O	O	uranium	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	found	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	a	x	x	0
+B-PER	0	20	O	O	terrorist	x	x	0
+O	0	21	O	O	nuke	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	K00K00	x	x	0
+O	0	1	O	O	!!	x	x	0
+
+
+
+O	0	0	O	O	K00K00	x	x	0
+O	0	1	O	O	!!	x	x	0
+
+
+
+O	0	0	O	O	K00K00	x	x	0
+O	0	1	O	O	!!	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	INSANITY	x	x	0
+O	0	4	O	O	SNIPPED	x	x	0
+O	0	5	O	O	)	x	x	0
+
+O	0	0	O	O	Yep	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	Persians	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	so	x	x	0
+O	0	5	O	O	dumb	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	are	x	x	0
+B-GPE	0	8	O	O	they	x	x	0
+O	0	9	O	O	?	x	x	0
+O	0	10	O	O	;	x	x	0
+O	0	11	O	O	-	x	x	0
+O	0	12	O	O	)	x	x	0
+O	0	13	O	O	But	x	x	0
+O	0	14	O	O	just	x	x	0
+O	0	15	O	O	how	x	x	0
+O	0	16	O	O	exactly	x	x	0
+O	0	17	O	O	would	x	x	0
+B-GPE	0	18	O	O	we	x	x	0
+O	0	19	O	O	ever	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	able	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	learn	x	x	0
+O	0	24	O	O	where	x	x	0
+O	0	25	O	O	fission	x	x	0
+O	0	26	O	O	material	x	x	0
+O	0	27	O	O	came	x	x	0
+O	0	28	O	O	from	x	x	0
+O	0	29	O	O	forensically	x	x	0
+O	0	30	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Sounds	x	x	0
+O	0	1	O	O	like	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	fantasy	x	x	0
+O	0	4	O	O	...	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	dangerous	x	x	0
+O	0	2	O	O	as	x	x	0
+B-LOC	0	3	O	O	this	x	x	0
+I-LOC	0	4	O	O	world	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	getting	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	we	x	x	0
+O	0	9	O	O	better	x	x	0
+O	0	10	O	O	think	x	x	0
+O	0	11	O	O	about	x	x	0
+O	0	12	O	O	being	x	x	0
+B-GPE	0	13	O	O	a	x	x	0
+I-GPE	0	14	O	O	better	x	x	0
+I-GPE	0	15	O	O	neighbor	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	JMHO.	x	x	0
+O	0	1	O	O	;	x	x	0
+O	0	2	O	O	D	x	x	0
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	...	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	very	x	x	0
+O	0	6	O	O	technical	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	are	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Every	x	x	0
+O	0	1	O	O	reactor	x	x	0
+O	0	2	O	O	produces	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	only	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	fissionable	x	x	0
+O	0	7	O	O	products	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	want	x	x	0
+O	0	10	O	O	for	x	x	0
+B-WEA	0	11	O	O	bombs	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	also	x	x	0
+O	0	14	O	O	certain	x	x	0
+O	0	15	O	O	contaminates	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	unique	x	x	0
+O	0	19	O	O	percentage	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	isotopes	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	fingerprint	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	would	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	really	x	x	0
+O	0	10	O	O	hard	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	fake	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	article	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	Wd4WQiFzIix9QJjBx1YNVX2KX	x	x	0
+O	0	4	O	O	...	x	x	0
+O	0	5	O	O	@	x	x	0
+O	0	6	O	O	4ax.com)	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	b	x	x	0
+O	0	9	O	O	...	x	x	0
+O	0	10	O	O	@	x	x	0
+O	0	11	O	O	barrk.net	x	x	0
+O	0	12	O	O	says	x	x	0
+O	0	13	O	O	...	x	x	0
+
+O	0	0	O	O	Does	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	do	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	any	x	x	0
+O	0	5	O	O	good	x	x	0
+O	0	6	O	O	if	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	do	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	fingerprint	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	file	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	which	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	compare	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	unknown	x	x	0
+O	0	21	O	O	one	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	work	x	x	0
+O	0	4	O	O	after	x	x	0
+B-WEA	0	5	O	O	the	x	x	0
+I-WEA	0	6	O	O	bomb	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	blown	x	x	0
+O	0	9	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Please	x	x	0
+O	0	1	O	O	enlighten	x	x	0
+O	0	2	O	O	us.	x	x	0
+O	0	3	O	O	;	x	x	0
+O	0	4	O	O	D	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sat	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	19	x	x	0
+I-TIME	0	4	O	O	Feb	x	x	0
+I-TIME	0	5	O	O	2005	x	x	0
+I-TIME	0	6	O	O	16:38:22	x	x	0
+I-TIME	0	7	O	O	0500	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	Defendario	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	works	x	x	0
+O	0	4	O	O	even	x	x	0
+O	0	5	O	O	after	x	x	0
+B-WEA	0	6	O	O	the	x	x	0
+I-WEA	0	7	O	O	bomb	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	exploded	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sat	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	19	x	x	0
+I-TIME	0	4	O	O	Feb	x	x	0
+I-TIME	0	5	O	O	2005	x	x	0
+I-TIME	0	6	O	O	07:49:05	x	x	0
+I-TIME	0	7	O	O	0500	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	Gogarty	x	x	0
+I-PER	0	10	O	O	(	x	x	0
+I-PER	0	11	O	O	Goga	x	x	0
+I-PER	0	12	O	O	...	x	x	0
+I-PER	0	13	O	O	@	x	x	0
+I-PER	0	14	O	O	Clongowes.edu)	x	x	0
+
+O	0	0	O	O	Ah	x	x	0
+O	0	1	O	O	...	x	x	0
+O	0	2	O	O	but	x	x	0
+B-GPE	0	3	O	O	we	x	x	0
+O	0	4	O	O	DO	x	x	0
+O	0	5	O	O	!	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	got	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	two	x	x	0
+O	0	5	O	O	ways	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	First	x	x	0
+O	0	1	O	O	from	x	x	0
+B-ORG	0	2	O	O	IAEC	x	x	0
+O	0	3	O	O	inspectors	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	secondly	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	case	x	x	0
+O	0	9	O	O	some	x	x	0
+O	0	10	O	O	fakery	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	going	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	from	x	x	0
+B-GPE	0	16	O	O	our	x	x	0
+O	0	17	O	O	low-flying	x	x	0
+O	0	18	O	O	drones	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	buzzed	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	'sniffed'	x	x	0
+B-GPE	0	23	O	O	their	x	x	0
+O	0	24	O	O	facilities	x	x	0
+O	0	25	O	O	.	x	x	0
+

@@ -1,0 +1,1209 @@
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	in	x	x	0
+B-LOC	0	3	O	O	northern	x	x	0
+I-LOC	0	4	O	O	Iraq	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	an	x	x	0
+O	0	8	O	O	eight	x	x	0
+B-WEA	0	9	O	O	artillery	x	x	0
+O	0	10	O	O	round	x	x	0
+O	0	11	O	O	hit	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	site	x	x	0
+O	0	14	O	O	occupied	x	x	0
+O	0	15	O	O	by	x	x	0
+B-PER	0	16	O	O	Kurdish	x	x	0
+O	0	17	O	O	fighters	x	x	0
+O	0	18	O	O	near	x	x	0
+B-GPE	0	19	O	O	Chamchamal	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	happened	x	x	0
+O	0	2	O	O	near	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	area	x	x	0
+O	0	5	O	O	abandoned	x	x	0
+O	0	6	O	O	earlier	x	x	0
+O	0	7	O	O	by	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	forces	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Kevin	x	x	0
+O	0	3	O	O	Sites	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	in	x	x	0
+B-LOC	0	6	O	O	northern	x	x	0
+I-LOC	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	.	x	x	0
+
+B-FAC	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	road	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Kirkuk	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	A	x	x	0
+I-TIME	0	1	O	O	day	x	x	0
+I-TIME	0	2	O	O	ago	x	x	0
+B-FAC	0	3	O	O	it	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	controlled	x	x	0
+O	0	6	O	O	by	x	x	0
+B-GPE	0	7	O	O	Iraqi	x	x	0
+O	0	8	O	O	troops	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	packed	x	x	0
+O	0	11	O	O	with	x	x	0
+B-WEA	0	12	O	O	these	x	x	0
+I-WEA	0	13	O	O	land	x	x	0
+I-WEA	0	14	O	O	mines	x	x	0
+O	0	15	O	O	but	x	x	0
+B-TIME	0	16	O	O	now	x	x	0
+B-PER	0	17	O	O	we	x	x	0
+O	0	18	O	O	can	x	x	0
+O	0	19	O	O	drive	x	x	0
+O	0	20	O	O	far	x	x	0
+O	0	21	O	O	enough	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	see	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	outskirts	x	x	0
+O	0	26	O	O	of	x	x	0
+B-GPE	0	27	O	O	Kirkuk	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	because	x	x	0
+B-GPE	0	3	O	O	coalition	x	x	0
+O	0	4	O	O	fighter	x	x	0
+O	0	5	O	O	jets	x	x	0
+O	0	6	O	O	pummeled	x	x	0
+O	0	7	O	O	this	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	position	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	hills	x	x	0
+O	0	13	O	O	above	x	x	0
+B-GPE	0	14	O	O	Chamchamal	x	x	0
+O	0	15	O	O	and	x	x	0
+B-GPE	0	16	O	O	Iraqi	x	x	0
+O	0	17	O	O	troops	x	x	0
+O	0	18	O	O	made	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	hasty	x	x	0
+O	0	21	O	O	retreat	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	what	x	x	0
+B-LOC	0	3	O	O	the	x	x	0
+I-LOC	0	4	O	O	hilltop	x	x	0
+O	0	5	O	O	looks	x	x	0
+O	0	6	O	O	like	x	x	0
+B-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	craters	x	x	0
+O	0	10	O	O	15	x	x	0
+O	0	11	O	O	feet	x	x	0
+O	0	12	O	O	deep	x	x	0
+O	0	13	O	O	,	x	x	0
+B-FAC	0	14	O	O	busted	x	x	0
+I-FAC	0	15	O	O	bunkers	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	twisted	x	x	0
+O	0	18	O	O	metal	x	x	0
+O	0	19	O	O	,	x	x	0
+B-WEA	0	20	O	O	scattered	x	x	0
+I-WEA	0	21	O	O	ammunitions	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	tattered	x	x	0
+O	0	24	O	O	clothing	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	helmet	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	a	x	x	0
+O	0	30	O	O	tube	x	x	0
+O	0	31	O	O	of	x	x	0
+O	0	32	O	O	toothpaste	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kurdish	x	x	0
+B-PER	0	1	O	O	Peshmerga	x	x	0
+O	0	2	O	O	fighters	x	x	0
+O	0	3	O	O	took	x	x	0
+B-PER	0	4	O	O	their	x	x	0
+O	0	5	O	O	place	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	glad	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	see	x	x	0
+B-PER	0	5	O	O	them	x	x	0
+O	0	6	O	O	go	x	x	0
+B-PER	0	7	O	O	this	x	x	0
+I-PER	0	8	O	O	one	x	x	0
+O	0	9	O	O	says	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	killed	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	our	x	x	0
+O	0	6	O	O	people	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Chamchamal	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	feel	x	x	0
+O	0	12	O	O	bad	x	x	0
+O	0	13	O	O	for	x	x	0
+B-PER	0	14	O	O	them	x	x	0
+O	0	15	O	O	too	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	them	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	only	x	x	0
+B-PER	0	5	O	O	conscripts	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+I-PER	0	1	O	O	Kurds	x	x	0
+O	0	2	O	O	took	x	x	0
+O	0	3	O	O	advantage	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	Iraqi	x	x	0
+O	0	7	O	O	retreat	x	x	0
+O	0	8	O	O	right	x	x	0
+O	0	9	O	O	away	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	took	x	x	0
+B-VEH	0	3	O	O	a	x	x	0
+I-VEH	0	4	O	O	bulldozer	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	concrete	x	x	0
+O	0	8	O	O	portrait	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	Saddam	x	x	0
+I-PER	0	11	O	O	Hussein	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	took	x	x	0
+B-TIME	0	2	O	O	about	x	x	0
+I-TIME	0	3	O	O	20	x	x	0
+I-TIME	0	4	O	O	minutes	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	finally	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	came	x	x	0
+O	0	9	O	O	toppling	x	x	0
+O	0	10	O	O	down	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	says	x	x	0
+O	0	2	O	O	after	x	x	0
+O	0	3	O	O	finishing	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	job	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	hopes	x	x	0
+O	0	8	O	O	Saddam	x	x	0
+O	0	9	O	O	Hussein	x	x	0
+B-PER	0	10	O	O	himself	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	fall	x	x	0
+O	0	13	O	O	too	x	x	0
+O	0	14	O	O	but	x	x	0
+O	0	15	O	O	despite	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	exuberance	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	Kurds	x	x	0
+O	0	20	O	O	in	x	x	0
+B-LOC	0	21	O	O	the	x	x	0
+I-LOC	0	22	O	O	area	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	it	x	x	0
+O	0	25	O	O	's	x	x	0
+O	0	26	O	O	clear	x	x	0
+O	0	27	O	O	it	x	x	0
+O	0	28	O	O	's	x	x	0
+O	0	29	O	O	much	x	x	0
+O	0	30	O	O	too	x	x	0
+O	0	31	O	O	early	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	celebrate	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Although	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	Iraqis	x	x	0
+O	0	3	O	O	retreated	x	x	0
+O	0	4	O	O	from	x	x	0
+B-LOC	0	5	O	O	this	x	x	0
+I-LOC	0	6	O	O	area	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	at	x	x	0
+B-TIME	0	9	O	O	dusk	x	x	0
+B-PER	0	10	O	O	they	x	x	0
+O	0	11	O	O	fired	x	x	0
+B-WEA	0	12	O	O	what	x	x	0
+B-PER	0	13	O	O	observers	x	x	0
+O	0	14	O	O	say	x	x	0
+O	0	15	O	O	were	x	x	0
+O	0	16	O	O	seven	x	x	0
+B-WEA	0	17	O	O	artillery	x	x	0
+O	0	18	O	O	rounds	x	x	0
+O	0	19	O	O	back	x	x	0
+O	0	20	O	O	at	x	x	0
+B-PER	0	21	O	O	their	x	x	0
+B-TIME	0	22	O	O	former	x	x	0
+O	0	23	O	O	stronghold	x	x	0
+O	0	24	O	O	creating	x	x	0
+O	0	25	O	O	new	x	x	0
+O	0	26	O	O	fear	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	potentially	x	x	0
+O	0	29	O	O	new	x	x	0
+O	0	30	O	O	casualties	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kevin	x	x	0
+I-PER	0	1	O	O	Sites	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	Chamchamal	x	x	0
+B-LOC	0	5	O	O	northern	x	x	0
+I-LOC	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	right	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	when	x	x	0
+B-ORG	0	4	O	O	we	x	x	0
+O	0	5	O	O	return	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	waiting	x	x	0
+B-GPE	0	8	O	O	here	x	x	0
+O	0	9	O	O	on	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	home	x	x	0
+I-GPE	0	12	O	O	front	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	very	x	x	0
+O	0	16	O	O	special	x	x	0
+O	0	17	O	O	reunion	x	x	0
+O	0	18	O	O	between	x	x	0
+B-PER	0	19	O	O	a	x	x	0
+I-PER	0	20	O	O	Marine	x	x	0
+O	0	21	O	O	and	x	x	0
+B-PER	0	22	O	O	his	x	x	0
+O	0	23	O	O	wife	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	greater	x	x	0
+O	0	4	O	O	gap	x	x	0
+O	0	5	O	O	probably	x	x	0
+O	0	6	O	O	than	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	between	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	troops	x	x	0
+B-LOC	0	11	O	O	overseas	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	loved	x	x	0
+O	0	15	O	O	ones	x	x	0
+O	0	16	O	O	here	x	x	0
+O	0	17	O	O	at	x	x	0
+B-GPE	0	18	O	O	home	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	helped	x	x	0
+O	0	2	O	O	bridge	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	cassum	x	x	0
+O	0	5	O	O	(	x	x	0
+O	0	6	O	O	ph	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	at	x	x	0
+O	0	9	O	O	least	x	x	0
+O	0	10	O	O	temporarily	x	x	0
+O	0	11	O	O	between	x	x	0
+B-PER	0	12	O	O	Sergeant	x	x	0
+O	0	13	O	O	Craig	x	x	0
+O	0	14	O	O	Martin	x	x	0
+O	0	15	O	O	of	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	15th	x	x	0
+I-ORG	0	18	O	O	Marine	x	x	0
+I-ORG	0	19	O	O	Expeditionary	x	x	0
+I-ORG	0	20	O	O	Unit	x	x	0
+O	0	21	O	O	and	x	x	0
+B-PER	0	22	O	O	his	x	x	0
+O	0	23	O	O	wife	x	x	0
+O	0	24	O	O	Kaycee	x	x	0
+O	0	25	O	O	Martin	x	x	0
+O	0	26	O	O	in	x	x	0
+B-GPE	0	27	O	O	California	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	talked	x	x	0
+O	0	2	O	O	by	x	x	0
+O	0	3	O	O	videophone	x	x	0
+B-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	morning	x	x	0
+O	0	6	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+B-TIME	0	2	O	O	eight	x	x	0
+I-TIME	0	3	O	O	months	x	x	0
+O	0	4	O	O	pregnant	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	believe	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	for	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	difficult	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	hard	x	x	0
+O	0	3	O	O	without	x	x	0
+B-PER	0	4	O	O	him	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	doing	x	x	0
+O	0	3	O	O	OK	x	x	0
+O	0	4	O	O	but	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	much	x	x	0
+O	0	9	O	O	better	x	x	0
+O	0	10	O	O	if	x	x	0
+B-PER	0	11	O	O	he	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	home	x	x	0
+O	0	14	O	O	with	x	x	0
+B-PER	0	15	O	O	me	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	just	x	x	0
+O	0	4	O	O	ask	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	mean	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	know	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	do	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	want	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	pry	x	x	0
+O	0	17	O	O	so	x	x	0
+O	0	18	O	O	anytime	x	x	0
+B-PER	0	19	O	O	I	x	x	0
+O	0	20	O	O	ask	x	x	0
+O	0	21	O	O	something	x	x	0
+B-PER	0	22	O	O	you	x	x	0
+O	0	23	O	O	do	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	want	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	say	x	x	0
+O	0	28	O	O	just	x	x	0
+O	0	29	O	O	tell	x	x	0
+B-PER	0	30	O	O	me	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	shut	x	x	0
+O	0	33	O	O	up	x	x	0
+O	0	34	O	O	but	x	x	0
+O	0	35	O	O	what	x	x	0
+O	0	36	O	O	is	x	x	0
+O	0	37	O	O	it	x	x	0
+O	0	38	O	O	like	x	x	0
+O	0	39	O	O	for	x	x	0
+B-PER	0	40	O	O	you	x	x	0
+O	0	41	O	O	watching	x	x	0
+O	0	42	O	O	all	x	x	0
+O	0	43	O	O	this	x	x	0
+O	0	44	O	O	coverage	x	x	0
+O	0	45	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	watching	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	access	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	pictures	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	seeing	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	really	x	x	0
+O	0	6	O	O	historic	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	what	x	x	0
+B-PER	0	9	O	O	we	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	able	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	see	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	does	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	make	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	more	x	x	0
+O	0	8	O	O	difficult	x	x	0
+O	0	9	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Does	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	make	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	easier	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	difficult	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	hard	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	whole	x	x	0
+O	0	2	O	O	time	x	x	0
+O	0	3	O	O	though	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	just	x	x	0
+O	0	7	O	O	sitting	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	trying	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	catch	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	glimpse	x	x	0
+O	0	14	O	O	just	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	see	x	x	0
+O	0	17	O	O	if	x	x	0
+O	0	18	O	O	maybe	x	x	0
+O	0	19	O	O	one	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	people	x	x	0
+I-PER	0	23	O	O	on	x	x	0
+I-PER	0	24	O	O	TV	x	x	0
+O	0	25	O	O	is	x	x	0
+B-PER	0	26	O	O	him	x	x	0
+O	0	27	O	O	but	x	x	0
+B-PER	0	28	O	O	you	x	x	0
+O	0	29	O	O	know	x	x	0
+B-PER	0	30	O	O	he	x	x	0
+O	0	31	O	O	tells	x	x	0
+B-PER	0	32	O	O	me	x	x	0
+O	0	33	O	O	do	x	x	0
+O	0	34	O	O	n't	x	x	0
+O	0	35	O	O	watch	x	x	0
+O	0	36	O	O	,	x	x	0
+O	0	37	O	O	do	x	x	0
+O	0	38	O	O	n't	x	x	0
+O	0	39	O	O	watch	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	difficult	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	like	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	said	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	just	x	x	0
+O	0	17	O	O	too	x	x	0
+O	0	18	O	O	hard	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	able	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	see	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	make	x	x	0
+O	0	10	O	O	sure	x	x	0
+O	0	11	O	O	that	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	OK	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	just	x	x	0
+O	0	17	O	O	catch	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	glimpse	x	x	0
+O	0	20	O	O	of	x	x	0
+B-PER	0	21	O	O	him	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	does	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	look	x	x	0
+O	0	4	O	O	to	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	right	x	x	0
+B-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	?	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	looks	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	dirty	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	lost	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	tooth	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Beautiful	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	showing	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	'd	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	how	x	x	0
+O	0	4	O	O	'd	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	lose	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	tooth	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	Sorry	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	ask	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	did	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	lose	x	x	0
+B-PER	0	4	O	O	your	x	x	0
+O	0	5	O	O	tooth	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	came	x	x	0
+O	0	3	O	O	across	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	bridge	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	enemy	x	x	0
+O	0	9	O	O	launched	x	x	0
+O	0	10	O	O	some	x	x	0
+O	0	11	O	O	155	x	x	0
+B-WEA	0	12	O	O	artillery	x	x	0
+O	0	13	O	O	rounds	x	x	0
+O	0	14	O	O	at	x	x	0
+B-PER	0	15	O	O	us	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	came	x	x	0
+O	0	2	O	O	pretty	x	x	0
+O	0	3	O	O	close	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	concussion	x	x	0
+O	0	7	O	O	knocked	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	tooth	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Great	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	sound	x	x	0
+O	0	4	O	O	like	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	being	x	x	0
+O	0	8	O	O	too	x	x	0
+O	0	9	O	O	careful	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	fun	x	x	0
+O	0	3	O	O	though	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Sergeant	x	x	0
+O	0	1	O	O	Martin	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	if	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	see	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	your	x	x	0
+O	0	11	O	O	wife	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	sort	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	shaking	x	x	0
+B-PER	0	16	O	O	her	x	x	0
+O	0	17	O	O	head	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	Careful	x	x	0
+O	0	1	O	O	as	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Sergeant	x	x	0
+O	0	1	O	O	Martin	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	anything	x	x	0
+O	0	6	O	O	else	x	x	0
+O	0	7	O	O	...	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	love	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	anything	x	x	0
+O	0	3	O	O	else	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	say	x	x	0
+O	0	9	O	O	either	x	x	0
+O	0	10	O	O	to	x	x	0
+B-PER	0	11	O	O	your	x	x	0
+O	0	12	O	O	wife	x	x	0
+O	0	13	O	O	or	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	people	x	x	0
+B-PER	0	18	O	O	who	x	x	0
+O	0	19	O	O	are	x	x	0
+O	0	20	O	O	watching	x	x	0
+O	0	21	O	O	this	x	x	0
+O	0	22	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	awkward	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	know	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	doing	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	TV	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	hate	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	put	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	this	x	x	0
+O	0	20	O	O	position	x	x	0
+O	0	21	O	O	but	x	x	0
+O	0	22	O	O	feel	x	x	0
+O	0	23	O	O	free	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	couple	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	things	x	x	0
+O	0	7	O	O	real	x	x	0
+O	0	8	O	O	quick	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	To	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	old	x	x	0
+O	0	3	O	O	man	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	distraction	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	To	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	wife	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	'll	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	home	x	x	0
+O	0	8	O	O	soon	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	love	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	all	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	've	x	x	0
+O	0	5	O	O	got	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	say	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kaycee	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	anything	x	x	0
+O	0	3	O	O	else	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	want	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	say	x	x	0
+O	0	8	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	love	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	much	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	miss	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	much	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Everyone	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	praying	x	x	0
+O	0	3	O	O	for	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	want	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	come	x	x	0
+O	0	12	O	O	home	x	x	0
+O	0	13	O	O	safe	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	soon	x	x	0
+O	0	16	O	O	so	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	could	x	x	0
+O	0	19	O	O	see	x	x	0
+B-PER	0	20	O	O	our	x	x	0
+O	0	21	O	O	new	x	x	0
+O	0	22	O	O	baby	x	x	0
+O	0	23	O	O	.	x	x	0
+
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	more	x	x	0
+O	0	2	O	O	thing	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	look	x	x	0
+O	0	6	O	O	really	x	x	0
+O	0	7	O	O	beautiful	x	x	0
+O	0	8	O	O	right	x	x	0
+B-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'd	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	say	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	same	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	stylish	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	worry	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	take	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	home	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	come	x	x	0
+O	0	4	O	O	home	x	x	0
+O	0	5	O	O	soon	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Without	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	doubt	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	--	x	x	0
+O	0	1	O	O	Well	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	just	x	x	0
+O	0	4	O	O	come	x	x	0
+O	0	5	O	O	home	x	x	0
+O	0	6	O	O	soon	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	try	x	x	0
+B-PER	0	3	O	O	baby	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	little	x	x	0
+O	0	2	O	O	embarrassing	x	x	0
+O	0	3	O	O	for	x	x	0
+B-PER	0	4	O	O	us	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	watch	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	difficult	x	x	0
+O	0	6	O	O	talking	x	x	0
+O	0	7	O	O	to	x	x	0
+B-PER	0	8	O	O	your	x	x	0
+O	0	9	O	O	loved	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	front	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	thousands	x	x	0
+I-PER	0	15	O	O	and	x	x	0
+I-PER	0	16	O	O	thousands	x	x	0
+I-PER	0	17	O	O	of	x	x	0
+I-PER	0	18	O	O	people	x	x	0
+O	0	19	O	O	on	x	x	0
+O	0	20	O	O	television	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	millions	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	addition	x	x	0
+O	0	4	O	O	to	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	baby	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	way	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	Martins	x	x	0
+O	0	13	O	O	also	x	x	0
+O	0	14	O	O	have	x	x	0
+B-PER	0	15	O	O	a	x	x	0
+I-PER	0	16	O	O	three-year-old	x	x	0
+I-PER	0	17	O	O	daughter	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	for	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	hour	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	Judy	x	x	0
+I-PER	0	3	O	O	Woodruff	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Washington	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Wolf	x	x	0
+I-PER	0	1	O	O	Blitzer	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	report	x	x	0
+O	0	4	O	O	starts	x	x	0
+O	0	5	O	O	right	x	x	0
+B-TIME	0	6	O	O	now	x	x	0
+O	0	7	O	O	.	x	x	0
+

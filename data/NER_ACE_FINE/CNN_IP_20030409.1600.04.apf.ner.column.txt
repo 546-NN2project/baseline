@@ -1,0 +1,845 @@
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	United	x	x	0
+I-GPE	0	2	O	O	States	x	x	0
+O	0	3	O	O	Navy	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	Coast	x	x	0
+O	0	6	O	O	Guard	x	x	0
+O	0	7	O	O	crews	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	providing	x	x	0
+B-FAC	0	10	O	O	port	x	x	0
+O	0	11	O	O	security	x	x	0
+O	0	12	O	O	in	x	x	0
+B-LOC	0	13	O	O	the	x	x	0
+I-LOC	0	14	O	O	Persian	x	x	0
+I-LOC	0	15	O	O	Gulf	x	x	0
+O	0	16	O	O	during	x	x	0
+O	0	17	O	O	the	x	x	0
+B-GPE	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	war	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	group	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	sailors	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	getting	x	x	0
+O	0	7	O	O	letters	x	x	0
+O	0	8	O	O	from	x	x	0
+B-ORG	0	9	O	O	elementary	x	x	0
+I-ORG	0	10	O	O	school	x	x	0
+O	0	11	O	O	children	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	North	x	x	0
+I-GPE	0	14	O	O	Carolina	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	students	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	getting	x	x	0
+O	0	4	O	O	inspiration	x	x	0
+O	0	5	O	O	from	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	teacher	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	has	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	personal	x	x	0
+O	0	13	O	O	connection	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	as	x	x	0
+B-ORG	0	16	O	O	CNN	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	Daryn	x	x	0
+O	0	19	O	O	Kagan	x	x	0
+O	0	20	O	O	reports	x	x	0
+O	0	21	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	started	x	x	0
+O	0	2	O	O	as	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	story	x	x	0
+O	0	5	O	O	on	x	x	0
+B-FAC	0	6	O	O	port	x	x	0
+O	0	7	O	O	security	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	how	x	x	0
+B-GPE	0	10	O	O	U.S.	x	x	0
+O	0	11	O	O	Navy	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	Coast	x	x	0
+O	0	14	O	O	Guard	x	x	0
+O	0	15	O	O	reserves	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	keeping	x	x	0
+B-VEH	0	18	O	O	ships	x	x	0
+O	0	19	O	O	safe	x	x	0
+O	0	20	O	O	from	x	x	0
+O	0	21	O	O	attack	x	x	0
+O	0	22	O	O	in	x	x	0
+B-GPE	0	23	O	O	Kuwait	x	x	0
+O	0	24	O	O	and	x	x	0
+B-GPE	0	25	O	O	Iraq	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	The	x	x	0
+O	0	6	O	O	mission	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	these	x	x	0
+I-PER	0	9	O	O	units	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	protect	x	x	0
+B-FAC	0	13	O	O	these	x	x	0
+I-FAC	0	14	O	O	ports	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	But	x	x	0
+O	0	5	O	O	among	x	x	0
+B-WEA	0	6	O	O	the	x	x	0
+I-WEA	0	7	O	O	boats	x	x	0
+I-WEA	0	8	O	O	,	x	x	0
+I-WEA	0	9	O	O	guns	x	x	0
+I-WEA	0	10	O	O	,	x	x	0
+I-WEA	0	11	O	O	radar	x	x	0
+I-WEA	0	12	O	O	,	x	x	0
+I-WEA	0	13	O	O	sonar	x	x	0
+I-WEA	0	14	O	O	and	x	x	0
+I-WEA	0	15	O	O	communications	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	we	x	x	0
+O	0	18	O	O	found	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	secret	x	x	0
+O	0	21	O	O	weapon	x	x	0
+O	0	22	O	O	posted	x	x	0
+O	0	23	O	O	on	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	side	x	x	0
+O	0	26	O	O	of	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	tent	x	x	0
+B-FAC	0	29	O	O	that	x	x	0
+O	0	30	O	O	serves	x	x	0
+O	0	31	O	O	as	x	x	0
+B-FAC	0	32	O	O	the	x	x	0
+I-FAC	0	33	O	O	command	x	x	0
+I-FAC	0	34	O	O	center	x	x	0
+O	0	35	O	O	:	x	x	0
+O	0	36	O	O	letters	x	x	0
+O	0	37	O	O	from	x	x	0
+B-PER	0	38	O	O	second-graders	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Each	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	starts	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	same	x	x	0
+O	0	5	O	O	way	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Dear	x	x	0
+B-PER	0	2	O	O	brave	x	x	0
+I-PER	0	3	O	O	friend	x	x	0
+O	0	4	O	O	.	x	x	0
+O	0	5	O	O	"	x	x	0
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Dear	x	x	0
+O	0	2	O	O	brave	x	x	0
+O	0	3	O	O	friend	x	x	0
+O	0	4	O	O	.	x	x	0
+O	0	5	O	O	"	x	x	0
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Dear	x	x	0
+B-PER	0	2	O	O	brave	x	x	0
+I-PER	0	3	O	O	friend	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hello	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	name	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	Ryan	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	second	x	x	0
+O	0	4	O	O	grade	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	keeping	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	United	x	x	0
+I-GPE	0	5	O	O	States	x	x	0
+I-GPE	0	6	O	O	of	x	x	0
+I-GPE	0	7	O	O	America	x	x	0
+O	0	8	O	O	safe	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	...	x	x	0
+O	0	3	O	O	"	x	x	0
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	You	x	x	0
+O	0	2	O	O	are	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	best	x	x	0
+O	0	5	O	O	friend	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	keep	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	in	x	x	0
+B-PER	0	5	O	O	your	x	x	0
+O	0	6	O	O	bag	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sincerely	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Ryan	x	x	0
+O	0	3	O	O	.	x	x	0
+O	0	4	O	O	"	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	big	x	x	0
+I-PER	0	4	O	O	brother	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	turns	x	x	0
+O	0	2	O	O	out	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	actually	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	story	x	x	0
+O	0	8	O	O	about	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	brother	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	Lieutenant	x	x	0
+I-PER	0	13	O	O	Commander	x	x	0
+O	0	14	O	O	Mike	x	x	0
+O	0	15	O	O	Roberts	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	and	x	x	0
+B-PER	0	18	O	O	a	x	x	0
+I-PER	0	19	O	O	supportive	x	x	0
+I-PER	0	20	O	O	sister	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	Christine	x	x	0
+I-PER	0	23	O	O	Cupolo	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	brother	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	Kuwait	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	sister	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	a	x	x	0
+B-ORG	0	4	O	O	grammar	x	x	0
+I-ORG	0	5	O	O	school	x	x	0
+O	0	6	O	O	teacher	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	Clayton	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	North	x	x	0
+I-GPE	0	11	O	O	Carolina	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	sent	x	x	0
+O	0	3	O	O	over	x	x	0
+O	0	4	O	O	right	x	x	0
+O	0	5	O	O	next	x	x	0
+O	0	6	O	O	to	x	x	0
+B-LOC	0	7	O	O	the	x	x	0
+I-LOC	0	8	O	O	Persian	x	x	0
+I-LOC	0	9	O	O	Gulf	x	x	0
+B-TIME	0	10	O	O	now	x	x	0
+O	0	11	O	O	since	x	x	0
+B-TIME	0	12	O	O	New	x	x	0
+I-TIME	0	13	O	O	Year	x	x	0
+I-TIME	0	14	O	O	's	x	x	0
+I-TIME	0	15	O	O	Eve	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	many	x	x	0
+O	0	6	O	O	deployments	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	this	x	x	0
+O	0	14	O	O	one	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	probably	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	most	x	x	0
+O	0	19	O	O	crucial	x	x	0
+O	0	20	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	second-graders	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	interested	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	sending	x	x	0
+O	0	7	O	O	some	x	x	0
+O	0	8	O	O	letters	x	x	0
+O	0	9	O	O	out	x	x	0
+O	0	10	O	O	to	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	troops	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	knew	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	one	x	x	0
+O	0	8	O	O	point	x	x	0
+O	0	9	O	O	or	x	x	0
+O	0	10	O	O	another	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	my	x	x	0
+O	0	13	O	O	children	x	x	0
+O	0	14	O	O	needed	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	write	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	thought	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	would	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	real	x	x	0
+O	0	7	O	O	uplifting	x	x	0
+O	0	8	O	O	experience	x	x	0
+O	0	9	O	O	for	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	troops	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	she	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	Dear	x	x	0
+B-PER	0	6	O	O	brave	x	x	0
+I-PER	0	7	O	O	friend	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hello	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	name	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	Amanda	x	x	0
+O	0	4	O	O	.	x	x	0
+O	0	5	O	O	"	x	x	0
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	say	x	x	0
+O	0	6	O	O	that	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	are	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	very	x	x	0
+I-PER	0	11	O	O	brave	x	x	0
+I-PER	0	12	O	O	person	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	war	x	x	0
+O	0	3	O	O	starts	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	your	x	x	0
+O	0	6	O	O	heart	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	in	x	x	0
+B-PER	0	10	O	O	our	x	x	0
+O	0	11	O	O	souls	x	x	0
+O	0	12	O	O	.	x	x	0
+O	0	13	O	O	"	x	x	0
+
+O	0	0	O	O	For	x	x	0
+B-PER	0	1	O	O	these	x	x	0
+I-PER	0	2	O	O	kids	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	takes	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	read	x	x	0
+O	0	8	O	O	letters	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	us	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	stuff	x	x	0
+O	0	13	O	O	like	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	in	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+O	0	17	O	O	class	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	what	x	x	0
+O	0	20	O	O	more	x	x	0
+O	0	21	O	O	can	x	x	0
+B-PER	0	22	O	O	you	x	x	0
+O	0	23	O	O	ask	x	x	0
+O	0	24	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	keep	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	letters	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Back	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	North	x	x	0
+I-GPE	0	3	O	O	Carolina	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+B-ORG	0	6	O	O	Riverwood	x	x	0
+I-ORG	0	7	O	O	Elementary	x	x	0
+O	0	8	O	O	second-graders	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	working	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	next	x	x	0
+O	0	14	O	O	batch	x	x	0
+O	0	15	O	O	.	x	x	0
+
+O	0	0	O	O	Absolutely	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	might	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	mention	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	in	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	letter	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	well	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	time	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	hope	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	sailors	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	write	x	x	0
+O	0	9	O	O	back	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	answers	x	x	0
+O	0	12	O	O	to	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	questions	x	x	0
+O	0	15	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	know	x	x	0
+O	0	5	O	O	how	x	x	0
+O	0	6	O	O	fast	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	dolphins	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	swimming	x	x	0
+O	0	12	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	OK	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	write	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	down	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	Dear	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	friend	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	questions	x	x	0
+O	0	13	O	O	for	x	x	0
+B-PER	0	14	O	O	you	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	dolphins	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	helping	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	out	x	x	0
+O	0	12	O	O	over	x	x	0
+O	0	13	O	O	there	x	x	0
+O	0	14	O	O	.	x	x	0
+O	0	15	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	think	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	could	x	x	0
+O	0	5	O	O	ask	x	x	0
+B-PER	0	6	O	O	them	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	question	x	x	0
+O	0	9	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Sure	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	happy	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	answer	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	started	x	x	0
+O	0	2	O	O	work	x	x	0
+O	0	3	O	O	on	x	x	0
+B-PER	0	4	O	O	our	x	x	0
+O	0	5	O	O	letters	x	x	0
+B-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	last	x	x	0
+I-TIME	0	8	O	O	week	x	x	0
+I-TIME	0	9	O	O	of	x	x	0
+I-TIME	0	10	O	O	February	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	worked	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	them	x	x	0
+B-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	first	x	x	0
+I-TIME	0	17	O	O	week	x	x	0
+I-TIME	0	18	O	O	of	x	x	0
+I-TIME	0	19	O	O	March	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	sent	x	x	0
+O	0	22	O	O	them	x	x	0
+O	0	23	O	O	out	x	x	0
+B-TIME	0	24	O	O	a	x	x	0
+I-TIME	0	25	O	O	few	x	x	0
+I-TIME	0	26	O	O	weeks	x	x	0
+I-TIME	0	27	O	O	ago	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	letters	x	x	0
+O	0	5	O	O	pretty	x	x	0
+O	0	6	O	O	quickly	x	x	0
+O	0	7	O	O	over	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	helps	x	x	0
+B-PER	0	5	O	O	me	x	x	0
+O	0	6	O	O	stay	x	x	0
+O	0	7	O	O	closer	x	x	0
+O	0	8	O	O	to	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	brother	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Any	x	x	0
+O	0	1	O	O	message	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	sister	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'd	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	like	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	tell	x	x	0
+B-PER	0	6	O	O	her	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	thank	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	very	x	x	0
+O	0	11	O	O	much	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	Christine	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hope	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	're	x	x	0
+O	0	3	O	O	doing	x	x	0
+O	0	4	O	O	well	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	North	x	x	0
+I-GPE	0	7	O	O	Carolina	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	thank	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	much	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	your	x	x	0
+O	0	7	O	O	students	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	all	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	support	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	letters	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	they	x	x	0
+O	0	17	O	O	sent	x	x	0
+O	0	18	O	O	out	x	x	0
+O	0	19	O	O	to	x	x	0
+B-PER	0	20	O	O	us	x	x	0
+O	0	21	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Their	x	x	0
+O	0	1	O	O	second-grade	x	x	0
+O	0	2	O	O	work	x	x	0
+O	0	3	O	O	keeping	x	x	0
+O	0	4	O	O	watch	x	x	0
+O	0	5	O	O	over	x	x	0
+O	0	6	O	O	those	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	keep	x	x	0
+O	0	9	O	O	watch	x	x	0
+O	0	10	O	O	in	x	x	0
+B-LOC	0	11	O	O	the	x	x	0
+I-LOC	0	12	O	O	Persian	x	x	0
+I-LOC	0	13	O	O	Gulf	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Daryn	x	x	0
+I-PER	0	1	O	O	Kagan	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Kuwait	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Those	x	x	0
+O	0	1	O	O	letters	x	x	0
+O	0	2	O	O	important	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	both	x	x	0
+O	0	5	O	O	ends	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	this	x	x	0
+I-TIME	0	5	O	O	hour	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	Judy	x	x	0
+I-PER	0	3	O	O	Woodruff	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Washington	x	x	0
+O	0	6	O	O	.	x	x	0
+

@@ -1,0 +1,195 @@
+B-PER	0	0	O	O	Peyton	x	x	0
+I-PER	0	1	O	O	Manning	x	x	0
+O	0	2	O	O	broke	x	x	0
+B-PER	0	3	O	O	Dan	x	x	0
+I-PER	0	4	O	O	Marino	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	season	x	x	0
+O	0	7	O	O	touchdown	x	x	0
+O	0	8	O	O	record	x	x	0
+B-TIME	0	9	O	O	today	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	49	x	x	0
+O	0	12	O	O	against	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	San	x	x	0
+I-ORG	0	15	O	O	Diego	x	x	0
+I-ORG	0	16	O	O	Chargers	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	thrilling	x	x	0
+O	0	20	O	O	game	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	ended	x	x	0
+O	0	23	O	O	in	x	x	0
+O	0	24	O	O	overtime	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	happy	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	see	x	x	0
+B-PER	0	5	O	O	Manning	x	x	0
+O	0	6	O	O	break	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	record	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	as	x	x	0
+B-TIME	0	11	O	O	last	x	x	0
+I-TIME	0	12	O	O	week	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	decided	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	take	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	knee	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	end	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	game	x	x	0
+O	0	23	O	O	against	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	Baltimore	x	x	0
+I-ORG	0	26	O	O	Ravens	x	x	0
+O	0	27	O	O	when	x	x	0
+B-PER	0	28	O	O	he	x	x	0
+O	0	29	O	O	could	x	x	0
+O	0	30	O	O	have	x	x	0
+O	0	31	O	O	tried	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	increase	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	lead	x	x	0
+O	0	36	O	O	even	x	x	0
+O	0	37	O	O	more	x	x	0
+O	0	38	O	O	by	x	x	0
+O	0	39	O	O	throwing	x	x	0
+O	0	40	O	O	a	x	x	0
+O	0	41	O	O	touchdown	x	x	0
+O	0	42	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Manning	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	class	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	ranks	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	best	x	x	0
+I-PER	0	9	O	O	quarterbacks	x	x	0
+I-PER	0	10	O	O	of	x	x	0
+I-PER	0	11	O	O	all	x	x	0
+I-PER	0	12	O	O	time	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Marino	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	48	x	x	0
+O	0	3	O	O	TD	x	x	0
+O	0	4	O	O	record	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	set	x	x	0
+O	0	7	O	O	in	x	x	0
+B-TIME	0	8	O	O	1984	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	much	x	x	0
+O	0	3	O	O	sadder	x	x	0
+O	0	4	O	O	note	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	Minister	x	x	0
+I-PER	0	8	O	O	of	x	x	0
+I-PER	0	9	O	O	Defense	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	Reggie	x	x	0
+I-PER	0	12	O	O	White	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	died	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	heart	x	x	0
+O	0	17	O	O	attack	x	x	0
+B-TIME	0	18	O	O	this	x	x	0
+I-TIME	0	19	O	O	morning	x	x	0
+O	0	20	O	O	in	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	home	x	x	0
+O	0	23	O	O	at	x	x	0
+B-TIME	0	24	O	O	the	x	x	0
+I-TIME	0	25	O	O	age	x	x	0
+I-TIME	0	26	O	O	of	x	x	0
+I-TIME	0	27	O	O	43	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	White	x	x	0
+O	0	1	O	O	played	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	total	x	x	0
+O	0	4	O	O	of	x	x	0
+B-TIME	0	5	O	O	15	x	x	0
+I-TIME	0	6	O	O	years	x	x	0
+O	0	7	O	O	with	x	x	0
+B-ORG	0	8	O	O	Philadelphia	x	x	0
+O	0	9	O	O	,	x	x	0
+B-ORG	0	10	O	O	Green	x	x	0
+I-ORG	0	11	O	O	Bay	x	x	0
+O	0	12	O	O	and	x	x	0
+B-ORG	0	13	O	O	Carolina	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	retired	x	x	0
+O	0	2	O	O	after	x	x	0
+O	0	3	O	O	the	x	x	0
+B-TIME	0	4	O	O	2000	x	x	0
+O	0	5	O	O	season	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	the	x	x	0
+B-ORG	0	8	O	O	NFL	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	all-time	x	x	0
+O	0	11	O	O	leader	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	sacks	x	x	0
+O	0	14	O	O	with	x	x	0
+O	0	15	O	O	198	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	mark	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	since	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	passed	x	x	0
+O	0	6	O	O	by	x	x	0
+B-PER	0	7	O	O	Bruce	x	x	0
+I-PER	0	8	O	O	Smith	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	White	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	surely	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	missed	x	x	0
+O	0	5	O	O	.	x	x	0
+

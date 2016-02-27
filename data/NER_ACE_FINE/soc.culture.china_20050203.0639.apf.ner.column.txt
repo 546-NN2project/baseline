@@ -1,0 +1,903 @@
+B-PER	0	0	O	O	Sunnis	x	x	0
+O	0	1	O	O	say	x	x	0
+B-GPE	0	2	O	O	Iraq	x	x	0
+O	0	3	O	O	poll	x	x	0
+O	0	4	O	O	illegitimate	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Are	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	minimal	x	x	0
+O	0	3	O	O	requirements	x	x	0
+O	0	4	O	O	before	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	election	x	x	0
+O	0	7	O	O	can	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	considered	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	legitimate	x	x	0
+O	0	12	O	O	election	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	recent	x	x	0
+B-GPE	0	2	O	O	Iraq	x	x	0
+O	0	3	O	O	election	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	boycott	x	x	0
+O	0	6	O	O	by	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	Sunnis	x	x	0
+B-PER	0	9	O	O	which	x	x	0
+O	0	10	O	O	constitute	x	x	0
+B-Numeric	0	11	O	O	about	x	x	0
+I-Numeric	0	12	O	O	20	x	x	0
+I-Numeric	0	13	O	O	%	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	population	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	example	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	city	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	200,000	x	x	0
+B-PER	0	8	O	O	only	x	x	0
+I-PER	0	9	O	O	1400	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	casted	x	x	0
+B-PER	0	12	O	O	their	x	x	0
+O	0	13	O	O	votes	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Many	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	1400	x	x	0
+O	0	4	O	O	were	x	x	0
+B-PER	0	5	O	O	civil	x	x	0
+I-PER	0	6	O	O	workers	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	polices	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	Shiites	x	x	0
+O	0	11	O	O	from	x	x	0
+B-LOC	0	12	O	O	the	x	x	0
+I-LOC	0	13	O	O	south	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Fallujah	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	were	x	x	0
+B-FAC	0	5	O	O	5	x	x	0
+I-FAC	0	6	O	O	voting	x	x	0
+I-FAC	0	7	O	O	stations	x	x	0
+I-FAC	0	8	O	O	with	x	x	0
+I-FAC	0	9	O	O	only	x	x	0
+I-FAC	0	10	O	O	ONE	x	x	0
+I-FAC	0	11	O	O	vote	x	x	0
+I-FAC	0	12	O	O	casted	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Are	x	x	0
+B-PER	0	1	O	O	their	x	x	0
+O	0	2	O	O	boycott	x	x	0
+O	0	3	O	O	reasonable	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	so	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	should	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	affect	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	legitimacy	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	election	x	x	0
+O	0	11	O	O	?	x	x	0
+O	0	12	O	O	----------------	x	x	0
+B-PER	0	13	O	O	Sunnis	x	x	0
+O	0	14	O	O	say	x	x	0
+B-GPE	0	15	O	O	Iraq	x	x	0
+O	0	16	O	O	poll	x	x	0
+O	0	17	O	O	illegitimate	x	x	0
+O	0	18	O	O	A	x	x	0
+O	0	19	O	O	leading	x	x	0
+O	0	20	O	O	group	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	Iraqi	x	x	0
+B-PER	0	23	O	O	Sunni	x	x	0
+O	0	24	O	O	clerics	x	x	0
+O	0	25	O	O	have	x	x	0
+O	0	26	O	O	said	x	x	0
+B-GPE	0	27	O	O	the	x	x	0
+I-GPE	0	28	O	O	country	x	x	0
+O	0	29	O	O	's	x	x	0
+O	0	30	O	O	landmark	x	x	0
+O	0	31	O	O	election	x	x	0
+O	0	32	O	O	lacks	x	x	0
+O	0	33	O	O	legitimacy	x	x	0
+O	0	34	O	O	as	x	x	0
+B-PER	0	35	O	O	so	x	x	0
+I-PER	0	36	O	O	many	x	x	0
+I-PER	0	37	O	O	Sunnis	x	x	0
+O	0	38	O	O	did	x	x	0
+O	0	39	O	O	not	x	x	0
+O	0	40	O	O	take	x	x	0
+O	0	41	O	O	part	x	x	0
+O	0	42	O	O	in	x	x	0
+O	0	43	O	O	the	x	x	0
+O	0	44	O	O	vote	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	clerics	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	encouraged	x	x	0
+B-PER	0	4	O	O	Sunnis	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	boycott	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	elections	x	x	0
+O	0	9	O	O	because	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	presence	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	US	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	foreign	x	x	0
+O	0	17	O	O	troops	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	US	x	x	0
+O	0	2	O	O	and	x	x	0
+B-GPE	0	3	O	O	Iraqi	x	x	0
+O	0	4	O	O	authorities	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	well	x	x	0
+O	0	8	O	O	as	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	United	x	x	0
+I-ORG	0	11	O	O	Nations	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	hailed	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	election	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	"	x	x	0
+O	0	20	O	O	victory	x	x	0
+O	0	21	O	O	for	x	x	0
+O	0	22	O	O	democracy	x	x	0
+O	0	23	O	O	"	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	Association	x	x	0
+I-ORG	0	3	O	O	of	x	x	0
+I-ORG	0	4	O	O	Muslim	x	x	0
+I-ORG	0	5	O	O	Scholars	x	x	0
+O	0	6	O	O	says	x	x	0
+B-ORG	0	7	O	O	any	x	x	0
+I-ORG	0	8	O	O	government	x	x	0
+I-ORG	0	9	O	O	elected	x	x	0
+I-ORG	0	10	O	O	in	x	x	0
+I-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	poll	x	x	0
+O	0	13	O	O	will	x	x	0
+O	0	14	O	O	not	x	x	0
+O	0	15	O	O	reflect	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	people	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	These	x	x	0
+O	0	2	O	O	elections	x	x	0
+O	0	3	O	O	lack	x	x	0
+O	0	4	O	O	legitimacy	x	x	0
+O	0	5	O	O	because	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	large	x	x	0
+O	0	8	O	O	segment	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	different	x	x	0
+O	0	11	O	O	sects	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	parties	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	currents	x	x	0
+O	0	16	O	O	with	x	x	0
+B-PER	0	17	O	O	their	x	x	0
+O	0	18	O	O	influence	x	x	0
+O	0	19	O	O	in	x	x	0
+B-GPE	0	20	O	O	Iraq	x	x	0
+O	0	21	O	O	boycotted	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	"	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	association	x	x	0
+O	0	26	O	O	said	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	statement	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	This	x	x	0
+O	0	2	O	O	necessarily	x	x	0
+O	0	3	O	O	means	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	coming	x	x	0
+B-PER	0	6	O	O	national	x	x	0
+I-PER	0	7	O	O	assembly	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	government	x	x	0
+B-ORG	0	10	O	O	that	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	emerge	x	x	0
+O	0	13	O	O	from	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	will	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	possess	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	legitimacy	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	enable	x	x	0
+B-PER	0	22	O	O	them	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	draft	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	coming	x	x	0
+O	0	27	O	O	constitution	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	"	x	x	0
+B-ORG	0	30	O	O	it	x	x	0
+O	0	31	O	O	said	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	group	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	whilst	x	x	0
+B-ORG	0	4	O	O	it	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	respect	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	choice	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	Iraqis	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	had	x	x	0
+O	0	13	O	O	chosen	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	vote	x	x	0
+O	0	16	O	O	,	x	x	0
+B-ORG	0	17	O	O	it	x	x	0
+O	0	18	O	O	would	x	x	0
+O	0	19	O	O	regard	x	x	0
+O	0	20	O	O	the	x	x	0
+B-TIME	0	21	O	O	new	x	x	0
+O	0	22	O	O	government	x	x	0
+O	0	23	O	O	as	x	x	0
+O	0	24	O	O	having	x	x	0
+O	0	25	O	O	only	x	x	0
+O	0	26	O	O	limited	x	x	0
+O	0	27	O	O	powers	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	...	x	x	0
+O	0	2	O	O	]	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+B-PER	0	2	O	O	ltlee	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	expert	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	legitimacy	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	election	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	as	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	Chinese	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	so	x	x	0
+O	0	18	O	O	much	x	x	0
+O	0	19	O	O	experience	x	x	0
+O	0	20	O	O	running	x	x	0
+O	0	21	O	O	elections	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	No..	x	x	0
+B-PER	0	1	O	O	ltlee	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	pretty	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	see	x	x	0
+B-PER	0	7	O	O	others	x	x	0
+O	0	8	O	O	problem	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	see	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	own	x	x	0
+O	0	7	O	O	problem	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	problem	x	x	0
+O	0	10	O	O	near	x	x	0
+B-PER	0	11	O	O	him	x	x	0
+O	0	12	O	O	(	x	x	0
+B-GPE	0	13	O	O	china	x	x	0
+O	0	14	O	O	)	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	sounds	x	x	0
+O	0	2	O	O	like	x	x	0
+B-PER	0	3	O	O	our	x	x	0
+O	0	4	O	O	eyes	x	x	0
+O	0	5	O	O	when	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	old	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	see	x	x	0
+O	0	11	O	O	things	x	x	0
+O	0	12	O	O	far	x	x	0
+O	0	13	O	O	but	x	x	0
+O	0	14	O	O	forget	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	nearby	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Remember	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	phoilosopher	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	observe	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	star	x	x	0
+O	0	7	O	O	in	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	sky	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	fall	x	x	0
+O	0	12	O	O	down	x	x	0
+O	0	13	O	O	by	x	x	0
+O	0	14	O	O	kicking	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	rock	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	n't	x	x	0
+O	0	20	O	O	see	x	x	0
+O	0	21	O	O	?	x	x	0
+
+B-PER	0	0	O	O	Sunni	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	poll	x	x	0
+O	0	4	O	O	is	x	x	0
+B-TIME	0	5	O	O	now	x	x	0
+O	0	6	O	O	illegitimate	x	x	0
+O	0	7	O	O	because	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	chose	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	vote	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Fundamentally	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	choosing	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	vote	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	actually	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	vote	x	x	0
+O	0	10	O	O	for	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	other	x	x	0
+I-PER	0	13	O	O	side	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	choose	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	vote	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	then	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	choose	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	give	x	x	0
+B-PER	0	12	O	O	your	x	x	0
+O	0	13	O	O	opponents	x	x	0
+O	0	14	O	O	all	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	power	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	Sunni	x	x	0
+I-PER	0	3	O	O	's	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	prevented	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	or	x	x	0
+O	0	8	O	O	restricted	x	x	0
+O	0	9	O	O	or	x	x	0
+O	0	10	O	O	otherwise	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	allowed	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	vote	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	then	x	x	0
+B-PER	0	17	O	O	they	x	x	0
+O	0	18	O	O	could	x	x	0
+O	0	19	O	O	claim	x	x	0
+O	0	20	O	O	illegitimacy	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	but	x	x	0
+O	0	23	O	O	since	x	x	0
+B-PER	0	24	O	O	the	x	x	0
+O	0	25	O	O	simply	x	x	0
+O	0	26	O	O	just	x	x	0
+O	0	27	O	O	collectively	x	x	0
+O	0	28	O	O	decided	x	x	0
+O	0	29	O	O	not	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	vote	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	then	x	x	0
+B-PER	0	34	O	O	they	x	x	0
+O	0	35	O	O	declared	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	vote	x	x	0
+O	0	38	O	O	legitimate	x	x	0
+O	0	39	O	O	of	x	x	0
+B-PER	0	40	O	O	their	x	x	0
+B-PER	0	41	O	O	own	x	x	0
+O	0	42	O	O	volition	x	x	0
+O	0	43	O	O	whilest	x	x	0
+O	0	44	O	O	simultaneously	x	x	0
+O	0	45	O	O	ceding	x	x	0
+O	0	46	O	O	power	x	x	0
+O	0	47	O	O	to	x	x	0
+B-PER	0	48	O	O	all	x	x	0
+I-PER	0	49	O	O	non-Sunnis	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	slices	x	x	0
+O	0	3	O	O	off	x	x	0
+B-PER	0	4	O	O	one	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	nose	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	spite	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	face	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	then	x	x	0
+B-PER	0	13	O	O	nobody	x	x	0
+O	0	14	O	O	should	x	x	0
+O	0	15	O	O	be	x	x	0
+O	0	16	O	O	surprised	x	x	0
+O	0	17	O	O	about	x	x	0
+B-PER	0	18	O	O	their	x	x	0
+O	0	19	O	O	complaints	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	bleeding	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	another	x	x	0
+O	0	3	O	O	case	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	well	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	did	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	bloody	x	x	0
+O	0	11	O	O	well	x	x	0
+O	0	12	O	O	expect	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	happen	x	x	0
+O	0	15	O	O	"	x	x	0
+O	0	16	O	O	?	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	talking	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	physically	x	x	0
+O	0	5	O	O	restricted	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	vote	x	x	0
+O	0	8	O	O	at	x	x	0
+B-TIME	0	9	O	O	election	x	x	0
+I-TIME	0	10	O	O	day	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	However	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	the	x	x	0
+B-PER	0	6	O	O	Sunni	x	x	0
+O	0	7	O	O	clerics	x	x	0
+O	0	8	O	O	'	x	x	0
+O	0	9	O	O	complaints	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Rather	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	their	x	x	0
+O	0	3	O	O	state	x	x	0
+O	0	4	O	O	reason	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	related	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	reality	x	x	0
+O	0	10	O	O	that	x	x	0
+B-GPE	0	11	O	O	Iraq	x	x	0
+O	0	12	O	O	is	x	x	0
+B-TIME	0	13	O	O	currently	x	x	0
+O	0	14	O	O	under	x	x	0
+O	0	15	O	O	occupation	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Does	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	presence	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	foreign	x	x	0
+I-PER	0	5	O	O	troops	x	x	0
+O	0	6	O	O	makes	x	x	0
+B-PER	0	7	O	O	them	x	x	0
+O	0	8	O	O	less	x	x	0
+O	0	9	O	O	free	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Were	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	consulted	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	setting	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	date	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	election	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	how	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	distribute	x	x	0
+O	0	13	O	O	seats	x	x	0
+O	0	14	O	O	from	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	votes	x	x	0
+O	0	17	O	O	gain	x	x	0
+O	0	18	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	addition	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	restricted	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	moving	x	x	0
+O	0	8	O	O	freely	x	x	0
+O	0	9	O	O	in	x	x	0
+B-PER	0	10	O	O	their	x	x	0
+B-PER	0	11	O	O	own	x	x	0
+O	0	12	O	O	country	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	/	x	x	0
+O	0	15	O	O	or	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+B-PER	0	17	O	O	own	x	x	0
+O	0	18	O	O	city	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	would	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	not	x	x	0
+O	0	23	O	O	restricted	x	x	0
+B-PER	0	24	O	O	their	x	x	0
+O	0	25	O	O	election	x	x	0
+O	0	26	O	O	related	x	x	0
+O	0	27	O	O	activities	x	x	0
+O	0	28	O	O	?	x	x	0
+
+B-PER	0	0	O	O	Their	x	x	0
+O	0	1	O	O	stated	x	x	0
+O	0	2	O	O	reason	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	voting	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	because	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	country	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	under	x	x	0
+O	0	12	O	O	occupation	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	faced	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	however	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	no	x	x	0
+O	0	6	O	O	pressure	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	rest	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	country	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	nor	x	x	0
+O	0	15	O	O	from	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	"	x	x	0
+I-PER	0	18	O	O	occupying	x	x	0
+I-PER	0	19	O	O	"	x	x	0
+I-PER	0	20	O	O	forces	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	stay	x	x	0
+O	0	23	O	O	away	x	x	0
+O	0	24	O	O	from	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	vote	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Sunni	x	x	0
+I-PER	0	2	O	O	's	x	x	0
+B-TIME	0	3	O	O	now	x	x	0
+O	0	4	O	O	claim	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	vote	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	legitimate	x	x	0
+O	0	11	O	O	because	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	did	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	vote	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+B-PER	0	3	O	O	their	x	x	0
+O	0	4	O	O	right	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	decide	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	legitimacy	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	vote	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Sunni	x	x	0
+I-PER	0	2	O	O	's	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	ALL	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	power	x	x	0
+B-TIME	0	7	O	O	about	x	x	0
+I-TIME	0	8	O	O	a	x	x	0
+I-TIME	0	9	O	O	year	x	x	0
+I-TIME	0	10	O	O	ago	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	minority	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	toppled	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	they	x	x	0
+O	0	11	O	O	used	x	x	0
+B-PER	0	12	O	O	their	x	x	0
+O	0	13	O	O	power	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	intimidate	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	threaten	x	x	0
+B-PER	0	18	O	O	Shi'ites	x	x	0
+O	0	19	O	O	through	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	entire	x	x	0
+O	0	22	O	O	period	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Who	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	insurgents	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	killing	x	x	0
+B-PER	0	8	O	O	shi'ites	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	anyone	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	right	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	call	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	elections	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	illegitimate	x	x	0
+O	0	11	O	O	"	x	x	0
+B-PER	0	12	O	O	it	x	x	0
+O	0	13	O	O	would	x	x	0
+O	0	14	O	O	be	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	shi'ites	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	invited	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	participate	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	each	x	x	0
+O	0	7	O	O	such	x	x	0
+O	0	8	O	O	decision	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	restricted	x	x	0
+O	0	4	O	O	from	x	x	0
+O	0	5	O	O	moving	x	x	0
+O	0	6	O	O	within	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	own	x	x	0
+O	0	9	O	O	country	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	Shi'ites	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	no	x	x	0
+O	0	4	O	O	problems	x	x	0
+O	0	5	O	O	turning	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	in	x	x	0
+B-PER	0	8	O	O	large	x	x	0
+I-PER	0	9	O	O	groups	x	x	0
+O	0	10	O	O	.	x	x	0
+

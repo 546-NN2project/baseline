@@ -1,0 +1,1291 @@
+O	0	0	O	O	UR	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Iraq	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	A	x	x	0
+B-GPE	0	7	O	O	U.S.	x	x	0
+O	0	8	O	O	-	x	x	0
+O	0	9	O	O	sponsored	x	x	0
+O	0	10	O	O	forum	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	brought	x	x	0
+B-GPE	0	13	O	O	Iraqi	x	x	0
+O	0	14	O	O	opposition	x	x	0
+O	0	15	O	O	leaders	x	x	0
+O	0	16	O	O	together	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	shape	x	x	0
+B-GPE	0	19	O	O	the	x	x	0
+I-GPE	0	20	O	O	country	x	x	0
+O	0	21	O	O	's	x	x	0
+O	0	22	O	O	postwar	x	x	0
+O	0	23	O	O	government	x	x	0
+O	0	24	O	O	began	x	x	0
+B-TIME	0	25	O	O	Tuesday	x	x	0
+O	0	26	O	O	with	x	x	0
+O	0	27	O	O	a	x	x	0
+B-GPE	0	28	O	O	U.S.	x	x	0
+O	0	29	O	O	promise	x	x	0
+O	0	30	O	O	not	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	rule	x	x	0
+B-GPE	0	33	O	O	Iraq	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	concluded	x	x	0
+O	0	36	O	O	with	x	x	0
+O	0	37	O	O	an	x	x	0
+O	0	38	O	O	agreement	x	x	0
+O	0	39	O	O	to	x	x	0
+O	0	40	O	O	meet	x	x	0
+O	0	41	O	O	again	x	x	0
+O	0	42	O	O	in	x	x	0
+B-TIME	0	43	O	O	10	x	x	0
+I-TIME	0	44	O	O	days	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Meeting	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	biblical	x	x	0
+O	0	4	O	O	birthplace	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	prophet	x	x	0
+O	0	8	O	O	Abraham	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	delegates	x	x	0
+O	0	11	O	O	from	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	many	x	x	0
+O	0	15	O	O	factions	x	x	0
+O	0	16	O	O	discussed	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	role	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	religion	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	the	x	x	0
+B-TIME	0	23	O	O	future	x	x	0
+O	0	24	O	O	government	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	ways	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	rebuild	x	x	0
+B-GPE	0	29	O	O	the	x	x	0
+I-GPE	0	30	O	O	country	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	some	x	x	0
+B-ORG	0	2	O	O	Shiite	x	x	0
+I-ORG	0	3	O	O	Muslim	x	x	0
+O	0	4	O	O	groups	x	x	0
+O	0	5	O	O	boycotted	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	meeting	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	thousands	x	x	0
+O	0	10	O	O	protested	x	x	0
+O	0	11	O	O	nearby	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	13-point	x	x	0
+O	0	2	O	O	statement	x	x	0
+O	0	3	O	O	released	x	x	0
+O	0	4	O	O	after	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	meeting	x	x	0
+O	0	7	O	O	stressed	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	need	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	work	x	x	0
+O	0	12	O	O	toward	x	x	0
+B-GPE	0	13	O	O	a	x	x	0
+I-GPE	0	14	O	O	democratic	x	x	0
+I-GPE	0	15	O	O	Iraq	x	x	0
+O	0	16	O	O	built	x	x	0
+O	0	17	O	O	on	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	rule	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	law	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	equality	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	called	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	dissolving	x	x	0
+B-PER	0	5	O	O	Saddam	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	Baath	x	x	0
+O	0	8	O	O	Party	x	x	0
+O	0	9	O	O	but	x	x	0
+O	0	10	O	O	left	x	x	0
+O	0	11	O	O	open	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	question	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	separating	x	x	0
+B-ORG	0	16	O	O	church	x	x	0
+O	0	17	O	O	from	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	state	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Retired	x	x	0
+O	0	1	O	O	Lt.	x	x	0
+O	0	2	O	O	Gen.	x	x	0
+O	0	3	O	O	Jay	x	x	0
+O	0	4	O	O	Garner	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	who	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	head	x	x	0
+O	0	9	O	O	the	x	x	0
+B-GPE	0	10	O	O	U.S.	x	x	0
+O	0	11	O	O	-	x	x	0
+O	0	12	O	O	led	x	x	0
+O	0	13	O	O	interim	x	x	0
+O	0	14	O	O	administration	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	Iraq	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	opened	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	conference	x	x	0
+O	0	21	O	O	under	x	x	0
+B-FAC	0	22	O	O	a	x	x	0
+I-FAC	0	23	O	O	golden-colored	x	x	0
+I-FAC	0	24	O	O	tent	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	shadows	x	x	0
+O	0	28	O	O	of	x	x	0
+O	0	29	O	O	the	x	x	0
+B-TIME	0	30	O	O	4,000-year-old	x	x	0
+O	0	31	O	O	ziggurat	x	x	0
+O	0	32	O	O	at	x	x	0
+B-GPE	0	33	O	O	Ur	x	x	0
+O	0	34	O	O	,	x	x	0
+O	0	35	O	O	a	x	x	0
+B-FAC	0	36	O	O	terraced	x	x	0
+I-FAC	0	37	O	O	temple	x	x	0
+O	0	38	O	O	platform	x	x	0
+O	0	39	O	O	of	x	x	0
+B-GPE	0	40	O	O	the	x	x	0
+I-GPE	0	41	O	O	ancient	x	x	0
+I-GPE	0	42	O	O	Sumerians	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	What	x	x	0
+O	0	2	O	O	better	x	x	0
+B-TIME	0	3	O	O	birthday	x	x	0
+O	0	4	O	O	can	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	man	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	than	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	begin	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	not	x	x	0
+O	0	13	O	O	only	x	x	0
+B-GPE	0	14	O	O	where	x	x	0
+I-GPE	0	15	O	O	civilization	x	x	0
+I-GPE	0	16	O	O	began	x	x	0
+O	0	17	O	O	but	x	x	0
+O	0	18	O	O	where	x	x	0
+B-GPE	0	19	O	O	a	x	x	0
+I-GPE	0	20	O	O	free	x	x	0
+I-GPE	0	21	O	O	Iraq	x	x	0
+O	0	22	O	O	and	x	x	0
+B-GPE	0	23	O	O	a	x	x	0
+I-GPE	0	24	O	O	democratic	x	x	0
+I-GPE	0	25	O	O	Iraq	x	x	0
+O	0	26	O	O	will	x	x	0
+O	0	27	O	O	begin	x	x	0
+B-TIME	0	28	O	O	today	x	x	0
+O	0	29	O	O	?	x	x	0
+O	0	30	O	O	''	x	x	0
+O	0	31	O	O	said	x	x	0
+O	0	32	O	O	Garner	x	x	0
+O	0	33	O	O	,	x	x	0
+B-PER	0	34	O	O	who	x	x	0
+O	0	35	O	O	turned	x	x	0
+B-TIME	0	36	O	O	65	x	x	0
+B-TIME	0	37	O	O	Tuesday	x	x	0
+O	0	38	O	O	and	x	x	0
+O	0	39	O	O	wore	x	x	0
+O	0	40	O	O	a	x	x	0
+O	0	41	O	O	twin	x	x	0
+B-GPE	0	42	O	O	American	x	x	0
+O	0	43	O	O	and	x	x	0
+B-GPE	0	44	O	O	Iraqi	x	x	0
+O	0	45	O	O	flag	x	x	0
+O	0	46	O	O	pin	x	x	0
+O	0	47	O	O	on	x	x	0
+B-PER	0	48	O	O	his	x	x	0
+O	0	49	O	O	blue	x	x	0
+O	0	50	O	O	shirt	x	x	0
+O	0	51	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	White	x	x	0
+I-GPE	0	1	O	O	House	x	x	0
+O	0	2	O	O	envoy	x	x	0
+O	0	3	O	O	Zalmay	x	x	0
+O	0	4	O	O	Khalilzad	x	x	0
+O	0	5	O	O	told	x	x	0
+B-PER	0	6	O	O	delegates	x	x	0
+O	0	7	O	O	that	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	United	x	x	0
+I-GPE	0	10	O	O	States	x	x	0
+O	0	11	O	O	has	x	x	0
+O	0	12	O	O	``	x	x	0
+O	0	13	O	O	no	x	x	0
+O	0	14	O	O	interest	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	absolutely	x	x	0
+O	0	17	O	O	no	x	x	0
+O	0	18	O	O	interest	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	ruling	x	x	0
+B-GPE	0	22	O	O	Iraq	x	x	0
+O	0	23	O	O	.	x	x	0
+O	0	24	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-GPE	0	1	O	O	We	x	x	0
+O	0	2	O	O	want	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	establish	x	x	0
+B-PER	0	6	O	O	your	x	x	0
+O	0	7	O	O	own	x	x	0
+O	0	8	O	O	democratic	x	x	0
+O	0	9	O	O	system	x	x	0
+O	0	10	O	O	based	x	x	0
+O	0	11	O	O	on	x	x	0
+B-GPE	0	12	O	O	Iraqi	x	x	0
+O	0	13	O	O	traditions	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	values	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	''	x	x	0
+B-PER	0	18	O	O	Khalilzad	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	urge	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	take	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	opportunity	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	cooperate	x	x	0
+O	0	10	O	O	with	x	x	0
+B-PER	0	11	O	O	each	x	x	0
+I-PER	0	12	O	O	other	x	x	0
+O	0	13	O	O	.	x	x	0
+O	0	14	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Participants	x	x	0
+O	0	1	O	O	included	x	x	0
+B-PER	0	2	O	O	Kurds	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Sunnis	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	Shiites	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	inside	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	country	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	others	x	x	0
+B-PER	0	13	O	O	who	x	x	0
+O	0	14	O	O	spent	x	x	0
+B-TIME	0	15	O	O	years	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	exile	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	invited	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	groups	x	x	0
+O	0	5	O	O	,	x	x	0
+B-ORG	0	6	O	O	which	x	x	0
+O	0	7	O	O	picked	x	x	0
+B-ORG	0	8	O	O	their	x	x	0
+O	0	9	O	O	own	x	x	0
+O	0	10	O	O	representatives	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Many	x	x	0
+I-PER	0	1	O	O	Iraqis	x	x	0
+O	0	2	O	O	boycotted	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	meeting	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	opposition	x	x	0
+O	0	7	O	O	to	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	plans	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	install	x	x	0
+B-PER	0	12	O	O	Garner	x	x	0
+O	0	13	O	O	atop	x	x	0
+B-ORG	0	14	O	O	an	x	x	0
+I-ORG	0	15	O	O	interim	x	x	0
+I-ORG	0	16	O	O	administration	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thousands	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	Shiites	x	x	0
+O	0	3	O	O	_	x	x	0
+B-PER	0	4	O	O	who	x	x	0
+O	0	5	O	O	constitute	x	x	0
+B-GPE	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	most	x	x	0
+O	0	9	O	O	populous	x	x	0
+O	0	10	O	O	religious	x	x	0
+O	0	11	O	O	group	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	repressed	x	x	0
+O	0	15	O	O	under	x	x	0
+B-PER	0	16	O	O	Saddam	x	x	0
+I-PER	0	17	O	O	Hussein	x	x	0
+O	0	18	O	O	_	x	x	0
+O	0	19	O	O	demonstrated	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	nearby	x	x	0
+I-GPE	0	22	O	O	Nasiriyah	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	chanting	x	x	0
+O	0	25	O	O	``	x	x	0
+O	0	26	O	O	No	x	x	0
+O	0	27	O	O	to	x	x	0
+B-GPE	0	28	O	O	America	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	no	x	x	0
+O	0	31	O	O	to	x	x	0
+B-PER	0	32	O	O	Saddam	x	x	0
+O	0	33	O	O	!	x	x	0
+O	0	34	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-GPE	0	1	O	O	Iraq	x	x	0
+O	0	2	O	O	needs	x	x	0
+O	0	3	O	O	an	x	x	0
+B-GPE	0	4	O	O	Iraqi	x	x	0
+O	0	5	O	O	interim	x	x	0
+O	0	6	O	O	government	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Anything	x	x	0
+O	0	1	O	O	other	x	x	0
+O	0	2	O	O	than	x	x	0
+B-ORG	0	3	O	O	this	x	x	0
+O	0	4	O	O	tramples	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	rights	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	the	x	x	0
+B-GPE	0	9	O	O	Iraqi	x	x	0
+O	0	10	O	O	people	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	will	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	return	x	x	0
+O	0	16	O	O	to	x	x	0
+B-TIME	0	17	O	O	the	x	x	0
+I-TIME	0	18	O	O	era	x	x	0
+I-TIME	0	19	O	O	of	x	x	0
+I-TIME	0	20	O	O	colonization	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	''	x	x	0
+O	0	23	O	O	said	x	x	0
+B-PER	0	24	O	O	Abdul	x	x	0
+I-PER	0	25	O	O	Aziz	x	x	0
+I-PER	0	26	O	O	Hakim	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	leader	x	x	0
+O	0	30	O	O	of	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	largest	x	x	0
+B-GPE	0	33	O	O	Iraqi	x	x	0
+B-ORG	0	34	O	O	Shiite	x	x	0
+O	0	35	O	O	group	x	x	0
+O	0	36	O	O	,	x	x	0
+B-ORG	0	37	O	O	the	x	x	0
+I-ORG	0	38	O	O	Supreme	x	x	0
+I-ORG	0	39	O	O	Council	x	x	0
+I-ORG	0	40	O	O	for	x	x	0
+I-ORG	0	41	O	O	Islamic	x	x	0
+I-ORG	0	42	O	O	Revolution	x	x	0
+I-ORG	0	43	O	O	in	x	x	0
+I-ORG	0	44	O	O	Iraq	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	hope	x	x	0
+O	0	3	O	O	more	x	x	0
+B-GPE	0	4	O	O	Iraqis	x	x	0
+O	0	5	O	O	join	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	process	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	stressed	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	this	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	just	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	first	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	many	x	x	0
+O	0	18	O	O	such	x	x	0
+O	0	19	O	O	meetings	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	Iraq	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	meeting	x	x	0
+O	0	2	O	O	concluded	x	x	0
+O	0	3	O	O	with	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	delegates	x	x	0
+O	0	6	O	O	voting	x	x	0
+O	0	7	O	O	by	x	x	0
+O	0	8	O	O	show	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	hands	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	meet	x	x	0
+O	0	13	O	O	again	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	10	x	x	0
+I-TIME	0	16	O	O	days	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	national	x	x	0
+O	0	2	O	O	conference	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	planned	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	select	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	interim	x	x	0
+I-ORG	0	9	O	O	administration	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	perhaps	x	x	0
+O	0	12	O	O	within	x	x	0
+B-TIME	0	13	O	O	weeks	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	senior	x	x	0
+B-GPE	0	17	O	O	U.S.	x	x	0
+O	0	18	O	O	official	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	condition	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	anonymity	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	interim	x	x	0
+I-ORG	0	2	O	O	administration	x	x	0
+O	0	3	O	O	could	x	x	0
+O	0	4	O	O	begin	x	x	0
+O	0	5	O	O	handing	x	x	0
+O	0	6	O	O	power	x	x	0
+O	0	7	O	O	back	x	x	0
+O	0	8	O	O	to	x	x	0
+B-GPE	0	9	O	O	Iraqi	x	x	0
+O	0	10	O	O	officials	x	x	0
+O	0	11	O	O	within	x	x	0
+B-TIME	0	12	O	O	three	x	x	0
+O	0	13	O	O	to	x	x	0
+B-TIME	0	14	O	O	six	x	x	0
+I-TIME	0	15	O	O	months	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	but	x	x	0
+O	0	18	O	O	forming	x	x	0
+B-ORG	0	19	O	O	a	x	x	0
+I-ORG	0	20	O	O	government	x	x	0
+O	0	21	O	O	will	x	x	0
+O	0	22	O	O	take	x	x	0
+O	0	23	O	O	longer	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	said	x	x	0
+B-PER	0	26	O	O	Maj.	x	x	0
+I-PER	0	27	O	O	Gen.	x	x	0
+I-PER	0	28	O	O	Tim	x	x	0
+I-PER	0	29	O	O	Cross	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	top	x	x	0
+B-GPE	0	33	O	O	British	x	x	0
+O	0	34	O	O	member	x	x	0
+O	0	35	O	O	of	x	x	0
+B-PER	0	36	O	O	Garner	x	x	0
+O	0	37	O	O	's	x	x	0
+O	0	38	O	O	team	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	One	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	go	x	x	0
+O	0	5	O	O	through	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	process	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	building	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	bottom	x	x	0
+O	0	13	O	O	up	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	allowing	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	leadership	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	establish	x	x	0
+B-PER	0	20	O	O	itself	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	then	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	election	x	x	0
+O	0	26	O	O	process	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	go	x	x	0
+O	0	29	O	O	through	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	so	x	x	0
+O	0	32	O	O	forth	x	x	0
+O	0	33	O	O	,	x	x	0
+O	0	34	O	O	''	x	x	0
+B-PER	0	35	O	O	Cross	x	x	0
+O	0	36	O	O	said	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	That	x	x	0
+O	0	2	O	O	full	x	x	0
+O	0	3	O	O	electoral	x	x	0
+O	0	4	O	O	process	x	x	0
+O	0	5	O	O	may	x	x	0
+O	0	6	O	O	well	x	x	0
+O	0	7	O	O	take	x	x	0
+O	0	8	O	O	longer	x	x	0
+O	0	9	O	O	.	x	x	0
+O	0	10	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Garner	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Office	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	Reconstruction	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	Humanitarian	x	x	0
+O	0	7	O	O	Assistance	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	charged	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	coordinating	x	x	0
+O	0	12	O	O	humanitarian	x	x	0
+O	0	13	O	O	assistance	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	rebuilding	x	x	0
+O	0	16	O	O	infrastructure	x	x	0
+O	0	17	O	O	shattered	x	x	0
+O	0	18	O	O	by	x	x	0
+O	0	19	O	O	years	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	war	x	x	0
+O	0	22	O	O	and	x	x	0
+B-ORG	0	23	O	O	U.N.	x	x	0
+O	0	24	O	O	sanctions	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	gradually	x	x	0
+O	0	28	O	O	handing	x	x	0
+O	0	29	O	O	back	x	x	0
+O	0	30	O	O	power	x	x	0
+O	0	31	O	O	to	x	x	0
+B-GPE	0	32	O	O	Iraqis	x	x	0
+O	0	33	O	O	leading	x	x	0
+B-ORG	0	34	O	O	a	x	x	0
+I-ORG	0	35	O	O	democratically	x	x	0
+I-ORG	0	36	O	O	elected	x	x	0
+I-ORG	0	37	O	O	government	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Tuesday	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	meeting	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	first	x	x	0
+O	0	6	O	O	step	x	x	0
+O	0	7	O	O	toward	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	goal	x	x	0
+O	0	10	O	O	after	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	ouster	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	Saddam	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sheik	x	x	0
+O	0	1	O	O	Ayad	x	x	0
+O	0	2	O	O	Jamal	x	x	0
+O	0	3	O	O	Al	x	x	0
+O	0	4	O	O	Din	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	a	x	x	0
+B-ORG	0	7	O	O	Shiite	x	x	0
+O	0	8	O	O	religious	x	x	0
+O	0	9	O	O	leader	x	x	0
+O	0	10	O	O	from	x	x	0
+B-GPE	0	11	O	O	Nasiriyah	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	urged	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	delegates	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	craft	x	x	0
+B-ORG	0	18	O	O	a	x	x	0
+I-ORG	0	19	O	O	secular	x	x	0
+I-ORG	0	20	O	O	government	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	according	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	pool	x	x	0
+O	0	26	O	O	report	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	Nassar	x	x	0
+I-PER	0	2	O	O	Hussein	x	x	0
+I-PER	0	3	O	O	Musawi	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	schoolteacher	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	disagreed	x	x	0
+O	0	9	O	O	:	x	x	0
+O	0	10	O	O	``	x	x	0
+B-PER	0	11	O	O	Those	x	x	0
+B-PER	0	12	O	O	who	x	x	0
+O	0	13	O	O	would	x	x	0
+O	0	14	O	O	like	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	separate	x	x	0
+B-ORG	0	17	O	O	religion	x	x	0
+O	0	18	O	O	from	x	x	0
+B-ORG	0	19	O	O	the	x	x	0
+I-ORG	0	20	O	O	state	x	x	0
+O	0	21	O	O	are	x	x	0
+O	0	22	O	O	simply	x	x	0
+O	0	23	O	O	dreaming	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	''	x	x	0
+B-PER	0	26	O	O	he	x	x	0
+O	0	27	O	O	said	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	exile	x	x	0
+O	0	2	O	O	Hatem	x	x	0
+O	0	3	O	O	Mukhliss	x	x	0
+O	0	4	O	O	quoted	x	x	0
+B-PER	0	5	O	O	President	x	x	0
+O	0	6	O	O	John	x	x	0
+O	0	7	O	O	F.	x	x	0
+O	0	8	O	O	Kennedy	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	exhortation	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	``	x	x	0
+O	0	13	O	O	Ask	x	x	0
+O	0	14	O	O	not	x	x	0
+O	0	15	O	O	what	x	x	0
+B-PER	0	16	O	O	your	x	x	0
+O	0	17	O	O	country	x	x	0
+O	0	18	O	O	can	x	x	0
+O	0	19	O	O	do	x	x	0
+O	0	20	O	O	for	x	x	0
+B-PER	0	21	O	O	you	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	but	x	x	0
+O	0	24	O	O	what	x	x	0
+B-PER	0	25	O	O	you	x	x	0
+O	0	26	O	O	can	x	x	0
+O	0	27	O	O	do	x	x	0
+O	0	28	O	O	for	x	x	0
+B-PER	0	29	O	O	your	x	x	0
+O	0	30	O	O	country	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	''	x	x	0
+O	0	33	O	O	and	x	x	0
+O	0	34	O	O	called	x	x	0
+O	0	35	O	O	on	x	x	0
+B-GPE	0	36	O	O	Iraqis	x	x	0
+O	0	37	O	O	to	x	x	0
+O	0	38	O	O	write	x	x	0
+O	0	39	O	O	a	x	x	0
+O	0	40	O	O	constitution	x	x	0
+O	0	41	O	O	,	x	x	0
+O	0	42	O	O	establish	x	x	0
+O	0	43	O	O	a	x	x	0
+O	0	44	O	O	legal	x	x	0
+O	0	45	O	O	system	x	x	0
+O	0	46	O	O	and	x	x	0
+O	0	47	O	O	consider	x	x	0
+O	0	48	O	O	what	x	x	0
+O	0	49	O	O	role	x	x	0
+B-ORG	0	50	O	O	the	x	x	0
+I-ORG	0	51	O	O	army	x	x	0
+O	0	52	O	O	should	x	x	0
+O	0	53	O	O	play	x	x	0
+O	0	54	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	asked	x	x	0
+B-PER	0	2	O	O	coalition	x	x	0
+I-PER	0	3	O	O	representatives	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	address	x	x	0
+O	0	6	O	O	problems	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	security	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	electricity	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	water	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	help	x	x	0
+O	0	17	O	O	rebuild	x	x	0
+B-FAC	0	18	O	O	destroyed	x	x	0
+I-FAC	0	19	O	O	and	x	x	0
+I-FAC	0	20	O	O	looted	x	x	0
+I-FAC	0	21	O	O	hospitals	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	Saddam	x	x	0
+O	0	2	O	O	reduced	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	country	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	such	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	state	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	necessary	x	x	0
+O	0	13	O	O	for	x	x	0
+B-PER	0	14	O	O	people	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	sell	x	x	0
+O	0	17	O	O	off	x	x	0
+O	0	18	O	O	personal	x	x	0
+O	0	19	O	O	possessions	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	''	x	x	0
+B-PER	0	22	O	O	Mukhliss	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-TIME	0	1	O	O	Now	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+B-TIME	0	4	O	O	time	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	take	x	x	0
+B-GPE	0	7	O	O	our	x	x	0
+O	0	8	O	O	country	x	x	0
+O	0	9	O	O	back	x	x	0
+O	0	10	O	O	.	x	x	0
+O	0	11	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	already	x	x	0
+O	0	3	O	O	tensions	x	x	0
+O	0	4	O	O	between	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	United	x	x	0
+I-GPE	0	7	O	O	States	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	some	x	x	0
+B-GPE	0	10	O	O	Iraqi	x	x	0
+O	0	11	O	O	factions	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kurdish	x	x	0
+O	0	1	O	O	groups	x	x	0
+O	0	2	O	O	appear	x	x	0
+O	0	3	O	O	unwilling	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	compromise	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	demand	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	expand	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	border	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	their	x	x	0
+O	0	15	O	O	autonomous	x	x	0
+O	0	16	O	O	area	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	include	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	oil-rich	x	x	0
+O	0	21	O	O	city	x	x	0
+O	0	22	O	O	of	x	x	0
+B-GPE	0	23	O	O	Kirkuk	x	x	0
+O	0	24	O	O	and	x	x	0
+B-PER	0	25	O	O	Kurdish	x	x	0
+O	0	26	O	O	parts	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	city	x	x	0
+O	0	30	O	O	of	x	x	0
+B-GPE	0	31	O	O	Mosul	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	pose	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	problem	x	x	0
+O	0	5	O	O	for	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	United	x	x	0
+I-GPE	0	8	O	O	States	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	because	x	x	0
+B-GPE	0	11	O	O	Turkey	x	x	0
+O	0	12	O	O	worries	x	x	0
+O	0	13	O	O	that	x	x	0
+B-PER	0	14	O	O	Kurdish	x	x	0
+O	0	15	O	O	control	x	x	0
+O	0	16	O	O	of	x	x	0
+B-GPE	0	17	O	O	Kirkuk	x	x	0
+O	0	18	O	O	could	x	x	0
+O	0	19	O	O	lead	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	aspirations	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	independence	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	turn	x	x	0
+O	0	27	O	O	encourage	x	x	0
+O	0	28	O	O	separatist	x	x	0
+O	0	29	O	O	Kurds	x	x	0
+O	0	30	O	O	in	x	x	0
+B-GPE	0	31	O	O	Turkey	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	opposition	x	x	0
+O	0	2	O	O	leaders	x	x	0
+O	0	3	O	O	fear	x	x	0
+B-GPE	0	4	O	O	the	x	x	0
+I-GPE	0	5	O	O	United	x	x	0
+I-GPE	0	6	O	O	States	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	trying	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	force	x	x	0
+B-PER	0	11	O	O	Ahmed	x	x	0
+I-PER	0	12	O	O	Chalabi	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	head	x	x	0
+O	0	15	O	O	of	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	London-based	x	x	0
+I-ORG	0	18	O	O	umbrella	x	x	0
+I-ORG	0	19	O	O	Iraqi	x	x	0
+I-ORG	0	20	O	O	National	x	x	0
+I-ORG	0	21	O	O	Congress	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	on	x	x	0
+B-PER	0	24	O	O	them	x	x	0
+O	0	25	O	O	as	x	x	0
+O	0	26	O	O	leader	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	new	x	x	0
+B-GPE	0	30	O	O	Iraqi	x	x	0
+O	0	31	O	O	administration	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Chalabi	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	first	x	x	0
+O	0	4	O	O	top	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	opposition	x	x	0
+O	0	7	O	O	leader	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	airlifted	x	x	0
+O	0	11	O	O	by	x	x	0
+O	0	12	O	O	the	x	x	0
+B-GPE	0	13	O	O	U.S.	x	x	0
+O	0	14	O	O	military	x	x	0
+O	0	15	O	O	into	x	x	0
+B-LOC	0	16	O	O	southern	x	x	0
+I-LOC	0	17	O	O	Iraq	x	x	0
+O	0	18	O	O	as	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	fighting	x	x	0
+O	0	21	O	O	wound	x	x	0
+O	0	22	O	O	down	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	and	x	x	0
+B-PER	0	25	O	O	he	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	other	x	x	0
+O	0	28	O	O	top	x	x	0
+O	0	29	O	O	members	x	x	0
+O	0	30	O	O	of	x	x	0
+B-PER	0	31	O	O	his	x	x	0
+O	0	32	O	O	group	x	x	0
+O	0	33	O	O	plan	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	meet	x	x	0
+O	0	36	O	O	soon	x	x	0
+O	0	37	O	O	in	x	x	0
+B-GPE	0	38	O	O	Baghdad	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	said	x	x	0
+B-PER	0	3	O	O	Chalabi	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	brought	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	because	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	offered	x	x	0
+B-PER	0	10	O	O	forces	x	x	0
+O	0	11	O	O	to	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	coalition	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Neither	x	x	0
+B-PER	0	1	O	O	Chalabi	x	x	0
+O	0	2	O	O	nor	x	x	0
+O	0	3	O	O	many	x	x	0
+O	0	4	O	O	other	x	x	0
+O	0	5	O	O	leaders	x	x	0
+O	0	6	O	O	of	x	x	0
+B-ORG	0	7	O	O	anti-Saddam	x	x	0
+I-ORG	0	8	O	O	groups	x	x	0
+O	0	9	O	O	attended	x	x	0
+B-TIME	0	10	O	O	Tuesday	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	meeting	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	but	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	sent	x	x	0
+B-PER	0	17	O	O	delegates	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Iraqis	x	x	0
+I-PER	0	1	O	O	protesting	x	x	0
+I-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	conference	x	x	0
+O	0	4	O	O	said	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	represent	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	interests	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	protesters	x	x	0
+O	0	2	O	O	held	x	x	0
+O	0	3	O	O	banners	x	x	0
+O	0	4	O	O	written	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	English	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	Arabic	x	x	0
+O	0	9	O	O	saying	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	``	x	x	0
+I-ORG	0	12	O	O	Hawza	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	or	x	x	0
+O	0	16	O	O	the	x	x	0
+B-ORG	0	17	O	O	Shiite	x	x	0
+O	0	18	O	O	religious	x	x	0
+O	0	19	O	O	seminary	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	Najaf	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	represents	x	x	0
+B-PER	0	24	O	O	them	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Even	x	x	0
+O	0	1	O	O	some	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	those	x	x	0
+I-PER	0	4	O	O	at	x	x	0
+I-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	meeting	x	x	0
+O	0	7	O	O	said	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	did	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	want	x	x	0
+B-PER	0	12	O	O	Garner	x	x	0
+O	0	13	O	O	leading	x	x	0
+B-ORG	0	14	O	O	the	x	x	0
+I-ORG	0	15	O	O	interim	x	x	0
+I-ORG	0	16	O	O	administration	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	press	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	any	x	x	0
+B-GPE	0	6	O	O	Iraqi	x	x	0
+O	0	7	O	O	civilian	x	x	0
+O	0	8	O	O	administration	x	x	0
+O	0	9	O	O	regardless	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	what	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	Americans	x	x	0
+O	0	14	O	O	say	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	An	x	x	0
+O	0	1	O	O	administration	x	x	0
+O	0	2	O	O	by	x	x	0
+B-PER	0	3	O	O	Garner	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	acceptable	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	''	x	x	0
+O	0	9	O	O	said	x	x	0
+B-PER	0	10	O	O	Mowaffak	x	x	0
+I-PER	0	11	O	O	al-Rubaie	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	an	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	physician	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	opposition	x	x	0
+I-PER	0	18	O	O	activist	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+B-GPE	0	2	O	O	American	x	x	0
+O	0	3	O	O	officials	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	outlined	x	x	0
+O	0	6	O	O	what	x	x	0
+B-PER	0	7	O	O	Garner	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	administration	x	x	0
+O	0	10	O	O	would	x	x	0
+O	0	11	O	O	look	x	x	0
+O	0	12	O	O	like	x	x	0
+O	0	13	O	O	:	x	x	0
+B-ORG	0	14	O	O	Each	x	x	0
+I-ORG	0	15	O	O	ministry	x	x	0
+O	0	16	O	O	would	x	x	0
+O	0	17	O	O	be	x	x	0
+O	0	18	O	O	headed	x	x	0
+O	0	19	O	O	by	x	x	0
+B-PER	0	20	O	O	an	x	x	0
+I-PER	0	21	O	O	American	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	either	x	x	0
+B-ORG	0	24	O	O	military	x	x	0
+O	0	25	O	O	or	x	x	0
+B-PER	0	26	O	O	civilian	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Each	x	x	0
+I-PER	0	1	O	O	minister	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	two	x	x	0
+B-GPE	0	5	O	O	American	x	x	0
+O	0	6	O	O	deputies	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	eight	x	x	0
+B-GPE	0	9	O	O	American	x	x	0
+O	0	10	O	O	advisers	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	plus	x	x	0
+O	0	13	O	O	four	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	advisers	x	x	0
+O	0	16	O	O	from	x	x	0
+O	0	17	O	O	inside	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	country	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	four	x	x	0
+B-GPE	0	22	O	O	Iraqi	x	x	0
+O	0	23	O	O	exiles.	x	x	0
+O	0	24	O	O	_	x	x	0
+O	0	25	O	O	_	x	x	0
+O	0	26	O	O	_	x	x	0
+O	0	27	O	O	=	x	x	0
+B-ORG	0	28	O	O	Associated	x	x	0
+I-ORG	0	29	O	O	Press	x	x	0
+O	0	30	O	O	writer	x	x	0
+O	0	31	O	O	Patrick	x	x	0
+O	0	32	O	O	McDowell	x	x	0
+O	0	33	O	O	in	x	x	0
+B-GPE	0	34	O	O	Kuwait	x	x	0
+I-GPE	0	35	O	O	City	x	x	0
+O	0	36	O	O	contributed	x	x	0
+O	0	37	O	O	to	x	x	0
+O	0	38	O	O	this	x	x	0
+O	0	39	O	O	report	x	x	0
+O	0	40	O	O	.	x	x	0
+

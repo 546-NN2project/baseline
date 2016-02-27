@@ -1,0 +1,517 @@
+O	0	0	O	O	Dominating	x	x	0
+O	0	1	O	O	the	x	x	0
+B-GPE	0	2	O	O	city	x	x	0
+O	0	3	O	O	gates	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Basra	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Saddam	x	x	0
+I-PER	0	1	O	O	Hussein	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	henchmen	x	x	0
+O	0	5	O	O	still	x	x	0
+O	0	6	O	O	claim	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	control	x	x	0
+B-FAC	0	9	O	O	this	x	x	0
+I-FAC	0	10	O	O	southern	x	x	0
+I-FAC	0	11	O	O	port	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-GPE	0	1	O	O	the	x	x	0
+I-GPE	0	2	O	O	British	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	send	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	powerful	x	x	0
+O	0	8	O	O	symbolic	x	x	0
+O	0	9	O	O	message	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Soldiers	x	x	0
+O	0	1	O	O	are	x	x	0
+B-GPE	0	2	O	O	here	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	tear	x	x	0
+O	0	5	O	O	down	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	regime	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	all	x	x	0
+B-ORG	0	10	O	O	it	x	x	0
+O	0	11	O	O	stands	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	By	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	time	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	leave	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	're	x	x	0
+O	0	9	O	O	determined	x	x	0
+B-PER	0	10	O	O	Saddam	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	Ba'ath	x	x	0
+O	0	14	O	O	Party	x	x	0
+O	0	15	O	O	will	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	bitten	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	dust	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	approach	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	seem	x	x	0
+O	0	4	O	O	frustratingly	x	x	0
+O	0	5	O	O	slow	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	but	x	x	0
+B-TIME	0	8	O	O	day	x	x	0
+I-TIME	0	9	O	O	by	x	x	0
+I-TIME	0	10	O	O	day	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	Desert	x	x	0
+I-PER	0	14	O	O	Rats	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	exerting	x	x	0
+O	0	17	O	O	more	x	x	0
+O	0	18	O	O	control	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Checkpoints	x	x	0
+O	0	1	O	O	meant	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	filter	x	x	0
+O	0	4	O	O	out	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	hardliners	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-PER	0	5	O	O	They	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	well	x	x	0
+O	0	8	O	O	within	x	x	0
+O	0	9	O	O	striking	x	x	0
+O	0	10	O	O	distance	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	mortars	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	rockets	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	the	x	x	0
+B-PER	0	18	O	O	Fedayeen	x	x	0
+O	0	19	O	O	militia	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	but	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	're	x	x	0
+O	0	24	O	O	prepared	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	take	x	x	0
+O	0	27	O	O	that	x	x	0
+O	0	28	O	O	risk	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	try	x	x	0
+O	0	31	O	O	and	x	x	0
+O	0	32	O	O	persuade	x	x	0
+O	0	33	O	O	the	x	x	0
+O	0	34	O	O	people	x	x	0
+O	0	35	O	O	of	x	x	0
+B-GPE	0	36	O	O	Basra	x	x	0
+O	0	37	O	O	that	x	x	0
+B-PER	0	38	O	O	they	x	x	0
+O	0	39	O	O	wo	x	x	0
+O	0	40	O	O	n't	x	x	0
+O	0	41	O	O	desert	x	x	0
+B-GPE	0	42	O	O	them	x	x	0
+O	0	43	O	O	,	x	x	0
+O	0	44	O	O	that	x	x	0
+B-PER	0	45	O	O	they	x	x	0
+O	0	46	O	O	'll	x	x	0
+O	0	47	O	O	stick	x	x	0
+O	0	48	O	O	with	x	x	0
+O	0	49	O	O	this	x	x	0
+O	0	50	O	O	however	x	x	0
+O	0	51	O	O	messy	x	x	0
+O	0	52	O	O	it	x	x	0
+O	0	53	O	O	gets	x	x	0
+O	0	54	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	Drastic	x	x	0
+O	0	5	O	O	action	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	need	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	convince	x	x	0
+B-GPE	0	10	O	O	a	x	x	0
+I-GPE	0	11	O	O	dubious	x	x	0
+I-GPE	0	12	O	O	population	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	Get	x	x	0
+O	0	1	O	O	down	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	down	x	x	0
+O	0	5	O	O	!	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	watched	x	x	0
+O	0	2	O	O	a	x	x	0
+B-TIME	0	3	O	O	nighttime	x	x	0
+O	0	4	O	O	raid	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	homes	x	x	0
+O	0	8	O	O	of	x	x	0
+B-ORG	0	9	O	O	Ba'ath	x	x	0
+I-ORG	0	10	O	O	Party	x	x	0
+O	0	11	O	O	officials	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	Fedayeen	x	x	0
+O	0	14	O	O	militia	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	These	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	men	x	x	0
+O	0	3	O	O	singled	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	by	x	x	0
+B-PER	0	6	O	O	locals	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	believed	x	x	0
+O	0	9	O	O	by	x	x	0
+B-ORG	0	10	O	O	army	x	x	0
+O	0	11	O	O	intelligence	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	behind	x	x	0
+O	0	15	O	O	much	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	brutality	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	corruption	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Most	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	accused	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	specific	x	x	0
+O	0	6	O	O	crimes	x	x	0
+O	0	7	O	O	but	x	x	0
+O	0	8	O	O	suspected	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	being	x	x	0
+O	0	11	O	O	part	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	state-sponsored	x	x	0
+O	0	15	O	O	climate	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	fear	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	UNINTELLIGIBLE	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	up	x	x	0
+O	0	6	O	O	!	x	x	0
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	party	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	influence	x	x	0
+O	0	4	O	O	extends	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	every	x	x	0
+O	0	7	O	O	corner	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	Iraqi	x	x	0
+O	0	10	O	O	society	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	two	x	x	0
+I-GPE	0	2	O	O	small	x	x	0
+I-GPE	0	3	O	O	communities	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	witnessed	x	x	0
+B-PER	0	7	O	O	more	x	x	0
+I-PER	0	8	O	O	than	x	x	0
+I-PER	0	9	O	O	70	x	x	0
+I-PER	0	10	O	O	people	x	x	0
+O	0	11	O	O	being	x	x	0
+O	0	12	O	O	rounded	x	x	0
+O	0	13	O	O	up	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	clearly	x	x	0
+O	0	3	O	O	terrified	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	what	x	x	0
+O	0	6	O	O	lies	x	x	0
+O	0	7	O	O	ahead	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	uncertain	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	their	x	x	0
+O	0	12	O	O	fate	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	overcome	x	x	0
+O	0	15	O	O	by	x	x	0
+O	0	16	O	O	nerves	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	as	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	ended	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	no	x	x	0
+B-GPE	0	8	O	O	British	x	x	0
+O	0	9	O	O	apology	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	scale	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	operation	x	x	0
+O	0	16	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	came	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	firm	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	came	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	fair	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	shots	x	x	0
+O	0	4	O	O	fired	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	gave	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	warning	x	x	0
+O	0	5	O	O	before	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	came	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	playing	x	x	0
+O	0	4	O	O	warnings	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	people	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	stay	x	x	0
+O	0	9	O	O	in	x	x	0
+B-PER	0	10	O	O	their	x	x	0
+O	0	11	O	O	houses	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	we	x	x	0
+O	0	15	O	O	've	x	x	0
+O	0	16	O	O	only	x	x	0
+O	0	17	O	O	lifted	x	x	0
+O	0	18	O	O	those	x	x	0
+O	0	19	O	O	people	x	x	0
+B-PER	0	20	O	O	we	x	x	0
+O	0	21	O	O	've	x	x	0
+O	0	22	O	O	got	x	x	0
+O	0	23	O	O	very	x	x	0
+O	0	24	O	O	good	x	x	0
+O	0	25	O	O	intelligence	x	x	0
+O	0	26	O	O	on	x	x	0
+O	0	27	O	O	.	x	x	0
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	tactic	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	can	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	regularly	x	x	0
+O	0	9	O	O	repeated	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	or	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	British	x	x	0
+O	0	14	O	O	risk	x	x	0
+O	0	15	O	O	being	x	x	0
+O	0	16	O	O	accused	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	installing	x	x	0
+B-GPE	0	19	O	O	their	x	x	0
+I-GPE	0	20	O	O	own	x	x	0
+O	0	21	O	O	rule	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	terror	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Despite	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	discomfort	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	a	x	x	0
+I-PER	0	5	O	O	few	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	conviction	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	is	x	x	0
+B-TIME	0	14	O	O	a	x	x	0
+I-TIME	0	15	O	O	night	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	work	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	benefit	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	majority	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Juliet	x	x	0
+I-PER	0	1	O	O	Bremner	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Basra	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	terrible	x	x	0
+O	0	7	O	O	discovery	x	x	0
+O	0	8	O	O	by	x	x	0
+O	0	9	O	O	some	x	x	0
+O	0	10	O	O	other	x	x	0
+B-GPE	0	11	O	O	British	x	x	0
+O	0	12	O	O	troops	x	x	0
+O	0	13	O	O	in	x	x	0
+B-LOC	0	14	O	O	southern	x	x	0
+I-LOC	0	15	O	O	Iraq	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Up	x	x	0
+O	0	1	O	O	next	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	evidence	x	x	0
+O	0	4	O	O	at	x	x	0
+B-FAC	0	5	O	O	a	x	x	0
+I-FAC	0	6	O	O	makeshift	x	x	0
+I-FAC	0	7	O	O	morgue	x	x	0
+O	0	8	O	O	points	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	mass	x	x	0
+O	0	11	O	O	executions	x	x	0
+O	0	12	O	O	by	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	regime	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	first	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	scenes	x	x	0
+O	0	5	O	O	from	x	x	0
+B-TIME	0	6	O	O	today	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	fighting	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Baghdad	x	x	0
+O	0	11	O	O	.	x	x	0
+

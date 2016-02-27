@@ -1,0 +1,261 @@
+O	0	0	O	O	CANBERRA	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Australia	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+B-GPE	0	6	O	O	Australia	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	keep	x	x	0
+O	0	9	O	O	open	x	x	0
+B-GPE	0	10	O	O	its	x	x	0
+O	0	11	O	O	embassy	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Saudi	x	x	0
+I-GPE	0	14	O	O	Arabia	x	x	0
+O	0	15	O	O	despite	x	x	0
+O	0	16	O	O	decisions	x	x	0
+O	0	17	O	O	by	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	United	x	x	0
+I-GPE	0	20	O	O	States	x	x	0
+O	0	21	O	O	,	x	x	0
+B-GPE	0	22	O	O	Britain	x	x	0
+O	0	23	O	O	and	x	x	0
+B-GPE	0	24	O	O	Germany	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	close	x	x	0
+B-GPE	0	27	O	O	their	x	x	0
+O	0	28	O	O	diplomatic	x	x	0
+O	0	29	O	O	outposts	x	x	0
+O	0	30	O	O	in	x	x	0
+B-GPE	0	31	O	O	the	x	x	0
+I-GPE	0	32	O	O	country	x	x	0
+O	0	33	O	O	amid	x	x	0
+O	0	34	O	O	growing	x	x	0
+O	0	35	O	O	terror	x	x	0
+O	0	36	O	O	fears	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	eve	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	visit	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	Saudi	x	x	0
+O	0	9	O	O	capital	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	Foreign	x	x	0
+I-PER	0	12	O	O	Minister	x	x	0
+O	0	13	O	O	Alexander	x	x	0
+O	0	14	O	O	Downer	x	x	0
+O	0	15	O	O	said	x	x	0
+O	0	16	O	O	security	x	x	0
+O	0	17	O	O	at	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	Australian	x	x	0
+I-FAC	0	20	O	O	embassy	x	x	0
+O	0	21	O	O	appeared	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	be	x	x	0
+O	0	24	O	O	sufficient	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-GPE	0	1	O	O	We	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	quite	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	substantial	x	x	0
+O	0	6	O	O	security	x	x	0
+O	0	7	O	O	presence	x	x	0
+O	0	8	O	O	at	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	Australian	x	x	0
+O	0	11	O	O	embassy	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Riyadh	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	ambassador	x	x	0
+O	0	17	O	O	thinks	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	security	x	x	0
+O	0	21	O	O	presence	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	sufficient	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	''	x	x	0
+B-PER	0	26	O	O	Downer	x	x	0
+O	0	27	O	O	told	x	x	0
+B-ORG	0	28	O	O	the	x	x	0
+I-ORG	0	29	O	O	Australian	x	x	0
+I-ORG	0	30	O	O	Broadcasting	x	x	0
+I-ORG	0	31	O	O	Corp	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Australia	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+B-GPE	0	4	O	O	Washington	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	staunchest	x	x	0
+O	0	7	O	O	allies	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Canberra	x	x	0
+O	0	1	O	O	sent	x	x	0
+B-PER	0	2	O	O	troops	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	fight	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	war	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	terror	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	Afghanistan	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	alongside	x	x	0
+B-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	and	x	x	0
+B-GPE	0	16	O	O	British	x	x	0
+O	0	17	O	O	forces	x	x	0
+O	0	18	O	O	in	x	x	0
+B-GPE	0	19	O	O	Iraq	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	New	x	x	0
+I-GPE	0	1	O	O	Zealand	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	no	x	x	0
+O	0	5	O	O	immediate	x	x	0
+O	0	6	O	O	plans	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	close	x	x	0
+B-GPE	0	9	O	O	its	x	x	0
+B-GPE	0	10	O	O	Saudi	x	x	0
+O	0	11	O	O	embassy	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Tuesday	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	Saudi	x	x	0
+O	0	4	O	O	security	x	x	0
+O	0	5	O	O	officials	x	x	0
+O	0	6	O	O	said	x	x	0
+O	0	7	O	O	three	x	x	0
+O	0	8	O	O	suspected	x	x	0
+B-ORG	0	9	O	O	al-Qaida	x	x	0
+O	0	10	O	O	militants	x	x	0
+O	0	11	O	O	were	x	x	0
+O	0	12	O	O	arrested	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	Jiddah	x	x	0
+O	0	15	O	O	,	x	x	0
+B-GPE	0	16	O	O	Saudi	x	x	0
+I-GPE	0	17	O	O	Arabia	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	sweeps	x	x	0
+O	0	21	O	O	following	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	near-simultaneous	x	x	0
+O	0	24	O	O	suicide	x	x	0
+O	0	25	O	O	attacks	x	x	0
+O	0	26	O	O	on	x	x	0
+O	0	27	O	O	three	x	x	0
+O	0	28	O	O	residential	x	x	0
+O	0	29	O	O	compounds	x	x	0
+O	0	30	O	O	on	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	outskirts	x	x	0
+O	0	33	O	O	of	x	x	0
+B-GPE	0	34	O	O	Riyadh	x	x	0
+O	0	35	O	O	on	x	x	0
+B-TIME	0	36	O	O	May	x	x	0
+I-TIME	0	37	O	O	12	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	bombings	x	x	0
+O	0	2	O	O	killed	x	x	0
+B-PER	0	3	O	O	34	x	x	0
+I-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	_	x	x	0
+O	0	6	O	O	including	x	x	0
+B-PER	0	7	O	O	nine	x	x	0
+I-PER	0	8	O	O	attackers	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	eight	x	x	0
+I-PER	0	11	O	O	Americans	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	two	x	x	0
+I-PER	0	14	O	O	Britons	x	x	0
+O	0	15	O	O	_	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	wounded	x	x	0
+B-PER	0	18	O	O	nearly	x	x	0
+I-PER	0	19	O	O	200	x	x	0
+I-PER	0	20	O	O	others	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Earlier	x	x	0
+I-TIME	0	1	O	O	this	x	x	0
+I-TIME	0	2	O	O	week	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	Saudi	x	x	0
+O	0	5	O	O	and	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	officials	x	x	0
+O	0	8	O	O	said	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	had	x	x	0
+B-TIME	0	11	O	O	new	x	x	0
+O	0	12	O	O	intelligence	x	x	0
+O	0	13	O	O	pointing	x	x	0
+O	0	14	O	O	to	x	x	0
+B-PER	0	15	O	O	Osama	x	x	0
+I-PER	0	16	O	O	bin	x	x	0
+I-PER	0	17	O	O	Laden	x	x	0
+O	0	18	O	O	's	x	x	0
+B-ORG	0	19	O	O	al-Qaida	x	x	0
+O	0	20	O	O	group	x	x	0
+O	0	21	O	O	possibly	x	x	0
+O	0	22	O	O	launching	x	x	0
+O	0	23	O	O	fresh	x	x	0
+O	0	24	O	O	attacks	x	x	0
+O	0	25	O	O	in	x	x	0
+B-GPE	0	26	O	O	the	x	x	0
+I-GPE	0	27	O	O	United	x	x	0
+I-GPE	0	28	O	O	States	x	x	0
+O	0	29	O	O	or	x	x	0
+O	0	30	O	O	against	x	x	0
+B-GPE	0	31	O	O	American	x	x	0
+O	0	32	O	O	interests	x	x	0
+O	0	33	O	O	overseas	x	x	0
+O	0	34	O	O	.	x	x	0
+

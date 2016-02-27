@@ -1,0 +1,482 @@
+O	0	0	O	O	CAPE	x	x	0
+O	0	1	O	O	CANAVERAL	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	Florida	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AP	x	x	0
+O	0	6	O	O	)	x	x	0
+O	0	7	O	O	A	x	x	0
+O	0	8	O	O	rocket	x	x	0
+O	0	9	O	O	holding	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	first	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	two	x	x	0
+B-LOC	0	14	O	O	Mars	x	x	0
+O	0	15	O	O	rovers	x	x	0
+O	0	16	O	O	blasted	x	x	0
+O	0	17	O	O	off	x	x	0
+B-TIME	0	18	O	O	Tuesday	x	x	0
+O	0	19	O	O	on	x	x	0
+O	0	20	O	O	a	x	x	0
+B-TIME	0	21	O	O	seven-month	x	x	0
+O	0	22	O	O	voyage	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	red	x	x	0
+O	0	26	O	O	planet	x	x	0
+B-LOC	0	27	O	O	where	x	x	0
+B-VEH	0	28	O	O	the	x	x	0
+I-VEH	0	29	O	O	golf-cart-sized	x	x	0
+I-VEH	0	30	O	O	vehicles	x	x	0
+O	0	31	O	O	will	x	x	0
+O	0	32	O	O	search	x	x	0
+O	0	33	O	O	for	x	x	0
+O	0	34	O	O	evidence	x	x	0
+O	0	35	O	O	that	x	x	0
+O	0	36	O	O	there	x	x	0
+O	0	37	O	O	was	x	x	0
+B-TIME	0	38	O	O	once	x	x	0
+O	0	39	O	O	enough	x	x	0
+O	0	40	O	O	water	x	x	0
+O	0	41	O	O	to	x	x	0
+O	0	42	O	O	support	x	x	0
+O	0	43	O	O	life	x	x	0
+O	0	44	O	O	on	x	x	0
+B-LOC	0	45	O	O	Mars	x	x	0
+O	0	46	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	rover	x	x	0
+O	0	2	O	O	named	x	x	0
+B-VEH	0	3	O	O	Spirit	x	x	0
+O	0	4	O	O	lifted	x	x	0
+O	0	5	O	O	off	x	x	0
+O	0	6	O	O	from	x	x	0
+B-FAC	0	7	O	O	the	x	x	0
+I-FAC	0	8	O	O	Cape	x	x	0
+I-FAC	0	9	O	O	Canaveral	x	x	0
+I-FAC	0	10	O	O	Air	x	x	0
+I-FAC	0	11	O	O	Force	x	x	0
+I-FAC	0	12	O	O	Station	x	x	0
+O	0	13	O	O	aboard	x	x	0
+O	0	14	O	O	a	x	x	0
+B-ORG	0	15	O	O	Boeing	x	x	0
+B-VEH	0	16	O	O	Delta	x	x	0
+I-VEH	0	17	O	O	II	x	x	0
+O	0	18	O	O	rocket	x	x	0
+O	0	19	O	O	at	x	x	0
+B-TIME	0	20	O	O	1:58	x	x	0
+I-TIME	0	21	O	O	p.m	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	1758	x	x	0
+O	0	2	O	O	GMT	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thunderstorms	x	x	0
+O	0	1	O	O	delayed	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	launch	x	x	0
+O	0	4	O	O	by	x	x	0
+B-TIME	0	5	O	O	two	x	x	0
+I-TIME	0	6	O	O	days	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	launch	x	x	0
+I-PER	0	10	O	O	officials	x	x	0
+O	0	11	O	O	contended	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	last-minute	x	x	0
+O	0	15	O	O	communications	x	x	0
+O	0	16	O	O	glitch	x	x	0
+O	0	17	O	O	between	x	x	0
+O	0	18	O	O	stations	x	x	0
+B-FAC	0	19	O	O	that	x	x	0
+O	0	20	O	O	will	x	x	0
+O	0	21	O	O	track	x	x	0
+B-VEH	0	22	O	O	the	x	x	0
+I-VEH	0	23	O	O	spacecraft	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	second	x	x	0
+O	0	2	O	O	rover	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	named	x	x	0
+B-VEH	0	5	O	O	Opportunity	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	launched	x	x	0
+B-TIME	0	10	O	O	later	x	x	0
+I-TIME	0	11	O	O	this	x	x	0
+I-TIME	0	12	O	O	month	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+B-VEH	0	15	O	O	both	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	expected	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	arrive	x	x	0
+O	0	20	O	O	at	x	x	0
+B-LOC	0	21	O	O	Mars	x	x	0
+O	0	22	O	O	in	x	x	0
+B-TIME	0	23	O	O	January	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Moving	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	six	x	x	0
+O	0	3	O	O	wheels	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+B-Numeric	0	6	O	O	$800	x	x	0
+I-Numeric	0	7	O	O	million	x	x	0
+O	0	8	O	O	rovers	x	x	0
+O	0	9	O	O	act	x	x	0
+O	0	10	O	O	as	x	x	0
+B-VEH	0	11	O	O	robotic	x	x	0
+I-VEH	0	12	O	O	geologists	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	Each	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	equipped	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	panoramic	x	x	0
+O	0	6	O	O	camera	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	camera	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	close-up	x	x	0
+O	0	12	O	O	views	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	rocks	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	drill	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	cut	x	x	0
+O	0	20	O	O	into	x	x	0
+O	0	21	O	O	rocks	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	data	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	transmitted	x	x	0
+O	0	5	O	O	back	x	x	0
+O	0	6	O	O	to	x	x	0
+B-LOC	0	7	O	O	Earth	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Previous	x	x	0
+O	0	1	O	O	missions	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	shown	x	x	0
+B-LOC	0	4	O	O	Mars	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	water	x	x	0
+O	0	7	O	O	in	x	x	0
+B-TIME	0	8	O	O	the	x	x	0
+I-TIME	0	9	O	O	past	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+B-PER	0	12	O	O	scientists	x	x	0
+O	0	13	O	O	want	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	find	x	x	0
+O	0	16	O	O	out	x	x	0
+O	0	17	O	O	how	x	x	0
+O	0	18	O	O	long	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	water	x	x	0
+O	0	21	O	O	was	x	x	0
+B-LOC	0	22	O	O	there	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	in	x	x	0
+O	0	25	O	O	what	x	x	0
+O	0	26	O	O	quantities	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Scientists	x	x	0
+O	0	1	O	O	believe	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	water	x	x	0
+O	0	4	O	O	may	x	x	0
+O	0	5	O	O	show	x	x	0
+O	0	6	O	O	that	x	x	0
+B-LOC	0	7	O	O	Mars	x	x	0
+B-TIME	0	8	O	O	once	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	able	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	support	x	x	0
+O	0	13	O	O	life	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	rovers	x	x	0
+O	0	2	O	O	'	x	x	0
+O	0	3	O	O	landing	x	x	0
+O	0	4	O	O	sites	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	opposite	x	x	0
+O	0	8	O	O	sides	x	x	0
+O	0	9	O	O	of	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	planet	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	chosen	x	x	0
+O	0	15	O	O	for	x	x	0
+B-LOC	0	16	O	O	their	x	x	0
+O	0	17	O	O	likelihood	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	holding	x	x	0
+O	0	20	O	O	evidence	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	water	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Studying	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	minerals	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	rocks	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	tell	x	x	0
+B-PER	0	7	O	O	scientists	x	x	0
+O	0	8	O	O	how	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	rocks	x	x	0
+O	0	11	O	O	were	x	x	0
+O	0	12	O	O	formed	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	whether	x	x	0
+O	0	15	O	O	they	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	ever	x	x	0
+O	0	18	O	O	submerged	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	water	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	whether	x	x	0
+O	0	24	O	O	hot	x	x	0
+O	0	25	O	O	water	x	x	0
+O	0	26	O	O	ever	x	x	0
+O	0	27	O	O	ran	x	x	0
+O	0	28	O	O	over	x	x	0
+O	0	29	O	O	them	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	rovers	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	expected	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	travel	x	x	0
+O	0	6	O	O	up	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	132	x	x	0
+O	0	9	O	O	feet	x	x	0
+O	0	10	O	O	(	x	x	0
+O	0	11	O	O	39.6	x	x	0
+O	0	12	O	O	meters	x	x	0
+O	0	13	O	O	)	x	x	0
+O	0	14	O	O	each	x	x	0
+B-LOC	0	15	O	O	Martian	x	x	0
+O	0	16	O	O	day	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	which	x	x	0
+O	0	19	O	O	is	x	x	0
+B-TIME	0	20	O	O	24	x	x	0
+I-TIME	0	21	O	O	hours	x	x	0
+I-TIME	0	22	O	O	and	x	x	0
+I-TIME	0	23	O	O	39	x	x	0
+I-TIME	0	24	O	O	{	x	x	0
+I-TIME	0	25	O	O	minutes	x	x	0
+O	0	26	O	O	long	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	missions	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	expected	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	last	x	x	0
+B-TIME	0	6	O	O	three	x	x	0
+I-TIME	0	7	O	O	months	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	could	x	x	0
+O	0	10	O	O	run	x	x	0
+O	0	11	O	O	longer	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	rovers	x	x	0
+O	0	2	O	O	eventually	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	shut	x	x	0
+O	0	5	O	O	down	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	dust	x	x	0
+O	0	8	O	O	builds	x	x	0
+O	0	9	O	O	up	x	x	0
+O	0	10	O	O	on	x	x	0
+B-VEH	0	11	O	O	their	x	x	0
+O	0	12	O	O	solar	x	x	0
+O	0	13	O	O	panels	x	x	0
+O	0	14	O	O	and	x	x	0
+B-VEH	0	15	O	O	they	x	x	0
+O	0	16	O	O	will	x	x	0
+O	0	17	O	O	remain	x	x	0
+O	0	18	O	O	on	x	x	0
+B-LOC	0	19	O	O	the	x	x	0
+I-LOC	0	20	O	O	planet	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Only	x	x	0
+O	0	1	O	O	12	x	x	0
+O	0	2	O	O	out	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	30	x	x	0
+O	0	5	O	O	previous	x	x	0
+O	0	6	O	O	attempts	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	reached	x	x	0
+B-LOC	0	9	O	O	Mars	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	only	x	x	0
+O	0	13	O	O	three	x	x	0
+O	0	14	O	O	out	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	nine	x	x	0
+O	0	17	O	O	attempts	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	succeeded	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	landing	x	x	0
+O	0	22	O	O	on	x	x	0
+B-LOC	0	23	O	O	the	x	x	0
+I-LOC	0	24	O	O	planet	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	NASA	x	x	0
+O	0	1	O	O	revamped	x	x	0
+B-ORG	0	2	O	O	its	x	x	0
+B-LOC	0	3	O	O	Mars	x	x	0
+O	0	4	O	O	program	x	x	0
+O	0	5	O	O	after	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	failure	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	two	x	x	0
+O	0	10	O	O	unmanned	x	x	0
+O	0	11	O	O	missions	x	x	0
+O	0	12	O	O	to	x	x	0
+B-LOC	0	13	O	O	Mars	x	x	0
+B-TIME	0	14	O	O	four	x	x	0
+I-TIME	0	15	O	O	years	x	x	0
+I-TIME	0	16	O	O	ago	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	space	x	x	0
+I-ORG	0	2	O	O	agency	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	under	x	x	0
+O	0	6	O	O	intense	x	x	0
+O	0	7	O	O	scrutiny	x	x	0
+O	0	8	O	O	since	x	x	0
+B-TIME	0	9	O	O	February	x	x	0
+O	0	10	O	O	when	x	x	0
+B-VEH	0	11	O	O	the	x	x	0
+I-VEH	0	12	O	O	space	x	x	0
+I-VEH	0	13	O	O	shuttle	x	x	0
+O	0	14	O	O	Columbia	x	x	0
+O	0	15	O	O	disintegrated	x	x	0
+O	0	16	O	O	over	x	x	0
+B-GPE	0	17	O	O	Texas	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	killing	x	x	0
+B-PER	0	20	O	O	all	x	x	0
+I-PER	0	21	O	O	seven	x	x	0
+I-PER	0	22	O	O	crew	x	x	0
+I-PER	0	23	O	O	members	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	logo	x	x	0
+O	0	2	O	O	patch	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	last	x	x	0
+B-VEH	0	6	O	O	Columbia	x	x	0
+O	0	7	O	O	mission	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	attached	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	both	x	x	0
+B-LOC	0	12	O	O	Mars	x	x	0
+O	0	13	O	O	rovers.	x	x	0
+O	0	14	O	O	_	x	x	0
+O	0	15	O	O	_	x	x	0
+O	0	16	O	O	_	x	x	0
+O	0	17	O	O	=	x	x	0
+O	0	18	O	O	On	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	Net	x	x	0
+O	0	21	O	O	:	x	x	0
+B-VEH	0	22	O	O	Rover	x	x	0
+O	0	23	O	O	Mission	x	x	0
+O	0	24	O	O	:	x	x	0
+B-Contact-Info	0	25	O	O	http://mars.jpl.nasa.gov/mer	x	x	0
+

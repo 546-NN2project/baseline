@@ -1,0 +1,421 @@
+O	0	0	O	O	there	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lady	x	x	0
+O	0	4	O	O	by	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	name	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	Irene	x	x	0
+O	0	9	O	O	Sokolas	x	x	0
+B-PER	0	10	O	O	that	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	selling	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	Ebay	x	x	0
+O	0	15	O	O	under	x	x	0
+O	0	16	O	O	VARIOUS	x	x	0
+O	0	17	O	O	names	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	saying	x	x	0
+B-PER	0	3	O	O	she	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	member	x	x	0
+O	0	7	O	O	of	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	UACC	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	selling	x	x	0
+O	0	3	O	O	FORGERIES	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	contacted	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	UACC	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	told	x	x	0
+B-ORG	0	7	O	O	them	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	so	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	can	x	x	0
+O	0	13	O	O	check	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	auctions	x	x	0
+O	0	16	O	O	(	x	x	0
+B-PER	0	17	O	O	she	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	doing	x	x	0
+O	0	21	O	O	this	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	long	x	x	0
+O	0	24	O	O	time	x	x	0
+O	0	25	O	O	)	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	tell	x	x	0
+B-PER	0	29	O	O	me	x	x	0
+O	0	30	O	O	if	x	x	0
+B-PER	0	31	O	O	she	x	x	0
+O	0	32	O	O	's	x	x	0
+O	0	33	O	O	actually	x	x	0
+B-PER	0	34	O	O	a	x	x	0
+I-PER	0	35	O	O	registered	x	x	0
+I-PER	0	36	O	O	member	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	suggest	x	x	0
+B-PER	0	3	O	O	everyone	x	x	0
+O	0	4	O	O	read	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	body	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	entire	x	x	0
+O	0	10	O	O	item	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	're	x	x	0
+O	0	13	O	O	bidding	x	x	0
+O	0	14	O	O	on	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	EVERYTHING	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	see	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	name	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	stay	x	x	0
+O	0	7	O	O	clear	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	matter	x	x	0
+O	0	2	O	O	WHICH	x	x	0
+O	0	3	O	O	ID	x	x	0
+B-PER	0	4	O	O	she	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	using	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	seen	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	the	x	x	0
+I-TIME	0	7	O	O	past	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	others	x	x	0
+O	0	10	O	O	reselling	x	x	0
+O	0	11	O	O	items	x	x	0
+O	0	12	O	O	usuing	x	x	0
+B-PER	0	13	O	O	her	x	x	0
+O	0	14	O	O	COA	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Be	x	x	0
+O	0	1	O	O	careful	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	miffed	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	UACC	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	check	x	x	0
+O	0	8	O	O	into	x	x	0
+B-PER	0	9	O	O	people	x	x	0
+O	0	10	O	O	before	x	x	0
+O	0	11	O	O	allowing	x	x	0
+B-PER	0	12	O	O	them	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	be	x	x	0
+B-PER	0	15	O	O	members	x	x	0
+O	0	16	O	O	if	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	fact	x	x	0
+B-PER	0	19	O	O	she	x	x	0
+O	0	20	O	O	is	x	x	0
+B-PER	0	21	O	O	a	x	x	0
+I-PER	0	22	O	O	member	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	reserve	x	x	0
+O	0	4	O	O	judgement	x	x	0
+O	0	5	O	O	till	x	x	0
+B-ORG	0	6	O	O	they	x	x	0
+O	0	7	O	O	respond	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	makes	x	x	0
+B-PER	0	2	O	O	one	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	skeptical	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	if	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	see	x	x	0
+O	0	4	O	O	a	x	x	0
+B-ORG	0	5	O	O	UACC	x	x	0
+O	0	6	O	O	member	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	Ebay	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	do	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	automatically	x	x	0
+O	0	13	O	O	assume	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	legit	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Contact	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	UACC	x	x	0
+O	0	3	O	O	before	x	x	0
+O	0	4	O	O	buying	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	ask	x	x	0
+O	0	7	O	O	if	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	are	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	member	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	suspect	x	x	0
+O	0	3	O	O	something	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	fake	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	take	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	granted	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	legit	x	x	0
+O	0	16	O	O	because	x	x	0
+O	0	17	O	O	a	x	x	0
+B-ORG	0	18	O	O	UACC	x	x	0
+O	0	19	O	O	number	x	x	0
+O	0	20	O	O	is	x	x	0
+O	0	21	O	O	attached	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	it	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	cases	x	x	0
+O	0	2	O	O	where	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	member	x	x	0
+O	0	5	O	O	claims	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	IS	x	x	0
+O	0	8	O	O	a	x	x	0
+B-ORG	0	9	O	O	UACC	x	x	0
+O	0	10	O	O	member	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	still	x	x	0
+O	0	13	O	O	question	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	then	x	x	0
+O	0	16	O	O	if	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	suspect	x	x	0
+O	0	19	O	O	there	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	number	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	fakes	x	x	0
+O	0	25	O	O	by	x	x	0
+B-PER	0	26	O	O	that	x	x	0
+I-PER	0	27	O	O	person	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	do	x	x	0
+O	0	30	O	O	NOT	x	x	0
+O	0	31	O	O	hesitate	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	let	x	x	0
+B-ORG	0	34	O	O	the	x	x	0
+I-ORG	0	35	O	O	UACC	x	x	0
+O	0	36	O	O	and	x	x	0
+B-ORG	0	37	O	O	Ebay	x	x	0
+O	0	38	O	O	know	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hope	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	spared	x	x	0
+B-PER	0	3	O	O	someone	x	x	0
+O	0	4	O	O	here	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	potential	x	x	0
+O	0	7	O	O	grief	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	saved	x	x	0
+B-PER	0	10	O	O	someone	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	money	x	x	0
+O	0	13	O	O	!	x	x	0
+
+O	0	0	O	O	Ooops	x	x	0
+O	0	1	O	O	;	x	x	0
+O	0	2	O	O	spelling	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	ladies	x	x	0
+O	0	5	O	O	last	x	x	0
+O	0	6	O	O	name	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	off	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	:	x	x	0
+O	0	3	O	O	Sorokos	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	only	x	x	0
+O	0	2	O	O	thing	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	being	x	x	0
+O	0	5	O	O	a	x	x	0
+B-ORG	0	6	O	O	UACC	x	x	0
+O	0	7	O	O	member	x	x	0
+O	0	8	O	O	means	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	that	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	paid	x	x	0
+O	0	13	O	O	membership	x	x	0
+O	0	14	O	O	dues	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	make	x	x	0
+B-PER	0	4	O	O	them	x	x	0
+B-PER	0	5	O	O	honest	x	x	0
+I-PER	0	6	O	O	sellers	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	UACC	x	x	0
+O	0	1	O	O	registered	x	x	0
+O	0	2	O	O	dealers	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	carefully	x	x	0
+O	0	6	O	O	checked	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	should	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	considered	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	honest	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	exceptions	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	everything	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	link	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	list	x	x	0
+O	0	7	O	O	of	x	x	0
+B-ORG	0	8	O	O	UACC	x	x	0
+O	0	9	O	O	registered	x	x	0
+O	0	10	O	O	dealers	x	x	0
+O	0	11	O	O	:	x	x	0
+

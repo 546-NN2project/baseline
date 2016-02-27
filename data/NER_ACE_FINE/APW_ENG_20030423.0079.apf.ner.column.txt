@@ -1,0 +1,255 @@
+B-GPE	0	0	O	O	SINGAPORE	x	x	0
+O	0	1	O	O	(	x	x	0
+B-ORG	0	2	O	O	AP	x	x	0
+O	0	3	O	O	)	x	x	0
+B-GPE	0	4	O	O	Singapore	x	x	0
+O	0	5	O	O	authorities	x	x	0
+O	0	6	O	O	extended	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	use	x	x	0
+O	0	9	O	O	of	x	x	0
+B-GPE	0	10	O	O	its	x	x	0
+O	0	11	O	O	state-of-the-art	x	x	0
+O	0	12	O	O	thermal	x	x	0
+O	0	13	O	O	imaging	x	x	0
+O	0	14	O	O	scanner	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	fight	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	deadly	x	x	0
+O	0	19	O	O	SARS	x	x	0
+O	0	20	O	O	virus	x	x	0
+O	0	21	O	O	by	x	x	0
+O	0	22	O	O	placing	x	x	0
+O	0	23	O	O	units	x	x	0
+O	0	24	O	O	at	x	x	0
+B-GPE	0	25	O	O	its	x	x	0
+O	0	26	O	O	border	x	x	0
+O	0	27	O	O	with	x	x	0
+B-GPE	0	28	O	O	Malaysia	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Immigration	x	x	0
+I-ORG	0	2	O	O	and	x	x	0
+I-ORG	0	3	O	O	Checkpoints	x	x	0
+I-ORG	0	4	O	O	Authority	x	x	0
+O	0	5	O	O	said	x	x	0
+B-ORG	0	6	O	O	it	x	x	0
+O	0	7	O	O	began	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	trial	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	scanners	x	x	0
+B-TIME	0	13	O	O	Wednesday	x	x	0
+O	0	14	O	O	at	x	x	0
+B-ORG	0	15	O	O	its	x	x	0
+B-LOC	0	16	O	O	Woodlands	x	x	0
+O	0	17	O	O	and	x	x	0
+B-LOC	0	18	O	O	Tuas	x	x	0
+O	0	19	O	O	checkpoints	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	screen	x	x	0
+O	0	22	O	O	for	x	x	0
+B-PER	0	23	O	O	people	x	x	0
+I-PER	0	24	O	O	suffering	x	x	0
+I-PER	0	25	O	O	from	x	x	0
+I-PER	0	26	O	O	severe	x	x	0
+I-PER	0	27	O	O	acute	x	x	0
+I-PER	0	28	O	O	respiratory	x	x	0
+I-PER	0	29	O	O	syndrome	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Nine	x	x	0
+O	0	1	O	O	scanners	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	developed	x	x	0
+O	0	4	O	O	locally	x	x	0
+O	0	5	O	O	for	x	x	0
+B-ORG	0	6	O	O	military	x	x	0
+O	0	7	O	O	purposes	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	were	x	x	0
+O	0	10	O	O	placed	x	x	0
+O	0	11	O	O	at	x	x	0
+B-GPE	0	12	O	O	Singapore	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	Changi	x	x	0
+O	0	15	O	O	Airport	x	x	0
+B-TIME	0	16	O	O	last	x	x	0
+I-TIME	0	17	O	O	week	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	check	x	x	0
+O	0	20	O	O	people	x	x	0
+O	0	21	O	O	arriving	x	x	0
+O	0	22	O	O	from	x	x	0
+B-GPE	0	23	O	O	SARS-affected	x	x	0
+I-GPE	0	24	O	O	countries	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Those	x	x	0
+B-PER	0	1	O	O	who	x	x	0
+O	0	2	O	O	show	x	x	0
+O	0	3	O	O	up	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	camera	x	x	0
+O	0	7	O	O	screen	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	``	x	x	0
+O	0	10	O	O	hot	x	x	0
+O	0	11	O	O	bodies	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	''	x	x	0
+O	0	14	O	O	or	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	temperature	x	x	0
+O	0	18	O	O	greater	x	x	0
+O	0	19	O	O	than	x	x	0
+O	0	20	O	O	37.5	x	x	0
+O	0	21	O	O	degrees	x	x	0
+O	0	22	O	O	Celsius	x	x	0
+O	0	23	O	O	(	x	x	0
+O	0	24	O	O	99.5	x	x	0
+O	0	25	O	O	degrees	x	x	0
+O	0	26	O	O	Fahrenheit	x	x	0
+O	0	27	O	O	)	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	will	x	x	0
+O	0	30	O	O	be	x	x	0
+O	0	31	O	O	pulled	x	x	0
+O	0	32	O	O	aside	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Each	x	x	0
+I-TIME	0	1	O	O	day	x	x	0
+B-PER	0	2	O	O	about	x	x	0
+I-PER	0	3	O	O	90,000	x	x	0
+I-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	cross	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	border	x	x	0
+O	0	8	O	O	between	x	x	0
+B-GPE	0	9	O	O	Malaysia	x	x	0
+O	0	10	O	O	and	x	x	0
+B-GPE	0	11	O	O	Singapore	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Any	x	x	0
+O	0	1	O	O	person	x	x	0
+O	0	2	O	O	found	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	entering	x	x	0
+B-GPE	0	6	O	O	Singapore	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	high	x	x	0
+O	0	10	O	O	temperature	x	x	0
+O	0	11	O	O	would	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	directed	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	nearby	x	x	0
+B-PER	0	17	O	O	nurse	x	x	0
+O	0	18	O	O	station	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	further	x	x	0
+O	0	21	O	O	checks	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Singapore	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	reported	x	x	0
+O	0	3	O	O	16	x	x	0
+O	0	4	O	O	deaths	x	x	0
+O	0	5	O	O	,	x	x	0
+B-LOC	0	6	O	O	the	x	x	0
+I-LOC	0	7	O	O	world	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	third-highest	x	x	0
+O	0	10	O	O	toll	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	186	x	x	0
+I-PER	0	15	O	O	infected	x	x	0
+I-PER	0	16	O	O	from	x	x	0
+I-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	flu-like	x	x	0
+I-PER	0	19	O	O	illness	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Globally	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	at	x	x	0
+I-PER	0	3	O	O	least	x	x	0
+I-PER	0	4	O	O	236	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	died	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	more	x	x	0
+I-PER	0	10	O	O	than	x	x	0
+I-PER	0	11	O	O	4,000	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	become	x	x	0
+O	0	14	O	O	sickened	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	illness	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Immigration	x	x	0
+I-ORG	0	1	O	O	and	x	x	0
+I-ORG	0	2	O	O	Checkpoints	x	x	0
+I-ORG	0	3	O	O	Authority	x	x	0
+O	0	4	O	O	spokeswoman	x	x	0
+O	0	5	O	O	Ngoon	x	x	0
+O	0	6	O	O	Pei	x	x	0
+O	0	7	O	O	Ling	x	x	0
+O	0	8	O	O	said	x	x	0
+O	0	9	O	O	during	x	x	0
+B-TIME	0	10	O	O	the	x	x	0
+I-TIME	0	11	O	O	trial	x	x	0
+I-TIME	0	12	O	O	period	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	scanners	x	x	0
+O	0	15	O	O	would	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	placed	x	x	0
+O	0	18	O	O	at	x	x	0
+B-VEH	0	19	O	O	bus	x	x	0
+O	0	20	O	O	checkpoints	x	x	0
+O	0	21	O	O	,	x	x	0
+B-FAC	0	22	O	O	where	x	x	0
+B-PER	0	23	O	O	passengers	x	x	0
+O	0	24	O	O	are	x	x	0
+O	0	25	O	O	already	x	x	0
+O	0	26	O	O	required	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	disembark	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	immigration	x	x	0
+O	0	31	O	O	purposes	x	x	0
+O	0	32	O	O	.	x	x	0
+

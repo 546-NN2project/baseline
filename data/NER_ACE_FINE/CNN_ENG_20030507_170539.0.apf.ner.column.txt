@@ -1,0 +1,647 @@
+O	0	0	O	O	arthritis.	x	x	0
+O	0	1	O	O	*	x	x	0
+O	0	2	O	O	*	x	x	0
+B-GPE	0	3	O	O	We	x	x	0
+O	0	4	O	O	liberated	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	people	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	brutal	x	x	0
+O	0	12	O	O	dictatorship	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	brought	x	x	0
+O	0	6	O	O	greater	x	x	0
+O	0	7	O	O	security	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	people	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	all	x	x	0
+I-GPE	0	12	O	O	nations	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	thank	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	president	x	x	0
+O	0	6	O	O	for	x	x	0
+B-GPE	0	7	O	O	Spain	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	diplomatic	x	x	0
+O	0	10	O	O	support	x	x	0
+O	0	11	O	O	before	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	conflict	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	use	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	Spanish	x	x	0
+O	0	10	O	O	air	x	x	0
+O	0	11	O	O	space	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	bases	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	war	x	x	0
+O	0	17	O	O	grew	x	x	0
+O	0	18	O	O	closer	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	also	x	x	0
+O	0	6	O	O	offer	x	x	0
+B-PER	0	7	O	O	my	x	x	0
+O	0	8	O	O	condolences	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	family	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	friends	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	two	x	x	0
+O	0	17	O	O	members	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	Spanish	x	x	0
+O	0	21	O	O	media	x	x	0
+B-PER	0	22	O	O	who	x	x	0
+O	0	23	O	O	lost	x	x	0
+B-PER	0	24	O	O	their	x	x	0
+O	0	25	O	O	lives	x	x	0
+O	0	26	O	O	while	x	x	0
+O	0	27	O	O	covering	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	hostilities	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	both	x	x	0
+O	0	5	O	O	Spain	x	x	0
+O	0	6	O	O	and	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	United	x	x	0
+I-GPE	0	9	O	O	States	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	committed	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	stable	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	democratic	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	peaceful	x	x	0
+B-TIME	0	19	O	O	future	x	x	0
+O	0	20	O	O	for	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	people	x	x	0
+O	0	23	O	O	of	x	x	0
+B-GPE	0	24	O	O	Iraq	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	Spain	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	shown	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	commitment	x	x	0
+O	0	9	O	O	by	x	x	0
+O	0	10	O	O	sending	x	x	0
+B-ORG	0	11	O	O	engineering	x	x	0
+I-ORG	0	12	O	O	and	x	x	0
+I-ORG	0	13	O	O	medical	x	x	0
+I-ORG	0	14	O	O	units	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	help	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	people	x	x	0
+O	0	19	O	O	of	x	x	0
+B-GPE	0	20	O	O	Iraq	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	thank	x	x	0
+B-GPE	0	7	O	O	you	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	help	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-TIME	0	4	O	O	today	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	moved	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	ease	x	x	0
+O	0	11	O	O	sanctions	x	x	0
+O	0	12	O	O	imposed	x	x	0
+O	0	13	O	O	by	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	United	x	x	0
+I-GPE	0	16	O	O	States	x	x	0
+O	0	17	O	O	against	x	x	0
+B-GPE	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	old	x	x	0
+O	0	21	O	O	government	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	first	x	x	0
+O	0	5	O	O	based	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	Authority	x	x	0
+B-TIME	0	9	O	O	recently	x	x	0
+O	0	10	O	O	given	x	x	0
+O	0	11	O	O	to	x	x	0
+B-PER	0	12	O	O	me	x	x	0
+O	0	13	O	O	by	x	x	0
+B-ORG	0	14	O	O	Congress	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	'm	x	x	0
+O	0	17	O	O	suspending	x	x	0
+O	0	18	O	O	the	x	x	0
+B-GPE	0	19	O	O	Iraq	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	sanctions	x	x	0
+O	0	22	O	O	act	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	which	x	x	0
+O	0	25	O	O	restricts	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	export	x	x	0
+O	0	28	O	O	of	x	x	0
+O	0	29	O	O	certain	x	x	0
+O	0	30	O	O	commitment	x	x	0
+O	0	31	O	O	necessary	x	x	0
+O	0	32	O	O	for	x	x	0
+B-GPE	0	33	O	O	Iraq	x	x	0
+O	0	34	O	O	's	x	x	0
+O	0	35	O	O	reconstruction	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	secondly	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	'm	x	x	0
+O	0	7	O	O	directing	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	secretary	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	relax	x	x	0
+O	0	12	O	O	sanctions	x	x	0
+O	0	13	O	O	on	x	x	0
+B-GPE	0	14	O	O	American	x	x	0
+O	0	15	O	O	countries	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	citizens	x	x	0
+O	0	18	O	O	conducting	x	x	0
+O	0	19	O	O	business	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	Iraq	x	x	0
+B-PER	0	22	O	O	that	x	x	0
+O	0	23	O	O	contributed	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	humanitarian	x	x	0
+O	0	26	O	O	reconstruction	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	soon	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	at	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	U.N.	x	x	0
+I-ORG	0	9	O	O	Security	x	x	0
+I-ORG	0	10	O	O	Council	x	x	0
+O	0	11	O	O	,	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	United	x	x	0
+I-GPE	0	14	O	O	States	x	x	0
+O	0	15	O	O	,	x	x	0
+B-GPE	0	16	O	O	Great	x	x	0
+I-GPE	0	17	O	O	Britain	x	x	0
+O	0	18	O	O	and	x	x	0
+B-GPE	0	19	O	O	Spain	x	x	0
+O	0	20	O	O	will	x	x	0
+O	0	21	O	O	introduce	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	new	x	x	0
+O	0	24	O	O	resolution	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	lift	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	sanctions	x	x	0
+O	0	29	O	O	imposed	x	x	0
+O	0	30	O	O	by	x	x	0
+B-ORG	0	31	O	O	the	x	x	0
+I-ORG	0	32	O	O	United	x	x	0
+I-ORG	0	33	O	O	Nations	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	regime	x	x	0
+B-GPE	0	6	O	O	that	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	sanctions	x	x	0
+O	0	9	O	O	were	x	x	0
+O	0	10	O	O	directed	x	x	0
+O	0	11	O	O	against	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	longer	x	x	0
+O	0	14	O	O	rules	x	x	0
+B-GPE	0	15	O	O	Iraq	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	and	x	x	0
+B-GPE	0	5	O	O	no	x	x	0
+I-GPE	0	6	O	O	country	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	good	x	x	0
+O	0	9	O	O	conscience	x	x	0
+O	0	10	O	O	can	x	x	0
+O	0	11	O	O	support	x	x	0
+O	0	12	O	O	using	x	x	0
+O	0	13	O	O	sanctions	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	hold	x	x	0
+O	0	16	O	O	back	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	hopes	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	the	x	x	0
+B-GPE	0	21	O	O	Iraqi	x	x	0
+O	0	22	O	O	people	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	trance	x	x	0
+I-PER	0	2	O	O	lay	x	x	0
+I-PER	0	3	O	O	or	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	speaking	x	x	0
+O	0	6	O	O	]	x	x	0
+O	0	7	O	O	across	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	globe	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	Spain	x	x	0
+O	0	12	O	O	and	x	x	0
+B-GPE	0	13	O	O	America	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	continue	x	x	0
+O	0	16	O	O	as	x	x	0
+B-GPE	0	17	O	O	strong	x	x	0
+I-GPE	0	18	O	O	allys	x	x	0
+I-GPE	0	19	O	O	in	x	x	0
+I-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	war	x	x	0
+I-GPE	0	22	O	O	against	x	x	0
+I-GPE	0	23	O	O	terror	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-TIME	0	4	O	O	today	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	United	x	x	0
+I-GPE	0	8	O	O	States	x	x	0
+O	0	9	O	O	took	x	x	0
+O	0	10	O	O	steps	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	cut	x	x	0
+O	0	13	O	O	off	x	x	0
+O	0	14	O	O	financing	x	x	0
+O	0	15	O	O	for	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	organization	x	x	0
+O	0	18	O	O	because	x	x	0
+O	0	19	O	O	of	x	x	0
+B-ORG	0	20	O	O	its	x	x	0
+O	0	21	O	O	ties	x	x	0
+O	0	22	O	O	to	x	x	0
+B-ORG	0	23	O	O	the	x	x	0
+I-ORG	0	24	O	O	ETA	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	We	x	x	0
+O	0	5	O	O	believe	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	people	x	x	0
+O	0	9	O	O	of	x	x	0
+B-GPE	0	10	O	O	Spain	x	x	0
+O	0	11	O	O	like	x	x	0
+B-GPE	0	12	O	O	everywhere	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	right	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	live	x	x	0
+O	0	18	O	O	free	x	x	0
+O	0	19	O	O	from	x	x	0
+O	0	20	O	O	terror	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	'll	x	x	0
+O	0	6	O	O	also	x	x	0
+O	0	7	O	O	work	x	x	0
+O	0	8	O	O	for	x	x	0
+B-LOC	0	9	O	O	a	x	x	0
+I-LOC	0	10	O	O	better	x	x	0
+I-LOC	0	11	O	O	world	x	x	0
+O	0	12	O	O	beyond	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	war	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	terror	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	committed	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	expanding	x	x	0
+O	0	9	O	O	trade	x	x	0
+O	0	10	O	O	which	x	x	0
+O	0	11	O	O	builds	x	x	0
+O	0	12	O	O	prosperity	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	both	x	x	0
+O	0	15	O	O	sides	x	x	0
+O	0	16	O	O	of	x	x	0
+B-LOC	0	17	O	O	the	x	x	0
+I-LOC	0	18	O	O	Atlantic	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	'll	x	x	0
+O	0	6	O	O	work	x	x	0
+B-PER	0	7	O	O	together	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	address	x	x	0
+O	0	10	O	O	global	x	x	0
+O	0	11	O	O	poverty	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	terrible	x	x	0
+O	0	15	O	O	diseases	x	x	0
+O	0	16	O	O	such	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	HIV	x	x	0
+O	0	19	O	O	AIDS	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	Spain	x	x	0
+O	0	5	O	O	and	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	United	x	x	0
+I-GPE	0	8	O	O	States	x	x	0
+O	0	9	O	O	will	x	x	0
+O	0	10	O	O	stand	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	side	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	people	x	x	0
+B-GPE	0	16	O	O	everywhere	x	x	0
+O	0	17	O	O	striving	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	greater	x	x	0
+O	0	20	O	O	freedom	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	tolerance	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	opportunity	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	determined	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	help	x	x	0
+O	0	9	O	O	build	x	x	0
+O	0	10	O	O	peace	x	x	0
+O	0	11	O	O	between	x	x	0
+B-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	Israelis	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	Palestinians	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-TIME	0	4	O	O	last	x	x	0
+I-TIME	0	5	O	O	week	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	confirmation	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	Mazen	x	x	0
+O	0	10	O	O	permitted	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	road	x	x	0
+O	0	13	O	O	map	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	peace	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	developed	x	x	0
+O	0	18	O	O	with	x	x	0
+B-GPE	0	19	O	O	Russia	x	x	0
+O	0	20	O	O	,	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	European	x	x	0
+I-GPE	0	23	O	O	Union	x	x	0
+O	0	24	O	O	and	x	x	0
+B-GPE	0	25	O	O	the	x	x	0
+I-GPE	0	26	O	O	United	x	x	0
+I-GPE	0	27	O	O	States	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-GPE	0	4	O	O	Spain	x	x	0
+O	0	5	O	O	and	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	United	x	x	0
+I-GPE	0	8	O	O	States	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	determined	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	take	x	x	0
+O	0	13	O	O	advantage	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	this	x	x	0
+O	0	16	O	O	moment	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	opportunity	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	peace	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	'm	x	x	0
+O	0	6	O	O	grateful	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	Wise	x	x	0
+O	0	10	O	O	Council	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	Friendship	x	x	0
+O	0	13	O	O	of	x	x	0
+B-PER	0	14	O	O	Jose	x	x	0
+I-PER	0	15	O	O	Maria	x	x	0
+I-PER	0	16	O	O	Aznar	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+B-PER	0	1	O	O	translator	x	x	0
+O	0	2	O	O	speaking	x	x	0
+O	0	3	O	O	]	x	x	0
+O	0	4	O	O	[	x	x	0
+O	0	5	O	O	speaking	x	x	0
+O	0	6	O	O	Spanish	x	x	0
+O	0	7	O	O	]	x	x	0
+

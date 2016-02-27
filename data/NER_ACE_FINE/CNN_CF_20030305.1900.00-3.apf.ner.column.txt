@@ -1,0 +1,511 @@
+B-TIME	0	0	O	O	Former	x	x	0
+B-GPE	0	1	O	O	Illinois	x	x	0
+B-Job-Title	0	2	O	O	Senator	x	x	0
+O	0	3	O	O	Carol	x	x	0
+O	0	4	O	O	Moseley-Braun	x	x	0
+B-TIME	0	5	O	O	recently	x	x	0
+O	0	6	O	O	decided	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	run	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	president	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Early	x	x	0
+O	0	1	O	O	reviews	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	good	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	so	x	x	0
+B-TIME	0	8	O	O	yesterday	x	x	0
+B-PER	0	9	O	O	she	x	x	0
+O	0	10	O	O	announced	x	x	0
+B-PER	0	11	O	O	she	x	x	0
+O	0	12	O	O	'll	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	making	x	x	0
+O	0	15	O	O	some	x	x	0
+O	0	16	O	O	changes	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	her	x	x	0
+O	0	3	O	O	ideas	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	which	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	few	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	her	x	x	0
+O	0	3	O	O	record	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	which	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	pretty	x	x	0
+O	0	8	O	O	embarrassing	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	even	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	staff	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	which	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	course	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	tiny	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	her	x	x	0
+O	0	3	O	O	name	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	From	x	x	0
+O	0	1	O	O	here	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Carol	x	x	0
+I-PER	0	6	O	O	Moseley-Braun	x	x	0
+O	0	7	O	O	as	x	x	0
+B-PER	0	8	O	O	Carol	x	x	0
+I-PER	0	9	O	O	Moseley	x	x	0
+I-PER	0	10	O	O	Braun	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Did	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	catch	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	difference	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	second	x	x	0
+O	0	3	O	O	version	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	no	x	x	0
+O	0	8	O	O	hyphen	x	x	0
+O	0	9	O	O	between	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	last	x	x	0
+O	0	12	O	O	names	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Moseley	x	x	0
+I-PER	0	1	O	O	Braun	x	x	0
+O	0	2	O	O	expects	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	primary	x	x	0
+O	0	5	O	O	voters	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Iowa	x	x	0
+O	0	8	O	O	and	x	x	0
+B-GPE	0	9	O	O	New	x	x	0
+I-GPE	0	10	O	O	Hampshire	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	react	x	x	0
+O	0	13	O	O	enthusiastically	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	this	x	x	0
+O	0	16	O	O	radical	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	grammatical	x	x	0
+O	0	19	O	O	transformation	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	because	x	x	0
+O	0	6	O	O	the	x	x	0
+B-TIME	0	7	O	O	latest	x	x	0
+B-ORG	0	8	O	O	CNN	x	x	0
+O	0	9	O	O	poll	x	x	0
+O	0	10	O	O	shows	x	x	0
+B-PER	0	11	O	O	Moseley	x	x	0
+I-PER	0	12	O	O	Braun	x	x	0
+O	0	13	O	O	far	x	x	0
+O	0	14	O	O	behind	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	candidate	x	x	0
+B-PER	0	17	O	O	she	x	x	0
+O	0	18	O	O	set	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	discredit	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	That	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	course	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	honorable	x	x	0
+I-PER	0	9	O	O	Al	x	x	0
+I-PER	0	10	O	O	Sharpton	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sharpton	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	only	x	x	0
+O	0	4	O	O	by	x	x	0
+O	0	5	O	O	far	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	first	x	x	0
+O	0	8	O	O	choice	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	black	x	x	0
+I-PER	0	11	O	O	voters	x	x	0
+O	0	12	O	O	nationally	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	tied	x	x	0
+O	0	17	O	O	with	x	x	0
+B-PER	0	18	O	O	Senator	x	x	0
+O	0	19	O	O	John	x	x	0
+O	0	20	O	O	Edwards	x	x	0
+O	0	21	O	O	among	x	x	0
+B-PER	0	22	O	O	all	x	x	0
+I-PER	0	23	O	O	voters	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	beating	x	x	0
+B-PER	0	26	O	O	Governor	x	x	0
+O	0	27	O	O	Howard	x	x	0
+O	0	28	O	O	Dean	x	x	0
+O	0	29	O	O	,	x	x	0
+B-PER	0	30	O	O	Representative	x	x	0
+O	0	31	O	O	Dennis	x	x	0
+O	0	32	O	O	Kucinich	x	x	0
+O	0	33	O	O	and	x	x	0
+B-PER	0	34	O	O	Senator	x	x	0
+O	0	35	O	O	Bob	x	x	0
+O	0	36	O	O	Graham	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Beating	x	x	0
+B-PER	0	1	O	O	them	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	Al	x	x	0
+I-PER	0	2	O	O	Sharpton	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	even	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	change	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	name	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	did	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	become	x	x	0
+O	0	4	O	O	honorable	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	!	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	become	x	x	0
+O	0	2	O	O	honorable	x	x	0
+O	0	3	O	O	by	x	x	0
+O	0	4	O	O	winning	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	election	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	some	x	x	0
+O	0	9	O	O	sort	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	having	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	high	x	x	0
+O	0	14	O	O	post	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	being	x	x	0
+B-PER	0	17	O	O	an	x	x	0
+I-PER	0	18	O	O	ambassador	x	x	0
+O	0	19	O	O	or	x	x	0
+B-PER	0	20	O	O	a	x	x	0
+I-PER	0	21	O	O	governor	x	x	0
+O	0	22	O	O	or	x	x	0
+O	0	23	O	O	some	x	x	0
+O	0	24	O	O	thing	x	x	0
+O	0	25	O	O	.	x	x	0
+
+O	0	0	O	O	By	x	x	0
+O	0	1	O	O	embodying	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	values	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	your	x	x	0
+O	0	6	O	O	party	x	x	0
+O	0	7	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Your	x	x	0
+O	0	1	O	O	values	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	not	x	x	0
+B-PER	0	4	O	O	mine	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	No.	x	x	0
+I-PER	0	4	O	O	1	x	x	0
+I-PER	0	5	O	O	pick	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	most	x	x	0
+O	0	9	O	O	popular	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	among	x	x	0
+B-PER	0	12	O	O	all	x	x	0
+I-PER	0	13	O	O	candidates	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	among	x	x	0
+B-PER	0	16	O	O	black	x	x	0
+I-PER	0	17	O	O	primary	x	x	0
+I-PER	0	18	O	O	voters	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	ca	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	dismiss	x	x	0
+B-PER	0	7	O	O	him	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	serious	x	x	0
+I-PER	0	4	O	O	candidate	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	even	x	x	0
+O	0	4	O	O	begun	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	primaries	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	serious	x	x	0
+I-PER	0	5	O	O	candidate	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	right	x	x	0
+I-PER	0	3	O	O	wing	x	x	0
+I-PER	0	4	O	O	fantasy	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	never	x	x	0
+O	0	9	O	O	going	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	happen	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	right	x	x	0
+O	0	2	O	O	wing	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Take	x	x	0
+B-PER	0	1	O	O	Al	x	x	0
+I-PER	0	2	O	O	Sharpton	x	x	0
+O	0	3	O	O	seriously	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	's	x	x	0
+B-PER	0	7	O	O	our	x	x	0
+O	0	8	O	O	message	x	x	0
+B-TIME	0	9	O	O	tonight	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	moment	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	'll	x	x	0
+O	0	6	O	O	ask	x	x	0
+O	0	7	O	O	two	x	x	0
+O	0	8	O	O	members	x	x	0
+O	0	9	O	O	of	x	x	0
+B-ORG	0	10	O	O	Congress	x	x	0
+O	0	11	O	O	if	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	're	x	x	0
+O	0	14	O	O	convinced	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	war	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	only	x	x	0
+O	0	20	O	O	way	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	make	x	x	0
+B-PER	0	23	O	O	Saddam	x	x	0
+I-PER	0	24	O	O	Hussein	x	x	0
+O	0	25	O	O	disarm	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Later	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	pope	x	x	0
+O	0	4	O	O	practices	x	x	0
+O	0	5	O	O	religion	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	little	x	x	0
+O	0	9	O	O	anti-war	x	x	0
+O	0	10	O	O	politics	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	side	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	can	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	spell	x	x	0
+O	0	5	O	O	prosthetic	x	x	0
+O	0	6	O	O	nose	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Maureen	x	x	0
+I-PER	0	1	O	O	Orth	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	she	x	x	0
+O	0	6	O	O	does	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	new	x	x	0
+O	0	10	O	O	"	x	x	0
+B-ORG	0	11	O	O	Vanity	x	x	0
+I-ORG	0	12	O	O	Fair	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	profile	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	Michael	x	x	0
+I-PER	0	17	O	O	Jackson	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	talk	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	her	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	wo	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	miss	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	back	x	x	0
+O	0	5	O	O	.	x	x	0
+

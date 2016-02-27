@@ -1,0 +1,126 @@
+B-PER	0	0	O	O	Sharon	x	x	0
+I-PER	0	1	O	O	Osbourne	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	enjoy	x	x	0
+B-PER	0	5	O	O	her	x	x	0
+O	0	6	O	O	meal	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	a	x	x	0
+B-GPE	0	9	O	O	Los	x	x	0
+I-GPE	0	10	O	O	Angeles	x	x	0
+O	0	11	O	O	restaurant	x	x	0
+B-TIME	0	12	O	O	last	x	x	0
+I-TIME	0	13	O	O	night	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ozzy	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	wife	x	x	0
+O	0	3	O	O	reportedly	x	x	0
+O	0	4	O	O	got	x	x	0
+O	0	5	O	O	into	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	fight	x	x	0
+O	0	8	O	O	with	x	x	0
+B-ORG	0	9	O	O	Hollywood	x	x	0
+O	0	10	O	O	agent	x	x	0
+O	0	11	O	O	Renee	x	x	0
+O	0	12	O	O	Tab	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sharon	x	x	0
+O	0	1	O	O	spit	x	x	0
+O	0	2	O	O	on	x	x	0
+B-PER	0	3	O	O	Tab	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	called	x	x	0
+B-PER	0	6	O	O	her	x	x	0
+O	0	7	O	O	names	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Osbourne	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	spokeswomen	x	x	0
+O	0	3	O	O	says	x	x	0
+B-PER	0	4	O	O	Sharon	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	quote	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	viciously	x	x	0
+O	0	10	O	O	assaulted	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	treated	x	x	0
+O	0	13	O	O	at	x	x	0
+B-FAC	0	14	O	O	a	x	x	0
+I-FAC	0	15	O	O	hospital	x	x	0
+O	0	16	O	O	.	x	x	0
+O	0	17	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Disagreement	x	x	0
+O	0	1	O	O	between	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	women	x	x	0
+O	0	4	O	O	began	x	x	0
+B-TIME	0	5	O	O	months	x	x	0
+I-TIME	0	6	O	O	ago	x	x	0
+O	0	7	O	O	when	x	x	0
+B-PER	0	8	O	O	Osbourne	x	x	0
+O	0	9	O	O	said	x	x	0
+B-PER	0	10	O	O	Tab	x	x	0
+O	0	11	O	O	atended	x	x	0
+B-PER	0	12	O	O	her	x	x	0
+O	0	13	O	O	family	x	x	0
+O	0	14	O	O	's	x	x	0
+B-TIME	0	15	O	O	New	x	x	0
+I-TIME	0	16	O	O	Year	x	x	0
+I-TIME	0	17	O	O	's	x	x	0
+I-TIME	0	18	O	O	Eve	x	x	0
+O	0	19	O	O	party	x	x	0
+O	0	20	O	O	uninvited	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	then	x	x	0
+O	0	23	O	O	won	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	door	x	x	0
+O	0	26	O	O	prize	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	a	x	x	0
+B-Numeric	0	29	O	O	$15,000	x	x	0
+O	0	30	O	O	necklace	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	spokesman	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	if	x	x	0
+O	0	5	O	O	any	x	x	0
+O	0	6	O	O	charges	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	filed	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	they	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	low	x	x	0
+O	0	16	O	O	end	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	misdemeanor	x	x	0
+O	0	20	O	O	scale	x	x	0
+O	0	21	O	O	.	x	x	0
+

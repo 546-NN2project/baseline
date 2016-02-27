@@ -1,0 +1,378 @@
+B-GPE	0	0	O	O	NEW	x	x	0
+I-GPE	0	1	O	O	YORK	x	x	0
+O	0	2	O	O	,	x	x	0
+B-TIME	0	3	O	O	March	x	x	0
+I-TIME	0	4	O	O	11	x	x	0
+O	0	5	O	O	(	x	x	0
+B-ORG	0	6	O	O	AFP	x	x	0
+O	0	7	O	O	)	x	x	0
+B-LOC	0	8	O	O	The	x	x	0
+I-LOC	0	9	O	O	world	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	most	x	x	0
+O	0	12	O	O	powerful	x	x	0
+O	0	13	O	O	fine	x	x	0
+O	0	14	O	O	art	x	x	0
+O	0	15	O	O	auction	x	x	0
+O	0	16	O	O	houses	x	x	0
+O	0	17	O	O	,	x	x	0
+B-ORG	0	18	O	O	Sotheby	x	x	0
+I-ORG	0	19	O	O	's	x	x	0
+O	0	20	O	O	and	x	x	0
+B-ORG	0	21	O	O	Christie	x	x	0
+I-ORG	0	22	O	O	's	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	have	x	x	0
+O	0	25	O	O	agreed	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	pay	x	x	0
+B-Numeric	0	28	O	O	40	x	x	0
+I-Numeric	0	29	O	O	million	x	x	0
+I-Numeric	0	30	O	O	dollars	x	x	0
+O	0	31	O	O	to	x	x	0
+O	0	32	O	O	settle	x	x	0
+O	0	33	O	O	an	x	x	0
+O	0	34	O	O	international	x	x	0
+O	0	35	O	O	price-fixing	x	x	0
+O	0	36	O	O	scam	x	x	0
+O	0	37	O	O	,	x	x	0
+B-ORG	0	38	O	O	Sotheby	x	x	0
+I-ORG	0	39	O	O	's	x	x	0
+O	0	40	O	O	said	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	payment	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	if	x	x	0
+O	0	4	O	O	approved	x	x	0
+O	0	5	O	O	by	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	courts	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	settle	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	slew	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	suits	x	x	0
+O	0	15	O	O	by	x	x	0
+B-PER	0	16	O	O	clients	x	x	0
+O	0	17	O	O	over	x	x	0
+O	0	18	O	O	auctions	x	x	0
+O	0	19	O	O	held	x	x	0
+O	0	20	O	O	between	x	x	0
+B-TIME	0	21	O	O	1993	x	x	0
+O	0	22	O	O	and	x	x	0
+B-TIME	0	23	O	O	2000	x	x	0
+O	0	24	O	O	outside	x	x	0
+B-GPE	0	25	O	O	the	x	x	0
+I-GPE	0	26	O	O	United	x	x	0
+I-GPE	0	27	O	O	States	x	x	0
+O	0	28	O	O	,	x	x	0
+B-ORG	0	29	O	O	it	x	x	0
+O	0	30	O	O	said	x	x	0
+O	0	31	O	O	in	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	statement	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Under	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	terms	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	settlement	x	x	0
+O	0	7	O	O	agreement	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	Sotheby	x	x	0
+I-ORG	0	10	O	O	's	x	x	0
+O	0	11	O	O	and	x	x	0
+B-ORG	0	12	O	O	Christie	x	x	0
+I-ORG	0	13	O	O	's	x	x	0
+O	0	14	O	O	will	x	x	0
+B-ORG	0	15	O	O	each	x	x	0
+O	0	16	O	O	pay	x	x	0
+B-Numeric	0	17	O	O	20	x	x	0
+I-Numeric	0	18	O	O	million	x	x	0
+I-Numeric	0	19	O	O	dollars	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	"	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	Sotheby	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	,	x	x	0
+B-ORG	0	26	O	O	which	x	x	0
+O	0	27	O	O	operates	x	x	0
+O	0	28	O	O	in	x	x	0
+B-GPE	0	29	O	O	34	x	x	0
+I-GPE	0	30	O	O	countries	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	deal	x	x	0
+O	0	2	O	O	required	x	x	0
+O	0	3	O	O	threatened	x	x	0
+B-GPE	0	4	O	O	British	x	x	0
+O	0	5	O	O	and	x	x	0
+B-GPE	0	6	O	O	Canadian	x	x	0
+O	0	7	O	O	claims	x	x	0
+O	0	8	O	O	against	x	x	0
+B-ORG	0	9	O	O	both	x	x	0
+I-ORG	0	10	O	O	auction	x	x	0
+I-ORG	0	11	O	O	houses	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	dropped	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Buyers	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	sellers	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	agree	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	pursue	x	x	0
+O	0	11	O	O	further	x	x	0
+O	0	12	O	O	cases	x	x	0
+O	0	13	O	O	in	x	x	0
+B-ORG	0	14	O	O	foreign	x	x	0
+I-ORG	0	15	O	O	courts	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	litigation	x	x	0
+O	0	2	O	O	covers	x	x	0
+O	0	3	O	O	buyers	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	auctions	x	x	0
+O	0	6	O	O	outside	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	United	x	x	0
+I-GPE	0	9	O	O	States	x	x	0
+O	0	10	O	O	between	x	x	0
+B-TIME	0	11	O	O	January	x	x	0
+I-TIME	0	12	O	O	1	x	x	0
+I-TIME	0	13	O	O	,	x	x	0
+I-TIME	0	14	O	O	1993	x	x	0
+O	0	15	O	O	and	x	x	0
+B-TIME	0	16	O	O	February	x	x	0
+I-TIME	0	17	O	O	7	x	x	0
+I-TIME	0	18	O	O	,	x	x	0
+I-TIME	0	19	O	O	2000	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	sellers	x	x	0
+O	0	23	O	O	between	x	x	0
+B-TIME	0	24	O	O	September	x	x	0
+I-TIME	0	25	O	O	1	x	x	0
+I-TIME	0	26	O	O	,	x	x	0
+I-TIME	0	27	O	O	1995	x	x	0
+O	0	28	O	O	and	x	x	0
+B-TIME	0	29	O	O	February	x	x	0
+I-TIME	0	30	O	O	7	x	x	0
+I-TIME	0	31	O	O	,	x	x	0
+I-TIME	0	32	O	O	2000	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Similar	x	x	0
+O	0	1	O	O	claims	x	x	0
+O	0	2	O	O	over	x	x	0
+O	0	3	O	O	US-based	x	x	0
+O	0	4	O	O	auctions	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	settled	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	an	x	x	0
+O	0	9	O	O	agreement	x	x	0
+O	0	10	O	O	struck	x	x	0
+O	0	11	O	O	in	x	x	0
+B-TIME	0	12	O	O	September	x	x	0
+I-TIME	0	13	O	O	2000	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	total	x	x	0
+O	0	17	O	O	of	x	x	0
+B-Numeric	0	18	O	O	512	x	x	0
+I-Numeric	0	19	O	O	million	x	x	0
+I-Numeric	0	20	O	O	dollars	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	December	x	x	0
+I-TIME	0	2	O	O	2001	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	a	x	x	0
+B-GPE	0	5	O	O	Manhattan	x	x	0
+O	0	6	O	O	jury	x	x	0
+O	0	7	O	O	convicted	x	x	0
+B-ORG	0	8	O	O	Sotheby	x	x	0
+I-ORG	0	9	O	O	's	x	x	0
+O	0	10	O	O	main	x	x	0
+O	0	11	O	O	shareholder	x	x	0
+O	0	12	O	O	and	x	x	0
+B-TIME	0	13	O	O	former	x	x	0
+O	0	14	O	O	chairman	x	x	0
+O	0	15	O	O	Alfred	x	x	0
+O	0	16	O	O	Taubman	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	entering	x	x	0
+O	0	19	O	O	into	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	price-fixing	x	x	0
+O	0	22	O	O	agreement	x	x	0
+O	0	23	O	O	with	x	x	0
+B-ORG	0	24	O	O	Christie	x	x	0
+I-ORG	0	25	O	O	's	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Four	x	x	0
+I-TIME	0	1	O	O	months	x	x	0
+I-TIME	0	2	O	O	later	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	billionaire	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	sentenced	x	x	0
+O	0	8	O	O	to	x	x	0
+B-TIME	0	9	O	O	one	x	x	0
+I-TIME	0	10	O	O	year	x	x	0
+O	0	11	O	O	in	x	x	0
+B-FAC	0	12	O	O	prison	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	a	x	x	0
+B-Numeric	0	15	O	O	7.5-million-dollar	x	x	0
+O	0	16	O	O	fine	x	x	0
+O	0	17	O	O	over	x	x	0
+B-Crime	0	18	O	O	the	x	x	0
+I-Crime	0	19	O	O	price-fixing	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	which	x	x	0
+B-PER	0	22	O	O	prosecutors	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	had	x	x	0
+O	0	25	O	O	cost	x	x	0
+O	0	26	O	O	clients	x	x	0
+O	0	27	O	O	of	x	x	0
+B-ORG	0	28	O	O	both	x	x	0
+I-ORG	0	29	O	O	firms	x	x	0
+B-Numeric	0	30	O	O	400	x	x	0
+I-Numeric	0	31	O	O	million	x	x	0
+I-Numeric	0	32	O	O	dollars	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Christie	x	x	0
+I-ORG	0	1	O	O	's	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	prosecuted	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	United	x	x	0
+I-GPE	0	8	O	O	States	x	x	0
+O	0	9	O	O	after	x	x	0
+B-ORG	0	10	O	O	its	x	x	0
+O	0	11	O	O	management	x	x	0
+O	0	12	O	O	agreed	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	testify	x	x	0
+O	0	15	O	O	against	x	x	0
+B-ORG	0	16	O	O	Sotheby	x	x	0
+I-ORG	0	17	O	O	's	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	provide	x	x	0
+O	0	20	O	O	documents	x	x	0
+O	0	21	O	O	needed	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	prove	x	x	0
+O	0	24	O	O	fraudulent	x	x	0
+O	0	25	O	O	intent	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Together	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	Sotheby	x	x	0
+I-ORG	0	3	O	O	's	x	x	0
+O	0	4	O	O	and	x	x	0
+B-ORG	0	5	O	O	Christie	x	x	0
+I-ORG	0	6	O	O	's	x	x	0
+O	0	7	O	O	control	x	x	0
+B-Numeric	0	8	O	O	more	x	x	0
+I-Numeric	0	9	O	O	than	x	x	0
+I-Numeric	0	10	O	O	90	x	x	0
+I-Numeric	0	11	O	O	percent	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	fine	x	x	0
+O	0	15	O	O	art	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	antiques	x	x	0
+O	0	18	O	O	market	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Sotheby	x	x	0
+I-ORG	0	1	O	O	's	x	x	0
+O	0	2	O	O	said	x	x	0
+B-ORG	0	3	O	O	it	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	record	x	x	0
+O	0	6	O	O	the	x	x	0
+B-Numeric	0	7	O	O	20-million-dollar	x	x	0
+O	0	8	O	O	settlement	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	special	x	x	0
+O	0	12	O	O	charge	x	x	0
+O	0	13	O	O	for	x	x	0
+B-TIME	0	14	O	O	2002	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	funded	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	two	x	x	0
+O	0	6	O	O	payments	x	x	0
+O	0	7	O	O	of	x	x	0
+B-Numeric	0	8	O	O	10	x	x	0
+I-Numeric	0	9	O	O	million	x	x	0
+I-Numeric	0	10	O	O	dollars	x	x	0
+O	0	11	O	O	each	x	x	0
+O	0	12	O	O	upon	x	x	0
+O	0	13	O	O	preliminary	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	final	x	x	0
+B-ORG	0	16	O	O	court	x	x	0
+O	0	17	O	O	approval	x	x	0
+O	0	18	O	O	.	x	x	0
+

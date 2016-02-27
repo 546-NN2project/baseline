@@ -1,0 +1,241 @@
+B-GPE	0	0	O	O	JAKARTA	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	April	x	x	0
+I-TIME	0	3	O	O	23	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	Xinhua	x	x	0
+O	0	6	O	O	)	x	x	0
+O	0	7	O	O	The	x	x	0
+B-LOC	0	8	O	O	Central	x	x	0
+I-LOC	0	9	O	O	Jakarta	x	x	0
+I-LOC	0	10	O	O	District	x	x	0
+O	0	11	O	O	Court	x	x	0
+O	0	12	O	O	began	x	x	0
+B-TIME	0	13	O	O	Wednesday	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	trial	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	Muslim	x	x	0
+O	0	18	O	O	cleric	x	x	0
+O	0	19	O	O	Abu	x	x	0
+O	0	20	O	O	Bakar	x	x	0
+O	0	21	O	O	Ba'	x	x	0
+O	0	22	O	O	asyir	x	x	0
+B-PER	0	23	O	O	who	x	x	0
+O	0	24	O	O	has	x	x	0
+O	0	25	O	O	been	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	custody	x	x	0
+O	0	28	O	O	since	x	x	0
+B-TIME	0	29	O	O	last	x	x	0
+I-TIME	0	30	O	O	October	x	x	0
+O	0	31	O	O	on	x	x	0
+O	0	32	O	O	charges	x	x	0
+O	0	33	O	O	of	x	x	0
+B-Crime	0	34	O	O	treason	x	x	0
+O	0	35	O	O	and	x	x	0
+B-Crime	0	36	O	O	immigration	x	x	0
+I-Crime	0	37	O	O	offenses	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Ba'asyir	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	64	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	arrested	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	preliminary	x	x	0
+O	0	8	O	O	charges	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	involvement	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	series	x	x	0
+O	0	14	O	O	of	x	x	0
+B-FAC	0	15	O	O	church	x	x	0
+O	0	16	O	O	bombings	x	x	0
+O	0	17	O	O	on	x	x	0
+B-TIME	0	18	O	O	the	x	x	0
+I-TIME	0	19	O	O	eve	x	x	0
+I-TIME	0	20	O	O	of	x	x	0
+I-TIME	0	21	O	O	the	x	x	0
+I-TIME	0	22	O	O	2000	x	x	0
+I-TIME	0	23	O	O	Christmas	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	an	x	x	0
+O	0	26	O	O	alleged	x	x	0
+O	0	27	O	O	plot	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	assassinate	x	x	0
+B-PER	0	30	O	O	Megawati	x	x	0
+I-PER	0	31	O	O	Soekarnoputri	x	x	0
+O	0	32	O	O	in	x	x	0
+B-TIME	0	33	O	O	1999	x	x	0
+O	0	34	O	O	,	x	x	0
+O	0	35	O	O	when	x	x	0
+B-PER	0	36	O	O	she	x	x	0
+O	0	37	O	O	was	x	x	0
+B-PER	0	38	O	O	vice	x	x	0
+I-PER	0	39	O	O	president	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	charged	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	immigration	x	x	0
+O	0	6	O	O	offenses	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	having	x	x	0
+O	0	9	O	O	a	x	x	0
+B-GPE	0	10	O	O	Malaysian	x	x	0
+O	0	11	O	O	citizenship	x	x	0
+O	0	12	O	O	since	x	x	0
+B-TIME	0	13	O	O	1993	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Seven	x	x	0
+I-PER	0	1	O	O	prosecutors	x	x	0
+O	0	2	O	O	read	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	turn	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	indictment	x	x	0
+O	0	7	O	O	against	x	x	0
+B-PER	0	8	O	O	Ba'asyir	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	makeshift	x	x	0
+B-FAC	0	12	O	O	court	x	x	0
+O	0	13	O	O	room	x	x	0
+O	0	14	O	O	in	x	x	0
+B-ORG	0	15	O	O	the	x	x	0
+I-ORG	0	16	O	O	Meteorology	x	x	0
+I-ORG	0	17	O	O	and	x	x	0
+I-ORG	0	18	O	O	Geophysics	x	x	0
+I-ORG	0	19	O	O	Agency	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	office	x	x	0
+O	0	22	O	O	in	x	x	0
+B-LOC	0	23	O	O	Central	x	x	0
+I-LOC	0	24	O	O	Jakarta	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	authorities	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	moved	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	trial	x	x	0
+O	0	6	O	O	venue	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	security	x	x	0
+O	0	9	O	O	reasons	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	allow	x	x	0
+O	0	13	O	O	wider	x	x	0
+B-ORG	0	14	O	O	media	x	x	0
+O	0	15	O	O	coverage	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ba'asyir	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	officially	x	x	0
+O	0	4	O	O	charged	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	Bali	x	x	0
+O	0	8	O	O	bombing	x	x	0
+B-TIME	0	9	O	O	last	x	x	0
+I-TIME	0	10	O	O	October	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	police	x	x	0
+O	0	14	O	O	said	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	gave	x	x	0
+B-PER	0	17	O	O	his	x	x	0
+O	0	18	O	O	blessing	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	the	x	x	0
+B-GPE	0	21	O	O	Bali	x	x	0
+O	0	22	O	O	perpetrators	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Police	x	x	0
+O	0	1	O	O	believed	x	x	0
+B-PER	0	2	O	O	Ba'asyir	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	spiritual	x	x	0
+O	0	6	O	O	leader	x	x	0
+O	0	7	O	O	of	x	x	0
+B-ORG	0	8	O	O	Jemaah	x	x	0
+I-ORG	0	9	O	O	Islamiyah	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	the	x	x	0
+B-PER	0	12	O	O	terrorist	x	x	0
+O	0	13	O	O	network	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Southeast	x	x	0
+I-GPE	0	16	O	O	Asia	x	x	0
+B-ORG	0	17	O	O	which	x	x	0
+O	0	18	O	O	is	x	x	0
+O	0	19	O	O	widely	x	x	0
+O	0	20	O	O	blamed	x	x	0
+O	0	21	O	O	for	x	x	0
+O	0	22	O	O	the	x	x	0
+B-GPE	0	23	O	O	Bali	x	x	0
+O	0	24	O	O	bombing	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	According	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	Criminal	x	x	0
+O	0	4	O	O	Code	x	x	0
+O	0	5	O	O	,	x	x	0
+B-Crime	0	6	O	O	treason	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	punishable	x	x	0
+O	0	9	O	O	with	x	x	0
+B-Sentence	0	10	O	O	a	x	x	0
+I-Sentence	0	11	O	O	possible	x	x	0
+I-Sentence	0	12	O	O	death	x	x	0
+I-Sentence	0	13	O	O	penalty	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ba'asyir	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	publicly	x	x	0
+O	0	3	O	O	denied	x	x	0
+O	0	4	O	O	any	x	x	0
+O	0	5	O	O	wrongdoing	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	refused	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	answer	x	x	0
+B-PER	0	10	O	O	police	x	x	0
+O	0	11	O	O	questioning	x	x	0
+O	0	12	O	O	.	x	x	0
+

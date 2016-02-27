@@ -1,0 +1,228 @@
+O	0	0	O	O	Howdy	x	x	0
+B-PER	0	1	O	O	PR	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	We	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	having	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	sock	x	x	0
+O	0	11	O	O	painting	x	x	0
+O	0	12	O	O	party	x	x	0
+O	0	13	O	O	at	x	x	0
+B-PER	0	14	O	O	my	x	x	0
+O	0	15	O	O	house	x	x	0
+O	0	16	O	O	instead	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	normal	x	x	0
+O	0	20	O	O	meeting	x	x	0
+O	0	21	O	O	at	x	x	0
+B-FAC	0	22	O	O	St.	x	x	0
+I-FAC	0	23	O	O	Mary	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+B-TIME	0	5	O	O	Wednesday	x	x	0
+B-TIME	0	6	O	O	from	x	x	0
+I-TIME	0	7	O	O	5	x	x	0
+I-TIME	0	8	O	O	till	x	x	0
+I-TIME	0	9	O	O	10	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Come	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	as	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	need	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	need	x	x	0
+O	0	2	O	O	lots	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	lots	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	help	x	x	0
+O	0	7	O	O	because	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	tons	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	socks	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	do	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	already	x	x	0
+O	0	3	O	O	made	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	pair	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	they	x	x	0
+O	0	8	O	O	look	x	x	0
+O	0	9	O	O	awesome	x	x	0
+O	0	10	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	Everyone	x	x	0
+I-PER	0	1	O	O	from	x	x	0
+I-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	campaign	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	invited	x	x	0
+O	0	6	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	please	x	x	0
+O	0	4	O	O	bring	x	x	0
+O	0	5	O	O	...	x	x	0
+O	0	6	O	O	junky	x	x	0
+O	0	7	O	O	clothes	x	x	0
+O	0	8	O	O	(	x	x	0
+O	0	9	O	O	wear	x	x	0
+O	0	10	O	O	shorts	x	x	0
+O	0	11	O	O	)	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	scissors	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	blowdryers	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	duck	x	x	0
+O	0	18	O	O	tape	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	plastic	x	x	0
+O	0	21	O	O	bags	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	directions	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	my	x	x	0
+O	0	4	O	O	house	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	...	x	x	0
+
+
+
+O	0	0	O	O	Start	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	Texas	x	x	0
+O	0	3	O	O	Ave.	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	head	x	x	0
+O	0	6	O	O	away	x	x	0
+O	0	7	O	O	from	x	x	0
+B-FAC	0	8	O	O	Bryan	x	x	0
+O	0	9	O	O	Go	x	x	0
+O	0	10	O	O	down	x	x	0
+O	0	11	O	O	Texas	x	x	0
+O	0	12	O	O	Ave.	x	x	0
+O	0	13	O	O	until	x	x	0
+B-PER	0	14	O	O	you	x	x	0
+O	0	15	O	O	come	x	x	0
+O	0	16	O	O	to	x	x	0
+B-FAC	0	17	O	O	South	x	x	0
+I-FAC	0	18	O	O	West	x	x	0
+I-FAC	0	19	O	O	Parkway	x	x	0
+O	0	20	O	O	Take	x	x	0
+O	0	21	O	O	right	x	x	0
+O	0	22	O	O	on	x	x	0
+B-FAC	0	23	O	O	SW	x	x	0
+I-FAC	0	24	O	O	Parkway	x	x	0
+O	0	25	O	O	Go	x	x	0
+O	0	26	O	O	down	x	x	0
+B-FAC	0	27	O	O	SW	x	x	0
+I-FAC	0	28	O	O	Parkway	x	x	0
+O	0	29	O	O	until	x	x	0
+B-PER	0	30	O	O	you	x	x	0
+O	0	31	O	O	come	x	x	0
+O	0	32	O	O	to	x	x	0
+B-FAC	0	33	O	O	Welsh	x	x	0
+O	0	34	O	O	(	x	x	0
+O	0	35	O	O	stoplight	x	x	0
+O	0	36	O	O	)	x	x	0
+O	0	37	O	O	Take	x	x	0
+O	0	38	O	O	right	x	x	0
+O	0	39	O	O	on	x	x	0
+B-FAC	0	40	O	O	Welsh	x	x	0
+O	0	41	O	O	The	x	x	0
+B-FAC	0	42	O	O	apartment	x	x	0
+O	0	43	O	O	complex	x	x	0
+O	0	44	O	O	is	x	x	0
+O	0	45	O	O	called	x	x	0
+O	0	46	O	O	Renaissance	x	x	0
+O	0	47	O	O	Park	x	x	0
+O	0	48	O	O	and	x	x	0
+O	0	49	O	O	is	x	x	0
+O	0	50	O	O	on	x	x	0
+O	0	51	O	O	the	x	x	0
+O	0	52	O	O	immediate	x	x	0
+O	0	53	O	O	left	x	x	0
+O	0	54	O	O	Go	x	x	0
+O	0	55	O	O	into	x	x	0
+O	0	56	O	O	second	x	x	0
+O	0	57	O	O	entrance	x	x	0
+O	0	58	O	O	of	x	x	0
+B-FAC	0	59	O	O	the	x	x	0
+I-FAC	0	60	O	O	complex	x	x	0
+O	0	61	O	O	on	x	x	0
+O	0	62	O	O	left	x	x	0
+O	0	63	O	O	(	x	x	0
+O	0	64	O	O	mailbox	x	x	0
+O	0	65	O	O	should	x	x	0
+O	0	66	O	O	be	x	x	0
+O	0	67	O	O	on	x	x	0
+O	0	68	O	O	right	x	x	0
+O	0	69	O	O	side	x	x	0
+O	0	70	O	O	)	x	x	0
+O	0	71	O	O	Park	x	x	0
+O	0	72	O	O	anywhere	x	x	0
+B-PER	0	73	O	O	I	x	x	0
+O	0	74	O	O	am	x	x	0
+O	0	75	O	O	in	x	x	0
+O	0	76	O	O	building	x	x	0
+O	0	77	O	O	24	x	x	0
+B-FAC	0	78	O	O	apartment	x	x	0
+I-FAC	0	79	O	O	#	x	x	0
+I-FAC	0	80	O	O	241	x	x	0
+B-PER	0	81	O	O	We	x	x	0
+O	0	82	O	O	will	x	x	0
+O	0	83	O	O	possibly	x	x	0
+O	0	84	O	O	be	x	x	0
+O	0	85	O	O	out	x	x	0
+O	0	86	O	O	back	x	x	0
+O	0	87	O	O	around	x	x	0
+B-FAC	0	88	O	O	pool	x	x	0
+O	0	89	O	O	if	x	x	0
+B-PER	0	90	O	O	no	x	x	0
+I-PER	0	91	O	O	one	x	x	0
+O	0	92	O	O	answers	x	x	0
+O	0	93	O	O	door	x	x	0
+

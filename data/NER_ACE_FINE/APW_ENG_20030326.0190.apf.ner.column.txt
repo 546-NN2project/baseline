@@ -1,0 +1,933 @@
+O	0	0	O	O	UMM	x	x	0
+O	0	1	O	O	QASR	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	Iraq	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-VEH	0	7	O	O	The	x	x	0
+I-VEH	0	8	O	O	first	x	x	0
+I-VEH	0	9	O	O	sizable	x	x	0
+I-VEH	0	10	O	O	relief	x	x	0
+I-VEH	0	11	O	O	convoy	x	x	0
+O	0	12	O	O	arrived	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	during	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	sandstorm	x	x	0
+B-TIME	0	18	O	O	Wednesday	x	x	0
+O	0	19	O	O	as	x	x	0
+B-PER	0	20	O	O	allied	x	x	0
+I-PER	0	21	O	O	forces	x	x	0
+O	0	22	O	O	struggled	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	clear	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	way	x	x	0
+O	0	27	O	O	for	x	x	0
+O	0	28	O	O	more	x	x	0
+O	0	29	O	O	aid	x	x	0
+O	0	30	O	O	shipments	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	using	x	x	0
+O	0	33	O	O	dolphins	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	remove	x	x	0
+B-WEA	0	36	O	O	mines	x	x	0
+O	0	37	O	O	from	x	x	0
+B-LOC	0	38	O	O	waterways	x	x	0
+O	0	39	O	O	and	x	x	0
+O	0	40	O	O	hunting	x	x	0
+B-GPE	0	41	O	O	Iraqi	x	x	0
+O	0	42	O	O	fighters	x	x	0
+O	0	43	O	O	around	x	x	0
+O	0	44	O	O	the	x	x	0
+O	0	45	O	O	port	x	x	0
+O	0	46	O	O	of	x	x	0
+B-GPE	0	47	O	O	Umm	x	x	0
+I-GPE	0	48	O	O	Qasr	x	x	0
+O	0	49	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Three	x	x	0
+O	0	1	O	O	days	x	x	0
+O	0	2	O	O	after	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	President	x	x	0
+O	0	5	O	O	George	x	x	0
+O	0	6	O	O	W.	x	x	0
+O	0	7	O	O	Bush	x	x	0
+O	0	8	O	O	promised	x	x	0
+O	0	9	O	O	``	x	x	0
+O	0	10	O	O	massive	x	x	0
+O	0	11	O	O	amounts	x	x	0
+O	0	12	O	O	''	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	humanitarian	x	x	0
+O	0	15	O	O	aid	x	x	0
+O	0	16	O	O	,	x	x	0
+B-VEH	0	17	O	O	seven	x	x	0
+I-VEH	0	18	O	O	large	x	x	0
+I-VEH	0	19	O	O	,	x	x	0
+I-VEH	0	20	O	O	battered	x	x	0
+I-VEH	0	21	O	O	tractor-trailers	x	x	0
+O	0	22	O	O	arrived	x	x	0
+O	0	23	O	O	in	x	x	0
+B-GPE	0	24	O	O	Umm	x	x	0
+I-GPE	0	25	O	O	Qasr	x	x	0
+O	0	26	O	O	carrying	x	x	0
+O	0	27	O	O	food	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	water	x	x	0
+O	0	30	O	O	donated	x	x	0
+O	0	31	O	O	by	x	x	0
+B-PER	0	32	O	O	Kuwaitis	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	convoy	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	escorted	x	x	0
+O	0	4	O	O	by	x	x	0
+B-GPE	0	5	O	O	U.S.	x	x	0
+O	0	6	O	O	soldiers	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	planned	x	x	0
+O	0	3	O	O	for	x	x	0
+B-VEH	0	4	O	O	30	x	x	0
+I-VEH	0	5	O	O	trucks	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	we	x	x	0
+O	0	8	O	O	only	x	x	0
+O	0	9	O	O	got	x	x	0
+B-VEH	0	10	O	O	seven	x	x	0
+O	0	11	O	O	loaded	x	x	0
+O	0	12	O	O	because	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	severe	x	x	0
+O	0	16	O	O	sandstorm	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	''	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	E.J.	x	x	0
+O	0	21	O	O	Russell	x	x	0
+O	0	22	O	O	of	x	x	0
+B-ORG	0	23	O	O	the	x	x	0
+I-ORG	0	24	O	O	Humanitarian	x	x	0
+I-ORG	0	25	O	O	Operations	x	x	0
+I-ORG	0	26	O	O	Center	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	joint	x	x	0
+B-GPE	0	30	O	O	U.S.	x	x	0
+O	0	31	O	O	-	x	x	0
+B-GPE	0	32	O	O	Kuwaiti	x	x	0
+O	0	33	O	O	agency	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	storm	x	x	0
+O	0	2	O	O	cut	x	x	0
+O	0	3	O	O	visibility	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	about	x	x	0
+O	0	6	O	O	100	x	x	0
+O	0	7	O	O	yards	x	x	0
+O	0	8	O	O	(	x	x	0
+O	0	9	O	O	91	x	x	0
+O	0	10	O	O	meters	x	x	0
+O	0	11	O	O	)	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hundreds	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	cases	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	water	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	stacked	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	three	x	x	0
+O	0	9	O	O	of	x	x	0
+B-VEH	0	10	O	O	the	x	x	0
+I-VEH	0	11	O	O	trucks	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	rest	x	x	0
+O	0	2	O	O	carried	x	x	0
+O	0	3	O	O	boxes	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	tuna	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	crackers	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	sweets	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	other	x	x	0
+O	0	12	O	O	food	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-VEH	0	1	O	O	the	x	x	0
+I-VEH	0	2	O	O	trucks	x	x	0
+O	0	3	O	O	lumbered	x	x	0
+O	0	4	O	O	past	x	x	0
+O	0	5	O	O	blasted	x	x	0
+O	0	6	O	O	buildings	x	x	0
+O	0	7	O	O	on	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	Iraq-Kuwait	x	x	0
+I-LOC	0	10	O	O	border	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	an	x	x	0
+B-GPE	0	13	O	O	Iraqi	x	x	0
+O	0	14	O	O	boy	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	about	x	x	0
+O	0	17	O	O	10	x	x	0
+O	0	18	O	O	pointed	x	x	0
+O	0	19	O	O	to	x	x	0
+B-PER	0	20	O	O	his	x	x	0
+O	0	21	O	O	mouth	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	shouted	x	x	0
+O	0	24	O	O	``	x	x	0
+O	0	25	O	O	Eat	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	eat	x	x	0
+O	0	28	O	O	!	x	x	0
+O	0	29	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	lined	x	x	0
+O	0	2	O	O	up	x	x	0
+O	0	3	O	O	along	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	streets	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	giving	x	x	0
+O	0	8	O	O	thumbs-up	x	x	0
+O	0	9	O	O	signs	x	x	0
+O	0	10	O	O	to	x	x	0
+B-VEH	0	11	O	O	the	x	x	0
+I-VEH	0	12	O	O	aid	x	x	0
+I-VEH	0	13	O	O	convoy	x	x	0
+O	0	14	O	O	as	x	x	0
+B-VEH	0	15	O	O	it	x	x	0
+O	0	16	O	O	rolled	x	x	0
+O	0	17	O	O	by	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	begging	x	x	0
+O	0	20	O	O	for	x	x	0
+O	0	21	O	O	food	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	cigarettes	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	After	x	x	0
+O	0	1	O	O	days	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	fierce	x	x	0
+O	0	4	O	O	fighting	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	shut	x	x	0
+O	0	7	O	O	down	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	city	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	Umm	x	x	0
+I-GPE	0	12	O	O	Qasr	x	x	0
+O	0	13	O	O	,	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	youths	x	x	0
+O	0	16	O	O	cheered	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	swarmed	x	x	0
+B-GPE	0	19	O	O	British	x	x	0
+O	0	20	O	O	troops	x	x	0
+O	0	21	O	O	as	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	handed	x	x	0
+O	0	24	O	O	out	x	x	0
+O	0	25	O	O	yellow	x	x	0
+O	0	26	O	O	meal	x	x	0
+O	0	27	O	O	packets	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	bottles	x	x	0
+O	0	30	O	O	of	x	x	0
+O	0	31	O	O	water	x	x	0
+B-TIME	0	32	O	O	Wednesday	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	troops	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	already	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	city	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	part	x	x	0
+O	0	11	O	O	of	x	x	0
+B-VEH	0	12	O	O	the	x	x	0
+I-VEH	0	13	O	O	aid	x	x	0
+I-VEH	0	14	O	O	convoy	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-GPE	0	1	O	O	Umm	x	x	0
+I-GPE	0	2	O	O	Qasr	x	x	0
+O	0	3	O	O	is	x	x	0
+B-TIME	0	4	O	O	now	x	x	0
+O	0	5	O	O	secure	x	x	0
+O	0	6	O	O	_	x	x	0
+O	0	7	O	O	as	x	x	0
+B-FAC	0	8	O	O	a	x	x	0
+I-FAC	0	9	O	O	port	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	as	x	x	0
+B-GPE	0	12	O	O	a	x	x	0
+I-GPE	0	13	O	O	town	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	''	x	x	0
+O	0	16	O	O	said	x	x	0
+O	0	17	O	O	Brig.	x	x	0
+O	0	18	O	O	Jim	x	x	0
+O	0	19	O	O	Dutton	x	x	0
+O	0	20	O	O	of	x	x	0
+B-ORG	0	21	O	O	the	x	x	0
+I-ORG	0	22	O	O	Royal	x	x	0
+I-ORG	0	23	O	O	Marines	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	town	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	deepwater	x	x	0
+O	0	4	O	O	port	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	only	x	x	0
+O	0	8	O	O	one	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	essential	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	any	x	x	0
+O	0	16	O	O	relief	x	x	0
+O	0	17	O	O	effort	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Plans	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	bring	x	x	0
+O	0	3	O	O	supplies	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	civilians	x	x	0
+O	0	7	O	O	had	x	x	0
+O	0	8	O	O	been	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	hold	x	x	0
+O	0	11	O	O	for	x	x	0
+B-TIME	0	12	O	O	days	x	x	0
+O	0	13	O	O	because	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	fighting	x	x	0
+O	0	16	O	O	across	x	x	0
+B-LOC	0	17	O	O	southern	x	x	0
+I-LOC	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Tuesday	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	U.N.	x	x	0
+O	0	4	O	O	Secretary-General	x	x	0
+O	0	5	O	O	Kofi	x	x	0
+O	0	6	O	O	Annan	x	x	0
+O	0	7	O	O	warned	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	national	x	x	0
+O	0	10	O	O	security	x	x	0
+O	0	11	O	O	adviser	x	x	0
+O	0	12	O	O	Condoleezza	x	x	0
+O	0	13	O	O	Rice	x	x	0
+O	0	14	O	O	that	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	United	x	x	0
+I-GPE	0	17	O	O	States	x	x	0
+O	0	18	O	O	is	x	x	0
+O	0	19	O	O	legally	x	x	0
+O	0	20	O	O	responsible	x	x	0
+O	0	21	O	O	for	x	x	0
+O	0	22	O	O	providing	x	x	0
+O	0	23	O	O	relief	x	x	0
+O	0	24	O	O	aid	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	White	x	x	0
+I-GPE	0	1	O	O	House	x	x	0
+O	0	2	O	O	spokesman	x	x	0
+O	0	3	O	O	Ari	x	x	0
+O	0	4	O	O	Fleischer	x	x	0
+O	0	5	O	O	blamed	x	x	0
+B-PER	0	6	O	O	Saddam	x	x	0
+I-PER	0	7	O	O	Hussein	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	regime	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	slowing	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	flow	x	x	0
+O	0	14	O	O	of	x	x	0
+B-Numeric	0	15	O	O	US	x	x	0
+I-Numeric	0	16	O	O	$	x	x	0
+I-Numeric	0	17	O	O	105	x	x	0
+I-Numeric	0	18	O	O	million	x	x	0
+O	0	19	O	O	in	x	x	0
+B-GPE	0	20	O	O	U.S.	x	x	0
+O	0	21	O	O	aid	x	x	0
+O	0	22	O	O	by	x	x	0
+O	0	23	O	O	placing	x	x	0
+B-WEA	0	24	O	O	mines	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	port	x	x	0
+O	0	28	O	O	of	x	x	0
+B-GPE	0	29	O	O	Umm	x	x	0
+I-GPE	0	30	O	O	Qasr	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	Navy	x	x	0
+O	0	2	O	O	helicopters	x	x	0
+O	0	3	O	O	flew	x	x	0
+O	0	4	O	O	two	x	x	0
+O	0	5	O	O	dolphins	x	x	0
+O	0	6	O	O	_	x	x	0
+O	0	7	O	O	Makai	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	Tacoma	x	x	0
+O	0	10	O	O	_	x	x	0
+O	0	11	O	O	into	x	x	0
+O	0	12	O	O	Umm	x	x	0
+O	0	13	O	O	Qasr	x	x	0
+O	0	14	O	O	,	x	x	0
+B-GPE	0	15	O	O	where	x	x	0
+O	0	16	O	O	they	x	x	0
+O	0	17	O	O	were	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	begin	x	x	0
+O	0	20	O	O	ferreting	x	x	0
+O	0	21	O	O	out	x	x	0
+B-WEA	0	22	O	O	mines	x	x	0
+B-TIME	0	23	O	O	Wednesday	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Royal	x	x	0
+I-ORG	0	1	O	O	Marine	x	x	0
+O	0	2	O	O	commandos	x	x	0
+O	0	3	O	O	carried	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	an	x	x	0
+B-TIME	0	6	O	O	overnight	x	x	0
+O	0	7	O	O	sweep	x	x	0
+O	0	8	O	O	around	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	port	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	searching	x	x	0
+O	0	13	O	O	for	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	holdouts	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	British	x	x	0
+O	0	2	O	O	said	x	x	0
+B-GPE	0	3	O	O	they	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	enough	x	x	0
+O	0	6	O	O	control	x	x	0
+O	0	7	O	O	over	x	x	0
+B-FAC	0	8	O	O	the	x	x	0
+I-FAC	0	9	O	O	area	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	begin	x	x	0
+O	0	12	O	O	sending	x	x	0
+O	0	13	O	O	in	x	x	0
+B-VEH	0	14	O	O	ships	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-GPE	0	1	O	O	British	x	x	0
+O	0	2	O	O	ship	x	x	0
+O	0	3	O	O	,	x	x	0
+B-VEH	0	4	O	O	the	x	x	0
+I-VEH	0	5	O	O	Sir	x	x	0
+I-VEH	0	6	O	O	Galahad	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	moved	x	x	0
+O	0	9	O	O	into	x	x	0
+O	0	10	O	O	position	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	mouth	x	x	0
+O	0	14	O	O	of	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	Khor	x	x	0
+I-LOC	0	17	O	O	Abdallah	x	x	0
+I-LOC	0	18	O	O	river	x	x	0
+B-TIME	0	19	O	O	Tuesday	x	x	0
+I-TIME	0	20	O	O	night	x	x	0
+O	0	21	O	O	with	x	x	0
+O	0	22	O	O	211	x	x	0
+O	0	23	O	O	tons	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	food	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	101	x	x	0
+O	0	28	O	O	tons	x	x	0
+O	0	29	O	O	of	x	x	0
+O	0	30	O	O	bottled	x	x	0
+O	0	31	O	O	water	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	begin	x	x	0
+O	0	4	O	O	the	x	x	0
+B-TIME	0	5	O	O	six-hour	x	x	0
+O	0	6	O	O	journey	x	x	0
+O	0	7	O	O	into	x	x	0
+B-GPE	0	8	O	O	Umm	x	x	0
+I-GPE	0	9	O	O	Qasr	x	x	0
+O	0	10	O	O	on	x	x	0
+B-TIME	0	11	O	O	Wednesday	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	according	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	pool	x	x	0
+O	0	17	O	O	report	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqis	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	about	x	x	0
+B-TIME	0	3	O	O	five	x	x	0
+I-TIME	0	4	O	O	weeks	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	food	x	x	0
+O	0	7	O	O	left	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	according	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	estimates	x	x	0
+O	0	12	O	O	by	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	World	x	x	0
+I-ORG	0	15	O	O	Food	x	x	0
+I-ORG	0	16	O	O	Program	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	About	x	x	0
+I-PER	0	1	O	O	13	x	x	0
+I-PER	0	2	O	O	million	x	x	0
+I-PER	0	3	O	O	people	x	x	0
+O	0	4	O	O	_	x	x	0
+B-Numeric	0	5	O	O	60	x	x	0
+I-Numeric	0	6	O	O	percent	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	22	x	x	0
+O	0	11	O	O	million	x	x	0
+O	0	12	O	O	_	x	x	0
+O	0	13	O	O	are	x	x	0
+O	0	14	O	O	completely	x	x	0
+O	0	15	O	O	dependent	x	x	0
+O	0	16	O	O	on	x	x	0
+O	0	17	O	O	food	x	x	0
+O	0	18	O	O	handouts	x	x	0
+O	0	19	O	O	,	x	x	0
+B-ORG	0	20	O	O	The	x	x	0
+I-ORG	0	21	O	O	World	x	x	0
+I-ORG	0	22	O	O	Food	x	x	0
+I-ORG	0	23	O	O	Program	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	a	x	x	0
+B-ORG	0	26	O	O	U.N.	x	x	0
+O	0	27	O	O	agency	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	said	x	x	0
+B-ORG	0	30	O	O	it	x	x	0
+O	0	31	O	O	would	x	x	0
+O	0	32	O	O	make	x	x	0
+B-ORG	0	33	O	O	its	x	x	0
+O	0	34	O	O	biggest	x	x	0
+O	0	35	O	O	single	x	x	0
+O	0	36	O	O	request	x	x	0
+O	0	37	O	O	for	x	x	0
+O	0	38	O	O	cash	x	x	0
+O	0	39	O	O	in	x	x	0
+B-ORG	0	40	O	O	its	x	x	0
+O	0	41	O	O	history	x	x	0
+O	0	42	O	O	_	x	x	0
+O	0	43	O	O	more	x	x	0
+O	0	44	O	O	than	x	x	0
+B-Numeric	0	45	O	O	US	x	x	0
+I-Numeric	0	46	O	O	$	x	x	0
+I-Numeric	0	47	O	O	1	x	x	0
+I-Numeric	0	48	O	O	billion	x	x	0
+O	0	49	O	O	to	x	x	0
+O	0	50	O	O	help	x	x	0
+O	0	51	O	O	feed	x	x	0
+B-GPE	0	52	O	O	the	x	x	0
+I-GPE	0	53	O	O	war-stricken	x	x	0
+I-GPE	0	54	O	O	nation	x	x	0
+O	0	55	O	O	for	x	x	0
+B-TIME	0	56	O	O	about	x	x	0
+I-TIME	0	57	O	O	six	x	x	0
+I-TIME	0	58	O	O	months	x	x	0
+O	0	59	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	This	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	well	x	x	0
+O	0	4	O	O	turn	x	x	0
+O	0	5	O	O	into	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	largest	x	x	0
+O	0	8	O	O	humanitarian	x	x	0
+O	0	9	O	O	operation	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	history	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	''	x	x	0
+O	0	14	O	O	said	x	x	0
+B-ORG	0	15	O	O	agency	x	x	0
+O	0	16	O	O	spokesman	x	x	0
+O	0	17	O	O	Trevor	x	x	0
+O	0	18	O	O	Rowe	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Before	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	war	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	Iraqis	x	x	0
+O	0	5	O	O	depended	x	x	0
+O	0	6	O	O	on	x	x	0
+B-GPE	0	7	O	O	government	x	x	0
+O	0	8	O	O	rations	x	x	0
+O	0	9	O	O	distributed	x	x	0
+O	0	10	O	O	under	x	x	0
+O	0	11	O	O	the	x	x	0
+B-ORG	0	12	O	O	U.N.	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	oil-for-food	x	x	0
+O	0	15	O	O	program	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	7-year-old	x	x	0
+O	0	2	O	O	program	x	x	0
+O	0	3	O	O	allows	x	x	0
+B-GPE	0	4	O	O	Iraq	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	sell	x	x	0
+O	0	7	O	O	unlimited	x	x	0
+O	0	8	O	O	quantities	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	oil	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	buy	x	x	0
+O	0	13	O	O	food	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	medicine	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	other	x	x	0
+O	0	18	O	O	humanitarian	x	x	0
+O	0	19	O	O	goods	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	proceeds	x	x	0
+O	0	2	O	O	from	x	x	0
+O	0	3	O	O	oil	x	x	0
+O	0	4	O	O	sales	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	deposited	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	a	x	x	0
+B-ORG	0	9	O	O	U.N.	x	x	0
+O	0	10	O	O	-	x	x	0
+O	0	11	O	O	controlled	x	x	0
+O	0	12	O	O	escrow	x	x	0
+O	0	13	O	O	account	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	war	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	thrown	x	x	0
+O	0	4	O	O	the	x	x	0
+B-TIME	0	5	O	O	future	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	program	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	doubt	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+B-GPE	0	1	O	O	the	x	x	0
+I-GPE	0	2	O	O	United	x	x	0
+I-GPE	0	3	O	O	States	x	x	0
+O	0	4	O	O	and	x	x	0
+B-GPE	0	5	O	O	Britain	x	x	0
+O	0	6	O	O	failed	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	get	x	x	0
+B-ORG	0	9	O	O	U.N.	x	x	0
+O	0	10	O	O	backing	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	war	x	x	0
+O	0	14	O	O	,	x	x	0
+B-GPE	0	15	O	O	Russia	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	France	x	x	0
+O	0	18	O	O	,	x	x	0
+B-GPE	0	19	O	O	Germany	x	x	0
+O	0	20	O	O	and	x	x	0
+B-GPE	0	21	O	O	China	x	x	0
+O	0	22	O	O	want	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	ensure	x	x	0
+O	0	25	O	O	that	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	immediate	x	x	0
+O	0	28	O	O	humanitarian	x	x	0
+O	0	29	O	O	costs	x	x	0
+O	0	30	O	O	of	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	war	x	x	0
+O	0	33	O	O	are	x	x	0
+O	0	34	O	O	paid	x	x	0
+O	0	35	O	O	by	x	x	0
+B-GPE	0	36	O	O	the	x	x	0
+I-GPE	0	37	O	O	United	x	x	0
+I-GPE	0	38	O	O	States	x	x	0
+O	0	39	O	O	_	x	x	0
+O	0	40	O	O	and	x	x	0
+O	0	41	O	O	not	x	x	0
+B-ORG	0	42	O	O	the	x	x	0
+I-ORG	0	43	O	O	United	x	x	0
+I-ORG	0	44	O	O	Nations	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Annan	x	x	0
+O	0	1	O	O	wants	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	revive	x	x	0
+O	0	4	O	O	the	x	x	0
+B-ORG	0	5	O	O	U.N.	x	x	0
+O	0	6	O	O	aid	x	x	0
+O	0	7	O	O	program	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	quickly	x	x	0
+O	0	10	O	O	as	x	x	0
+O	0	11	O	O	possible	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	resolution	x	x	0
+O	0	2	O	O	giving	x	x	0
+B-PER	0	3	O	O	him	x	x	0
+O	0	4	O	O	authority	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	run	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	program	x	x	0
+O	0	9	O	O	for	x	x	0
+B-TIME	0	10	O	O	45	x	x	0
+I-TIME	0	11	O	O	days	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	stalled	x	x	0
+O	0	14	O	O	because	x	x	0
+B-GPE	0	15	O	O	Russia	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	Syria	x	x	0
+O	0	18	O	O	and	x	x	0
+B-GPE	0	19	O	O	others	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	insisting	x	x	0
+B-ORG	0	22	O	O	the	x	x	0
+I-ORG	0	23	O	O	United	x	x	0
+I-ORG	0	24	O	O	Nations	x	x	0
+O	0	25	O	O	must	x	x	0
+O	0	26	O	O	not	x	x	0
+O	0	27	O	O	sanction	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	war	x	x	0
+O	0	30	O	O	or	x	x	0
+O	0	31	O	O	give	x	x	0
+B-GPE	0	32	O	O	the	x	x	0
+I-GPE	0	33	O	O	United	x	x	0
+I-GPE	0	34	O	O	States	x	x	0
+O	0	35	O	O	control	x	x	0
+O	0	36	O	O	over	x	x	0
+O	0	37	O	O	the	x	x	0
+B-ORG	0	38	O	O	U.N.	x	x	0
+O	0	39	O	O	-	x	x	0
+O	0	40	O	O	controlled	x	x	0
+O	0	41	O	O	account	x	x	0
+O	0	42	O	O	,	x	x	0
+O	0	43	O	O	which	x	x	0
+O	0	44	O	O	holds	x	x	0
+B-Numeric	0	45	O	O	billions	x	x	0
+I-Numeric	0	46	O	O	of	x	x	0
+I-Numeric	0	47	O	O	dollars	x	x	0
+O	0	48	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	Trade	x	x	0
+O	0	2	O	O	Minister	x	x	0
+O	0	3	O	O	Mohammed	x	x	0
+O	0	4	O	O	Mehdi	x	x	0
+O	0	5	O	O	Saleh	x	x	0
+O	0	6	O	O	accused	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	United	x	x	0
+I-GPE	0	9	O	O	States	x	x	0
+O	0	10	O	O	and	x	x	0
+B-GPE	0	11	O	O	Britain	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	causing	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	hardships	x	x	0
+O	0	16	O	O	by	x	x	0
+O	0	17	O	O	launching	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	war	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	disrupting	x	x	0
+O	0	22	O	O	shipments	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	supplies	x	x	0
+O	0	25	O	O	under	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	oil-for-food	x	x	0
+O	0	28	O	O	program	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	claimed	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	though	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	that	x	x	0
+B-GPE	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	can	x	x	0
+O	0	8	O	O	fend	x	x	0
+O	0	9	O	O	for	x	x	0
+B-GPE	0	10	O	O	itself	x	x	0
+O	0	11	O	O	:	x	x	0
+O	0	12	O	O	``	x	x	0
+B-GPE	0	13	O	O	Iraq	x	x	0
+O	0	14	O	O	does	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	need	x	x	0
+O	0	17	O	O	any	x	x	0
+O	0	18	O	O	humanitarian	x	x	0
+O	0	19	O	O	assistance	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+B-GPE	0	2	O	O	a	x	x	0
+I-GPE	0	3	O	O	rich	x	x	0
+I-GPE	0	4	O	O	country	x	x	0
+O	0	5	O	O	.	x	x	0
+O	0	6	O	O	''	x	x	0
+

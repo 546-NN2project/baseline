@@ -1,0 +1,510 @@
+O	0	0	O	O	An	x	x	0
+O	0	1	O	O	apparent	x	x	0
+O	0	2	O	O	friendly	x	x	0
+O	0	3	O	O	fire	x	x	0
+O	0	4	O	O	incident	x	x	0
+O	0	5	O	O	in	x	x	0
+B-LOC	0	6	O	O	northern	x	x	0
+I-LOC	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	taking	x	x	0
+O	0	10	O	O	more	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	toll	x	x	0
+O	0	14	O	O	on	x	x	0
+B-PER	0	15	O	O	Kurdish	x	x	0
+O	0	16	O	O	leaders	x	x	0
+O	0	17	O	O	than	x	x	0
+B-PER	0	18	O	O	we	x	x	0
+O	0	19	O	O	knew	x	x	0
+O	0	20	O	O	at	x	x	0
+O	0	21	O	O	first	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Eighteen	x	x	0
+I-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	are	x	x	0
+B-TIME	0	3	O	O	now	x	x	0
+O	0	4	O	O	reported	x	x	0
+O	0	5	O	O	dead	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	late	x	x	0
+O	0	4	O	O	reports	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	45	x	x	0
+I-PER	0	8	O	O	wounded	x	x	0
+O	0	9	O	O	include	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	brother	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	son	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	a	x	x	0
+B-PER	0	17	O	O	Kurdish	x	x	0
+O	0	18	O	O	political	x	x	0
+O	0	19	O	O	leader	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Julian	x	x	0
+O	0	1	O	O	Manyon	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	ITN	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	more	x	x	0
+O	0	6	O	O	from	x	x	0
+B-LOC	0	7	O	O	Northern	x	x	0
+I-LOC	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	another	x	x	0
+O	0	3	O	O	friendly	x	x	0
+O	0	4	O	O	fire	x	x	0
+O	0	5	O	O	disaster	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	This	x	x	0
+I-TIME	0	1	O	O	morning	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	an	x	x	0
+B-GPE	0	4	O	O	American	x	x	0
+O	0	5	O	O	bomb	x	x	0
+O	0	6	O	O	destroyed	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	convoy	x	x	0
+O	0	9	O	O	carrying	x	x	0
+O	0	10	O	O	high	x	x	0
+O	0	11	O	O	officials	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+B-PER	0	14	O	O	Kurdish	x	x	0
+I-PER	0	15	O	O	Peshmerga	x	x	0
+O	0	16	O	O	forces	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	which	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	been	x	x	0
+O	0	21	O	O	fighting	x	x	0
+O	0	22	O	O	alongside	x	x	0
+B-PER	0	23	O	O	the	x	x	0
+I-PER	0	24	O	O	Americans	x	x	0
+O	0	25	O	O	on	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	northern	x	x	0
+O	0	28	O	O	front	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	least	x	x	0
+O	0	2	O	O	17	x	x	0
+B-PER	0	3	O	O	Kurdish	x	x	0
+O	0	4	O	O	commanders	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	guards	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	killed	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	along	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	an	x	x	0
+O	0	14	O	O	interpreter	x	x	0
+O	0	15	O	O	working	x	x	0
+O	0	16	O	O	for	x	x	0
+B-ORG	0	17	O	O	the	x	x	0
+I-ORG	0	18	O	O	BBC	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	More	x	x	0
+I-PER	0	1	O	O	than	x	x	0
+I-PER	0	2	O	O	40	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	injured	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-ORG	0	1	O	O	military	x	x	0
+O	0	2	O	O	chief	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+B-PER	0	5	O	O	Kurdish	x	x	0
+O	0	6	O	O	KDP	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	brother	x	x	0
+O	0	10	O	O	of	x	x	0
+B-ORG	0	11	O	O	their	x	x	0
+O	0	12	O	O	leader	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	Massud	x	x	0
+I-PER	0	15	O	O	Barzani	x	x	0
+O	0	16	O	O	(	x	x	0
+O	0	17	O	O	ph	x	x	0
+O	0	18	O	O	)	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	was	x	x	0
+O	0	21	O	O	gravely	x	x	0
+O	0	22	O	O	hurt	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	Trying	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	organize	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	northern	x	x	0
+O	0	10	O	O	front	x	x	0
+O	0	11	O	O	with	x	x	0
+O	0	12	O	O	just	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	few	x	x	0
+O	0	15	O	O	hundred	x	x	0
+B-GPE	0	16	O	O	U.S.	x	x	0
+O	0	17	O	O	Special	x	x	0
+O	0	18	O	O	Forces	x	x	0
+O	0	19	O	O	troops	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	poorly	x	x	0
+O	0	23	O	O	armed	x	x	0
+B-PER	0	24	O	O	Kurdish	x	x	0
+I-PER	0	25	O	O	Peshmerga	x	x	0
+O	0	26	O	O	guerrillas	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	always	x	x	0
+O	0	29	O	O	going	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	be	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	high-risk	x	x	0
+O	0	34	O	O	exercise	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	idea	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	open	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	way	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	heavy	x	x	0
+O	0	9	O	O	sustained	x	x	0
+B-GPE	0	10	O	O	American	x	x	0
+O	0	11	O	O	bombing	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Iraqi	x	x	0
+O	0	14	O	O	positions	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-TIME	0	1	O	O	today	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	went	x	x	0
+O	0	6	O	O	disastrously	x	x	0
+O	0	7	O	O	wrong	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	Even	x	x	0
+O	0	5	O	O	as	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	filmed	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	wreckage	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	U.S.	x	x	0
+O	0	12	O	O	jets	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	still	x	x	0
+O	0	15	O	O	dropping	x	x	0
+B-VEH	0	16	O	O	their	x	x	0
+O	0	17	O	O	bombs	x	x	0
+O	0	18	O	O	nearby	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Giant	x	x	0
+O	0	1	O	O	explosions	x	x	0
+O	0	2	O	O	erupted	x	x	0
+O	0	3	O	O	down	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	road	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Earlier	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	joined	x	x	0
+O	0	5	O	O	another	x	x	0
+O	0	6	O	O	convoy	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	Special	x	x	0
+O	0	10	O	O	Forces	x	x	0
+O	0	11	O	O	troops	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	Kurdish	x	x	0
+O	0	14	O	O	fighters	x	x	0
+O	0	15	O	O	as	x	x	0
+B-PER	0	16	O	O	they	x	x	0
+O	0	17	O	O	tried	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	move	x	x	0
+O	0	20	O	O	south	x	x	0
+O	0	21	O	O	through	x	x	0
+O	0	22	O	O	country	x	x	0
+O	0	23	O	O	abandoned	x	x	0
+O	0	24	O	O	by	x	x	0
+O	0	25	O	O	the	x	x	0
+B-GPE	0	26	O	O	Iraqi	x	x	0
+O	0	27	O	O	army	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	first	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	calm	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	American	x	x	0
+O	0	1	O	O	troops	x	x	0
+O	0	2	O	O	controlled	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	operation	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	rooftop	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	Kurds	x	x	0
+O	0	5	O	O	advanced	x	x	0
+O	0	6	O	O	again	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	Iraqis	x	x	0
+O	0	10	O	O	opened	x	x	0
+O	0	11	O	O	up	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-TIME	0	5	O	O	Now	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	're	x	x	0
+O	0	8	O	O	hearing	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	boom	x	x	0
+O	0	11	O	O	of	x	x	0
+B-GPE	0	12	O	O	Iraqi	x	x	0
+O	0	13	O	O	guns	x	x	0
+O	0	14	O	O	as	x	x	0
+B-WEA	0	15	O	O	they	x	x	0
+O	0	16	O	O	fire	x	x	0
+O	0	17	O	O	towards	x	x	0
+B-PER	0	18	O	O	our	x	x	0
+O	0	19	O	O	positions	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	All	x	x	0
+I-TIME	0	1	O	O	morning	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	Kurds	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	trying	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	advance	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	was	x	x	0
+B-WEA	0	14	O	O	the	x	x	0
+I-WEA	0	15	O	O	shell	x	x	0
+O	0	16	O	O	going	x	x	0
+O	0	17	O	O	off	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	The	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	gunners	x	x	0
+O	0	7	O	O	rapidly	x	x	0
+O	0	8	O	O	found	x	x	0
+B-PER	0	9	O	O	our	x	x	0
+O	0	10	O	O	range	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	we	x	x	0
+O	0	14	O	O	took	x	x	0
+O	0	15	O	O	refuge	x	x	0
+O	0	16	O	O	in	x	x	0
+B-FAC	0	17	O	O	an	x	x	0
+I-FAC	0	18	O	O	abandoned	x	x	0
+I-FAC	0	19	O	O	farm	x	x	0
+I-FAC	0	20	O	O	house	x	x	0
+O	0	21	O	O	.	x	x	0
+
+O	0	0	O	O	Get	x	x	0
+O	0	1	O	O	down	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Get	x	x	0
+O	0	1	O	O	down	x	x	0
+O	0	2	O	O	!	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	finally	x	x	0
+O	0	2	O	O	managed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	by	x	x	0
+B-VEH	0	7	O	O	car	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	in	x	x	0
+B-LOC	0	2	O	O	the	x	x	0
+I-LOC	0	3	O	O	north	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	tanks	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	guns	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	still	x	x	0
+O	0	11	O	O	firing	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	the	x	x	0
+B-GPE	0	15	O	O	American	x	x	0
+O	0	16	O	O	effort	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	looking	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	little	x	x	0
+O	0	21	O	O	ragged	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Julian	x	x	0
+I-PER	0	1	O	O	Manyon	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	ITV	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	northern	x	x	0
+O	0	9	O	O	front	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Julian	x	x	0
+I-PER	0	1	O	O	Manyon	x	x	0
+O	0	2	O	O	with	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	dramatic	x	x	0
+O	0	6	O	O	pictures	x	x	0
+O	0	7	O	O	as	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	look	x	x	0
+O	0	10	O	O	at	x	x	0
+O	0	11	O	O	the	x	x	0
+B-TIME	0	12	O	O	live	x	x	0
+O	0	13	O	O	pictures	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Baghdad	x	x	0
+O	0	16	O	O	at	x	x	0
+B-TIME	0	17	O	O	night	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	take	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	short	x	x	0
+O	0	5	O	O	break	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	our	x	x	0
+B-TIME	0	8	O	O	live	x	x	0
+O	0	9	O	O	coverage	x	x	0
+O	0	10	O	O	continues	x	x	0
+O	0	11	O	O	.	x	x	0
+

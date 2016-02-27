@@ -1,0 +1,380 @@
+B-GPE	0	0	O	O	JAKARTA	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	March	x	x	0
+I-TIME	0	3	O	O	27	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AFP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	Indonesia	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	delay	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	execution	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	six	x	x	0
+O	0	14	O	O	convicts	x	x	0
+O	0	15	O	O	including	x	x	0
+B-PER	0	16	O	O	an	x	x	0
+I-PER	0	17	O	O	Indian	x	x	0
+I-PER	0	18	O	O	on	x	x	0
+I-PER	0	19	O	O	death	x	x	0
+I-PER	0	20	O	O	row	x	x	0
+O	0	21	O	O	after	x	x	0
+O	0	22	O	O	five	x	x	0
+O	0	23	O	O	of	x	x	0
+B-PER	0	24	O	O	them	x	x	0
+O	0	25	O	O	appealed	x	x	0
+O	0	26	O	O	to	x	x	0
+B-ORG	0	27	O	O	the	x	x	0
+I-ORG	0	28	O	O	Supreme	x	x	0
+I-ORG	0	29	O	O	Court	x	x	0
+O	0	30	O	O	for	x	x	0
+O	0	31	O	O	a	x	x	0
+O	0	32	O	O	second	x	x	0
+O	0	33	O	O	review	x	x	0
+O	0	34	O	O	,	x	x	0
+B-PER	0	35	O	O	prosecutors	x	x	0
+O	0	36	O	O	said	x	x	0
+B-TIME	0	37	O	O	Thursday	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	If	x	x	0
+B-GPE	0	2	O	O	we	x	x	0
+O	0	3	O	O	execute	x	x	0
+B-PER	0	4	O	O	them	x	x	0
+B-TIME	0	5	O	O	now	x	x	0
+B-GPE	0	6	O	O	we	x	x	0
+O	0	7	O	O	ca	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	bring	x	x	0
+B-PER	0	10	O	O	them	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	life	x	x	0
+O	0	13	O	O	again	x	x	0
+O	0	14	O	O	should	x	x	0
+B-PER	0	15	O	O	their	x	x	0
+O	0	16	O	O	appeals	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	review	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	granted	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	"	x	x	0
+O	0	24	O	O	said	x	x	0
+B-PER	0	25	O	O	Antasari	x	x	0
+I-PER	0	26	O	O	Azhar	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	spokesman	x	x	0
+O	0	29	O	O	for	x	x	0
+B-PER	0	30	O	O	the	x	x	0
+I-PER	0	31	O	O	attorney	x	x	0
+I-PER	0	32	O	O	general	x	x	0
+O	0	33	O	O	's	x	x	0
+O	0	34	O	O	office	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Supreme	x	x	0
+I-ORG	0	2	O	O	Court	x	x	0
+O	0	3	O	O	rejected	x	x	0
+O	0	4	O	O	earlier	x	x	0
+O	0	5	O	O	appeals	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	case	x	x	0
+O	0	9	O	O	review	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	five	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	convicts	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	sixth	x	x	0
+I-PER	0	2	O	O	offender	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	only	x	x	0
+O	0	5	O	O	made	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	appeal	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	review	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	President	x	x	0
+O	0	1	O	O	Megawati	x	x	0
+O	0	2	O	O	Sukarnoputri	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	refused	x	x	0
+O	0	5	O	O	clemency	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	six	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	asked	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	speedy	x	x	0
+O	0	14	O	O	execution	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Five	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	them	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	Indonesians	x	x	0
+O	0	5	O	O	convicted	x	x	0
+O	0	6	O	O	of	x	x	0
+B-Crime	0	7	O	O	murders	x	x	0
+O	0	8	O	O	while	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	other	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	an	x	x	0
+B-GPE	0	13	O	O	Indian	x	x	0
+B-Crime	0	14	O	O	drug	x	x	0
+O	0	15	O	O	offender	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	Ayodhya	x	x	0
+I-PER	0	18	O	O	Prasad	x	x	0
+I-PER	0	19	O	O	Chaubey	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	We	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	talking	x	x	0
+O	0	4	O	O	about	x	x	0
+B-PER	0	5	O	O	someone	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	life	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	death	x	x	0
+O	0	10	O	O	so	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	very	x	x	0
+O	0	16	O	O	careful	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	"	x	x	0
+B-PER	0	19	O	O	Azhar	x	x	0
+O	0	20	O	O	said	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	convict	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	file	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	case	x	x	0
+O	0	6	O	O	review	x	x	0
+O	0	7	O	O	or	x	x	0
+O	0	8	O	O	appeal	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	presidential	x	x	0
+O	0	11	O	O	clemency	x	x	0
+O	0	12	O	O	only	x	x	0
+O	0	13	O	O	after	x	x	0
+B-ORG	0	14	O	O	the	x	x	0
+I-ORG	0	15	O	O	Supreme	x	x	0
+I-ORG	0	16	O	O	Court	x	x	0
+O	0	17	O	O	upholds	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	sentence	x	x	0
+O	0	20	O	O	imposed	x	x	0
+O	0	21	O	O	by	x	x	0
+B-ORG	0	22	O	O	a	x	x	0
+I-ORG	0	23	O	O	lower	x	x	0
+I-ORG	0	24	O	O	court	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Apart	x	x	0
+O	0	1	O	O	from	x	x	0
+O	0	2	O	O	those	x	x	0
+O	0	3	O	O	convicted	x	x	0
+O	0	4	O	O	of	x	x	0
+B-Crime	0	5	O	O	murder	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	16	x	x	0
+I-PER	0	8	O	O	people	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	death	x	x	0
+O	0	12	O	O	row	x	x	0
+O	0	13	O	O	for	x	x	0
+B-Crime	0	14	O	O	drug	x	x	0
+I-Crime	0	15	O	O	trafficking	x	x	0
+B-PER	0	16	O	O	11	x	x	0
+I-PER	0	17	O	O	foreigners	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	four	x	x	0
+I-PER	0	20	O	O	Indonesians	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	a	x	x	0
+B-GPE	0	23	O	O	Dutch	x	x	0
+O	0	24	O	O	citizen	x	x	0
+O	0	25	O	O	of	x	x	0
+O	0	26	O	O	Chinese-Indonesian	x	x	0
+O	0	27	O	O	origin	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Indonesian	x	x	0
+O	0	1	O	O	courts	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	increasingly	x	x	0
+O	0	4	O	O	handed	x	x	0
+O	0	5	O	O	out	x	x	0
+B-Sentence	0	6	O	O	severe	x	x	0
+I-Sentence	0	7	O	O	sentences	x	x	0
+I-Sentence	0	8	O	O	,	x	x	0
+I-Sentence	0	9	O	O	including	x	x	0
+I-Sentence	0	10	O	O	death	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	for	x	x	0
+B-PER	0	13	O	O	drug	x	x	0
+I-PER	0	14	O	O	smugglers	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Narcotics	x	x	0
+O	0	1	O	O	abuse	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	increasingly	x	x	0
+O	0	5	O	O	serious	x	x	0
+O	0	6	O	O	problem	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	country	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Amnesty	x	x	0
+I-ORG	0	1	O	O	International	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	appealed	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Indonesia	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	spare	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	lives	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	convicted	x	x	0
+B-Crime	0	12	O	O	drug	x	x	0
+O	0	13	O	O	offenders	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	others	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	saying	x	x	0
+O	0	18	O	O	there	x	x	0
+O	0	19	O	O	was	x	x	0
+O	0	20	O	O	no	x	x	0
+O	0	21	O	O	proof	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	death	x	x	0
+O	0	24	O	O	penalty	x	x	0
+O	0	25	O	O	deters	x	x	0
+B-PER	0	26	O	O	would-be	x	x	0
+I-PER	0	27	O	O	traffickers	x	x	0
+O	0	28	O	O	more	x	x	0
+O	0	29	O	O	effectively	x	x	0
+O	0	30	O	O	than	x	x	0
+O	0	31	O	O	other	x	x	0
+O	0	32	O	O	punishments	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Amnesty	x	x	0
+O	0	1	O	O	opposes	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	death	x	x	0
+O	0	4	O	O	penalty	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	any	x	x	0
+B-Crime	0	7	O	O	crime	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Use	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	death	x	x	0
+O	0	4	O	O	penalty	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	rare	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	Indonesia	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	where	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	last	x	x	0
+O	0	13	O	O	execution	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	carried	x	x	0
+O	0	16	O	O	out	x	x	0
+O	0	17	O	O	in	x	x	0
+B-TIME	0	18	O	O	May	x	x	0
+I-TIME	0	19	O	O	2001	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	two	x	x	0
+O	0	22	O	O	men	x	x	0
+O	0	23	O	O	convicted	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	a	x	x	0
+B-Crime	0	26	O	O	murder	x	x	0
+O	0	27	O	O	in	x	x	0
+B-TIME	0	28	O	O	1989	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	first	x	x	0
+O	0	4	O	O	execution	x	x	0
+O	0	5	O	O	for	x	x	0
+B-TIME	0	6	O	O	five	x	x	0
+I-TIME	0	7	O	O	years	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-ORG	0	1	O	O	police	x	x	0
+O	0	2	O	O	firing	x	x	0
+O	0	3	O	O	squad	x	x	0
+O	0	4	O	O	enforces	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	penalty	x	x	0
+O	0	7	O	O	.	x	x	0
+

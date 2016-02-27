@@ -1,0 +1,523 @@
+B-PER	0	0	O	O	no	x	x	0
+I-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	seems	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	sure	x	x	0
+O	0	6	O	O	what	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	happened	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	Saddam	x	x	0
+I-PER	0	11	O	O	Hussein	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	his	x	x	0
+O	0	14	O	O	two	x	x	0
+O	0	15	O	O	sons	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	but	x	x	0
+O	0	18	O	O	one	x	x	0
+O	0	19	O	O	thing	x	x	0
+O	0	20	O	O	is	x	x	0
+O	0	21	O	O	becoming	x	x	0
+O	0	22	O	O	more	x	x	0
+O	0	23	O	O	clear	x	x	0
+B-PER	0	24	O	O	Uday	x	x	0
+O	0	25	O	O	and	x	x	0
+B-PER	0	26	O	O	Qusay	x	x	0
+O	0	27	O	O	were	x	x	0
+O	0	28	O	O	just	x	x	0
+O	0	29	O	O	as	x	x	0
+O	0	30	O	O	bad	x	x	0
+O	0	31	O	O	as	x	x	0
+B-PER	0	32	O	O	their	x	x	0
+O	0	33	O	O	father	x	x	0
+O	0	34	O	O	if	x	x	0
+O	0	35	O	O	not	x	x	0
+O	0	36	O	O	worse	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-ORG	0	1	O	O	Time	x	x	0
+I-ORG	0	2	O	O	"	x	x	0
+I-ORG	0	3	O	O	Magazine	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	Michael	x	x	0
+O	0	6	O	O	Weisskopf	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	uncovered	x	x	0
+O	0	9	O	O	some	x	x	0
+O	0	10	O	O	stunning	x	x	0
+O	0	11	O	O	details	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	lives	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	these	x	x	0
+I-PER	0	17	O	O	two	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	joins	x	x	0
+B-PER	0	2	O	O	US	x	x	0
+B-TIME	0	3	O	O	now	x	x	0
+O	0	4	O	O	from	x	x	0
+B-GPE	0	5	O	O	Washington	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	taking	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	time	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	join	x	x	0
+B-PER	0	7	O	O	us	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Michael	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	read	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	article	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	knew	x	x	0
+O	0	10	O	O	that	x	x	0
+B-PER	0	11	O	O	these	x	x	0
+O	0	12	O	O	were	x	x	0
+O	0	13	O	O	not	x	x	0
+B-PER	0	14	O	O	good	x	x	0
+I-PER	0	15	O	O	guys	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	putting	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	mildly	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	but	x	x	0
+O	0	22	O	O	as	x	x	0
+B-PER	0	23	O	O	you	x	x	0
+O	0	24	O	O	saw	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	heard	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	revelations	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	what	x	x	0
+O	0	31	O	O	were	x	x	0
+B-PER	0	32	O	O	your	x	x	0
+O	0	33	O	O	reactions	x	x	0
+O	0	34	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	stomach	x	x	0
+O	0	3	O	O	turning	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	put	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	bluntly	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	the	x	x	0
+O	0	1	O	O	extent	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	depravity	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	truly0stunning	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	're	x	x	0
+O	0	10	O	O	right	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	took	x	x	0
+O	0	14	O	O	different	x	x	0
+O	0	15	O	O	paths	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	these	x	x	0
+I-PER	0	18	O	O	two	x	x	0
+I-PER	0	19	O	O	guys	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	younger	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	two	x	x	0
+I-PER	0	5	O	O	brothers	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Qusay	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	very	x	x	0
+O	0	11	O	O	ic	x	x	0
+O	0	12	O	O	professional	x	x	0
+O	0	13	O	O	killer	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	pulled	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	trigger	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	political	x	x	0
+O	0	20	O	O	aim	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	mind	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	eyewitnesses	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	orders	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	execution	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	hundreds	x	x	0
+I-PER	0	10	O	O	of	x	x	0
+I-PER	0	11	O	O	people	x	x	0
+O	0	12	O	O	in	x	x	0
+B-TIME	0	13	O	O	1991	x	x	0
+O	0	14	O	O	during	x	x	0
+O	0	15	O	O	the	x	x	0
+B-PER	0	16	O	O	Shiite	x	x	0
+O	0	17	O	O	Muslim	x	x	0
+O	0	18	O	O	uprising	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	brother	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Uday	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	very	x	x	0
+O	0	7	O	O	highly	x	x	0
+O	0	8	O	O	personal	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	arbitrary	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	spontaneous	x	x	0
+O	0	13	O	O	in	x	x	0
+B-PER	0	14	O	O	his	x	x	0
+O	0	15	O	O	attacks	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	extended	x	x	0
+O	0	18	O	O	to	x	x	0
+B-PER	0	19	O	O	young	x	x	0
+I-PER	0	20	O	O	girls	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	to	x	x	0
+B-PER	0	23	O	O	friends	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	to	x	x	0
+B-PER	0	26	O	O	employees	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	extraordinary	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	with	x	x	0
+B-PER	0	1	O	O	Uday	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	mean	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	stories	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	open	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	article	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	what	x	x	0
+B-PER	0	15	O	O	you	x	x	0
+O	0	16	O	O	cowrote	x	x	0
+O	0	17	O	O	this	x	x	0
+O	0	18	O	O	article	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	sum	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	two	x	x	0
+O	0	23	O	O	evils	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	reign	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	terror	x	x	0
+O	0	29	O	O	with	x	x	0
+B-PER	0	30	O	O	Saddam	x	x	0
+O	0	31	O	O	's	x	x	0
+O	0	32	O	O	sons	x	x	0
+O	0	33	O	O	abducting	x	x	0
+B-PER	0	34	O	O	a	x	x	0
+I-PER	0	35	O	O	14-year-old	x	x	0
+O	0	36	O	O	,	x	x	0
+O	0	37	O	O	raping	x	x	0
+B-PER	0	38	O	O	her	x	x	0
+O	0	39	O	O	,	x	x	0
+O	0	40	O	O	crashing	x	x	0
+O	0	41	O	O	wedding	x	x	0
+O	0	42	O	O	parties	x	x	0
+O	0	43	O	O	to	x	x	0
+O	0	44	O	O	rape	x	x	0
+O	0	45	O	O	the	x	x	0
+O	0	46	O	O	brides.	x	x	0
+O	0	47	O	O	was	x	x	0
+O	0	48	O	O	that	x	x	0
+O	0	49	O	O	about	x	x	0
+O	0	50	O	O	as	x	x	0
+O	0	51	O	O	bad	x	x	0
+O	0	52	O	O	as	x	x	0
+O	0	53	O	O	it	x	x	0
+O	0	54	O	O	got	x	x	0
+O	0	55	O	O	with	x	x	0
+B-PER	0	56	O	O	these	x	x	0
+I-PER	0	57	O	O	guys	x	x	0
+O	0	58	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	ca	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	get	x	x	0
+O	0	6	O	O	much	x	x	0
+O	0	7	O	O	worse	x	x	0
+O	0	8	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	thought	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	depth	x	x	0
+O	0	5	O	O	may	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	how	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	treated	x	x	0
+B-PER	0	10	O	O	his	x	x	0
+O	0	11	O	O	friends	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	%	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	there	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	couple	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	stories	x	x	0
+B-PER	0	21	O	O	we	x	x	0
+O	0	22	O	O	heard	x	x	0
+O	0	23	O	O	about	x	x	0
+O	0	24	O	O	how	x	x	0
+B-PER	0	25	O	O	he	x	x	0
+O	0	26	O	O	forced	x	x	0
+B-PER	0	27	O	O	friends	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	drink	x	x	0
+O	0	30	O	O	large	x	x	0
+O	0	31	O	O	quantities	x	x	0
+O	0	32	O	O	of	x	x	0
+O	0	33	O	O	grain	x	x	0
+O	0	34	O	O	alcohol	x	x	0
+O	0	35	O	O	until	x	x	0
+B-PER	0	36	O	O	they	x	x	0
+O	0	37	O	O	vomited	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	friend	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	afraid	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	going	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	leave	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	country	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	spill	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	beans	x	x	0
+O	0	16	O	O	on	x	x	0
+B-PER	0	17	O	O	him	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	had	x	x	0
+B-PER	0	2	O	O	him	x	x	0
+O	0	3	O	O	arrested	x	x	0
+O	0	4	O	O	by	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	Fedayeen	x	x	0
+O	0	7	O	O	Saddam	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	had	x	x	0
+B-PER	0	2	O	O	him	x	x	0
+O	0	3	O	O	held	x	x	0
+O	0	4	O	O	down	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	Tong	x	x	0
+O	0	7	O	O	pulled	x	x	0
+O	0	8	O	O	out	x	x	0
+O	0	9	O	O	by	x	x	0
+O	0	10	O	O	pliers	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	sliced	x	x	0
+O	0	13	O	O	off	x	x	0
+O	0	14	O	O	with	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	scapel	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	awful	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	still	x	x	0
+O	0	2	O	O	fear	x	x	0
+B-PER	0	3	O	O	them	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	Saddam	x	x	0
+I-PER	0	6	O	O	Hussein	x	x	0
+B-PER	0	7	O	O	himself	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	did	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	get	x	x	0
+B-PER	0	4	O	O	people	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	talk	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Were	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	forthcoming	x	x	0
+O	0	3	O	O	or	x	x	0
+O	0	4	O	O	pretty	x	x	0
+O	0	5	O	O	reticent	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	talking	x	x	0
+O	0	8	O	O	about	x	x	0
+B-PER	0	9	O	O	these	x	x	0
+I-PER	0	10	O	O	guys	x	x	0
+O	0	11	O	O	?	x	x	0
+
+O	0	0	O	O	it	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	hard	x	x	0
+O	0	4	O	O	report	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	hard	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	find	x	x	0
+B-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	then	x	x	0
+O	0	9	O	O	hard	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	get	x	x	0
+B-PER	0	12	O	O	them	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	talk	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Over	x	x	0
+B-TIME	0	1	O	O	time	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	gained	x	x	0
+O	0	5	O	O	trust	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	promised	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	hold	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	people	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	anonimity	x	x	0
+O	0	9	O	O	if	x	x	0
+B-PER	0	10	O	O	we	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	After	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	little	x	x	0
+O	0	3	O	O	while	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	after	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	primed	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	pump	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	people	x	x	0
+O	0	13	O	O	wanted	x	x	0
+O	0	14	O	O	to	x	x	0
+

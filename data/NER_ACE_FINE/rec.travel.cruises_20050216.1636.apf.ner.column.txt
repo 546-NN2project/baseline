@@ -1,0 +1,570 @@
+O	0	0	O	O	Has	x	x	0
+B-PER	0	1	O	O	anybody	x	x	0
+I-PER	0	2	O	O	out	x	x	0
+I-PER	0	3	O	O	there	x	x	0
+O	0	4	O	O	seen	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	done	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	saw	x	x	0
+O	0	2	O	O	somewhere	x	x	0
+O	0	3	O	O	on	x	x	0
+B-ORG	0	4	O	O	their	x	x	0
+O	0	5	O	O	site	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	lot	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	prep	x	x	0
+O	0	12	O	O	time	x	x	0
+O	0	13	O	O	needed	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	get	x	x	0
+O	0	16	O	O	married	x	x	0
+B-VEH	0	17	O	O	onboard	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	if	x	x	0
+O	0	3	O	O	its	x	x	0
+O	0	4	O	O	easier	x	x	0
+O	0	5	O	O	just	x	x	0
+O	0	6	O	O	renewing	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	vows	x	x	0
+O	0	9	O	O	as	x	x	0
+B-PER	0	10	O	O	my	x	x	0
+O	0	11	O	O	wife	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	been	x	x	0
+O	0	14	O	O	looking	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	this	x	x	0
+O	0	17	O	O	for	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	while.	x	x	0
+O	0	20	O	O	going	x	x	0
+O	0	21	O	O	out	x	x	0
+O	0	22	O	O	on	x	x	0
+B-VEH	0	23	O	O	the	x	x	0
+I-VEH	0	24	O	O	Sensation	x	x	0
+O	0	25	O	O	in	x	x	0
+B-TIME	0	26	O	O	March	x	x	0
+O	0	27	O	O	for	x	x	0
+B-PER	0	28	O	O	our	x	x	0
+O	0	29	O	O	18th	x	x	0
+O	0	30	O	O	anniverary	x	x	0
+O	0	31	O	O	.	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	wife	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	guests	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	wedding	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	the	x	x	0
+B-ORG	0	11	O	O	Carnival	x	x	0
+O	0	12	O	O	Legend	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	New	x	x	0
+O	0	15	O	O	Years	x	x	0
+O	0	16	O	O	Eve	x	x	0
+B-TIME	0	17	O	O	2003	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	All	x	x	0
+I-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	guests	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	folks	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	met	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	bride	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	groom	x	x	0
+O	0	12	O	O	(	x	x	0
+O	0	13	O	O	an	x	x	0
+O	0	14	O	O	attractive	x	x	0
+O	0	15	O	O	young	x	x	0
+O	0	16	O	O	couple	x	x	0
+B-PER	0	17	O	O	who	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	sailing	x	x	0
+O	0	20	O	O	alone	x	x	0
+O	0	21	O	O	)	x	x	0
+O	0	22	O	O	virtually	x	x	0
+O	0	23	O	O	on	x	x	0
+O	0	24	O	O	cruisecritic	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	wedding	x	x	0
+O	0	2	O	O	took	x	x	0
+O	0	3	O	O	place	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	the	x	x	0
+I-TIME	0	6	O	O	afternoon	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	before	x	x	0
+B-VEH	0	9	O	O	the	x	x	0
+I-VEH	0	10	O	O	ship	x	x	0
+O	0	11	O	O	set	x	x	0
+O	0	12	O	O	sail	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thus	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	couple	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	actual	x	x	0
+O	0	6	O	O	married	x	x	0
+O	0	7	O	O	by	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	justice	x	x	0
+I-PER	0	10	O	O	of	x	x	0
+I-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	peace	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	state	x	x	0
+O	0	16	O	O	of	x	x	0
+B-GPE	0	17	O	O	Florida	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	great	x	x	0
+O	0	4	O	O	way	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	begin	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	cruise	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Although	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	am	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	certain	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	assume	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	renewing	x	x	0
+B-PER	0	12	O	O	your	x	x	0
+O	0	13	O	O	vows	x	x	0
+O	0	14	O	O	could	x	x	0
+O	0	15	O	O	actually	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	done	x	x	0
+O	0	18	O	O	while	x	x	0
+B-VEH	0	19	O	O	the	x	x	0
+I-VEH	0	20	O	O	ship	x	x	0
+O	0	21	O	O	was	x	x	0
+O	0	22	O	O	at	x	x	0
+B-LOC	0	23	O	O	sea	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	because	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	would	x	x	0
+O	0	28	O	O	not	x	x	0
+O	0	29	O	O	involve	x	x	0
+O	0	30	O	O	any	x	x	0
+O	0	31	O	O	legal	x	x	0
+O	0	32	O	O	issues	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Howie	x	x	0
+
+O	0	0	O	O	-	x	x	0
+O	0	1	O	O	Has	x	x	0
+B-PER	0	2	O	O	anybody	x	x	0
+I-PER	0	3	O	O	out	x	x	0
+I-PER	0	4	O	O	there	x	x	0
+O	0	5	O	O	seen	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	done	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	details	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	but	x	x	0
+O	0	8	O	O	on	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	last	x	x	0
+O	0	11	O	O	cruise	x	x	0
+O	0	12	O	O	there	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	LARGE	x	x	0
+O	0	16	O	O	wedding	x	x	0
+O	0	17	O	O	going	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	bride	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	decked	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	in	x	x	0
+B-PER	0	7	O	O	her	x	x	0
+O	0	8	O	O	long	x	x	0
+O	0	9	O	O	gown	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	veil	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	groom	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	tux	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	other	x	x	0
+O	0	19	O	O	wedding	x	x	0
+O	0	20	O	O	party	x	x	0
+B-PER	0	21	O	O	all	x	x	0
+O	0	22	O	O	dressed	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	nines	x	x	0
+O	0	26	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+B-VEH	0	4	O	O	the	x	x	0
+I-VEH	0	5	O	O	larger	x	x	0
+I-VEH	0	6	O	O	lounges	x	x	0
+O	0	7	O	O	closed	x	x	0
+O	0	8	O	O	off	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	private	x	x	0
+O	0	12	O	O	reception	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	allowed	x	x	0
+O	0	7	O	O	any	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+B-TIME	0	11	O	O	30	x	x	0
+I-TIME	0	12	O	O	minutes	x	x	0
+I-TIME	0	13	O	O	until	x	x	0
+I-TIME	0	14	O	O	sailing	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	announcement	x	x	0
+O	0	17	O	O	was	x	x	0
+O	0	18	O	O	made	x	x	0
+O	0	19	O	O	that	x	x	0
+B-PER	0	20	O	O	all	x	x	0
+I-PER	0	21	O	O	NON	x	x	0
+I-PER	0	22	O	O	CRUISE	x	x	0
+I-PER	0	23	O	O	guests	x	x	0
+O	0	24	O	O	must	x	x	0
+O	0	25	O	O	make	x	x	0
+B-PER	0	26	O	O	their	x	x	0
+O	0	27	O	O	way	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	disembark	x	x	0
+B-VEH	0	30	O	O	the	x	x	0
+I-VEH	0	31	O	O	ship	x	x	0
+O	0	32	O	O	prior	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	sailing	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	never	x	x	0
+O	0	3	O	O	heard	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	announcement	x	x	0
+O	0	6	O	O	before	x	x	0
+O	0	7	O	O	so	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	assumed	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	for	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	people	x	x	0
+I-PER	0	16	O	O	attending	x	x	0
+I-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	wedding	x	x	0
+I-PER	0	19	O	O	on	x	x	0
+I-PER	0	20	O	O	board	x	x	0
+O	0	21	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	largest	x	x	0
+I-PER	0	4	O	O	wedding	x	x	0
+I-PER	0	5	O	O	gathering	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	ever	x	x	0
+O	0	9	O	O	seen	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	board	x	x	0
+O	0	12	O	O	...	x	x	0
+O	0	13	O	O	maybe	x	x	0
+B-PER	0	14	O	O	someone	x	x	0
+O	0	15	O	O	had	x	x	0
+O	0	16	O	O	connections	x	x	0
+O	0	17	O	O	???	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	bride	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	still	x	x	0
+O	0	4	O	O	visible	x	x	0
+B-TIME	0	5	O	O	later	x	x	0
+I-TIME	0	6	O	O	into	x	x	0
+I-TIME	0	7	O	O	the	x	x	0
+I-TIME	0	8	O	O	evening	x	x	0
+O	0	9	O	O	still	x	x	0
+O	0	10	O	O	wearing	x	x	0
+B-PER	0	11	O	O	her	x	x	0
+O	0	12	O	O	wedding	x	x	0
+O	0	13	O	O	gown	x	x	0
+O	0	14	O	O	on	x	x	0
+B-VEH	0	15	O	O	the	x	x	0
+I-VEH	0	16	O	O	Lido	x	x	0
+I-VEH	0	17	O	O	Deck	x	x	0
+O	0	18	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	Len	x	x	0
+O	0	1	O	O	...	x	x	0
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	16	x	x	0
+O	0	2	O	O	Feb	x	x	0
+O	0	3	O	O	2005	x	x	0
+O	0	4	O	O	13:36:29	x	x	0
+O	0	5	O	O	0800	x	x	0
+O	0	6	O	O	,	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	renewed	x	x	0
+B-PER	0	2	O	O	our	x	x	0
+O	0	3	O	O	vows	x	x	0
+O	0	4	O	O	on	x	x	0
+B-ORG	0	5	O	O	Carnival	x	x	0
+O	0	6	O	O	Conquest	x	x	0
+O	0	7	O	O	on	x	x	0
+B-TIME	0	8	O	O	10/31/2004	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	need	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	contact	x	x	0
+B-ORG	0	13	O	O	Carnival	x	x	0
+O	0	14	O	O	wedding	x	x	0
+O	0	15	O	O	department	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	ask	x	x	0
+O	0	18	O	O	if	x	x	0
+B-ORG	0	19	O	O	they	x	x	0
+O	0	20	O	O	have	x	x	0
+O	0	21	O	O	any	x	x	0
+O	0	22	O	O	wedding	x	x	0
+O	0	23	O	O	/	x	x	0
+O	0	24	O	O	renewal	x	x	0
+O	0	25	O	O	packages	x	x	0
+O	0	26	O	O	available	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	These	x	x	0
+O	0	1	O	O	usally	x	x	0
+O	0	2	O	O	take	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	little	x	x	0
+O	0	5	O	O	time	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	set	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	if	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	going	x	x	0
+O	0	13	O	O	in	x	x	0
+B-TIME	0	14	O	O	March	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	am	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	sure	x	x	0
+O	0	19	O	O	if	x	x	0
+O	0	20	O	O	/	x	x	0
+O	0	21	O	O	what	x	x	0
+O	0	22	O	O	would	x	x	0
+O	0	23	O	O	be	x	x	0
+O	0	24	O	O	available	x	x	0
+O	0	25	O	O	to	x	x	0
+B-PER	0	26	O	O	you	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	starting	x	x	0
+O	0	4	O	O	a	x	x	0
+B-TIME	0	5	O	O	new	x	x	0
+O	0	6	O	O	Renewal	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	Vows	x	x	0
+O	0	9	O	O	program	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	which	x	x	0
+O	0	12	O	O	included	x	x	0
+O	0	13	O	O	all	x	x	0
+B-PER	0	14	O	O	we	x	x	0
+O	0	15	O	O	rec	x	x	0
+O	0	16	O	O	'd	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	but	x	x	0
+O	0	19	O	O	was	x	x	0
+O	0	20	O	O	cheaper	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Since	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	already	x	x	0
+O	0	4	O	O	paid	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	our	x	x	0
+O	0	7	O	O	package	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	kept	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Had	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	nice	x	x	0
+O	0	4	O	O	ceremony	x	x	0
+O	0	5	O	O	with	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	justice	x	x	0
+I-PER	0	8	O	O	of	x	x	0
+I-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	peace	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	small	x	x	0
+O	0	14	O	O	reception	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	the	x	x	0
+B-PER	0	17	O	O	family	x	x	0
+O	0	18	O	O	members	x	x	0
+O	0	19	O	O	traveling	x	x	0
+O	0	20	O	O	with	x	x	0
+B-PER	0	21	O	O	us	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Call	x	x	0
+B-ORG	0	1	O	O	Carnival	x	x	0
+O	0	2	O	O	Wedding	x	x	0
+O	0	3	O	O	Dept.	x	x	0
+O	0	4	O	O	at	x	x	0
+B-Contact-Info	0	5	O	O	1	x	x	0
+I-Contact-Info	0	6	O	O	(	x	x	0
+I-Contact-Info	0	7	O	O	800	x	x	0
+I-Contact-Info	0	8	O	O	)	x	x	0
+I-Contact-Info	0	9	O	O	933-4968	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	send	x	x	0
+O	0	12	O	O	an	x	x	0
+O	0	13	O	O	email	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	:	x	x	0
+B-Contact-Info	0	16	O	O	weddi	x	x	0
+I-Contact-Info	0	17	O	O	...	x	x	0
+I-Contact-Info	0	18	O	O	@	x	x	0
+I-Contact-Info	0	19	O	O	carnival.com	x	x	0
+O	0	20	O	O	Happy	x	x	0
+O	0	21	O	O	anniversary	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	enjoy	x	x	0
+B-PER	0	24	O	O	your	x	x	0
+O	0	25	O	O	cruise	x	x	0
+O	0	26	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	Mary	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	NC	x	x	0
+

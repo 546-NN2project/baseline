@@ -1,0 +1,409 @@
+O	0	0	O	O	Time	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	"	x	x	0
+O	0	3	O	O	Fireback	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	when	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	viewers	x	x	0
+O	0	9	O	O	fire	x	x	0
+O	0	10	O	O	back	x	x	0
+O	0	11	O	O	at	x	x	0
+B-PER	0	12	O	O	us	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Joshua	x	x	0
+O	0	1	O	O	Hosford	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	Newport	x	x	0
+O	0	4	O	O	Beach	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	California	x	x	0
+B-GPE	0	7	O	O	that	x	x	0
+O	0	8	O	O	would	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	nice	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	this	x	x	0
+O	0	13	O	O	weathers	x	x	0
+O	0	14	O	O	"	x	x	0
+B-PER	0	15	O	O	Paul	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	guess	x	x	0
+B-PER	0	19	O	O	we	x	x	0
+O	0	20	O	O	're	x	x	0
+O	0	21	O	O	going	x	x	0
+O	0	22	O	O	after	x	x	0
+O	0	23	O	O	all	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Case	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	point	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Khalid	x	x	0
+I-PER	0	5	O	O	Shaikh	x	x	0
+I-PER	0	6	O	O	Mohammed	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	amazing	x	x	0
+O	0	3	O	O	how	x	x	0
+B-PER	0	4	O	O	someone	x	x	0
+O	0	5	O	O	can	x	x	0
+O	0	6	O	O	actually	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	two	x	x	0
+O	0	9	O	O	things	x	x	0
+O	0	10	O	O	at	x	x	0
+O	0	11	O	O	once	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	chewing	x	x	0
+O	0	3	O	O	gum	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	talking	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	phone	x	x	0
+O	0	9	O	O	while	x	x	0
+O	0	10	O	O	writing	x	x	0
+O	0	11	O	O	this	x	x	0
+O	0	12	O	O	note	x	x	0
+O	0	13	O	O	.	x	x	0
+O	0	14	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Joshua	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	could	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	said	x	x	0
+O	0	7	O	O	anything	x	x	0
+O	0	8	O	O	better	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	fact	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	've	x	x	0
+O	0	5	O	O	already	x	x	0
+O	0	6	O	O	said	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	fact	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	our	x	x	0
+O	0	6	O	O	allies	x	x	0
+O	0	7	O	O	got	x	x	0
+B-PER	0	8	O	O	Mr.	x	x	0
+O	0	9	O	O	Mohammed	x	x	0
+O	0	10	O	O	along	x	x	0
+O	0	11	O	O	with	x	x	0
+B-GPE	0	12	O	O	us	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	need	x	x	0
+B-GPE	0	2	O	O	allies	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	Bush	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	so	x	x	0
+O	0	4	O	O	far	x	x	0
+O	0	5	O	O	angered	x	x	0
+O	0	6	O	O	every	x	x	0
+O	0	7	O	O	ally	x	x	0
+B-GPE	0	8	O	O	we	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Dan	x	x	0
+O	0	1	O	O	Snyder	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	Baden	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	Pennsylvania	x	x	0
+O	0	6	O	O	writes	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	"	x	x	0
+B-PER	0	9	O	O	Bush	x	x	0
+O	0	10	O	O	should	x	x	0
+O	0	11	O	O	torture	x	x	0
+O	0	12	O	O	the	x	x	0
+B-ORG	0	13	O	O	al	x	x	0
+I-ORG	0	14	O	O	Qaeda	x	x	0
+O	0	15	O	O	chief	x	x	0
+O	0	16	O	O	operations	x	x	0
+O	0	17	O	O	officer	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Bush	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	torturing	x	x	0
+B-GPE	0	4	O	O	Americans	x	x	0
+O	0	5	O	O	for	x	x	0
+B-TIME	0	6	O	O	two	x	x	0
+I-TIME	0	7	O	O	years	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	should	x	x	0
+B-PER	0	2	O	O	this	x	x	0
+I-PER	0	3	O	O	guy	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	preferential	x	x	0
+O	0	6	O	O	treatment	x	x	0
+O	0	7	O	O	?	x	x	0
+O	0	8	O	O	"	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	thought	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	was	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	thought	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	busy	x	x	0
+O	0	10	O	O	running	x	x	0
+B-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	Redskins	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	OK	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	next	x	x	0
+O	0	2	O	O	comment	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	from	x	x	0
+O	0	5	O	O	Frank	x	x	0
+O	0	6	O	O	Mastro	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	New	x	x	0
+I-GPE	0	9	O	O	York	x	x	0
+I-GPE	0	10	O	O	City	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	Mr.	x	x	0
+O	0	2	O	O	Novak	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	understand	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	problem	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	budget	x	x	0
+O	0	3	O	O	goes	x	x	0
+O	0	4	O	O	through	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	why	x	x	0
+O	0	9	O	O	do	x	x	0
+O	0	10	O	O	n't	x	x	0
+B-PER	0	11	O	O	Mr.	x	x	0
+O	0	12	O	O	Begala	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	Mr.	x	x	0
+O	0	15	O	O	Carville	x	x	0
+O	0	16	O	O	just	x	x	0
+O	0	17	O	O	donate	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	extra	x	x	0
+O	0	20	O	O	tax	x	x	0
+O	0	21	O	O	money	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	do	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	want	x	x	0
+O	0	26	O	O	?	x	x	0
+O	0	27	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	rich	x	x	0
+B-PER	0	7	O	O	millionaire	x	x	0
+O	0	8	O	O	Democrats	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	like	x	x	0
+B-PER	0	11	O	O	Carville	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	Begala	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	who	x	x	0
+O	0	16	O	O	do	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	want	x	x	0
+O	0	19	O	O	tax	x	x	0
+O	0	20	O	O	cuts	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Pay	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	anyway	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	donate	x	x	0
+O	0	3	O	O	to	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	Democrats	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	defeat	x	x	0
+B-PER	0	3	O	O	Bush	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	everybody	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	get	x	x	0
+O	0	8	O	O	rich	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	better	x	x	0
+O	0	4	O	O	strategy	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	David	x	x	0
+O	0	1	O	O	Horn	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	Long	x	x	0
+O	0	4	O	O	Island	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	New	x	x	0
+I-GPE	0	7	O	O	York	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	writes	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	"	x	x	0
+O	0	12	O	O	How	x	x	0
+O	0	13	O	O	can	x	x	0
+B-PER	0	14	O	O	Bush	x	x	0
+O	0	15	O	O	say	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	democracy	x	x	0
+O	0	20	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	sue	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	become	x	x	0
+B-GPE	0	6	O	O	our	x	x	0
+O	0	7	O	O	president	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	keeps	x	x	0
+O	0	12	O	O	trying	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	bribe	x	x	0
+B-GPE	0	15	O	O	other	x	x	0
+I-GPE	0	16	O	O	countries	x	x	0
+I-GPE	0	17	O	O	'	x	x	0
+I-GPE	0	18	O	O	democratic	x	x	0
+I-GPE	0	19	O	O	governments	x	x	0
+O	0	20	O	O	into	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	supporting	x	x	0
+B-PER	0	23	O	O	his	x	x	0
+O	0	24	O	O	agenda	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Where	x	x	0
+O	0	1	O	O	did	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	learn	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	govern	x	x	0
+O	0	6	O	O	,	x	x	0
+B-TIME	0	7	O	O	1930's	x	x	0
+O	0	8	O	O	Chicago	x	x	0
+O	0	9	O	O	?	x	x	0
+O	0	10	O	O	"	x	x	0
+

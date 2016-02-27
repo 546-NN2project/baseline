@@ -1,0 +1,1002 @@
+B-PER	0	0	O	O	senators	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	good	x	x	0
+I-PER	0	4	O	O	teacher	x	x	0
+O	0	5	O	O	believes	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	possibilities	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	every	x	x	0
+I-PER	0	11	O	O	boy	x	x	0
+I-PER	0	12	O	O	and	x	x	0
+I-PER	0	13	O	O	girl	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	good	x	x	0
+I-PER	0	2	O	O	teacher	x	x	0
+O	0	3	O	O	sees	x	x	0
+O	0	4	O	O	what	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	possible	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	good	x	x	0
+I-PER	0	2	O	O	teacher	x	x	0
+O	0	3	O	O	believes	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	responsibility	x	x	0
+O	0	7	O	O	of	x	x	0
+B-ORG	0	8	O	O	every	x	x	0
+I-ORG	0	9	O	O	school	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	bring	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	best	x	x	0
+O	0	15	O	O	in	x	x	0
+B-PER	0	16	O	O	every	x	x	0
+I-PER	0	17	O	O	student	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	2001	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	we	x	x	0
+O	0	4	O	O	passed	x	x	0
+O	0	5	O	O	what	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	called	x	x	0
+O	0	8	O	O	the	x	x	0
+B-PER	0	9	O	O	no	x	x	0
+I-PER	0	10	O	O	child	x	x	0
+O	0	11	O	O	left	x	x	0
+O	0	12	O	O	behind	x	x	0
+O	0	13	O	O	legislation	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	Love	x	x	0
+O	0	2	O	O	Tha	x	x	0
+O	0	3	O	O	phrase	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	because	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	commitment	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	our	x	x	0
+O	0	12	O	O	nation	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	make	x	x	0
+O	0	15	O	O	sure	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	only	x	x	0
+O	0	19	O	O	does	x	x	0
+B-PER	0	20	O	O	every	x	x	0
+I-PER	0	21	O	O	child	x	x	0
+O	0	22	O	O	excel	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	but	x	x	0
+B-PER	0	25	O	O	no	x	x	0
+I-PER	0	26	O	O	child	x	x	0
+O	0	27	O	O	gets	x	x	0
+O	0	28	O	O	left	x	x	0
+O	0	29	O	O	behind	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Members	x	x	0
+O	0	1	O	O	of	x	x	0
+B-ORG	0	2	O	O	both	x	x	0
+I-ORG	0	3	O	O	parties	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	both	x	x	0
+I-PER	0	6	O	O	Republicans	x	x	0
+I-PER	0	7	O	O	and	x	x	0
+I-PER	0	8	O	O	Democrats	x	x	0
+O	0	9	O	O	came	x	x	0
+O	0	10	O	O	together	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	pass	x	x	0
+O	0	13	O	O	this	x	x	0
+O	0	14	O	O	law	x	x	0
+O	0	15	O	O	inherent	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	law	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	vision	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	high	x	x	0
+O	0	24	O	O	standards	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	money	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	meet	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	standards	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	An	x	x	0
+O	0	1	O	O	historic	x	x	0
+O	0	2	O	O	reforms	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	which	x	x	0
+O	0	3	O	O	put	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	education	x	x	0
+O	0	6	O	O	decisions	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	America	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	hands	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	teachers	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	principals	x	x	0
+O	0	16	O	O	and	x	x	0
+B-PER	0	17	O	O	local	x	x	0
+I-PER	0	18	O	O	officials	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-GPE	0	1	O	O	we	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	as	x	x	0
+B-GPE	0	6	O	O	we	x	x	0
+O	0	7	O	O	seek	x	x	0
+O	0	8	O	O	excellence	x	x	0
+O	0	9	O	O	for	x	x	0
+B-PER	0	10	O	O	every	x	x	0
+I-PER	0	11	O	O	child	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	we	x	x	0
+O	0	14	O	O	must	x	x	0
+O	0	15	O	O	design	x	x	0
+O	0	16	O	O	accountability	x	x	0
+O	0	17	O	O	systems	x	x	0
+O	0	18	O	O	at	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	state	x	x	0
+O	0	21	O	O	level	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	determine	x	x	0
+O	0	24	O	O	whether	x	x	0
+O	0	25	O	O	or	x	x	0
+O	0	26	O	O	not	x	x	0
+B-PER	0	27	O	O	each	x	x	0
+I-PER	0	28	O	O	child	x	x	0
+O	0	29	O	O	is	x	x	0
+O	0	30	O	O	learning	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	order	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	make	x	x	0
+O	0	4	O	O	sure	x	x	0
+B-PER	0	5	O	O	no	x	x	0
+I-PER	0	6	O	O	child	x	x	0
+O	0	7	O	O	gets	x	x	0
+O	0	8	O	O	left	x	x	0
+O	0	9	O	O	behind	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	we	x	x	0
+O	0	12	O	O	must	x	x	0
+O	0	13	O	O	understand	x	x	0
+O	0	14	O	O	whether	x	x	0
+O	0	15	O	O	or	x	x	0
+O	0	16	O	O	not	x	x	0
+B-PER	0	17	O	O	each	x	x	0
+I-PER	0	18	O	O	child	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	learning	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	read	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	write	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	add	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	subtract	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	plenty	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	praise	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	not	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	we	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	work	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	design	x	x	0
+O	0	8	O	O	programs	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	make	x	x	0
+O	0	11	O	O	sure	x	x	0
+B-PER	0	12	O	O	no	x	x	0
+I-PER	0	13	O	O	child	x	x	0
+O	0	14	O	O	gets	x	x	0
+O	0	15	O	O	left	x	x	0
+O	0	16	O	O	behind	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	crux	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	law	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Every	x	x	0
+I-GPE	0	1	O	O	state	x	x	0
+O	0	2	O	O	met	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	laws	x	x	0
+B-TIME	0	5	O	O	January	x	x	0
+I-TIME	0	6	O	O	31st	x	x	0
+I-TIME	0	7	O	O	deadline	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	submitting	x	x	0
+B-GPE	0	10	O	O	their	x	x	0
+O	0	11	O	O	accountability	x	x	0
+O	0	12	O	O	plans	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	approval	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	pleased	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	announce	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	secretary	x	x	0
+O	0	7	O	O	page	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	approved	x	x	0
+O	0	10	O	O	plans	x	x	0
+O	0	11	O	O	from	x	x	0
+B-GPE	0	12	O	O	Arkansas	x	x	0
+O	0	13	O	O	,	x	x	0
+B-GPE	0	14	O	O	Missouri	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	Washington	x	x	0
+O	0	17	O	O	State.	x	x	0
+O	0	18	O	O	which	x	x	0
+O	0	19	O	O	bring	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	which	x	x	0
+O	0	22	O	O	bring	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	total	x	x	0
+O	0	25	O	O	number	x	x	0
+O	0	26	O	O	of	x	x	0
+O	0	27	O	O	approved	x	x	0
+O	0	28	O	O	plans	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	16	x	x	0
+O	0	31	O	O	covering	x	x	0
+O	0	32	O	O	16	x	x	0
+O	0	33	O	O	million	x	x	0
+O	0	34	O	O	children	x	x	0
+O	0	35	O	O	in	x	x	0
+B-ORG	0	36	O	O	public	x	x	0
+I-ORG	0	37	O	O	schools	x	x	0
+O	0	38	O	O	across	x	x	0
+B-GPE	0	39	O	O	America	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Secretary	x	x	0
+O	0	1	O	O	Page	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	department	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	continue	x	x	0
+O	0	7	O	O	working	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	rest	x	x	0
+O	0	11	O	O	of	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	states	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	get	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	plans	x	x	0
+O	0	18	O	O	approved	x	x	0
+O	0	19	O	O	as	x	x	0
+O	0	20	O	O	quickly	x	x	0
+O	0	21	O	O	as	x	x	0
+O	0	22	O	O	possible	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	responding	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	challenge	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	local	x	x	0
+O	0	9	O	O	level	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	beginning	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	develop	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	accountability	x	x	0
+O	0	7	O	O	systems	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	show	x	x	0
+B-PER	0	10	O	O	your	x	x	0
+O	0	11	O	O	states	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	your	x	x	0
+O	0	14	O	O	communities	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+O	0	17	O	O	're	x	x	0
+O	0	18	O	O	doing	x	x	0
+B-PER	0	19	O	O	your	x	x	0
+O	0	20	O	O	job	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Leaving	x	x	0
+O	0	1	O	O	no	x	x	0
+O	0	2	O	O	doubt	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	minds	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	parents	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	taxpayers	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	citizens	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	some	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	whom	x	x	0
+O	0	17	O	O	praise	x	x	0
+B-ORG	0	18	O	O	public	x	x	0
+I-ORG	0	19	O	O	schools	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	some	x	x	0
+O	0	22	O	O	are	x	x	0
+O	0	23	O	O	critical	x	x	0
+O	0	24	O	O	of	x	x	0
+B-ORG	0	25	O	O	public	x	x	0
+I-ORG	0	26	O	O	schools	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	that	x	x	0
+B-PER	0	29	O	O	you	x	x	0
+O	0	30	O	O	're	x	x	0
+O	0	31	O	O	performing	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	understand	x	x	0
+O	0	3	O	O	why	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	're	x	x	0
+O	0	6	O	O	here	x	x	0
+O	0	7	O	O	being	x	x	0
+O	0	8	O	O	honored	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Washington	x	x	0
+O	0	11	O	O	,	x	x	0
+B-GPE	0	12	O	O	D.C.	x	x	0
+O	0	13	O	O	as	x	x	0
+O	0	14	O	O	one	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	top	x	x	0
+O	0	18	O	O	54	x	x	0
+O	0	19	O	O	teachers	x	x	0
+O	0	20	O	O	around	x	x	0
+B-GPE	0	21	O	O	our	x	x	0
+O	0	22	O	O	country	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Education	x	x	0
+O	0	1	O	O	reform	x	x	0
+O	0	2	O	O	depends	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	good	x	x	0
+O	0	5	O	O	laws	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	good	x	x	0
+O	0	8	O	O	plans	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	know	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	ultimately	x	x	0
+O	0	16	O	O	depends	x	x	0
+O	0	17	O	O	on	x	x	0
+B-PER	0	18	O	O	good	x	x	0
+I-PER	0	19	O	O	teachers	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Last	x	x	0
+I-TIME	0	1	O	O	June	x	x	0
+B-GPE	0	2	O	O	states	x	x	0
+O	0	3	O	O	submitted	x	x	0
+O	0	4	O	O	to	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	Department	x	x	0
+I-ORG	0	7	O	O	of	x	x	0
+I-ORG	0	8	O	O	Education	x	x	0
+O	0	9	O	O	Strategies	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	ensuring	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	all	x	x	0
+I-PER	0	14	O	O	teachers	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	highly	x	x	0
+O	0	17	O	O	qualified	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	By	x	x	0
+B-TIME	0	1	O	O	this	x	x	0
+I-TIME	0	2	O	O	September	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	states	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	assess	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	programs	x	x	0
+B-GPE	0	9	O	O	they	x	x	0
+O	0	10	O	O	expect	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	make	x	x	0
+O	0	13	O	O	by	x	x	0
+B-TIME	0	14	O	O	2005	x	x	0
+O	0	15	O	O	and	x	x	0
+B-TIME	0	16	O	O	2006	x	x	0
+O	0	17	O	O	school	x	x	0
+O	0	18	O	O	year	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Department	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	working	x	x	0
+O	0	4	O	O	with	x	x	0
+B-GPE	0	5	O	O	states	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	help	x	x	0
+B-PER	0	8	O	O	teachers	x	x	0
+O	0	9	O	O	meet	x	x	0
+O	0	10	O	O	new	x	x	0
+O	0	11	O	O	definitions	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	teacher	x	x	0
+O	0	14	O	O	quality	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	so	x	x	0
+O	0	17	O	O	that	x	x	0
+B-FAC	0	18	O	O	every	x	x	0
+I-FAC	0	19	O	O	classroom	x	x	0
+O	0	20	O	O	will	x	x	0
+O	0	21	O	O	have	x	x	0
+B-PER	0	22	O	O	a	x	x	0
+I-PER	0	23	O	O	well-trained	x	x	0
+I-PER	0	24	O	O	highly	x	x	0
+I-PER	0	25	O	O	effective	x	x	0
+I-PER	0	26	O	O	teacher	x	x	0
+O	0	27	O	O	like	x	x	0
+B-PER	0	28	O	O	you	x	x	0
+I-PER	0	29	O	O	all	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Our	x	x	0
+B-TIME	0	1	O	O	2003	x	x	0
+B-GPE	0	2	O	O	national	x	x	0
+O	0	3	O	O	teacher	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+B-TIME	0	6	O	O	year	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	an	x	x	0
+O	0	9	O	O	example	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	highest	x	x	0
+O	0	13	O	O	professional	x	x	0
+O	0	14	O	O	standards	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	finest	x	x	0
+O	0	3	O	O	personal	x	x	0
+O	0	4	O	O	qualities	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Betsy	x	x	0
+I-PER	0	1	O	O	Rogers	x	x	0
+O	0	2	O	O	teaches	x	x	0
+B-PER	0	3	O	O	first	x	x	0
+I-PER	0	4	O	O	and	x	x	0
+I-PER	0	5	O	O	second	x	x	0
+I-PER	0	6	O	O	grade	x	x	0
+I-PER	0	7	O	O	students	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	leads	x	x	0
+B-GPE	0	10	O	O	Alabama	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	an	x	x	0
+O	0	3	O	O	accomplished	x	x	0
+O	0	4	O	O	teacher	x	x	0
+O	0	5	O	O	with	x	x	0
+B-TIME	0	6	O	O	22	x	x	0
+I-TIME	0	7	O	O	years	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	profession	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	have	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	pick	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	any	x	x	0
+I-ORG	0	7	O	O	school	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yet	x	x	0
+B-PER	0	1	O	O	she	x	x	0
+O	0	2	O	O	chooses	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	teach	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	school	x	x	0
+O	0	8	O	O	in	x	x	0
+B-LOC	0	9	O	O	an	x	x	0
+I-LOC	0	10	O	O	underprivileged	x	x	0
+I-LOC	0	11	O	O	rural	x	x	0
+I-LOC	0	12	O	O	area	x	x	0
+O	0	13	O	O	because	x	x	0
+B-PER	0	14	O	O	she	x	x	0
+O	0	15	O	O	believes	x	x	0
+O	0	16	O	O	that	x	x	0
+B-PER	0	17	O	O	devoted	x	x	0
+I-PER	0	18	O	O	teachers	x	x	0
+I-PER	0	19	O	O	and	x	x	0
+I-PER	0	20	O	O	principals	x	x	0
+O	0	21	O	O	can	x	x	0
+O	0	22	O	O	make	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	difference	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	lives	x	x	0
+O	0	28	O	O	of	x	x	0
+B-PER	0	29	O	O	students	x	x	0
+I-PER	0	30	O	O	from	x	x	0
+I-PER	0	31	O	O	every	x	x	0
+I-PER	0	32	O	O	background	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Teaching	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	tradition	x	x	0
+O	0	4	O	O	in	x	x	0
+B-PER	0	5	O	O	Betsy	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	family	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	grandmother	x	x	0
+O	0	2	O	O	was	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	teacher	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Her	x	x	0
+O	0	1	O	O	mother	x	x	0
+O	0	2	O	O	taught	x	x	0
+B-TIME	0	3	O	O	Sunday	x	x	0
+O	0	4	O	O	School	x	x	0
+O	0	5	O	O	for	x	x	0
+B-TIME	0	6	O	O	50	x	x	0
+I-TIME	0	7	O	O	years	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	her	x	x	0
+O	0	2	O	O	own	x	x	0
+O	0	3	O	O	career	x	x	0
+B-PER	0	4	O	O	Betsy	x	x	0
+I-PER	0	5	O	O	Rogers	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	known	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	commitment	x	x	0
+O	0	11	O	O	to	x	x	0
+B-PER	0	12	O	O	students	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	goes	x	x	0
+O	0	15	O	O	beyond	x	x	0
+B-ORG	0	16	O	O	school	x	x	0
+O	0	17	O	O	hours	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	gives	x	x	0
+O	0	2	O	O	before	x	x	0
+B-ORG	0	3	O	O	school	x	x	0
+O	0	4	O	O	tutoring	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	students	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	need	x	x	0
+O	0	9	O	O	extra	x	x	0
+O	0	10	O	O	help	x	x	0
+O	0	11	O	O	learning	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	read	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	volunteers	x	x	0
+O	0	2	O	O	on	x	x	0
+B-ORG	0	3	O	O	school	x	x	0
+O	0	4	O	O	committees	x	x	0
+O	0	5	O	O	after	x	x	0
+O	0	6	O	O	hours	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	attends	x	x	0
+O	0	2	O	O	sporting	x	x	0
+O	0	3	O	O	events	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	birthday	x	x	0
+O	0	6	O	O	parties	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	her	x	x	0
+O	0	9	O	O	students	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	helps	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	familiar	x	x	0
+O	0	4	O	O	list	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	disadvantaged	x	x	0
+I-PER	0	7	O	O	students	x	x	0
+O	0	8	O	O	through	x	x	0
+B-ORG	0	9	O	O	local	x	x	0
+I-ORG	0	10	O	O	church	x	x	0
+I-ORG	0	11	O	O	and	x	x	0
+I-ORG	0	12	O	O	community	x	x	0
+I-ORG	0	13	O	O	groups	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Betsy	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	encourages	x	x	0
+B-PER	0	3	O	O	her	x	x	0
+O	0	4	O	O	students	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	help	x	x	0
+B-PER	0	7	O	O	each	x	x	0
+I-PER	0	8	O	O	other	x	x	0
+O	0	9	O	O	no	x	x	0
+O	0	10	O	O	matter	x	x	0
+O	0	11	O	O	what	x	x	0
+B-PER	0	12	O	O	your	x	x	0
+O	0	13	O	O	circumstances	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	life	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	can	x	x	0
+O	0	19	O	O	always	x	x	0
+O	0	20	O	O	give	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Teachers	x	x	0
+O	0	1	O	O	like	x	x	0
+B-PER	0	2	O	O	Betsy	x	x	0
+I-PER	0	3	O	O	Rogers	x	x	0
+O	0	4	O	O	put	x	x	0
+B-PER	0	5	O	O	children	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	road	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	becoming	x	x	0
+B-PER	0	11	O	O	good	x	x	0
+I-PER	0	12	O	O	citizens	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	importantly	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	successful	x	x	0
+I-PER	0	4	O	O	adults	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	show	x	x	0
+B-PER	0	2	O	O	students	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	are	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	lot	x	x	0
+I-PER	0	8	O	O	of	x	x	0
+I-PER	0	9	O	O	caring	x	x	0
+I-PER	0	10	O	O	people	x	x	0
+I-PER	0	11	O	O	ready	x	x	0
+I-PER	0	12	O	O	to	x	x	0
+I-PER	0	13	O	O	help	x	x	0
+I-PER	0	14	O	O	along	x	x	0
+I-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	way	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	thank	x	x	0
+O	0	2	O	O	every	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	of	x	x	0
+B-GPE	0	5	O	O	our	x	x	0
+O	0	6	O	O	teachers	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	the	x	x	0
+B-TIME	0	9	O	O	year	x	x	0
+O	0	10	O	O	for	x	x	0
+B-PER	0	11	O	O	your	x	x	0
+O	0	12	O	O	determination	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	your	x	x	0
+O	0	15	O	O	love	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Each	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	example	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	excellence	x	x	0
+O	0	8	O	O	in	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	classroom	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Each	x	x	0
+I-PER	0	1	O	O	of	x	x	0
+I-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	model	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	young	x	x	0
+I-PER	0	9	O	O	teacher	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	follow	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	your	x	x	0
+O	0	2	O	O	students	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	fortunate	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+B-PER	0	7	O	O	talented	x	x	0
+I-PER	0	8	O	O	and	x	x	0
+I-PER	0	9	O	O	good-hearted	x	x	0
+I-PER	0	10	O	O	people	x	x	0
+O	0	11	O	O	in	x	x	0
+B-PER	0	12	O	O	their	x	x	0
+O	0	13	O	O	lives	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-GPE	0	1	O	O	our	x	x	0
+O	0	2	O	O	nation	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	fortunate	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	in	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	classroom	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	for	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	work	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	May	x	x	0
+B-PER	0	1	O	O	God	x	x	0
+O	0	2	O	O	bless	x	x	0
+O	0	3	O	O	what	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	pleased	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	introduce	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	national	x	x	0
+O	0	9	O	O	teacher	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+B-TIME	0	12	O	O	year	x	x	0
+B-PER	0	13	O	O	Betsy	x	x	0
+I-PER	0	14	O	O	Rogers	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	applause	x	x	0
+O	0	2	O	O	]	x	x	0
+

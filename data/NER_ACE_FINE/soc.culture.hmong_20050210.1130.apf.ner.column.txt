@@ -1,0 +1,893 @@
+O	0	0	O	O	its	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	politics	x	x	0
+B-GPE	0	3	O	O	north	x	x	0
+I-GPE	0	4	O	O	korea	x	x	0
+O	0	5	O	O	got	x	x	0
+O	0	6	O	O	J	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	A	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	its	x	x	0
+O	0	11	O	O	hand.	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	usa	x	x	0
+O	0	14	O	O	got	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	pair	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	Ks	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	flop	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	table	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	Q	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	A	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	10	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	....	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	turn	x	x	0
+O	0	15	O	O	might	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	Jack	x	x	0
+O	0	19	O	O	for	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	USA	x	x	0
+B-LOC	0	22	O	O	the	x	x	0
+I-LOC	0	23	O	O	river	x	x	0
+O	0	24	O	O	might	x	x	0
+O	0	25	O	O	be	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	Ace	x	x	0
+O	0	28	O	O	for	x	x	0
+O	0	29	O	O	North	x	x	0
+O	0	30	O	O	Korea.	x	x	0
+B-LOC	0	31	O	O	it	x	x	0
+O	0	32	O	O	's	x	x	0
+B-PER	0	33	O	O	your	x	x	0
+O	0	34	O	O	world	x	x	0
+O	0	35	O	O	not	x	x	0
+O	0	36	O	O	mine.	x	x	0
+O	0	37	O	O	beautiful..	x	x	0
+B-PER	0	38	O	O	condolezza	x	x	0
+I-PER	0	39	O	O	rice	x	x	0
+O	0	40	O	O	got	x	x	0
+O	0	41	O	O	what	x	x	0
+B-PER	0	42	O	O	she	x	x	0
+O	0	43	O	O	's	x	x	0
+O	0	44	O	O	been	x	x	0
+O	0	45	O	O	cookin	x	x	0
+O	0	46	O	O	about.	x	x	0
+B-PER	0	47	O	O	bush	x	x	0
+O	0	48	O	O	got	x	x	0
+O	0	49	O	O	what	x	x	0
+B-PER	0	50	O	O	he	x	x	0
+O	0	51	O	O	's	x	x	0
+O	0	52	O	O	asking	x	x	0
+O	0	53	O	O	for.	x	x	0
+B-PER	0	54	O	O	karl	x	x	0
+I-PER	0	55	O	O	rove	x	x	0
+O	0	56	O	O	got	x	x	0
+O	0	57	O	O	what	x	x	0
+B-PER	0	58	O	O	he	x	x	0
+O	0	59	O	O	wish.	x	x	0
+B-ORG	0	60	O	O	the	x	x	0
+I-ORG	0	61	O	O	democrates	x	x	0
+O	0	62	O	O	are	x	x	0
+O	0	63	O	O	a	x	x	0
+O	0	64	O	O	bunch	x	x	0
+O	0	65	O	O	of	x	x	0
+O	0	66	O	O	cowards.	x	x	0
+O	0	67	O	O	and	x	x	0
+B-PER	0	68	O	O	the	x	x	0
+I-PER	0	69	O	O	hmong	x	x	0
+O	0	70	O	O	well	x	x	0
+B-PER	0	71	O	O	i	x	x	0
+O	0	72	O	O	dont	x	x	0
+O	0	73	O	O	know	x	x	0
+O	0	74	O	O	.	x	x	0
+
+O	0	0	O	O	...	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	hmong	x	x	0
+O	0	4	O	O	sits	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	watch	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	sideline	x	x	0
+O	0	10	O	O	while	x	x	0
+B-PER	0	11	O	O	KIM	x	x	0
+I-PER	0	12	O	O	II	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	BUSH	x	x	0
+O	0	15	O	O	jr.	x	x	0
+O	0	16	O	O	kill	x	x	0
+B-PER	0	17	O	O	each	x	x	0
+I-PER	0	18	O	O	other	x	x	0
+O	0	19	O	O	...	x	x	0
+O	0	20	O	O	Now	x	x	0
+O	0	21	O	O	wouldn	x	x	0
+O	0	22	O	O	;	x	x	0
+O	0	23	O	O	t	x	x	0
+O	0	24	O	O	that	x	x	0
+O	0	25	O	O	be	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	scene	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	view	x	x	0
+O	0	30	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	LOL	x	x	0
+
+B-PER	0	0	O	O	Dai	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	Good	x	x	0
+O	0	3	O	O	analysis	x	x	0
+O	0	4	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	Hmong	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	NOTHING	x	x	0
+O	0	6	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Jim	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	does	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	matter	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	because	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	Hmong	x	x	0
+O	0	12	O	O	could	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	level	x	x	0
+B-PER	0	15	O	O	themselves	x	x	0
+O	0	16	O	O	evenly	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Jim	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	The	x	x	0
+I-PER	0	3	O	O	Hmong	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	sitting	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	watching	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	sideline	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	America	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	positioned	x	x	0
+B-GPE	0	3	O	O	its	x	x	0
+O	0	4	O	O	pieces	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	chess	x	x	0
+O	0	8	O	O	board	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	global	x	x	0
+O	0	11	O	O	domination	x	x	0
+O	0	12	O	O	very	x	x	0
+O	0	13	O	O	carefully	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	options	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	1	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	US	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	use	x	x	0
+B-PER	0	4	O	O	Hmong	x	x	0
+I-PER	0	5	O	O	American	x	x	0
+O	0	6	O	O	sentiments	x	x	0
+O	0	7	O	O	against	x	x	0
+B-ORG	0	8	O	O	LPDR	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	starting	x	x	0
+O	0	12	O	O	point	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	a	x	x	0
+B-ORG	0	15	O	O	regime	x	x	0
+O	0	16	O	O	change	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	Laos	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	However	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Laos	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	goal	x	x	0
+O	0	7	O	O	;	x	x	0
+O	0	8	O	O	checkmate	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	fall	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	China	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	economic	x	x	0
+O	0	17	O	O	control	x	x	0
+O	0	18	O	O	of	x	x	0
+B-GPE	0	19	O	O	China	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	US	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	support	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	or	x	x	0
+O	0	6	O	O	two	x	x	0
+B-PER	0	7	O	O	Hmong	x	x	0
+O	0	8	O	O	individuals	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	speak	x	x	0
+O	0	11	O	O	out	x	x	0
+O	0	12	O	O	against	x	x	0
+B-ORG	0	13	O	O	LPDR	x	x	0
+B-PER	0	14	O	O	human	x	x	0
+O	0	15	O	O	rights	x	x	0
+O	0	16	O	O	violation	x	x	0
+O	0	17	O	O	and	x	x	0
+B-PER	0	18	O	O	Chao	x	x	0
+I-PER	0	19	O	O	Fa	x	x	0
+O	0	20	O	O	resistance	x	x	0
+O	0	21	O	O	fighters	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	precedant	x	x	0
+O	0	3	O	O	set	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	preemptive	x	x	0
+O	0	8	O	O	attacks	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	Laos	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	taken	x	x	0
+B-TIME	0	14	O	O	overnight	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	become	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	source	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	invaluable	x	x	0
+O	0	21	O	O	logistics	x	x	0
+O	0	22	O	O	for	x	x	0
+B-GPE	0	23	O	O	U.S.	x	x	0
+O	0	24	O	O	military	x	x	0
+O	0	25	O	O	attacks	x	x	0
+O	0	26	O	O	on	x	x	0
+B-GPE	0	27	O	O	China	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	2	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	US	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	policy	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	handing	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	NTR	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	desired	x	x	0
+O	0	12	O	O	effect	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	reeling	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	alliances	x	x	0
+O	0	17	O	O	from	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	surrounding	x	x	0
+O	0	20	O	O	countries	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	China	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Laos	x	x	0
+O	0	1	O	O	already	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	NTR	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	shall	x	x	0
+O	0	2	O	O	wait	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	if	x	x	0
+B-GPE	0	6	O	O	Chinese	x	x	0
+O	0	7	O	O	fat	x	x	0
+O	0	8	O	O	or	x	x	0
+B-GPE	0	9	O	O	American	x	x	0
+O	0	10	O	O	fat	x	x	0
+O	0	11	O	O	taste	x	x	0
+O	0	12	O	O	better	x	x	0
+O	0	13	O	O	to	x	x	0
+B-ORG	0	14	O	O	LPDR	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-ORG	0	1	O	O	LPDR	x	x	0
+O	0	2	O	O	plays	x	x	0
+O	0	3	O	O	ball	x	x	0
+O	0	4	O	O	with	x	x	0
+B-GPE	0	5	O	O	Uncle	x	x	0
+I-GPE	0	6	O	O	Sam	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	then	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	bloodshed	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Laos	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-GPE	0	1	O	O	the	x	x	0
+I-GPE	0	2	O	O	Americans	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	into	x	x	0
+B-GPE	0	5	O	O	Laos	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	artificial	x	x	0
+O	0	9	O	O	cooperation	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	sufficient	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	some	x	x	0
+O	0	15	O	O	strategic	x	x	0
+O	0	16	O	O	political	x	x	0
+O	0	17	O	O	changes	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Some	x	x	0
+I-PER	0	1	O	O	Hmong	x	x	0
+I-PER	0	2	O	O	Americans	x	x	0
+O	0	3	O	O	may	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	reintroduced	x	x	0
+O	0	6	O	O	to	x	x	0
+B-GPE	0	7	O	O	Laos	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	Hmong	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Laos	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	namely	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Chao	x	x	0
+I-PER	0	8	O	O	Fa	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	good	x	x	0
+O	0	14	O	O	source	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	intelligence	x	x	0
+O	0	17	O	O	on	x	x	0
+B-LOC	0	18	O	O	Lao-China	x	x	0
+I-LOC	0	19	O	O	border	x	x	0
+O	0	20	O	O	activities	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+B-PER	0	3	O	O	Chao	x	x	0
+I-PER	0	4	O	O	Fa	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	chance	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	replace	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	diet	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	tree	x	x	0
+O	0	13	O	O	roots	x	x	0
+O	0	14	O	O	with	x	x	0
+O	0	15	O	O	rice	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	fish	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Again	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	America	x	x	0
+O	0	3	O	O	has	x	x	0
+B-ORG	0	4	O	O	LPDR	x	x	0
+O	0	5	O	O	under	x	x	0
+B-GPE	0	6	O	O	its	x	x	0
+O	0	7	O	O	control	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+B-GPE	0	10	O	O	America	x	x	0
+O	0	11	O	O	can	x	x	0
+O	0	12	O	O	launch	x	x	0
+O	0	13	O	O	airstrikes	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	ground	x	x	0
+I-PER	0	16	O	O	units	x	x	0
+O	0	17	O	O	from	x	x	0
+B-GPE	0	18	O	O	Laos	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	3	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Regardless	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	happens	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	has	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	direct	x	x	0
+O	0	10	O	O	ethnic	x	x	0
+O	0	11	O	O	connection	x	x	0
+O	0	12	O	O	to	x	x	0
+B-GPE	0	13	O	O	China	x	x	0
+O	0	14	O	O	by	x	x	0
+O	0	15	O	O	way	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	Hmong	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	which	x	x	0
+O	0	20	O	O	will	x	x	0
+O	0	21	O	O	secure	x	x	0
+O	0	22	O	O	CIA-insurgency	x	x	0
+O	0	23	O	O	operations	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Unlike	x	x	0
+O	0	1	O	O	the	x	x	0
+B-TIME	0	2	O	O	current	x	x	0
+O	0	3	O	O	situation	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	Middle-East	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	where	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	number	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	Arabic-speaking	x	x	0
+B-ORG	0	13	O	O	CIA	x	x	0
+O	0	14	O	O	agents	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	few	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	there	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	plenty	x	x	0
+O	0	22	O	O	of	x	x	0
+B-PER	0	23	O	O	Hmong	x	x	0
+O	0	24	O	O	/	x	x	0
+O	0	25	O	O	Chinese-speaking	x	x	0
+B-ORG	0	26	O	O	CIA	x	x	0
+O	0	27	O	O	agents	x	x	0
+O	0	28	O	O	for	x	x	0
+O	0	29	O	O	disposal	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	use	x	x	0
+O	0	32	O	O	in	x	x	0
+O	0	33	O	O	the	x	x	0
+O	0	34	O	O	looming	x	x	0
+O	0	35	O	O	Sino-US	x	x	0
+O	0	36	O	O	war	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Perhaps	x	x	0
+O	0	1	O	O	by	x	x	0
+O	0	2	O	O	route	x	x	0
+O	0	3	O	O	of	x	x	0
+B-GPE	0	4	O	O	Thailand	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	if	x	x	0
+B-ORG	0	7	O	O	LPDR	x	x	0
+O	0	8	O	O	does	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	cooperate	x	x	0
+O	0	11	O	O	,	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	US	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	incite	x	x	0
+O	0	16	O	O	insurrection	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	southern	x	x	0
+O	0	20	O	O	provinces	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	China	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	These	x	x	0
+I-GPE	0	1	O	O	provinces	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	Hmong	x	x	0
+O	0	7	O	O	people	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	been	x	x	0
+O	0	12	O	O	known	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	fiercest	x	x	0
+O	0	17	O	O	opposition	x	x	0
+O	0	18	O	O	to	x	x	0
+B-GPE	0	19	O	O	Chinese	x	x	0
+O	0	20	O	O	rule	x	x	0
+O	0	21	O	O	(	x	x	0
+O	0	22	O	O	aka	x	x	0
+O	0	23	O	O	Remember	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	Miao	x	x	0
+O	0	26	O	O	Rebellions	x	x	0
+O	0	27	O	O	?	x	x	0
+O	0	28	O	O	)	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	Hmong	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	God-given	x	x	0
+O	0	7	O	O	chance	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	fight	x	x	0
+O	0	10	O	O	for	x	x	0
+B-PER	0	11	O	O	their	x	x	0
+O	0	12	O	O	own	x	x	0
+O	0	13	O	O	country	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	see	x	x	0
+O	0	3	O	O	if	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	(	x	x	0
+O	0	6	O	O	and	x	x	0
+B-GPE	0	7	O	O	we	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	agree	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	a	x	x	0
+B-GPE	0	12	O	O	coaltion	x	x	0
+O	0	13	O	O	government	x	x	0
+O	0	14	O	O	like	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	Kurds	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	Iraq	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Those	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	3	x	x	0
+O	0	4	O	O	options	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	They	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	involve	x	x	0
+B-PER	0	3	O	O	Hmong	x	x	0
+O	0	4	O	O	people	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Read	x	x	0
+O	0	1	O	O	between	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	lines	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	war	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	between	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	US	x	x	0
+O	0	13	O	O	and	x	x	0
+B-GPE	0	14	O	O	North	x	x	0
+I-GPE	0	15	O	O	Korea	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	China	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	using	x	x	0
+B-GPE	0	3	O	O	North	x	x	0
+I-GPE	0	4	O	O	Korea	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	escalate	x	x	0
+O	0	7	O	O	Sino-US	x	x	0
+O	0	8	O	O	relations	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	test	x	x	0
+B-GPE	0	11	O	O	Uncle	x	x	0
+I-GPE	0	12	O	O	Sam	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	temper	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	sure	x	x	0
+O	0	2	O	O	hope	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	am	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	sitting	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	watching	x	x	0
+O	0	9	O	O	when	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	all	x	x	0
+O	0	12	O	O	goes	x	x	0
+O	0	13	O	O	down	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	perfect	x	x	0
+O	0	4	O	O	opportunity	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	Hmong	x	x	0
+O	0	2	O	O	people	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	Water	x	x	0
+O	0	7	O	O	runs	x	x	0
+O	0	8	O	O	strongly	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	engine	x	x	0
+O	0	11	O	O	sounds	x	x	0
+O	0	12	O	O	good	x	x	0
+O	0	13	O	O	.	x	x	0
+O	0	14	O	O	"	x	x	0
+
+B-PER	0	0	O	O	Zhen	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	i	x	x	0
+O	0	3	O	O	thought	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	are	x	x	0
+B-PER	0	7	O	O	an	x	x	0
+I-PER	0	8	O	O	expert	x	x	0
+I-PER	0	9	O	O	of	x	x	0
+I-PER	0	10	O	O	fixing	x	x	0
+I-PER	0	11	O	O	things	x	x	0
+O	0	12	O	O	...	x	x	0
+O	0	13	O	O	LOL	x	x	0
+O	0	14	O	O	!	x	x	0
+O	0	15	O	O	now	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	you	x	x	0
+O	0	18	O	O	are	x	x	0
+B-PER	0	19	O	O	expert	x	x	0
+I-PER	0	20	O	O	of	x	x	0
+I-PER	0	21	O	O	preemptive	x	x	0
+I-PER	0	22	O	O	strike	x	x	0
+O	0	23	O	O	...	x	x	0
+O	0	24	O	O	LOL	x	x	0
+O	0	25	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	Nuked	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	key	x	x	0
+O	0	4	O	O	element	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	vote	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	current	x	x	0
+O	0	12	O	O	day.	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	make	x	x	0
+O	0	16	O	O	more	x	x	0
+O	0	17	O	O	stable	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	balance	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	world	x	x	0
+B-LOC	0	23	O	O	that	x	x	0
+B-PER	0	24	O	O	we	x	x	0
+O	0	25	O	O	live	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	because	x	x	0
+B-GPE	0	28	O	O	no	x	x	0
+I-GPE	0	29	O	O	one	x	x	0
+O	0	30	O	O	can	x	x	0
+O	0	31	O	O	deter	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	others.	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	,	x	x	0
+B-GPE	0	36	O	O	no	x	x	0
+I-GPE	0	37	O	O	country	x	x	0
+O	0	38	O	O	will	x	x	0
+O	0	39	O	O	have	x	x	0
+O	0	40	O	O	absolute	x	x	0
+O	0	41	O	O	power	x	x	0
+O	0	42	O	O	and	x	x	0
+O	0	43	O	O	authority	x	x	0
+O	0	44	O	O	.......	x	x	0
+O	0	45	O	O	cuz	x	x	0
+O	0	46	O	O	the	x	x	0
+O	0	47	O	O	deter	x	x	0
+O	0	48	O	O	of	x	x	0
+O	0	49	O	O	Nuked	x	x	0
+O	0	50	O	O	....	x	x	0
+O	0	51	O	O	to	x	x	0
+O	0	52	O	O	wide	x	x	0
+O	0	53	O	O	out	x	x	0
+B-LOC	0	54	O	O	world	x	x	0
+O	0	55	O	O	wide	x	x	0
+O	0	56	O	O	....................	x	x	0
+O	0	57	O	O	WW3	x	x	0
+O	0	58	O	O	with	x	x	0
+O	0	59	O	O	Nuked	x	x	0
+O	0	60	O	O	,	x	x	0
+O	0	61	O	O	could	x	x	0
+O	0	62	O	O	dry	x	x	0
+O	0	63	O	O	and	x	x	0
+O	0	64	O	O	free	x	x	0
+O	0	65	O	O	some	x	x	0
+B-TIME	0	66	O	O	new	x	x	0
+O	0	67	O	O	dry	x	x	0
+O	0	68	O	O	sand	x	x	0
+O	0	69	O	O	land	x	x	0
+O	0	70	O	O	for	x	x	0
+B-PER	0	71	O	O	Hmong	x	x	0
+O	0	72	O	O	men	x	x	0
+O	0	73	O	O	as	x	x	0
+B-PER	0	74	O	O	Zhen	x	x	0
+O	0	75	O	O	's	x	x	0
+O	0	76	O	O	wishful	x	x	0
+O	0	77	O	O	dream	x	x	0
+O	0	78	O	O	...	x	x	0
+O	0	79	O	O	hahhahah	x	x	0
+O	0	80	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	Born2beHmong	x	x	0
+

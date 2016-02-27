@@ -1,0 +1,1121 @@
+B-GPE	0	0	O	O	WASHINGTON	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	intelligence	x	x	0
+O	0	3	O	O	officials	x	x	0
+B-TIME	0	4	O	O	now	x	x	0
+O	0	5	O	O	believe	x	x	0
+B-GPE	0	6	O	O	North	x	x	0
+I-GPE	0	7	O	O	Korea	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	developing	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	technology	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	make	x	x	0
+O	0	14	O	O	nuclear	x	x	0
+O	0	15	O	O	warheads	x	x	0
+O	0	16	O	O	small	x	x	0
+O	0	17	O	O	enough	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	fit	x	x	0
+O	0	20	O	O	atop	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	country	x	x	0
+O	0	23	O	O	's	x	x	0
+O	0	24	O	O	growing	x	x	0
+O	0	25	O	O	arsenal	x	x	0
+O	0	26	O	O	of	x	x	0
+B-WEA	0	27	O	O	missideS	x	x	0
+O	0	28	O	O	(	x	x	0
+O	0	29	O	O	potentially	x	x	0
+O	0	30	O	O	putting	x	x	0
+B-GPE	0	31	O	O	Tokyo	x	x	0
+O	0	32	O	O	and	x	x	0
+B-GPE	0	33	O	O	U.S.	x	x	0
+O	0	34	O	O	troops	x	x	0
+O	0	35	O	O	based	x	x	0
+O	0	36	O	O	in	x	x	0
+B-GPE	0	37	O	O	Japan	x	x	0
+O	0	38	O	O	at	x	x	0
+O	0	39	O	O	risk	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	according	x	x	0
+O	0	42	O	O	to	x	x	0
+O	0	43	O	O	officials	x	x	0
+B-PER	0	44	O	O	who	x	x	0
+O	0	45	O	O	have	x	x	0
+O	0	46	O	O	received	x	x	0
+O	0	47	O	O	the	x	x	0
+O	0	48	O	O	intelligence	x	x	0
+O	0	49	O	O	reports	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	assessment	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	which	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	shared	x	x	0
+O	0	8	O	O	with	x	x	0
+B-GPE	0	9	O	O	Japan	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	South	x	x	0
+I-GPE	0	12	O	O	Korea	x	x	0
+O	0	13	O	O	and	x	x	0
+B-GPE	0	14	O	O	other	x	x	0
+I-GPE	0	15	O	O	allies	x	x	0
+O	0	16	O	O	in	x	x	0
+B-TIME	0	17	O	O	recent	x	x	0
+I-TIME	0	18	O	O	weeks	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	officials	x	x	0
+O	0	21	O	O	at	x	x	0
+B-ORG	0	22	O	O	the	x	x	0
+I-ORG	0	23	O	O	Central	x	x	0
+I-ORG	0	24	O	O	Intelligence	x	x	0
+I-ORG	0	25	O	O	Agency	x	x	0
+O	0	26	O	O	said	x	x	0
+O	0	27	O	O	that	x	x	0
+B-GPE	0	28	O	O	U.S.	x	x	0
+O	0	29	O	O	satellites	x	x	0
+O	0	30	O	O	have	x	x	0
+O	0	31	O	O	identified	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	sophisticated	x	x	0
+O	0	34	O	O	new	x	x	0
+O	0	35	O	O	nuclear	x	x	0
+O	0	36	O	O	testing	x	x	0
+O	0	37	O	O	site	x	x	0
+O	0	38	O	O	in	x	x	0
+O	0	39	O	O	an	x	x	0
+O	0	40	O	O	area	x	x	0
+O	0	41	O	O	called	x	x	0
+B-LOC	0	42	O	O	Youngdoktong	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-FAC	0	1	O	O	the	x	x	0
+I-FAC	0	2	O	O	site	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	equipment	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	set	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	test	x	x	0
+O	0	11	O	O	conventional	x	x	0
+O	0	12	O	O	explosives	x	x	0
+B-WEA	0	13	O	O	that	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	when	x	x	0
+O	0	16	O	O	detonated	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	could	x	x	0
+O	0	19	O	O	compress	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	plutonium	x	x	0
+O	0	22	O	O	core	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	set	x	x	0
+O	0	25	O	O	onfe	x	x	0
+O	0	26	O	O	nuclear	x	x	0
+O	0	27	O	O	explosion	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	[	x	x	0
+O	0	1	O	O	oMa	x	x	0
+B-ORG	0	2	O	O	intelligence	x	x	0
+O	0	3	O	O	officials	x	x	0
+O	0	4	O	O	believe	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	existence	x	x	0
+O	0	8	O	O	of	x	x	0
+B-FAC	0	9	O	O	the	x	x	0
+I-FAC	0	10	O	O	testing	x	x	0
+I-FAC	0	11	O	O	range	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	evidence	x	x	0
+O	0	14	O	O	that	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	country	x	x	0
+O	0	17	O	O	intends	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	manufacture	x	x	0
+O	0	20	O	O	much	x	x	0
+O	0	21	O	O	more	x	x	0
+O	0	22	O	O	sophisticated	x	x	0
+O	0	23	O	O	weapons	x	x	0
+B-WEA	0	24	O	O	that	x	x	0
+O	0	25	O	O	would	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	light	x	x	0
+O	0	28	O	O	enough	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	put	x	x	0
+O	0	31	O	O	onto	x	x	0
+B-GPE	0	32	O	O	its	x	x	0
+O	0	33	O	O	growing	x	x	0
+O	0	34	O	O	arsenal	x	x	0
+O	0	35	O	O	of	x	x	0
+B-WEA	0	36	O	O	medium	x	x	0
+I-WEA	0	37	O	O	and	x	x	0
+I-WEA	0	38	O	O	long-range	x	x	0
+I-WEA	0	39	O	O	missiles	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Previously	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	U.S.	x	x	0
+O	0	3	O	O	officials	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	said	x	x	0
+B-PER	0	6	O	O	they	x	x	0
+O	0	7	O	O	were	x	x	0
+O	0	8	O	O	uncertain	x	x	0
+O	0	9	O	O	whether	x	x	0
+B-GPE	0	10	O	O	North	x	x	0
+I-GPE	0	11	O	O	Korea	x	x	0
+O	0	12	O	O	had	x	x	0
+O	0	13	O	O	received	x	x	0
+O	0	14	O	O	enough	x	x	0
+O	0	15	O	O	outside	x	x	0
+O	0	16	O	O	technical	x	x	0
+O	0	17	O	O	help	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	even	x	x	0
+O	0	20	O	O	attempt	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	make	x	x	0
+B-WEA	0	23	O	O	such	x	x	0
+I-WEA	0	24	O	O	a	x	x	0
+I-WEA	0	25	O	O	``	x	x	0
+I-WEA	0	26	O	O	miniaturized	x	x	0
+I-WEA	0	27	O	O	''	x	x	0
+I-WEA	0	28	O	O	nuclear	x	x	0
+I-WEA	0	29	O	O	warhead	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	new	x	x	0
+O	0	2	O	O	testing	x	x	0
+O	0	3	O	O	capability	x	x	0
+O	0	4	O	O	would	x	x	0
+O	0	5	O	O	suggest	x	x	0
+O	0	6	O	O	that	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	North	x	x	0
+I-GPE	0	9	O	O	Koreans	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	getting	x	x	0
+O	0	12	O	O	closer	x	x	0
+O	0	13	O	O	_	x	x	0
+B-TIME	0	14	O	O	now	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	officials	x	x	0
+O	0	17	O	O	said	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	intelligence	x	x	0
+O	0	21	O	O	reports	x	x	0
+O	0	22	O	O	say	x	x	0
+B-GPE	0	23	O	O	they	x	x	0
+O	0	24	O	O	could	x	x	0
+O	0	25	O	O	do	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	in	x	x	0
+B-TIME	0	28	O	O	as	x	x	0
+I-TIME	0	29	O	O	little	x	x	0
+I-TIME	0	30	O	O	as	x	x	0
+I-TIME	0	31	O	O	a	x	x	0
+I-TIME	0	32	O	O	year	x	x	0
+I-TIME	0	33	O	O	or	x	x	0
+I-TIME	0	34	O	O	less	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	officials	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	no	x	x	0
+O	0	6	O	O	sure	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	knowing	x	x	0
+O	0	10	O	O	that	x	x	0
+B-GPE	0	11	O	O	they	x	x	0
+O	0	12	O	O	can	x	x	0
+O	0	13	O	O	until	x	x	0
+B-GPE	0	14	O	O	they	x	x	0
+O	0	15	O	O	actually	x	x	0
+O	0	16	O	O	test	x	x	0
+B-WEA	0	17	O	O	one	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Senior	x	x	0
+B-ORG	0	1	O	O	administration	x	x	0
+O	0	2	O	O	officials	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	that	x	x	0
+B-GPE	0	5	O	O	Washington	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	trying	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	convince	x	x	0
+O	0	11	O	O	Asiagent	x	x	0
+O	0	12	O	O	that	x	x	0
+B-GPE	0	13	O	O	it	x	x	0
+O	0	14	O	O	requires	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	unified	x	x	0
+O	0	17	O	O	diplomatic	x	x	0
+O	0	18	O	O	front	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	force	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	country	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	give	x	x	0
+O	0	25	O	O	up	x	x	0
+B-GPE	0	26	O	O	its	x	x	0
+O	0	27	O	O	weapons	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	new	x	x	0
+O	0	2	O	O	intelligence	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	apparently	x	x	0
+O	0	5	O	O	being	x	x	0
+O	0	6	O	O	marshaled	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	support	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	administration	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	argument	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	According	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	officials	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	briefed	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+B-GPE	0	9	O	O	U.S.	x	x	0
+O	0	10	O	O	reports	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	conventional	x	x	0
+O	0	13	O	O	explosions	x	x	0
+O	0	14	O	O	simulating	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	nuclear	x	x	0
+O	0	17	O	O	detonation	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	set	x	x	0
+O	0	21	O	O	off	x	x	0
+O	0	22	O	O	at	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	testing	x	x	0
+O	0	25	O	O	site	x	x	0
+O	0	26	O	O	,	x	x	0
+B-FAC	0	27	O	O	which	x	x	0
+O	0	28	O	O	is	x	x	0
+O	0	29	O	O	near	x	x	0
+B-GPE	0	30	O	O	North	x	x	0
+I-GPE	0	31	O	O	Korea	x	x	0
+O	0	32	O	O	's	x	x	0
+O	0	33	O	O	main	x	x	0
+O	0	34	O	O	nuclear	x	x	0
+O	0	35	O	O	complex	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	North	x	x	0
+I-GPE	0	1	O	O	Korea	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	never	x	x	0
+O	0	4	O	O	tested	x	x	0
+B-WEA	0	5	O	O	a	x	x	0
+I-WEA	0	6	O	O	nuclear	x	x	0
+I-WEA	0	7	O	O	weapon	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	though	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	CIA	x	x	0
+B-TIME	0	12	O	O	long	x	x	0
+I-TIME	0	13	O	O	ago	x	x	0
+O	0	14	O	O	estimated	x	x	0
+O	0	15	O	O	that	x	x	0
+B-GPE	0	16	O	O	it	x	x	0
+O	0	17	O	O	manufactured	x	x	0
+B-WEA	0	18	O	O	two	x	x	0
+I-WEA	0	19	O	O	crude	x	x	0
+I-WEA	0	20	O	O	devices	x	x	0
+O	0	21	O	O	in	x	x	0
+B-TIME	0	22	O	O	the	x	x	0
+I-TIME	0	23	O	O	late	x	x	0
+I-TIME	0	24	O	O	1980s	x	x	0
+O	0	25	O	O	or	x	x	0
+B-TIME	0	26	O	O	early	x	x	0
+I-TIME	0	27	O	O	1990s	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	North	x	x	0
+I-GPE	0	1	O	O	Korea	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	unlike	x	x	0
+B-GPE	0	4	O	O	Iraq	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	made	x	x	0
+O	0	8	O	O	no	x	x	0
+O	0	9	O	O	secret	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	its	x	x	0
+O	0	12	O	O	plan	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	develop	x	x	0
+B-WEA	0	15	O	O	nuclear	x	x	0
+I-WEA	0	16	O	O	weapons	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	administration	x	x	0
+O	0	3	O	O	officials	x	x	0
+O	0	4	O	O	say	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	fear	x	x	0
+O	0	7	O	O	that	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	country	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	verge	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	producing	x	x	0
+O	0	16	O	O	five	x	x	0
+O	0	17	O	O	or	x	x	0
+O	0	18	O	O	six	x	x	0
+O	0	19	O	O	new	x	x	0
+O	0	20	O	O	weapons	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	some	x	x	0
+O	0	23	O	O	of	x	x	0
+B-WEA	0	24	O	O	which	x	x	0
+O	0	25	O	O	might	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	miniaturized	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	This	x	x	0
+O	0	2	O	O	would	x	x	0
+O	0	3	O	O	give	x	x	0
+B-GPE	0	4	O	O	them	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	range	x	x	0
+B-GPE	0	7	O	O	they	x	x	0
+O	0	8	O	O	never	x	x	0
+O	0	9	O	O	had	x	x	0
+O	0	10	O	O	before	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	chance	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	spread	x	x	0
+B-GPE	0	17	O	O	their	x	x	0
+O	0	18	O	O	threat	x	x	0
+O	0	19	O	O	far	x	x	0
+O	0	20	O	O	beyond	x	x	0
+B-GPE	0	21	O	O	South	x	x	0
+I-GPE	0	22	O	O	Korea	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	''	x	x	0
+O	0	25	O	O	said	x	x	0
+O	0	26	O	O	one	x	x	0
+O	0	27	O	O	senior	x	x	0
+B-GPE	0	28	O	O	Asian	x	x	0
+O	0	29	O	O	official	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	noting	x	x	0
+O	0	32	O	O	that	x	x	0
+O	0	33	O	O	approximately	x	x	0
+O	0	34	O	O	60,000	x	x	0
+B-GPE	0	35	O	O	U.S.	x	x	0
+O	0	36	O	O	troops	x	x	0
+O	0	37	O	O	are	x	x	0
+O	0	38	O	O	based	x	x	0
+O	0	39	O	O	in	x	x	0
+B-GPE	0	40	O	O	Japan	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	It	x	x	0
+O	0	2	O	O	changes	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	dynamics	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	problem	x	x	0
+O	0	8	O	O	.	x	x	0
+O	0	9	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	new	x	x	0
+O	0	2	O	O	intelligence	x	x	0
+O	0	3	O	O	estimates	x	x	0
+O	0	4	O	O	provided	x	x	0
+O	0	5	O	O	to	x	x	0
+B-GPE	0	6	O	O	Asian	x	x	0
+O	0	7	O	O	allies	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	however	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	left	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	unclear	x	x	0
+O	0	14	O	O	how	x	x	0
+O	0	15	O	O	quickly	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	North	x	x	0
+O	0	18	O	O	could	x	x	0
+O	0	19	O	O	produce	x	x	0
+B-WEA	0	20	O	O	the	x	x	0
+I-WEA	0	21	O	O	small	x	x	0
+I-WEA	0	22	O	O	warheads	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	worst-case	x	x	0
+O	0	2	O	O	estimate	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	officials	x	x	0
+O	0	5	O	O	say	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	that	x	x	0
+B-GPE	0	9	O	O	they	x	x	0
+O	0	10	O	O	could	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	so	x	x	0
+O	0	13	O	O	in	x	x	0
+B-TIME	0	14	O	O	less	x	x	0
+I-TIME	0	15	O	O	than	x	x	0
+I-TIME	0	16	O	O	a	x	x	0
+I-TIME	0	17	O	O	year	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	STORY	x	x	0
+O	0	2	O	O	CAN	x	x	0
+O	0	3	O	O	END	x	x	0
+O	0	4	O	O	HERE	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	OPTIONAL	x	x	0
+O	0	1	O	O	MATERIAL	x	x	0
+O	0	2	O	O	FOLLOWS	x	x	0
+O	0	3	O	O	.	x	x	0
+O	0	4	O	O	)	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	satellites	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	watching	x	x	0
+B-GPE	0	5	O	O	North	x	x	0
+I-GPE	0	6	O	O	Korean	x	x	0
+O	0	7	O	O	nuclear	x	x	0
+O	0	8	O	O	activity	x	x	0
+O	0	9	O	O	intently	x	x	0
+O	0	10	O	O	since	x	x	0
+B-TIME	0	11	O	O	late	x	x	0
+I-TIME	0	12	O	O	last	x	x	0
+I-TIME	0	13	O	O	year	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	when	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	North	x	x	0
+O	0	18	O	O	evicted	x	x	0
+B-PER	0	19	O	O	international	x	x	0
+I-PER	0	20	O	O	inspectors	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Those	x	x	0
+I-PER	0	1	O	O	inspectors	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	stood	x	x	0
+O	0	4	O	O	guard	x	x	0
+O	0	5	O	O	over	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	collection	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	8,000	x	x	0
+O	0	10	O	O	spent	x	x	0
+O	0	11	O	O	nuclear	x	x	0
+O	0	12	O	O	fuel	x	x	0
+O	0	13	O	O	rods	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	which	x	x	0
+O	0	16	O	O	can	x	x	0
+O	0	17	O	O	be	x	x	0
+O	0	18	O	O	reprocessed	x	x	0
+O	0	19	O	O	into	x	x	0
+O	0	20	O	O	weapons-grade	x	x	0
+O	0	21	O	O	plutonium	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	January	x	x	0
+B-GPE	0	2	O	O	the	x	x	0
+I-GPE	0	3	O	O	country	x	x	0
+O	0	4	O	O	began	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	re-start	x	x	0
+B-GPE	0	7	O	O	its	x	x	0
+O	0	8	O	O	nuclear	x	x	0
+O	0	9	O	O	rexrOgessing	x	x	0
+O	0	10	O	O	equipment	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	which	x	x	0
+O	0	13	O	O	had	x	x	0
+O	0	14	O	O	been	x	x	0
+O	0	15	O	O	mothballed	x	x	0
+O	0	16	O	O	for	x	x	0
+B-TIME	0	17	O	O	nearly	x	x	0
+I-TIME	0	18	O	O	a	x	x	0
+I-TIME	0	19	O	O	decade	x	x	0
+O	0	20	O	O	under	x	x	0
+O	0	21	O	O	a	x	x	0
+B-TIME	0	22	O	O	1994	x	x	0
+O	0	23	O	O	agreement	x	x	0
+O	0	24	O	O	with	x	x	0
+O	0	25	O	O	the	x	x	0
+B-PER	0	26	O	O	Clinton	x	x	0
+O	0	27	O	O	administration	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	according	x	x	0
+O	0	2	O	O	to	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	officials	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	it	x	x	0
+B-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	appears	x	x	0
+O	0	9	O	O	that	x	x	0
+B-GPE	0	10	O	O	North	x	x	0
+I-GPE	0	11	O	O	Korean	x	x	0
+O	0	12	O	O	engineers	x	x	0
+O	0	13	O	O	ran	x	x	0
+O	0	14	O	O	into	x	x	0
+O	0	15	O	O	technical	x	x	0
+O	0	16	O	O	problems	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	restarting	x	x	0
+B-FAC	0	19	O	O	the	x	x	0
+I-FAC	0	20	O	O	facilities	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	While	x	x	0
+B-ORG	0	1	O	O	intelligence	x	x	0
+O	0	2	O	O	officials	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	reached	x	x	0
+O	0	5	O	O	no	x	x	0
+O	0	6	O	O	consensus	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	told	x	x	0
+B-GPE	0	10	O	O	allies	x	x	0
+B-TIME	0	11	O	O	last	x	x	0
+I-TIME	0	12	O	O	week	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	worst	x	x	0
+O	0	17	O	O	case	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	only	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	few	x	x	0
+O	0	22	O	O	hundred	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	8,000	x	x	0
+O	0	26	O	O	rods	x	x	0
+O	0	27	O	O	had	x	x	0
+O	0	28	O	O	been	x	x	0
+O	0	29	O	O	converted	x	x	0
+O	0	30	O	O	into	x	x	0
+O	0	31	O	O	plutonium	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	take	x	x	0
+O	0	3	O	O	1,000	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	1,500	x	x	0
+O	0	6	O	O	rods	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	make	x	x	0
+O	0	9	O	O	enough	x	x	0
+O	0	10	O	O	plutonium	x	x	0
+O	0	11	O	O	for	x	x	0
+B-WEA	0	12	O	O	a	x	x	0
+I-WEA	0	13	O	O	weapon	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	experts	x	x	0
+O	0	16	O	O	say.O	x	x	0
+O	0	17	O	O	``	x	x	0
+O	0	18	O	O	What	x	x	0
+B-PER	0	19	O	O	we	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	told	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	that	x	x	0
+O	0	24	O	O	it	x	x	0
+O	0	25	O	O	would	x	x	0
+O	0	26	O	O	take	x	x	0
+O	0	27	O	O	perhaps	x	x	0
+B-TIME	0	28	O	O	six	x	x	0
+I-TIME	0	29	O	O	months	x	x	0
+O	0	30	O	O	after	x	x	0
+O	0	31	O	O	that	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	produce	x	x	0
+B-WEA	0	34	O	O	a	x	x	0
+I-WEA	0	35	O	O	miniaturized	x	x	0
+I-WEA	0	36	O	O	warhead	x	x	0
+O	0	37	O	O	,	x	x	0
+O	0	38	O	O	and	x	x	0
+O	0	39	O	O	put	x	x	0
+B-WEA	0	40	O	O	it	x	x	0
+O	0	41	O	O	into	x	x	0
+O	0	42	O	O	one	x	x	0
+O	0	43	O	O	of	x	x	0
+B-WEA	0	44	O	O	the	x	x	0
+I-WEA	0	45	O	O	missiles	x	x	0
+O	0	46	O	O	,	x	x	0
+O	0	47	O	O	''	x	x	0
+O	0	48	O	O	said	x	x	0
+O	0	49	O	O	one	x	x	0
+O	0	50	O	O	senior	x	x	0
+O	0	51	O	O	official	x	x	0
+B-PER	0	52	O	O	who	x	x	0
+O	0	53	O	O	has	x	x	0
+B-TIME	0	54	O	O	recently	x	x	0
+O	0	55	O	O	reviewed	x	x	0
+O	0	56	O	O	the	x	x	0
+O	0	57	O	O	intelligence	x	x	0
+O	0	58	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	But	x	x	0
+O	0	2	O	O	after	x	x	0
+B-GPE	0	3	O	O	Iraq	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	knows	x	x	0
+O	0	7	O	O	how	x	x	0
+O	0	8	O	O	good	x	x	0
+O	0	9	O	O	those	x	x	0
+O	0	10	O	O	estimates	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	?	x	x	0
+O	0	13	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	After	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	claims	x	x	0
+O	0	3	O	O	made	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	prohibited	x	x	0
+O	0	6	O	O	weapons	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Iraq	x	x	0
+O	0	9	O	O	,	x	x	0
+B-WEA	0	10	O	O	which	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	not	x	x	0
+O	0	13	O	O	been	x	x	0
+O	0	14	O	O	found	x	x	0
+O	0	15	O	O	so	x	x	0
+O	0	16	O	O	far	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	skepticism	x	x	0
+O	0	19	O	O	about	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	quality	x	x	0
+O	0	22	O	O	of	x	x	0
+B-GPE	0	23	O	O	U.S.	x	x	0
+O	0	24	O	O	intelligence	x	x	0
+O	0	25	O	O	is	x	x	0
+O	0	26	O	O	widespread	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	case	x	x	0
+O	0	4	O	O	of	x	x	0
+B-GPE	0	5	O	O	North	x	x	0
+I-GPE	0	6	O	O	Korea	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	immediacy	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	threat	x	x	0
+O	0	17	O	O	depends	x	x	0
+O	0	18	O	O	on	x	x	0
+B-PER	0	19	O	O	whose	x	x	0
+O	0	20	O	O	analysis	x	x	0
+O	0	21	O	O	seems	x	x	0
+O	0	22	O	O	most	x	x	0
+O	0	23	O	O	compelling	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	far	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	intelligence	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	picked	x	x	0
+O	0	7	O	O	up	x	x	0
+O	0	8	O	O	almost	x	x	0
+O	0	9	O	O	no	x	x	0
+O	0	10	O	O	sign	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	telltale	x	x	0
+O	0	14	O	O	krypton	x	x	0
+O	0	15	O	O	gas	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	released	x	x	0
+O	0	19	O	O	into	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	atmosphere	x	x	0
+O	0	22	O	O	when	x	x	0
+O	0	23	O	O	nuclear	x	x	0
+O	0	24	O	O	fuel	x	x	0
+O	0	25	O	O	rods	x	x	0
+O	0	26	O	O	are	x	x	0
+O	0	27	O	O	converted	x	x	0
+O	0	28	O	O	into	x	x	0
+O	0	29	O	O	weapons-grade	x	x	0
+O	0	30	O	O	plutonium	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	led	x	x	0
+B-PER	0	3	O	O	some	x	x	0
+I-PER	0	4	O	O	analysts	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	argue	x	x	0
+O	0	7	O	O	that	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	North	x	x	0
+I-GPE	0	10	O	O	Koreans	x	x	0
+O	0	11	O	O	may	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	farther	x	x	0
+O	0	14	O	O	from	x	x	0
+O	0	15	O	O	producing	x	x	0
+B-WEA	0	16	O	O	a	x	x	0
+I-WEA	0	17	O	O	weapon	x	x	0
+O	0	18	O	O	than	x	x	0
+O	0	19	O	O	feared	x	x	0
+B-TIME	0	20	O	O	a	x	x	0
+I-TIME	0	21	O	O	few	x	x	0
+I-TIME	0	22	O	O	months	x	x	0
+I-TIME	0	23	O	O	ago	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	others	x	x	0
+O	0	2	O	O	note	x	x	0
+O	0	3	O	O	that	x	x	0
+B-VEH	0	4	O	O	trucks	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	seen	x	x	0
+O	0	7	O	O	carrying	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	rods	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	of	x	x	0
+B-FAC	0	12	O	O	their	x	x	0
+I-FAC	0	13	O	O	normal	x	x	0
+I-FAC	0	14	O	O	storage	x	x	0
+I-FAC	0	15	O	O	area	x	x	0
+B-TIME	0	16	O	O	months	x	x	0
+I-TIME	0	17	O	O	ago	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	unclear	x	x	0
+O	0	23	O	O	where	x	x	0
+O	0	24	O	O	they	x	x	0
+O	0	25	O	O	are	x	x	0
+O	0	26	O	O	_	x	x	0
+O	0	27	O	O	or	x	x	0
+O	0	28	O	O	even	x	x	0
+O	0	29	O	O	whether	x	x	0
+B-GPE	0	30	O	O	the	x	x	0
+I-GPE	0	31	O	O	United	x	x	0
+I-GPE	0	32	O	O	States	x	x	0
+O	0	33	O	O	is	x	x	0
+O	0	34	O	O	sniffing	x	x	0
+O	0	35	O	O	for	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	krypton	x	x	0
+O	0	38	O	O	gas	x	x	0
+O	0	39	O	O	in	x	x	0
+B-LOC	0	40	O	O	the	x	x	0
+I-LOC	0	41	O	O	right	x	x	0
+I-LOC	0	42	O	O	place	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-GPE	0	1	O	O	We	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	believe	x	x	0
+O	0	5	O	O	that	x	x	0
+B-FAC	0	6	O	O	the	x	x	0
+I-FAC	0	7	O	O	main	x	x	0
+I-FAC	0	8	O	O	reprocessing	x	x	0
+I-FAC	0	9	O	O	facility	x	x	0
+O	0	10	O	O	has	x	x	0
+O	0	11	O	O	been	x	x	0
+O	0	12	O	O	very	x	x	0
+O	0	13	O	O	active	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	''	x	x	0
+O	0	16	O	O	said	x	x	0
+O	0	17	O	O	one	x	x	0
+O	0	18	O	O	senior	x	x	0
+B-ORG	0	19	O	O	administration	x	x	0
+O	0	20	O	O	official	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	a	x	x	0
+B-TIME	0	23	O	O	recent	x	x	0
+O	0	24	O	O	interview	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	But	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	be	x	x	0
+B-FAC	0	5	O	O	a	x	x	0
+I-FAC	0	6	O	O	second	x	x	0
+I-FAC	0	7	O	O	reprocessor	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	No	x	x	0
+I-PER	0	1	O	O	one	x	x	0
+O	0	2	O	O	knows	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	sure	x	x	0
+O	0	5	O	O	.	x	x	0
+O	0	6	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	Without	x	x	0
+O	0	1	O	O	question	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	though	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	North	x	x	0
+I-GPE	0	6	O	O	Korea	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	capabilities	x	x	0
+O	0	9	O	O	greatly	x	x	0
+O	0	10	O	O	outstrip	x	x	0
+O	0	11	O	O	anything	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	has	x	x	0
+O	0	14	O	O	had	x	x	0
+O	0	15	O	O	in	x	x	0
+B-TIME	0	16	O	O	the	x	x	0
+I-TIME	0	17	O	O	past	x	x	0
+I-TIME	0	18	O	O	decade	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	and	x	x	0
+B-GPE	0	21	O	O	North	x	x	0
+I-GPE	0	22	O	O	Korea	x	x	0
+O	0	23	O	O	's	x	x	0
+O	0	24	O	O	program	x	x	0
+O	0	25	O	O	is	x	x	0
+O	0	26	O	O	probably	x	x	0
+B-TIME	0	27	O	O	several	x	x	0
+I-TIME	0	28	O	O	years	x	x	0
+O	0	29	O	O	ahead	x	x	0
+O	0	30	O	O	of	x	x	0
+B-GPE	0	31	O	O	Iran	x	x	0
+O	0	32	O	O	's	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	President	x	x	0
+O	0	1	O	O	Bush	x	x	0
+O	0	2	O	O	and	x	x	0
+B-GPE	0	3	O	O	South	x	x	0
+I-GPE	0	4	O	O	Korea	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	new	x	x	0
+O	0	7	O	O	president	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	Roh	x	x	0
+I-PER	0	10	O	O	Moo-h	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	unclear	x	x	0
+O	0	13	O	O	whether	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	interpret	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	meaning	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	phrase	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	same	x	x	0
+O	0	23	O	O	way	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Bush	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	said	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	wants	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	diplomatic	x	x	0
+O	0	7	O	O	solution	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	problem	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	would	x	x	0
+O	0	14	O	O	not	x	x	0
+O	0	15	O	O	foreclose	x	x	0
+O	0	16	O	O	any	x	x	0
+O	0	17	O	O	option	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	including	x	x	0
+B-ORG	0	20	O	O	military	x	x	0
+O	0	21	O	O	options	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Roh	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	any	x	x	0
+O	0	4	O	O	pre-emptive	x	x	0
+O	0	5	O	O	strike	x	x	0
+O	0	6	O	O	against	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	North	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	nuclear	x	x	0
+O	0	11	O	O	facilities	x	x	0
+O	0	12	O	O	could	x	x	0
+O	0	13	O	O	prove	x	x	0
+O	0	14	O	O	disastrous	x	x	0
+O	0	15	O	O	.	x	x	0
+

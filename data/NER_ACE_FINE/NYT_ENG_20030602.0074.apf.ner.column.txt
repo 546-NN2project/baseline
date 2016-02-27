@@ -1,0 +1,255 @@
+O	0	0	O	O	EAST	x	x	0
+O	0	1	O	O	RUTHERFORD	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	N.J.	x	x	0
+B-ORG	0	4	O	O	Portland	x	x	0
+I-ORG	0	5	O	O	Trail	x	x	0
+I-ORG	0	6	O	O	Blazers	x	x	0
+O	0	7	O	O	coach	x	x	0
+O	0	8	O	O	Maurice	x	x	0
+O	0	9	O	O	Cheeks	x	x	0
+O	0	10	O	O	received	x	x	0
+O	0	11	O	O	permission	x	x	0
+B-TIME	0	12	O	O	Monday	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	interview	x	x	0
+O	0	15	O	O	for	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	Philadelphia	x	x	0
+I-ORG	0	18	O	O	76ers	x	x	0
+O	0	19	O	O	'	x	x	0
+O	0	20	O	O	vacant	x	x	0
+O	0	21	O	O	coaching	x	x	0
+O	0	22	O	O	job	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	possibly	x	x	0
+O	0	25	O	O	dooming	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	candidacy	x	x	0
+O	0	28	O	O	of	x	x	0
+B-PER	0	29	O	O	Eddie	x	x	0
+I-PER	0	30	O	O	Jordan	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	a	x	x	0
+B-ORG	0	33	O	O	Nets	x	x	0
+O	0	34	O	O	assistant	x	x	0
+B-PER	0	35	O	O	who	x	x	0
+O	0	36	O	O	interviewed	x	x	0
+O	0	37	O	O	for	x	x	0
+O	0	38	O	O	that	x	x	0
+O	0	39	O	O	same	x	x	0
+O	0	40	O	O	position	x	x	0
+B-TIME	0	41	O	O	earlier	x	x	0
+I-TIME	0	42	O	O	this	x	x	0
+I-TIME	0	43	O	O	week	x	x	0
+O	0	44	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Cheeks	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	a	x	x	0
+B-TIME	0	3	O	O	former	x	x	0
+B-ORG	0	4	O	O	Sixers	x	x	0
+O	0	5	O	O	star	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	believed	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	be	x	x	0
+B-ORG	0	11	O	O	Philadelphia	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	top	x	x	0
+O	0	14	O	O	choice	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	replace	x	x	0
+O	0	17	O	O	Larry	x	x	0
+O	0	18	O	O	Brown	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	who	x	x	0
+O	0	21	O	O	resigned	x	x	0
+B-TIME	0	22	O	O	last	x	x	0
+I-TIME	0	23	O	O	week	x	x	0
+O	0	24	O	O	as	x	x	0
+B-PER	0	25	O	O	coach	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	introduced	x	x	0
+B-TIME	0	29	O	O	Monday	x	x	0
+O	0	30	O	O	as	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	coach	x	x	0
+O	0	33	O	O	of	x	x	0
+B-ORG	0	34	O	O	the	x	x	0
+I-ORG	0	35	O	O	Detroit	x	x	0
+I-ORG	0	36	O	O	Pistons	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Portland	x	x	0
+O	0	1	O	O	finally	x	x	0
+O	0	2	O	O	gave	x	x	0
+B-PER	0	3	O	O	Cheeks	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	go-ahead	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	interview	x	x	0
+O	0	8	O	O	with	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	Sixers	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	according	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	a	x	x	0
+B-ORG	0	15	O	O	league	x	x	0
+O	0	16	O	O	source	x	x	0
+O	0	17	O	O	familiar	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	discussions	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Cleveland	x	x	0
+I-ORG	0	2	O	O	Cavaliers	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	formally	x	x	0
+O	0	5	O	O	introduced	x	x	0
+B-PER	0	6	O	O	Paul	x	x	0
+I-PER	0	7	O	O	Silas	x	x	0
+O	0	8	O	O	as	x	x	0
+B-ORG	0	9	O	O	their	x	x	0
+O	0	10	O	O	coach	x	x	0
+B-TIME	0	11	O	O	Monday	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jordan	x	x	0
+O	0	1	O	O	met	x	x	0
+O	0	2	O	O	with	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	Sixers	x	x	0
+O	0	5	O	O	on	x	x	0
+B-TIME	0	6	O	O	Sunday	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	according	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	person	x	x	0
+I-PER	0	12	O	O	close	x	x	0
+I-PER	0	13	O	O	to	x	x	0
+I-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	situation	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jordan	x	x	0
+O	0	1	O	O	declined	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	comment	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	conversation	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	While	x	x	0
+B-PER	0	1	O	O	Jordan	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	rumored	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	be	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	candidate	x	x	0
+I-PER	0	9	O	O	for	x	x	0
+I-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	number	x	x	0
+I-PER	0	12	O	O	of	x	x	0
+I-PER	0	13	O	O	spots	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	only	x	x	0
+B-ORG	0	16	O	O	Toronto	x	x	0
+O	0	17	O	O	and	x	x	0
+B-ORG	0	18	O	O	Philadelphia	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	inquired	x	x	0
+O	0	21	O	O	about	x	x	0
+B-PER	0	22	O	O	him	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Brown	x	x	0
+O	0	1	O	O	takes	x	x	0
+O	0	2	O	O	over	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	team	x	x	0
+B-ORG	0	5	O	O	that	x	x	0
+O	0	6	O	O	won	x	x	0
+O	0	7	O	O	an	x	x	0
+O	0	8	O	O	Eastern	x	x	0
+O	0	9	O	O	Conference-leading	x	x	0
+O	0	10	O	O	50	x	x	0
+O	0	11	O	O	games	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	advajcuf	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	the	x	x	0
+B-ORG	0	16	O	O	conference	x	x	0
+O	0	17	O	O	finals	x	x	0
+O	0	18	O	O	before	x	x	0
+O	0	19	O	O	being	x	x	0
+O	0	20	O	O	swept	x	x	0
+O	0	21	O	O	by	x	x	0
+B-ORG	0	22	O	O	the	x	x	0
+I-ORG	0	23	O	O	Nets	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Detroit	x	x	0
+O	0	1	O	O	holds	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	No.	x	x	0
+O	0	4	O	O	2	x	x	0
+O	0	5	O	O	pick	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+B-TIME	0	8	O	O	upcoming	x	x	0
+B-ORG	0	9	O	O	NBA	x	x	0
+O	0	10	O	O	draft	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Silas	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	taking	x	x	0
+O	0	3	O	O	over	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	team	x	x	0
+B-ORG	0	6	O	O	that	x	x	0
+O	0	7	O	O	lost	x	x	0
+O	0	8	O	O	65	x	x	0
+O	0	9	O	O	games	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	pin	x	x	0
+B-ORG	0	13	O	O	its	x	x	0
+B-TIME	0	14	O	O	future	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	the	x	x	0
+B-ORG	0	17	O	O	high	x	x	0
+I-ORG	0	18	O	O	school	x	x	0
+O	0	19	O	O	phenom	x	x	0
+O	0	20	O	O	LeBron	x	x	0
+O	0	21	O	O	James	x	x	0
+O	0	22	O	O	.	x	x	0
+

@@ -1,0 +1,546 @@
+B-TIME	0	0	O	O	Yesterday	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	scenes	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	jubilation	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+O	0	9	O	O	,	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	suicide	x	x	0
+O	0	14	O	O	bombing	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	firefighters	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	grim	x	x	0
+O	0	19	O	O	reminders	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	as	x	x	0
+B-GPE	0	23	O	O	U.S.	x	x	0
+O	0	24	O	O	Central	x	x	0
+O	0	25	O	O	Command	x	x	0
+O	0	26	O	O	put	x	x	0
+O	0	27	O	O	it	x	x	0
+O	0	28	O	O	,	x	x	0
+B-GPE	0	29	O	O	Baghdad	x	x	0
+O	0	30	O	O	is	x	x	0
+O	0	31	O	O	still	x	x	0
+B-GPE	0	32	O	O	an	x	x	0
+I-GPE	0	33	O	O	ugly	x	x	0
+I-GPE	0	34	O	O	place	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	John	x	x	0
+O	0	3	O	O	Irvine	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	profile	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	a	x	x	0
+I-GPE	0	9	O	O	city	x	x	0
+I-GPE	0	10	O	O	literally	x	x	0
+I-GPE	0	11	O	O	teetering	x	x	0
+I-GPE	0	12	O	O	on	x	x	0
+I-GPE	0	13	O	O	a	x	x	0
+I-GPE	0	14	O	O	razor	x	x	0
+I-GPE	0	15	O	O	's	x	x	0
+I-GPE	0	16	O	O	edge	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	Getting	x	x	0
+O	0	1	O	O	acquainted	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	deliberately	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	U.S.	x	x	0
+O	0	8	O	O	Marines	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	trying	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	strike	x	x	0
+O	0	13	O	O	up	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	rapport	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	people	x	x	0
+B-GPE	0	19	O	O	who	x	x	0
+O	0	20	O	O	are	x	x	0
+B-TIME	0	21	O	O	now	x	x	0
+B-PER	0	22	O	O	their	x	x	0
+O	0	23	O	O	responsibility	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	still	x	x	0
+O	0	4	O	O	problems	x	x	0
+O	0	5	O	O	bringing	x	x	0
+O	0	6	O	O	control	x	x	0
+O	0	7	O	O	to	x	x	0
+B-GPE	0	8	O	O	Baghdad	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	particularly	x	x	0
+O	0	11	O	O	at	x	x	0
+B-TIME	0	12	O	O	nighttime	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	pitch	x	x	0
+O	0	3	O	O	black	x	x	0
+O	0	4	O	O	of	x	x	0
+B-GPE	0	5	O	O	a	x	x	0
+I-GPE	0	6	O	O	city	x	x	0
+I-GPE	0	7	O	O	without	x	x	0
+I-GPE	0	8	O	O	power	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	these	x	x	0
+O	0	11	O	O	soldiers	x	x	0
+O	0	12	O	O	manning	x	x	0
+B-FAC	0	13	O	O	a	x	x	0
+I-FAC	0	14	O	O	roadblock	x	x	0
+O	0	15	O	O	became	x	x	0
+O	0	16	O	O	nervous	x	x	0
+O	0	17	O	O	.	x	x	0
+
+O	0	0	O	O	Stay	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	EXPLETIVE	x	x	0
+O	0	4	O	O	DELETED	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	back	x	x	0
+O	0	7	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	Back	x	x	0
+O	0	1	O	O	up	x	x	0
+O	0	2	O	O	!	x	x	0
+
+O	0	0	O	O	When	x	x	0
+B-VEH	0	1	O	O	a	x	x	0
+I-VEH	0	2	O	O	car	x	x	0
+O	0	3	O	O	fails	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	stop	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	cue	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	violent	x	x	0
+B-WEA	0	14	O	O	gun	x	x	0
+O	0	15	O	O	battle	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	Bullets	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	sprayed	x	x	0
+O	0	3	O	O	everywhere	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	parts	x	x	0
+O	0	2	O	O	of	x	x	0
+B-GPE	0	3	O	O	Baghdad	x	x	0
+B-LOC	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	Americans	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	yet	x	x	0
+O	0	10	O	O	reached	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	there	x	x	0
+O	0	13	O	O	has	x	x	0
+O	0	14	O	O	been	x	x	0
+O	0	15	O	O	looting	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	man	x	x	0
+O	0	2	O	O	took	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	horse	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	stable	x	x	0
+O	0	8	O	O	at	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	home	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	Uday	x	x	0
+I-PER	0	13	O	O	Hussein	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	Saddam	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	eldest	x	x	0
+O	0	18	O	O	son	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	found	x	x	0
+B-FAC	0	2	O	O	the	x	x	0
+I-FAC	0	3	O	O	house	x	x	0
+O	0	4	O	O	,	x	x	0
+B-FAC	0	5	O	O	a	x	x	0
+I-FAC	0	6	O	O	large	x	x	0
+I-FAC	0	7	O	O	,	x	x	0
+I-FAC	0	8	O	O	gaudy	x	x	0
+I-FAC	0	9	O	O	structure	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	place	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	just	x	x	0
+B-TIME	0	15	O	O	a	x	x	0
+I-TIME	0	16	O	O	few	x	x	0
+I-TIME	0	17	O	O	days	x	x	0
+I-TIME	0	18	O	O	ago	x	x	0
+B-PER	0	19	O	O	people	x	x	0
+O	0	20	O	O	did	x	x	0
+O	0	21	O	O	n't	x	x	0
+O	0	22	O	O	even	x	x	0
+O	0	23	O	O	look	x	x	0
+O	0	24	O	O	at	x	x	0
+O	0	25	O	O	for	x	x	0
+O	0	26	O	O	fear	x	x	0
+O	0	27	O	O	of	x	x	0
+B-PER	0	28	O	O	their	x	x	0
+O	0	29	O	O	lives	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	This	x	x	0
+O	0	1	O	O	indeed	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	Uday	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	homes	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	Here	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	ruling	x	x	0
+I-PER	0	4	O	O	family	x	x	0
+O	0	5	O	O	could	x	x	0
+O	0	6	O	O	look	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	over	x	x	0
+B-LOC	0	9	O	O	the	x	x	0
+I-LOC	0	10	O	O	Tigris	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	wasted	x	x	0
+O	0	3	O	O	no	x	x	0
+O	0	4	O	O	time	x	x	0
+O	0	5	O	O	clearing	x	x	0
+B-FAC	0	6	O	O	the	x	x	0
+I-FAC	0	7	O	O	house	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	wrecking	x	x	0
+O	0	10	O	O	what	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	easily	x	x	0
+O	0	15	O	O	taken	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-PER	0	5	O	O	They	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	quite	x	x	0
+O	0	9	O	O	worked	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	just	x	x	0
+O	0	12	O	O	how	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	reach	x	x	0
+O	0	15	O	O	this	x	x	0
+O	0	16	O	O	will	x	x	0
+O	0	17	O	O	chandelier	x	x	0
+O	0	18	O	O	yet	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	other	x	x	0
+O	0	3	O	O	than	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	they	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	stripped	x	x	0
+B-FAC	0	9	O	O	this	x	x	0
+I-FAC	0	10	O	O	place	x	x	0
+O	0	11	O	O	bare	x	x	0
+B-TIME	0	12	O	O	in	x	x	0
+I-TIME	0	13	O	O	less	x	x	0
+I-TIME	0	14	O	O	than	x	x	0
+I-TIME	0	15	O	O	24	x	x	0
+I-TIME	0	16	O	O	hours	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Call	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	plunder	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	if	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	perhaps	x	x	0
+O	0	10	O	O	payback	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+B-PER	0	4	O	O	These	x	x	0
+I-PER	0	5	O	O	Iraqis	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	rifling	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	home	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	senior	x	x	0
+O	0	13	O	O	member	x	x	0
+O	0	14	O	O	of	x	x	0
+B-ORG	0	15	O	O	the	x	x	0
+I-ORG	0	16	O	O	Mukhabarat	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	Saddam	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	dreaded	x	x	0
+O	0	21	O	O	secret	x	x	0
+O	0	22	O	O	police	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	It	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	seemed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	be	x	x	0
+B-FAC	0	5	O	O	some	x	x	0
+I-FAC	0	6	O	O	kind	x	x	0
+I-FAC	0	7	O	O	of	x	x	0
+I-FAC	0	8	O	O	monitoring	x	x	0
+I-FAC	0	9	O	O	station	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	sophisticated	x	x	0
+O	0	3	O	O	equipment	x	x	0
+B-FAC	0	4	O	O	here	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-FAC	0	1	O	O	the	x	x	0
+I-FAC	0	2	O	O	basement	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	we	x	x	0
+O	0	5	O	O	found	x	x	0
+O	0	6	O	O	burning	x	x	0
+O	0	7	O	O	archives	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	evidence	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	electronic	x	x	0
+O	0	12	O	O	surveillance	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	This	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	been	x	x	0
+B-FAC	0	3	O	O	a	x	x	0
+I-FAC	0	4	O	O	nerve	x	x	0
+I-FAC	0	5	O	O	center	x	x	0
+I-FAC	0	6	O	O	for	x	x	0
+I-FAC	0	7	O	O	spying	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	place	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	where	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	bully	x	x	0
+I-ORG	0	15	O	O	boys	x	x	0
+O	0	16	O	O	kept	x	x	0
+O	0	17	O	O	tabs	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	keep	x	x	0
+O	0	20	O	O	control	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-PER	0	5	O	O	We	x	x	0
+O	0	6	O	O	're	x	x	0
+B-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	bowels	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	a	x	x	0
+B-ORG	0	13	O	O	secret	x	x	0
+I-ORG	0	14	O	O	police	x	x	0
+O	0	15	O	O	monitoring	x	x	0
+O	0	16	O	O	station	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Look	x	x	0
+O	0	1	O	O	at	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	gadgetry	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	quite	x	x	0
+O	0	7	O	O	sinister	x	x	0
+O	0	8	O	O	really	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	part	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	apparatus	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	Big	x	x	0
+O	0	16	O	O	Brother	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	voice-over	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	:	x	x	0
+B-PER	0	4	O	O	These	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	stealing	x	x	0
+O	0	8	O	O	from	x	x	0
+B-FAC	0	9	O	O	a	x	x	0
+I-FAC	0	10	O	O	shopping	x	x	0
+I-FAC	0	11	O	O	center	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	become	x	x	0
+O	0	3	O	O	widespread	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	being	x	x	0
+O	0	10	O	O	done	x	x	0
+O	0	11	O	O	with	x	x	0
+O	0	12	O	O	total	x	x	0
+O	0	13	O	O	impunity	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	These	x	x	0
+I-PER	0	1	O	O	thieves	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	trying	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	flee	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	German	x	x	0
+O	0	8	O	O	Embassy	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	having	x	x	0
+O	0	11	O	O	been	x	x	0
+O	0	12	O	O	shot	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	by	x	x	0
+B-PER	0	15	O	O	a	x	x	0
+I-PER	0	16	O	O	guard	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	Irvine	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	ITV	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Baghdad	x	x	0
+O	0	7	O	O	.	x	x	0
+

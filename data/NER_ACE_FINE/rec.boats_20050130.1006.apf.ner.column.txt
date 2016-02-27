@@ -1,0 +1,1321 @@
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	left	x	x	0
+O	0	4	O	O	edge	x	x	0
+O	0	5	O	O	of	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	country	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	we	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	unique	x	x	0
+O	0	13	O	O	perspective	x	x	0
+O	0	14	O	O	on	x	x	0
+O	0	15	O	O	election	x	x	0
+O	0	16	O	O	standards	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Iraq	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	election	x	x	0
+O	0	5	O	O	takes	x	x	0
+O	0	6	O	O	place	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	which	x	x	0
+O	0	9	O	O	one	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	three	x	x	0
+O	0	13	O	O	major	x	x	0
+O	0	14	O	O	forces	x	x	0
+O	0	15	O	O	vying	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	control	x	x	0
+O	0	18	O	O	of	x	x	0
+B-GPE	0	19	O	O	the	x	x	0
+I-GPE	0	20	O	O	country	x	x	0
+O	0	21	O	O	opts	x	x	0
+O	0	22	O	O	out	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	few	x	x	0
+I-PER	0	2	O	O	people	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	turn	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	elect	x	x	0
+B-PER	0	8	O	O	somebody	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	hailed	x	x	0
+O	0	3	O	O	as	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	greatest	x	x	0
+O	0	6	O	O	triumph	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	democracy	x	x	0
+O	0	9	O	O	since	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	defeat	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Imperial	x	x	0
+I-GPE	0	14	O	O	Japan	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Washington	x	x	0
+I-GPE	0	2	O	O	State	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	our	x	x	0
+B-Job-Title	0	5	O	O	governor	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	race	x	x	0
+O	0	8	O	O	may	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	undecided	x	x	0
+O	0	11	O	O	for	x	x	0
+B-TIME	0	12	O	O	months	x	x	0
+I-TIME	0	13	O	O	to	x	x	0
+I-TIME	0	14	O	O	come	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Following	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	election	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	recount	x	x	0
+O	0	5	O	O	process	x	x	0
+O	0	6	O	O	exactly	x	x	0
+O	0	7	O	O	as	x	x	0
+O	0	8	O	O	outlined	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	our	x	x	0
+B-GPE	0	11	O	O	state	x	x	0
+O	0	12	O	O	constitution	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	the	x	x	0
+B-ORG	0	15	O	O	democratic	x	x	0
+O	0	16	O	O	candidate	x	x	0
+O	0	17	O	O	won	x	x	0
+O	0	18	O	O	by	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	margin	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	less	x	x	0
+O	0	23	O	O	than	x	x	0
+O	0	24	O	O	200	x	x	0
+O	0	25	O	O	votes	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+O	0	1	O	O	roughly	x	x	0
+O	0	2	O	O	three	x	x	0
+O	0	3	O	O	million	x	x	0
+O	0	4	O	O	votes	x	x	0
+O	0	5	O	O	cast	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	race	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	margin	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	victory	x	x	0
+O	0	14	O	O	was	x	x	0
+B-Numeric	0	15	O	O	a	x	x	0
+I-Numeric	0	16	O	O	few	x	x	0
+I-Numeric	0	17	O	O	ten	x	x	0
+I-Numeric	0	18	O	O	thousands	x	x	0
+I-Numeric	0	19	O	O	of	x	x	0
+I-Numeric	0	20	O	O	one	x	x	0
+I-Numeric	0	21	O	O	percent	x	x	0
+O	0	22	O	O	or	x	x	0
+O	0	23	O	O	some	x	x	0
+O	0	24	O	O	such	x	x	0
+O	0	25	O	O	microscopic	x	x	0
+O	0	26	O	O	amount	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	intents	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	purposes	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	tie	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	somebody	x	x	0
+O	0	11	O	O	had	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	end	x	x	0
+O	0	14	O	O	up	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	few	x	x	0
+O	0	18	O	O	more	x	x	0
+O	0	19	O	O	votes	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	this	x	x	0
+O	0	22	O	O	time	x	x	0
+O	0	23	O	O	around	x	x	0
+O	0	24	O	O	it	x	x	0
+O	0	25	O	O	was	x	x	0
+B-ORG	0	26	O	O	the	x	x	0
+I-ORG	0	27	O	O	demos	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	same	x	x	0
+O	0	2	O	O	group	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	people	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	even	x	x	0
+O	0	10	O	O	if	x	x	0
+B-LOC	0	11	O	O	some	x	x	0
+I-LOC	0	12	O	O	regions	x	x	0
+O	0	13	O	O	are	x	x	0
+O	0	14	O	O	too	x	x	0
+O	0	15	O	O	unsafe	x	x	0
+O	0	16	O	O	for	x	x	0
+B-PER	0	17	O	O	people	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	go	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	polls	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	even	x	x	0
+O	0	25	O	O	if	x	x	0
+O	0	26	O	O	large	x	x	0
+O	0	27	O	O	portions	x	x	0
+O	0	28	O	O	of	x	x	0
+B-GPE	0	29	O	O	the	x	x	0
+I-GPE	0	30	O	O	population	x	x	0
+O	0	31	O	O	will	x	x	0
+O	0	32	O	O	not	x	x	0
+O	0	33	O	O	recognize	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	legitimacy	x	x	0
+O	0	36	O	O	of	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	outcome	x	x	0
+O	0	39	O	O	,	x	x	0
+O	0	40	O	O	some	x	x	0
+O	0	41	O	O	election	x	x	0
+O	0	42	O	O	is	x	x	0
+O	0	43	O	O	better	x	x	0
+O	0	44	O	O	than	x	x	0
+O	0	45	O	O	no	x	x	0
+O	0	46	O	O	election	x	x	0
+O	0	47	O	O	,	x	x	0
+O	0	48	O	O	and	x	x	0
+O	0	49	O	O	it	x	x	0
+O	0	50	O	O	's	x	x	0
+B-TIME	0	51	O	O	a	x	x	0
+I-TIME	0	52	O	O	great	x	x	0
+I-TIME	0	53	O	O	day	x	x	0
+I-TIME	0	54	O	O	for	x	x	0
+I-TIME	0	55	O	O	democracy	x	x	0
+O	0	56	O	O	!	x	x	0
+O	0	57	O	O	"	x	x	0
+O	0	58	O	O	...........	x	x	0
+O	0	59	O	O	are	x	x	0
+O	0	60	O	O	suing	x	x	0
+O	0	61	O	O	to	x	x	0
+O	0	62	O	O	overthrow	x	x	0
+O	0	63	O	O	the	x	x	0
+O	0	64	O	O	results	x	x	0
+O	0	65	O	O	of	x	x	0
+O	0	66	O	O	the	x	x	0
+B-Job-Title	0	67	O	O	governor	x	x	0
+O	0	68	O	O	's	x	x	0
+O	0	69	O	O	election	x	x	0
+O	0	70	O	O	is	x	x	0
+B-GPE	0	71	O	O	Washington	x	x	0
+I-GPE	0	72	O	O	State	x	x	0
+O	0	73	O	O	because	x	x	0
+O	0	74	O	O	there	x	x	0
+O	0	75	O	O	were	x	x	0
+O	0	76	O	O	some	x	x	0
+O	0	77	O	O	"	x	x	0
+O	0	78	O	O	errors	x	x	0
+O	0	79	O	O	"	x	x	0
+O	0	80	O	O	in	x	x	0
+O	0	81	O	O	the	x	x	0
+O	0	82	O	O	process	x	x	0
+O	0	83	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+B-PER	0	1	O	O	They	x	x	0
+O	0	2	O	O	hollered	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	fraud	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	until	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	got	x	x	0
+O	0	9	O	O	to	x	x	0
+B-ORG	0	10	O	O	court	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	unable	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	find	x	x	0
+O	0	16	O	O	any	x	x	0
+O	0	17	O	O	evidence	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	which	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	substantiate	x	x	0
+O	0	22	O	O	that	x	x	0
+O	0	23	O	O	charge	x	x	0
+B-PER	0	24	O	O	they	x	x	0
+O	0	25	O	O	have	x	x	0
+O	0	26	O	O	backed	x	x	0
+O	0	27	O	O	down	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	"	x	x	0
+O	0	30	O	O	errors	x	x	0
+O	0	31	O	O	"	x	x	0
+O	0	32	O	O	.	x	x	0
+O	0	33	O	O	)	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	standards	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	Any	x	x	0
+O	0	6	O	O	old	x	x	0
+O	0	7	O	O	process	x	x	0
+O	0	8	O	O	halfway	x	x	0
+O	0	9	O	O	resembling	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	election	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	just	x	x	0
+O	0	14	O	O	diddly	x	x	0
+O	0	15	O	O	dandy	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	Iraq	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	but	x	x	0
+B-GPE	0	20	O	O	we	x	x	0
+O	0	21	O	O	wo	x	x	0
+O	0	22	O	O	n't	x	x	0
+O	0	23	O	O	accept	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	results	x	x	0
+O	0	26	O	O	of	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	free	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	fair	x	x	0
+O	0	31	O	O	election	x	x	0
+O	0	32	O	O	in	x	x	0
+B-GPE	0	33	O	O	Washington	x	x	0
+I-GPE	0	34	O	O	State	x	x	0
+O	0	35	O	O	because	x	x	0
+O	0	36	O	O	there	x	x	0
+O	0	37	O	O	may	x	x	0
+O	0	38	O	O	have	x	x	0
+O	0	39	O	O	been	x	x	0
+O	0	40	O	O	a	x	x	0
+B-PER	0	41	O	O	human	x	x	0
+O	0	42	O	O	error	x	x	0
+O	0	43	O	O	rate	x	x	0
+O	0	44	O	O	of	x	x	0
+B-Numeric	0	45	O	O	0.0000001	x	x	0
+I-Numeric	0	46	O	O	percent	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Washington	x	x	0
+I-GPE	0	2	O	O	State	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	election	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	only	x	x	0
+O	0	11	O	O	free	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	fair	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	but	x	x	0
+O	0	16	O	O	also	x	x	0
+O	0	17	O	O	"	x	x	0
+O	0	18	O	O	perfect	x	x	0
+O	0	19	O	O	"	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	Of	x	x	0
+O	0	2	O	O	course	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	Republicans	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	thought	x	x	0
+O	0	9	O	O	the	x	x	0
+B-GPE	0	10	O	O	WA	x	x	0
+I-GPE	0	11	O	O	State	x	x	0
+O	0	12	O	O	election	x	x	0
+O	0	13	O	O	*	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	*	x	x	0
+O	0	16	O	O	perfect	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	had	x	x	0
+B-ORG	0	19	O	O	their	x	x	0
+O	0	20	O	O	candidate	x	x	0
+O	0	21	O	O	held	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	same	x	x	0
+O	0	24	O	O	100	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	some	x	x	0
+O	0	27	O	O	vote	x	x	0
+O	0	28	O	O	margin	x	x	0
+O	0	29	O	O	when	x	x	0
+O	0	30	O	O	all	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	smoke	x	x	0
+O	0	33	O	O	finally	x	x	0
+O	0	34	O	O	cleared	x	x	0
+O	0	35	O	O	)	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Funny	x	x	0
+O	0	1	O	O	how	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	standards	x	x	0
+O	0	4	O	O	change	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	so	x	x	0
+O	0	8	O	O	easily	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	depending	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	agenda	x	x	0
+O	0	13	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	seen	x	x	0
+B-GPE	0	3	O	O	our	x	x	0
+O	0	4	O	O	state	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	standards	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Keep	x	x	0
+O	0	1	O	O	recounting	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	votes	x	x	0
+O	0	4	O	O	until	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	get	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	results	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	want	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	if	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	need	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	go	x	x	0
+O	0	17	O	O	"	x	x	0
+O	0	18	O	O	find	x	x	0
+O	0	19	O	O	"	x	x	0
+O	0	20	O	O	some	x	x	0
+O	0	21	O	O	more	x	x	0
+O	0	22	O	O	votes	x	x	0
+O	0	23	O	O	in	x	x	0
+B-FAC	0	24	O	O	a	x	x	0
+I-FAC	0	25	O	O	warehouse	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	box	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	hidden	x	x	0
+O	0	32	O	O	behind	x	x	0
+O	0	33	O	O	some	x	x	0
+O	0	34	O	O	other	x	x	0
+O	0	35	O	O	boxes	x	x	0
+O	0	36	O	O	.	x	x	0
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	too	x	x	0
+O	0	3	O	O	funny	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	ones	x	x	0
+B-PER	0	2	O	O	that	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	opting	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	out	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	three	x	x	0
+O	0	13	O	O	protected	x	x	0
+O	0	14	O	O	classes	x	x	0
+O	0	15	O	O	within	x	x	0
+B-GPE	0	16	O	O	Iraq	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	protected	x	x	0
+I-PER	0	2	O	O	classes	x	x	0
+O	0	3	O	O	are	x	x	0
+B-PER	0	4	O	O	Kurd	x	x	0
+I-PER	0	5	O	O	's	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Sunni	x	x	0
+I-PER	0	8	O	O	's	x	x	0
+O	0	9	O	O	and	x	x	0
+B-PER	0	10	O	O	Women	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	only	x	x	0
+O	0	1	O	O	vote	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	ends	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	tie	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	where	x	x	0
+B-PER	0	9	O	O	both	x	x	0
+I-PER	0	10	O	O	sides	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	exact	x	x	0
+O	0	14	O	O	same	x	x	0
+O	0	15	O	O	number	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	votes	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	happen	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Washington	x	x	0
+I-GPE	0	6	O	O	State	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	took	x	x	0
+O	0	2	O	O	multiple	x	x	0
+O	0	3	O	O	recounts	x	x	0
+O	0	4	O	O	before	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	vote	x	x	0
+O	0	7	O	O	tabulation	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	determined	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	credible	x	x	0
+O	0	13	O	O	by	x	x	0
+B-ORG	0	14	O	O	the	x	x	0
+I-ORG	0	15	O	O	Democrats	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Was	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	King	x	x	0
+O	0	4	O	O	County	x	x	0
+B-GPE	0	5	O	O	that	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	counted	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	more	x	x	0
+O	0	11	O	O	votes	x	x	0
+O	0	12	O	O	than	x	x	0
+B-PER	0	13	O	O	registered	x	x	0
+I-PER	0	14	O	O	voters	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Please	x	x	0
+O	0	1	O	O	explain	x	x	0
+O	0	2	O	O	how	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	happens	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	seems	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	evidence	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	irregularity	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	voting	x	x	0
+O	0	10	O	O	process	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	extremely	x	x	0
+O	0	13	O	O	apparent	x	x	0
+O	0	14	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	Democrat	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	liberal	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	probably	x	x	0
+O	0	9	O	O	whole	x	x	0
+O	0	10	O	O	bunch	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	other	x	x	0
+O	0	13	O	O	labels	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	you	x	x	0
+O	0	16	O	O	can	x	x	0
+O	0	17	O	O	pin	x	x	0
+O	0	18	O	O	on	x	x	0
+B-PER	0	19	O	O	me	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	always	x	x	0
+O	0	3	O	O	glad	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	see	x	x	0
+B-PER	0	6	O	O	people	x	x	0
+O	0	7	O	O	gain	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	opportunity	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	change	x	x	0
+B-PER	0	12	O	O	their	x	x	0
+O	0	13	O	O	government	x	x	0
+O	0	14	O	O	from	x	x	0
+B-GPE	0	15	O	O	a	x	x	0
+I-GPE	0	16	O	O	dictatorship	x	x	0
+O	0	17	O	O	to	x	x	0
+B-GPE	0	18	O	O	a	x	x	0
+I-GPE	0	19	O	O	democracy	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Everyone	x	x	0
+O	0	1	O	O	,	x	x	0
+B-LOC	0	2	O	O	everywhere	x	x	0
+O	0	3	O	O	should	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	basic	x	x	0
+O	0	7	O	O	right	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	elect	x	x	0
+B-PER	0	10	O	O	their	x	x	0
+O	0	11	O	O	government	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	problem	x	x	0
+O	0	2	O	O	with	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	election	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	no	x	x	0
+O	0	8	O	O	matter	x	x	0
+O	0	9	O	O	what	x	x	0
+O	0	10	O	O	happens	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	results	x	x	0
+O	0	13	O	O	are	x	x	0
+O	0	14	O	O	going	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	tainted	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	questionable	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Think	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	objectively	x	x	0
+O	0	4	O	O	(	x	x	0
+O	0	5	O	O	forget	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	US	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	involved	x	x	0
+O	0	10	O	O	)	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	if	x	x	0
+B-GPE	0	13	O	O	a	x	x	0
+I-GPE	0	14	O	O	foreign	x	x	0
+I-GPE	0	15	O	O	country	x	x	0
+O	0	16	O	O	invaded	x	x	0
+B-GPE	0	17	O	O	another	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	set	x	x	0
+O	0	20	O	O	up	x	x	0
+O	0	21	O	O	elections	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	would	x	x	0
+O	0	24	O	O	n't	x	x	0
+B-PER	0	25	O	O	a	x	x	0
+I-PER	0	26	O	O	reasonable	x	x	0
+I-PER	0	27	O	O	person	x	x	0
+O	0	28	O	O	question	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	validity	x	x	0
+O	0	31	O	O	of	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	election	x	x	0
+O	0	34	O	O	results	x	x	0
+O	0	35	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	assign	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	names	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Say	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+B-TIME	0	3	O	O	1942	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	German	x	x	0
+O	0	8	O	O	occupiers	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	Holland	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	set	x	x	0
+O	0	13	O	O	up	x	x	0
+O	0	14	O	O	elections	x	x	0
+O	0	15	O	O	with	x	x	0
+B-GPE	0	16	O	O	Dutch	x	x	0
+O	0	17	O	O	candidates	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	really	x	x	0
+B-PER	0	4	O	O	candidates	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	but	x	x	0
+B-ORG	0	7	O	O	political	x	x	0
+I-ORG	0	8	O	O	parties	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	'll	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	told	x	x	0
+O	0	13	O	O	who	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	candidates	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	later	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Would	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	say	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	results	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	valid	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Even	x	x	0
+O	0	1	O	O	if	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	John	x	x	0
+I-PER	0	5	O	O	H	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	believe	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	US	x	x	0
+O	0	10	O	O	held	x	x	0
+O	0	11	O	O	impartial	x	x	0
+O	0	12	O	O	elections	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Iraq	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	do	x	x	0
+O	0	17	O	O	n't	x	x	0
+B-PER	0	18	O	O	you	x	x	0
+O	0	19	O	O	think	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	rest	x	x	0
+O	0	22	O	O	of	x	x	0
+B-LOC	0	23	O	O	the	x	x	0
+I-LOC	0	24	O	O	world	x	x	0
+O	0	25	O	O	will	x	x	0
+O	0	26	O	O	find	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	results	x	x	0
+O	0	29	O	O	invalid	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	or	x	x	0
+O	0	32	O	O	least	x	x	0
+O	0	33	O	O	suspect	x	x	0
+O	0	34	O	O	?	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sun	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	30	x	x	0
+I-TIME	0	4	O	O	Jan	x	x	0
+I-TIME	0	5	O	O	2005	x	x	0
+I-TIME	0	6	O	O	15:26:13	x	x	0
+I-TIME	0	7	O	O	0800	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	"	x	x	0
+B-PER	0	10	O	O	Snafu	x	x	0
+O	0	11	O	O	"	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	Lou	x	x	0
+I-PER	0	2	O	O	Dobbs	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	on	x	x	0
+B-ORG	0	5	O	O	CNN	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	at	x	x	0
+B-TIME	0	8	O	O	6:10	x	x	0
+I-TIME	0	9	O	O	Eastern	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	can	x	x	0
+O	0	12	O	O	say	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	"	x	x	0
+O	0	15	O	O	This	x	x	0
+O	0	16	O	O	election	x	x	0
+O	0	17	O	O	was	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	success	x	x	0
+O	0	20	O	O	by	x	x	0
+O	0	21	O	O	any	x	x	0
+O	0	22	O	O	measure	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	"	x	x	0
+O	0	25	O	O	that	x	x	0
+O	0	26	O	O	's	x	x	0
+O	0	27	O	O	good	x	x	0
+O	0	28	O	O	enough	x	x	0
+O	0	29	O	O	for	x	x	0
+B-PER	0	30	O	O	me	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	even	x	x	0
+B-PER	0	2	O	O	Chris	x	x	0
+I-PER	0	3	O	O	(	x	x	0
+I-PER	0	4	O	O	Kerry	x	x	0
+I-PER	0	5	O	O	's	x	x	0
+I-PER	0	6	O	O	my	x	x	0
+I-PER	0	7	O	O	man	x	x	0
+I-PER	0	8	O	O	)	x	x	0
+I-PER	0	9	O	O	Mathews	x	x	0
+O	0	10	O	O	could	x	x	0
+O	0	11	O	O	find	x	x	0
+O	0	12	O	O	any	x	x	0
+O	0	13	O	O	real	x	x	0
+O	0	14	O	O	fault	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	outcome	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Our	x	x	0
+O	0	1	O	O	soldiers	x	x	0
+O	0	2	O	O	weren'e	x	x	0
+O	0	3	O	O	even	x	x	0
+O	0	4	O	O	close	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	polls	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hell	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	could	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	even	x	x	0
+O	0	6	O	O	see	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	polls	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	most	x	x	0
+I-LOC	0	11	O	O	places	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	so	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	intimidation	x	x	0
+O	0	16	O	O	bullshit	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	just	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Even	x	x	0
+B-PER	0	1	O	O	Brian	x	x	0
+I-PER	0	2	O	O	Williams	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	when	x	x	0
+O	0	5	O	O	questioned	x	x	0
+O	0	6	O	O	by	x	x	0
+B-PER	0	7	O	O	Chris	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	had	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	admit	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	saw	x	x	0
+O	0	15	O	O	nothing	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	show	x	x	0
+B-GPE	0	18	O	O	US	x	x	0
+O	0	19	O	O	intimidation	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+B-PER	0	1	O	O	You	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	tell	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	killing	x	x	0
+B-PER	0	7	O	O	Brian	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	admit	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	!	x	x	0
+O	0	14	O	O	)	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	probably	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	better	x	x	0
+O	0	7	O	O	since	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	were	x	x	0
+B-GPE	0	10	O	O	there	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	right	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	read	x	x	0
+O	0	4	O	O	something	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	people	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	are	x	x	0
+B-GPE	0	9	O	O	there	x	x	0
+O	0	10	O	O	:	x	x	0
+O	0	11	O	O	If	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	look	x	x	0
+O	0	14	O	O	closely	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+O	0	17	O	O	'll	x	x	0
+O	0	18	O	O	even	x	x	0
+O	0	19	O	O	find	x	x	0
+O	0	20	O	O	some	x	x	0
+O	0	21	O	O	negatives	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	gloat	x	x	0
+O	0	24	O	O	over	x	x	0
+O	0	25	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	start	x	x	0
+O	0	4	O	O	somewhere	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	election	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	get	x	x	0
+B-ORG	0	11	O	O	a	x	x	0
+I-ORG	0	12	O	O	legislative	x	x	0
+I-ORG	0	13	O	O	body	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	write	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	constitution	x	x	0
+O	0	18	O	O	for	x	x	0
+B-GPE	0	19	O	O	Iraq	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	next	x	x	0
+O	0	2	O	O	election	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	one	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	legitimacy	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sounds	x	x	0
+O	0	1	O	O	like	x	x	0
+O	0	2	O	O	how	x	x	0
+B-GPE	0	3	O	O	our	x	x	0
+O	0	4	O	O	country	x	x	0
+O	0	5	O	O	started	x	x	0
+O	0	6	O	O	does	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sun	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	30	x	x	0
+I-TIME	0	4	O	O	Jan	x	x	0
+I-TIME	0	5	O	O	2005	x	x	0
+I-TIME	0	6	O	O	21:38:22	x	x	0
+
+O	0	0	O	O	Sorry	x	x	0
+O	0	1	O	O	about	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	hard	x	x	0
+O	0	4	O	O	ass	x	x	0
+O	0	5	O	O	attitude	x	x	0
+O	0	6	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	US	x	x	0
+O	0	2	O	O	soldiers	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	purposely	x	x	0
+O	0	5	O	O	kept	x	x	0
+O	0	6	O	O	well	x	x	0
+O	0	7	O	O	away	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	polls	x	x	0
+O	0	11	O	O	during	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	time	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	polls	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	open	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	outer	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	three	x	x	0
+O	0	6	O	O	concentric	x	x	0
+O	0	7	O	O	security	x	x	0
+O	0	8	O	O	rings	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	with	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	Iraqi	x	x	0
+O	0	13	O	O	police	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	Army	x	x	0
+O	0	16	O	O	occupying	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	closest	x	x	0
+O	0	19	O	O	two	x	x	0
+O	0	20	O	O	rings	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	watched	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	(	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	all	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	course	x	x	0
+O	0	11	O	O	)	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	news	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	most	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	different	x	x	0
+O	0	20	O	O	channels	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	staying	x	x	0
+O	0	23	O	O	up	x	x	0
+O	0	24	O	O	until	x	x	0
+B-TIME	0	25	O	O	5	x	x	0
+I-TIME	0	26	O	O	am	x	x	0
+O	0	27	O	O	(	x	x	0
+O	0	28	O	O	like	x	x	0
+B-PER	0	29	O	O	a	x	x	0
+I-PER	0	30	O	O	real	x	x	0
+I-PER	0	31	O	O	dummy	x	x	0
+O	0	32	O	O	!	x	x	0
+O	0	33	O	O	)	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	see	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	instance	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	US	x	x	0
+O	0	8	O	O	soldiers	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	polling	x	x	0
+O	0	11	O	O	places	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	*	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	*	x	x	0
+O	0	4	O	O	see	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	lot	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	soldiers	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Except	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	US	x	x	0
+O	0	4	O	O	flag	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	shoulder	x	x	0
+O	0	8	O	O	and	x	x	0
+B-WEA	0	9	O	O	the	x	x	0
+I-WEA	0	10	O	O	different	x	x	0
+I-WEA	0	11	O	O	weapons	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	look	x	x	0
+O	0	15	O	O	pretty	x	x	0
+O	0	16	O	O	much	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	same	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hell	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	noticed	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	US	x	x	0
+O	0	9	O	O	soldiers	x	x	0
+O	0	10	O	O	were	x	x	0
+O	0	11	O	O	carrying	x	x	0
+B-WEA	0	12	O	O	AK	x	x	0
+I-WEA	0	13	O	O	's	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	one	x	x	0
+O	0	16	O	O	place	x	x	0
+O	0	17	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	H	x	x	0
+O	0	2	O	O	On	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	'PocoLoco'	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	Deale	x	x	0
+O	0	8	O	O	,	x	x	0
+B-GPE	0	9	O	O	MD	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	on	x	x	0
+B-LOC	0	12	O	O	the	x	x	0
+I-LOC	0	13	O	O	beautiful	x	x	0
+I-LOC	0	14	O	O	Chesapeake	x	x	0
+I-LOC	0	15	O	O	Bay	x	x	0
+O	0	16	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Divide	x	x	0
+O	0	2	O	O	each	x	x	0
+O	0	3	O	O	difficulty	x	x	0
+O	0	4	O	O	into	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	many	x	x	0
+O	0	7	O	O	parts	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	feasible	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	necessary	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	resolve	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	.	x	x	0
+O	0	17	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Rene	x	x	0
+I-PER	0	1	O	O	Descartes	x	x	0
+

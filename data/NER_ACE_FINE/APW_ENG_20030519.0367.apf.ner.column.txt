@@ -1,0 +1,1320 @@
+B-GPE	0	0	O	O	JERUSALEM	x	x	0
+O	0	1	O	O	(	x	x	0
+B-ORG	0	2	O	O	AP	x	x	0
+O	0	3	O	O	)	x	x	0
+B-PER	0	4	O	O	A	x	x	0
+I-PER	0	5	O	O	suicide	x	x	0
+I-PER	0	6	O	O	bomber	x	x	0
+O	0	7	O	O	detonated	x	x	0
+B-WEA	0	8	O	O	explosives	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	entrance	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	crowded	x	x	0
+O	0	15	O	O	mall	x	x	0
+O	0	16	O	O	in	x	x	0
+B-LOC	0	17	O	O	northern	x	x	0
+I-LOC	0	18	O	O	Israel	x	x	0
+O	0	19	O	O	on	x	x	0
+B-TIME	0	20	O	O	Monday	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	killing	x	x	0
+B-PER	0	23	O	O	at	x	x	0
+I-PER	0	24	O	O	least	x	x	0
+I-PER	0	25	O	O	four	x	x	0
+I-PER	0	26	O	O	shoppers	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	wounding	x	x	0
+B-PER	0	29	O	O	20	x	x	0
+O	0	30	O	O	in	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	fifth	x	x	0
+O	0	33	O	O	such	x	x	0
+O	0	34	O	O	attack	x	x	0
+O	0	35	O	O	in	x	x	0
+B-TIME	0	36	O	O	two	x	x	0
+I-TIME	0	37	O	O	days	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	spate	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	bombings	x	x	0
+O	0	4	O	O	underscored	x	x	0
+O	0	5	O	O	how	x	x	0
+O	0	6	O	O	difficult	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	carry	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	-	x	x	0
+O	0	16	O	O	backed	x	x	0
+O	0	17	O	O	``	x	x	0
+O	0	18	O	O	road	x	x	0
+O	0	19	O	O	map	x	x	0
+O	0	20	O	O	''	x	x	0
+O	0	21	O	O	plan	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	three-stage	x	x	0
+O	0	25	O	O	prescription	x	x	0
+O	0	26	O	O	for	x	x	0
+O	0	27	O	O	ending	x	x	0
+O	0	28	O	O	violence	x	x	0
+O	0	29	O	O	immediately	x	x	0
+O	0	30	O	O	and	x	x	0
+O	0	31	O	O	setting	x	x	0
+O	0	32	O	O	up	x	x	0
+O	0	33	O	O	a	x	x	0
+B-GPE	0	34	O	O	Palestinian	x	x	0
+O	0	35	O	O	state	x	x	0
+O	0	36	O	O	by	x	x	0
+B-TIME	0	37	O	O	2005	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	immediate	x	x	0
+O	0	4	O	O	claim	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	responsibility	x	x	0
+O	0	7	O	O	for	x	x	0
+B-TIME	0	8	O	O	Monday	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	attack	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	Shaarei	x	x	0
+O	0	14	O	O	Amakim	x	x	0
+O	0	15	O	O	mall	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	working	x	x	0
+O	0	19	O	O	class	x	x	0
+O	0	20	O	O	town	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	Afula	x	x	0
+O	0	23	O	O	,	x	x	0
+B-GPE	0	24	O	O	which	x	x	0
+O	0	25	O	O	has	x	x	0
+O	0	26	O	O	been	x	x	0
+O	0	27	O	O	targeted	x	x	0
+O	0	28	O	O	repeatedly	x	x	0
+O	0	29	O	O	by	x	x	0
+B-GPE	0	30	O	O	Palestinian	x	x	0
+O	0	31	O	O	militants	x	x	0
+O	0	32	O	O	because	x	x	0
+O	0	33	O	O	of	x	x	0
+B-GPE	0	34	O	O	its	x	x	0
+O	0	35	O	O	proximity	x	x	0
+O	0	36	O	O	to	x	x	0
+B-LOC	0	37	O	O	the	x	x	0
+I-LOC	0	38	O	O	West	x	x	0
+I-LOC	0	39	O	O	Bank	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-PER	0	1	O	O	Islamic	x	x	0
+O	0	2	O	O	militant	x	x	0
+O	0	3	O	O	group	x	x	0
+B-ORG	0	4	O	O	Hamas	x	x	0
+O	0	5	O	O	carried	x	x	0
+O	0	6	O	O	out	x	x	0
+O	0	7	O	O	four	x	x	0
+O	0	8	O	O	bombings	x	x	0
+O	0	9	O	O	over	x	x	0
+B-TIME	0	10	O	O	the	x	x	0
+I-TIME	0	11	O	O	weekend	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	Afula	x	x	0
+O	0	2	O	O	explosion	x	x	0
+O	0	3	O	O	_	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	95th	x	x	0
+O	0	6	O	O	in	x	x	0
+B-TIME	0	7	O	O	32	x	x	0
+I-TIME	0	8	O	O	months	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	fighting	x	x	0
+O	0	11	O	O	_	x	x	0
+O	0	12	O	O	went	x	x	0
+O	0	13	O	O	off	x	x	0
+O	0	14	O	O	at	x	x	0
+B-TIME	0	15	O	O	5:14	x	x	0
+I-TIME	0	16	O	O	p.m	x	x	0
+I-TIME	0	17	O	O	.	x	x	0
+I-TIME	0	18	O	O	(	x	x	0
+I-TIME	0	19	O	O	1414	x	x	0
+I-TIME	0	20	O	O	gmt	x	x	0
+O	0	21	O	O	)	x	x	0
+O	0	22	O	O	at	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	entrance	x	x	0
+O	0	25	O	O	to	x	x	0
+B-FAC	0	26	O	O	the	x	x	0
+I-FAC	0	27	O	O	mall	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	reportedly	x	x	0
+O	0	30	O	O	as	x	x	0
+B-PER	0	31	O	O	shoppers	x	x	0
+O	0	32	O	O	were	x	x	0
+O	0	33	O	O	waiting	x	x	0
+O	0	34	O	O	in	x	x	0
+O	0	35	O	O	line	x	x	0
+O	0	36	O	O	for	x	x	0
+O	0	37	O	O	a	x	x	0
+O	0	38	O	O	security	x	x	0
+O	0	39	O	O	check	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	Malls	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	other	x	x	0
+O	0	3	O	O	public	x	x	0
+O	0	4	O	O	places	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	significantly	x	x	0
+O	0	7	O	O	stepped	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	security	x	x	0
+O	0	10	O	O	since	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	outbreak	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	Israeli-Palestinian	x	x	0
+O	0	15	O	O	fighting	x	x	0
+O	0	16	O	O	in	x	x	0
+B-TIME	0	17	O	O	September	x	x	0
+I-TIME	0	18	O	O	2000	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	explosion	x	x	0
+O	0	2	O	O	killed	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	attacker	x	x	0
+O	0	5	O	O	and	x	x	0
+B-PER	0	6	O	O	four	x	x	0
+I-PER	0	7	O	O	shoppers	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	police	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Twenty	x	x	0
+I-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	wounded	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	including	x	x	0
+O	0	6	O	O	several	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	serious	x	x	0
+O	0	11	O	O	condition	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Earlier	x	x	0
+I-TIME	0	1	O	O	Monday	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	a	x	x	0
+B-TIME	0	4	O	O	19-year-old	x	x	0
+O	0	5	O	O	Palestinian	x	x	0
+O	0	6	O	O	riding	x	x	0
+B-VEH	0	7	O	O	a	x	x	0
+I-VEH	0	8	O	O	bicycle	x	x	0
+O	0	9	O	O	detonated	x	x	0
+B-WEA	0	10	O	O	a	x	x	0
+I-WEA	0	11	O	O	30-kilo	x	x	0
+I-WEA	0	12	O	O	(	x	x	0
+I-WEA	0	13	O	O	66-pound	x	x	0
+I-WEA	0	14	O	O	)	x	x	0
+I-WEA	0	15	O	O	bomb	x	x	0
+O	0	16	O	O	near	x	x	0
+O	0	17	O	O	a	x	x	0
+B-ORG	0	18	O	O	military	x	x	0
+O	0	19	O	O	jeep	x	x	0
+O	0	20	O	O	in	x	x	0
+B-LOC	0	21	O	O	the	x	x	0
+I-LOC	0	22	O	O	Gaza	x	x	0
+I-LOC	0	23	O	O	Strip	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	injuring	x	x	0
+B-PER	0	26	O	O	three	x	x	0
+I-PER	0	27	O	O	soldiers	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	response	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	spate	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	bombings	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	Israel	x	x	0
+O	0	8	O	O	threatened	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	boycott	x	x	0
+O	0	11	O	O	foreign	x	x	0
+O	0	12	O	O	envoys	x	x	0
+B-PER	0	13	O	O	who	x	x	0
+O	0	14	O	O	meet	x	x	0
+O	0	15	O	O	with	x	x	0
+B-PER	0	16	O	O	Yasser	x	x	0
+I-PER	0	17	O	O	Arafat	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israel	x	x	0
+O	0	1	O	O	holds	x	x	0
+O	0	2	O	O	the	x	x	0
+B-GPE	0	3	O	O	Palestinian	x	x	0
+O	0	4	O	O	leader	x	x	0
+O	0	5	O	O	responsible	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	latest	x	x	0
+O	0	9	O	O	violence	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	even	x	x	0
+O	0	12	O	O	though	x	x	0
+O	0	13	O	O	the	x	x	0
+B-TIME	0	14	O	O	recent	x	x	0
+O	0	15	O	O	attacks	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	carried	x	x	0
+O	0	18	O	O	out	x	x	0
+O	0	19	O	O	by	x	x	0
+B-PER	0	20	O	O	Islamic	x	x	0
+I-PER	0	21	O	O	militants	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Hamas	x	x	0
+O	0	1	O	O	said	x	x	0
+B-TIME	0	2	O	O	Monday	x	x	0
+B-ORG	0	3	O	O	it	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	no	x	x	0
+O	0	6	O	O	intention	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	halting	x	x	0
+O	0	9	O	O	attacks	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	despite	x	x	0
+B-GPE	0	12	O	O	Egypt	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	efforts	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	have	x	x	0
+B-GPE	0	17	O	O	Palestinian	x	x	0
+O	0	18	O	O	militant	x	x	0
+O	0	19	O	O	groups	x	x	0
+O	0	20	O	O	agree	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	a	x	x	0
+B-TIME	0	23	O	O	one-year	x	x	0
+O	0	24	O	O	suspension	x	x	0
+O	0	25	O	O	of	x	x	0
+O	0	26	O	O	shootings	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	bombings	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	renewed	x	x	0
+O	0	3	O	O	mediation	x	x	0
+O	0	4	O	O	attempt	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Egyptian	x	x	0
+O	0	7	O	O	envoys	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	holding	x	x	0
+O	0	11	O	O	meetings	x	x	0
+O	0	12	O	O	in	x	x	0
+B-LOC	0	13	O	O	Gaza	x	x	0
+O	0	14	O	O	and	x	x	0
+B-GPE	0	15	O	O	Damascus	x	x	0
+O	0	16	O	O	in	x	x	0
+B-TIME	0	17	O	O	recent	x	x	0
+I-TIME	0	18	O	O	days	x	x	0
+O	0	19	O	O	with	x	x	0
+O	0	20	O	O	leaders	x	x	0
+O	0	21	O	O	of	x	x	0
+B-ORG	0	22	O	O	the	x	x	0
+I-ORG	0	23	O	O	militant	x	x	0
+I-ORG	0	24	O	O	groups	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	armed	x	x	0
+I-ORG	0	2	O	O	groups	x	x	0
+O	0	3	O	O	say	x	x	0
+B-ORG	0	4	O	O	they	x	x	0
+O	0	5	O	O	might	x	x	0
+O	0	6	O	O	agree	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	truce	x	x	0
+O	0	10	O	O	if	x	x	0
+B-GPE	0	11	O	O	Israel	x	x	0
+O	0	12	O	O	promises	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	stop	x	x	0
+O	0	15	O	O	hunting	x	x	0
+B-PER	0	16	O	O	militants	x	x	0
+O	0	17	O	O	_	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	proposal	x	x	0
+B-GPE	0	20	O	O	Israeli	x	x	0
+O	0	21	O	O	Prime	x	x	0
+O	0	22	O	O	Minister	x	x	0
+O	0	23	O	O	Ariel	x	x	0
+O	0	24	O	O	Sharon	x	x	0
+O	0	25	O	O	has	x	x	0
+O	0	26	O	O	turned	x	x	0
+O	0	27	O	O	down	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-ORG	0	1	O	O	Hamas	x	x	0
+O	0	2	O	O	leader	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Abdel	x	x	0
+I-PER	0	5	O	O	Aziz	x	x	0
+I-PER	0	6	O	O	Rantisi	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	said	x	x	0
+B-TIME	0	9	O	O	Monday	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	``	x	x	0
+O	0	12	O	O	legitimate	x	x	0
+O	0	13	O	O	resistance	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	continue	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	long	x	x	0
+O	0	18	O	O	as	x	x	0
+O	0	19	O	O	occupation	x	x	0
+O	0	20	O	O	exists	x	x	0
+O	0	21	O	O	on	x	x	0
+B-PER	0	22	O	O	our	x	x	0
+O	0	23	O	O	holy	x	x	0
+O	0	24	O	O	land	x	x	0
+O	0	25	O	O	.	x	x	0
+O	0	26	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	Asked	x	x	0
+O	0	1	O	O	whether	x	x	0
+B-ORG	0	2	O	O	Hamas	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	challenging	x	x	0
+B-PER	0	5	O	O	Abbas	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Rantisi	x	x	0
+O	0	8	O	O	said	x	x	0
+O	0	9	O	O	only	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	no	x	x	0
+O	0	14	O	O	point	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	trying	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	negotiate	x	x	0
+O	0	19	O	O	with	x	x	0
+O	0	20	O	O	Sharon	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	whom	x	x	0
+B-PER	0	23	O	O	he	x	x	0
+O	0	24	O	O	called	x	x	0
+B-PER	0	25	O	O	a	x	x	0
+I-PER	0	26	O	O	``	x	x	0
+I-PER	0	27	O	O	terrorist	x	x	0
+O	0	28	O	O	.	x	x	0
+O	0	29	O	O	''	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israel	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	no	x	x	0
+O	0	6	O	O	letup	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	its	x	x	0
+O	0	9	O	O	campaign	x	x	0
+O	0	10	O	O	against	x	x	0
+B-PER	0	11	O	O	those	x	x	0
+I-PER	0	12	O	O	involved	x	x	0
+I-PER	0	13	O	O	in	x	x	0
+I-PER	0	14	O	O	violence	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israel	x	x	0
+O	0	1	O	O	``	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	continue	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	fight	x	x	0
+O	0	6	O	O	terror	x	x	0
+O	0	7	O	O	everywhere	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	any	x	x	0
+O	0	11	O	O	time	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	any	x	x	0
+O	0	15	O	O	way	x	x	0
+O	0	16	O	O	possible	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	''	x	x	0
+O	0	19	O	O	a	x	x	0
+B-ORG	0	20	O	O	Cabinet	x	x	0
+O	0	21	O	O	statement	x	x	0
+O	0	22	O	O	said	x	x	0
+B-TIME	0	23	O	O	Sunday	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	after	x	x	0
+O	0	26	O	O	a	x	x	0
+B-ORG	0	27	O	O	Hamas	x	x	0
+O	0	28	O	O	suicide	x	x	0
+O	0	29	O	O	bomber	x	x	0
+O	0	30	O	O	killed	x	x	0
+B-PER	0	31	O	O	seven	x	x	0
+I-PER	0	32	O	O	Israelis	x	x	0
+O	0	33	O	O	on	x	x	0
+O	0	34	O	O	a	x	x	0
+B-GPE	0	35	O	O	Jerusalem	x	x	0
+O	0	36	O	O	bus	x	x	0
+O	0	37	O	O	earlier	x	x	0
+O	0	38	O	O	in	x	x	0
+B-TIME	0	39	O	O	the	x	x	0
+I-TIME	0	40	O	O	day	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	ministers	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	decided	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	cold-shoulder	x	x	0
+O	0	6	O	O	foreign	x	x	0
+O	0	7	O	O	envoys	x	x	0
+B-PER	0	8	O	O	who	x	x	0
+O	0	9	O	O	meet	x	x	0
+O	0	10	O	O	with	x	x	0
+B-PER	0	11	O	O	Arafat	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Whoever	x	x	0
+O	0	2	O	O	wants	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	visit	x	x	0
+B-PER	0	5	O	O	Arafat	x	x	0
+O	0	6	O	O	can	x	x	0
+O	0	7	O	O	visit	x	x	0
+B-PER	0	8	O	O	Arafat	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	wo	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	allowed	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	meet	x	x	0
+O	0	17	O	O	senior	x	x	0
+B-GPE	0	18	O	O	Israeli	x	x	0
+O	0	19	O	O	officials	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	''	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	senior	x	x	0
+B-PER	0	25	O	O	Sharon	x	x	0
+O	0	26	O	O	adviser	x	x	0
+O	0	27	O	O	,	x	x	0
+B-PER	0	28	O	O	Raanan	x	x	0
+I-PER	0	29	O	O	Gissin	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israel	x	x	0
+O	0	1	O	O	first	x	x	0
+O	0	2	O	O	threatened	x	x	0
+O	0	3	O	O	such	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	boycott	x	x	0
+B-TIME	0	6	O	O	several	x	x	0
+I-TIME	0	7	O	O	weeks	x	x	0
+I-TIME	0	8	O	O	ago	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	enforced	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	only	x	x	0
+O	0	14	O	O	selectively	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	European	x	x	0
+I-GPE	0	2	O	O	Union	x	x	0
+O	0	3	O	O	on	x	x	0
+B-TIME	0	4	O	O	Monday	x	x	0
+O	0	5	O	O	dismissed	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	decision	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	spokeswoman	x	x	0
+O	0	11	O	O	said	x	x	0
+B-GPE	0	12	O	O	EU	x	x	0
+O	0	13	O	O	leaders	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	continue	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	involve	x	x	0
+B-PER	0	18	O	O	Arafat	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	search	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	peace	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Arafat	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	confined	x	x	0
+O	0	6	O	O	by	x	x	0
+B-GPE	0	7	O	O	Israel	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	the	x	x	0
+B-LOC	0	10	O	O	West	x	x	0
+I-LOC	0	11	O	O	Bank	x	x	0
+O	0	12	O	O	town	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	Ramallah	x	x	0
+O	0	15	O	O	for	x	x	0
+B-TIME	0	16	O	O	more	x	x	0
+I-TIME	0	17	O	O	than	x	x	0
+I-TIME	0	18	O	O	a	x	x	0
+I-TIME	0	19	O	O	year	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	accused	x	x	0
+B-GPE	0	22	O	O	Israel	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	inciting	x	x	0
+O	0	25	O	O	against	x	x	0
+B-PER	0	26	O	O	him	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Not	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	forget	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	condemned	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	completely	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	these	x	x	0
+B-PER	0	10	O	O	terrorist	x	x	0
+O	0	11	O	O	activities	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	''	x	x	0
+B-PER	0	14	O	O	Arafat	x	x	0
+O	0	15	O	O	said	x	x	0
+B-TIME	0	16	O	O	Monday	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	halting	x	x	0
+O	0	19	O	O	English	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	speaking	x	x	0
+O	0	22	O	O	before	x	x	0
+O	0	23	O	O	the	x	x	0
+B-GPE	0	24	O	O	Afula	x	x	0
+O	0	25	O	O	bombing	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	At	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	same	x	x	0
+O	0	4	O	O	time	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	should	x	x	0
+O	0	8	O	O	remember	x	x	0
+O	0	9	O	O	(	x	x	0
+B-GPE	0	10	O	O	Israel	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	)	x	x	0
+O	0	13	O	O	incitement	x	x	0
+O	0	14	O	O	policy	x	x	0
+O	0	15	O	O	against	x	x	0
+B-PER	0	16	O	O	me	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	increase	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	siege	x	x	0
+O	0	6	O	O	around	x	x	0
+B-PER	0	7	O	O	me	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Where	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	happen	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	president	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	forbidden	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	moving	x	x	0
+O	0	11	O	O	out	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	his	x	x	0
+O	0	14	O	O	office	x	x	0
+O	0	15	O	O	?	x	x	0
+O	0	16	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	new	x	x	0
+B-GPE	0	2	O	O	Palestinian	x	x	0
+O	0	3	O	O	prime	x	x	0
+O	0	4	O	O	minister	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	Mahmoud	x	x	0
+I-PER	0	7	O	O	Abbas	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	denounced	x	x	0
+O	0	11	O	O	violence	x	x	0
+O	0	12	O	O	against	x	x	0
+B-GPE	0	13	O	O	Israelis	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	but	x	x	0
+O	0	16	O	O	also	x	x	0
+O	0	17	O	O	told	x	x	0
+B-PER	0	18	O	O	Sharon	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	a	x	x	0
+B-TIME	0	21	O	O	weekend	x	x	0
+O	0	22	O	O	meeting	x	x	0
+O	0	23	O	O	_	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	first	x	x	0
+O	0	26	O	O	Israeli-Palestinian	x	x	0
+O	0	27	O	O	summit	x	x	0
+O	0	28	O	O	in	x	x	0
+B-TIME	0	29	O	O	three	x	x	0
+I-TIME	0	30	O	O	years	x	x	0
+O	0	31	O	O	_	x	x	0
+O	0	32	O	O	that	x	x	0
+B-PER	0	33	O	O	he	x	x	0
+O	0	34	O	O	wants	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	persuade	x	x	0
+B-PER	0	37	O	O	the	x	x	0
+I-PER	0	38	O	O	militants	x	x	0
+O	0	39	O	O	to	x	x	0
+O	0	40	O	O	stop	x	x	0
+O	0	41	O	O	attacks	x	x	0
+O	0	42	O	O	,	x	x	0
+O	0	43	O	O	rather	x	x	0
+O	0	44	O	O	than	x	x	0
+O	0	45	O	O	disarm	x	x	0
+B-PER	0	46	O	O	them	x	x	0
+O	0	47	O	O	by	x	x	0
+O	0	48	O	O	force	x	x	0
+O	0	49	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	argument	x	x	0
+O	0	2	O	O	over	x	x	0
+O	0	3	O	O	how	x	x	0
+O	0	4	O	O	rein	x	x	0
+O	0	5	O	O	in	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	militants	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	halt	x	x	0
+O	0	10	O	O	violence	x	x	0
+O	0	11	O	O	has	x	x	0
+O	0	12	O	O	been	x	x	0
+O	0	13	O	O	holding	x	x	0
+O	0	14	O	O	up	x	x	0
+O	0	15	O	O	implementation	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	road	x	x	0
+O	0	19	O	O	map	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	plan	x	x	0
+O	0	2	O	O	calls	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	parallel	x	x	0
+O	0	5	O	O	steps	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	first	x	x	0
+O	0	9	O	O	stage	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	including	x	x	0
+O	0	12	O	O	a	x	x	0
+B-GPE	0	13	O	O	Palestinian	x	x	0
+O	0	14	O	O	crackdown	x	x	0
+O	0	15	O	O	on	x	x	0
+B-PER	0	16	O	O	militants	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	an	x	x	0
+B-GPE	0	19	O	O	Israeli	x	x	0
+O	0	20	O	O	troop	x	x	0
+O	0	21	O	O	pullback	x	x	0
+O	0	22	O	O	from	x	x	0
+B-GPE	0	23	O	O	Palestinian	x	x	0
+O	0	24	O	O	towns	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	construction	x	x	0
+O	0	28	O	O	freeze	x	x	0
+O	0	29	O	O	in	x	x	0
+B-PER	0	30	O	O	Jewish	x	x	0
+O	0	31	O	O	settlements	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sharon	x	x	0
+O	0	1	O	O	insists	x	x	0
+B-GPE	0	2	O	O	the	x	x	0
+I-GPE	0	3	O	O	Palestinians	x	x	0
+O	0	4	O	O	make	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	first	x	x	0
+O	0	7	O	O	move	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	discussed	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	objections	x	x	0
+O	0	7	O	O	with	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	President	x	x	0
+O	0	10	O	O	George	x	x	0
+O	0	11	O	O	W.	x	x	0
+O	0	12	O	O	Bush	x	x	0
+B-TIME	0	13	O	O	this	x	x	0
+I-TIME	0	14	O	O	week	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	but	x	x	0
+O	0	17	O	O	canceled	x	x	0
+B-PER	0	18	O	O	his	x	x	0
+O	0	19	O	O	trip	x	x	0
+O	0	20	O	O	after	x	x	0
+B-TIME	0	21	O	O	Sunday	x	x	0
+O	0	22	O	O	's	x	x	0
+B-VEH	0	23	O	O	bus	x	x	0
+O	0	24	O	O	bombing	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	Palestinians	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	accepted	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	plan	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	latest	x	x	0
+O	0	2	O	O	wave	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	attacks	x	x	0
+O	0	5	O	O	began	x	x	0
+B-TIME	0	6	O	O	Saturday	x	x	0
+I-TIME	0	7	O	O	evening	x	x	0
+O	0	8	O	O	when	x	x	0
+O	0	9	O	O	a	x	x	0
+B-ORG	0	10	O	O	Hamas	x	x	0
+O	0	11	O	O	bomber	x	x	0
+O	0	12	O	O	blew	x	x	0
+B-PER	0	13	O	O	himself	x	x	0
+O	0	14	O	O	up	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	square	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	the	x	x	0
+B-LOC	0	20	O	O	West	x	x	0
+I-LOC	0	21	O	O	Bank	x	x	0
+O	0	22	O	O	city	x	x	0
+O	0	23	O	O	of	x	x	0
+B-GPE	0	24	O	O	Hebron	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	killing	x	x	0
+O	0	27	O	O	an	x	x	0
+B-GPE	0	28	O	O	Israeli	x	x	0
+O	0	29	O	O	settler	x	x	0
+O	0	30	O	O	and	x	x	0
+B-PER	0	31	O	O	his	x	x	0
+O	0	32	O	O	pregnant	x	x	0
+O	0	33	O	O	wife	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sunday	x	x	0
+I-TIME	0	2	O	O	morning	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	another	x	x	0
+B-ORG	0	5	O	O	Hamas	x	x	0
+O	0	6	O	O	assailant	x	x	0
+O	0	7	O	O	blew	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	the	x	x	0
+B-GPE	0	10	O	O	Jerusalem	x	x	0
+O	0	11	O	O	bus	x	x	0
+O	0	12	O	O	and	x	x	0
+B-TIME	0	13	O	O	about	x	x	0
+I-TIME	0	14	O	O	half	x	x	0
+I-TIME	0	15	O	O	an	x	x	0
+I-TIME	0	16	O	O	hour	x	x	0
+I-TIME	0	17	O	O	later	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	third	x	x	0
+O	0	21	O	O	bomber	x	x	0
+O	0	22	O	O	from	x	x	0
+B-ORG	0	23	O	O	the	x	x	0
+I-ORG	0	24	O	O	group	x	x	0
+O	0	25	O	O	detonated	x	x	0
+B-WEA	0	26	O	O	explosives	x	x	0
+O	0	27	O	O	on	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	outskirts	x	x	0
+O	0	30	O	O	of	x	x	0
+B-GPE	0	31	O	O	Jerusalem	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	killing	x	x	0
+O	0	34	O	O	only	x	x	0
+B-PER	0	35	O	O	himself	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israeli	x	x	0
+O	0	1	O	O	analyst	x	x	0
+O	0	2	O	O	Mark	x	x	0
+O	0	3	O	O	Heller	x	x	0
+O	0	4	O	O	said	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	``	x	x	0
+B-ORG	0	7	O	O	Hamas	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	trying	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	ensure	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	road	x	x	0
+O	0	15	O	O	map	x	x	0
+O	0	16	O	O	does	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	go	x	x	0
+O	0	19	O	O	anywhere	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	that	x	x	0
+B-PER	0	22	O	O	Abu	x	x	0
+I-PER	0	23	O	O	Mazen	x	x	0
+O	0	24	O	O	(	x	x	0
+B-PER	0	25	O	O	Abbas	x	x	0
+O	0	26	O	O	)	x	x	0
+O	0	27	O	O	does	x	x	0
+O	0	28	O	O	n't	x	x	0
+O	0	29	O	O	go	x	x	0
+O	0	30	O	O	anywhere	x	x	0
+O	0	31	O	O	either	x	x	0
+O	0	32	O	O	.	x	x	0
+O	0	33	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	three	x	x	0
+I-PER	0	2	O	O	bombers	x	x	0
+O	0	3	O	O	came	x	x	0
+O	0	4	O	O	from	x	x	0
+B-GPE	0	5	O	O	Hebron	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	one	x	x	0
+O	0	9	O	O	point	x	x	0
+O	0	10	O	O	studied	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	Polytechnic	x	x	0
+O	0	14	O	O	Institute	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	city	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Two	x	x	0
+I-PER	0	1	O	O	bombers	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	Fuad	x	x	0
+O	0	4	O	O	Qawasmeh	x	x	0
+O	0	5	O	O	,	x	x	0
+B-TIME	0	6	O	O	18	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	Bassem	x	x	0
+O	0	10	O	O	Takrouri	x	x	0
+O	0	11	O	O	,	x	x	0
+B-TIME	0	12	O	O	19	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	lived	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	same	x	x	0
+B-GPE	0	18	O	O	Hebron	x	x	0
+O	0	19	O	O	neighborhood	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	were	x	x	0
+B-PER	0	22	O	O	friends	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	Israeli	x	x	0
+O	0	2	O	O	military	x	x	0
+O	0	3	O	O	on	x	x	0
+B-TIME	0	4	O	O	Monday	x	x	0
+O	0	5	O	O	demolished	x	x	0
+O	0	6	O	O	the	x	x	0
+B-PER	0	7	O	O	Qawasmeh	x	x	0
+O	0	8	O	O	family	x	x	0
+O	0	9	O	O	home	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	part	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	policy	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	trying	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	deter	x	x	0
+O	0	19	O	O	attacks	x	x	0
+O	0	20	O	O	by	x	x	0
+O	0	21	O	O	punishing	x	x	0
+B-PER	0	22	O	O	assailants	x	x	0
+O	0	23	O	O	'	x	x	0
+O	0	24	O	O	relatives	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	three	x	x	0
+I-PER	0	2	O	O	bombers	x	x	0
+O	0	3	O	O	released	x	x	0
+O	0	4	O	O	farewell	x	x	0
+O	0	5	O	O	videos	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	apparently	x	x	0
+O	0	8	O	O	taken	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	same	x	x	0
+I-LOC	0	12	O	O	wooded	x	x	0
+I-LOC	0	13	O	O	area	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	frame	x	x	0
+O	0	2	O	O	grabs	x	x	0
+O	0	3	O	O	published	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	Yediot	x	x	0
+O	0	7	O	O	Ahronot	x	x	0
+B-TIME	0	8	O	O	daily	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	three	x	x	0
+O	0	12	O	O	struck	x	x	0
+O	0	13	O	O	identical	x	x	0
+O	0	14	O	O	poses	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	holding	x	x	0
+O	0	17	O	O	up	x	x	0
+B-WEA	0	18	O	O	assault	x	x	0
+I-WEA	0	19	O	O	rifles	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Each	x	x	0
+O	0	1	O	O	wore	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	green	x	x	0
+O	0	4	O	O	headband	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	Quranic	x	x	0
+O	0	7	O	O	verses	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	olive-colored	x	x	0
+O	0	11	O	O	vest	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	pockets	x	x	0
+O	0	14	O	O	for	x	x	0
+B-WEA	0	15	O	O	ammunition	x	x	0
+O	0	16	O	O	and	x	x	0
+B-WEA	0	17	O	O	grenades	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	another	x	x	0
+O	0	2	O	O	development	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	Israeli	x	x	0
+O	0	5	O	O	forensics	x	x	0
+O	0	6	O	O	experts	x	x	0
+O	0	7	O	O	identified	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	body	x	x	0
+B-PER	0	10	O	O	that	x	x	0
+O	0	11	O	O	washed	x	x	0
+O	0	12	O	O	up	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	a	x	x	0
+B-GPE	0	15	O	O	Tel	x	x	0
+I-GPE	0	16	O	O	Aviv	x	x	0
+O	0	17	O	O	beach	x	x	0
+B-TIME	0	18	O	O	last	x	x	0
+I-TIME	0	19	O	O	week	x	x	0
+O	0	20	O	O	as	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	of	x	x	0
+B-PER	0	23	O	O	a	x	x	0
+I-PER	0	24	O	O	Briton	x	x	0
+O	0	25	O	O	,	x	x	0
+B-PER	0	26	O	O	Omar	x	x	0
+I-PER	0	27	O	O	Khan	x	x	0
+I-PER	0	28	O	O	Sharif	x	x	0
+I-PER	0	29	O	O	,	x	x	0
+I-PER	0	30	O	O	27	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	suspected	x	x	0
+O	0	34	O	O	accomplice	x	x	0
+O	0	35	O	O	of	x	x	0
+O	0	36	O	O	a	x	x	0
+B-GPE	0	37	O	O	British	x	x	0
+O	0	38	O	O	suicide	x	x	0
+O	0	39	O	O	bomber	x	x	0
+B-PER	0	40	O	O	who	x	x	0
+O	0	41	O	O	blew	x	x	0
+B-PER	0	42	O	O	himself	x	x	0
+O	0	43	O	O	up	x	x	0
+O	0	44	O	O	outside	x	x	0
+O	0	45	O	O	a	x	x	0
+B-GPE	0	46	O	O	Tel	x	x	0
+I-GPE	0	47	O	O	Aviv	x	x	0
+O	0	48	O	O	pub	x	x	0
+B-TIME	0	49	O	O	April	x	x	0
+I-TIME	0	50	O	O	30	x	x	0
+O	0	51	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Two	x	x	0
+I-PER	0	1	O	O	musicians	x	x	0
+O	0	2	O	O	and	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	waitress	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	killed	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	blast	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sharif	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	carried	x	x	0
+B-WEA	0	3	O	O	explosives	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+B-WEA	0	6	O	O	they	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	go	x	x	0
+O	0	10	O	O	off	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	fled	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	known	x	x	0
+O	0	4	O	O	whether	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	hurt	x	x	0
+O	0	8	O	O	at	x	x	0
+B-TIME	0	9	O	O	the	x	x	0
+I-TIME	0	10	O	O	time	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	identification	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	made	x	x	0
+O	0	4	O	O	with	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	help	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	DNA	x	x	0
+O	0	9	O	O	samples	x	x	0
+O	0	10	O	O	supplied	x	x	0
+O	0	11	O	O	to	x	x	0
+B-GPE	0	12	O	O	Israel	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	Forensics	x	x	0
+O	0	15	O	O	Institute	x	x	0
+O	0	16	O	O	by	x	x	0
+B-GPE	0	17	O	O	British	x	x	0
+O	0	18	O	O	detectives	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	said	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	head	x	x	0
+O	0	23	O	O	of	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	institute	x	x	0
+O	0	26	O	O	,	x	x	0
+B-PER	0	27	O	O	Dr.	x	x	0
+O	0	28	O	O	Yehuda	x	x	0
+O	0	29	O	O	Hiss	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+B-PER	0	2	O	O	Sharif	x	x	0
+O	0	3	O	O	drowned.	x	x	0
+O	0	4	O	O	pvs-kl	x	x	0
+

@@ -1,0 +1,269 @@
+O	0	0	O	O	ATHENS	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Greece	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	A	x	x	0
+O	0	7	O	O	retired	x	x	0
+B-ORG	0	8	O	O	navy	x	x	0
+O	0	9	O	O	officer	x	x	0
+O	0	10	O	O	facing	x	x	0
+O	0	11	O	O	life	x	x	0
+O	0	12	O	O	in	x	x	0
+B-FAC	0	13	O	O	prison	x	x	0
+O	0	14	O	O	over	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	failed	x	x	0
+O	0	17	O	O	effort	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	protect	x	x	0
+B-GPE	0	20	O	O	Kurdish	x	x	0
+B-PER	0	21	O	O	rebel	x	x	0
+O	0	22	O	O	leader	x	x	0
+O	0	23	O	O	Abdullah	x	x	0
+O	0	24	O	O	Ocalan	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	told	x	x	0
+B-ORG	0	27	O	O	a	x	x	0
+I-ORG	0	28	O	O	court	x	x	0
+B-TIME	0	29	O	O	Thursday	x	x	0
+B-PER	0	30	O	O	he	x	x	0
+O	0	31	O	O	felt	x	x	0
+O	0	32	O	O	remorse	x	x	0
+O	0	33	O	O	for	x	x	0
+B-PER	0	34	O	O	his	x	x	0
+O	0	35	O	O	part	x	x	0
+O	0	36	O	O	in	x	x	0
+O	0	37	O	O	the	x	x	0
+B-TIME	0	38	O	O	1999	x	x	0
+O	0	39	O	O	plot	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	guilty	x	x	0
+O	0	5	O	O	conscience	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	''	x	x	0
+B-PER	0	8	O	O	Andonis	x	x	0
+I-PER	0	9	O	O	Naxakis	x	x	0
+O	0	10	O	O	said	x	x	0
+O	0	11	O	O	during	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+B-TIME	0	13	O	O	two-hour	x	x	0
+O	0	14	O	O	testimony	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Naxakis	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	13	x	x	0
+O	0	5	O	O	people	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	trial	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	bringing	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	fugitive	x	x	0
+B-PER	0	12	O	O	guerrilla	x	x	0
+O	0	13	O	O	leader	x	x	0
+O	0	14	O	O	to	x	x	0
+B-GPE	0	15	O	O	Greece	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ocalan	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	moved	x	x	0
+O	0	3	O	O	by	x	x	0
+B-GPE	0	4	O	O	the	x	x	0
+I-GPE	0	5	O	O	government	x	x	0
+O	0	6	O	O	to	x	x	0
+B-GPE	0	7	O	O	its	x	x	0
+B-FAC	0	8	O	O	embassy	x	x	0
+O	0	9	O	O	compound	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	Kenya	x	x	0
+O	0	12	O	O	,	x	x	0
+B-FAC	0	13	O	O	where	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	was	x	x	0
+O	0	16	O	O	captured	x	x	0
+O	0	17	O	O	by	x	x	0
+B-GPE	0	18	O	O	Turkish	x	x	0
+O	0	19	O	O	commandos	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	retired	x	x	0
+B-GPE	0	2	O	O	Greek	x	x	0
+O	0	3	O	O	officer	x	x	0
+O	0	4	O	O	said	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	trying	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	get	x	x	0
+B-PER	0	11	O	O	Ocalan	x	x	0
+O	0	12	O	O	to	x	x	0
+B-GPE	0	13	O	O	The	x	x	0
+I-GPE	0	14	O	O	Netherlands	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	home	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	large	x	x	0
+B-GPE	0	20	O	O	Kurdish	x	x	0
+O	0	21	O	O	community	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	claimed	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	manipulated	x	x	0
+O	0	6	O	O	by	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	government	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	believe	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	unwittingly	x	x	0
+O	0	6	O	O	used	x	x	0
+O	0	7	O	O	as	x	x	0
+O	0	8	O	O	bait	x	x	0
+O	0	9	O	O	for	x	x	0
+B-GPE	0	10	O	O	its	x	x	0
+O	0	11	O	O	disgraceful	x	x	0
+O	0	12	O	O	plan	x	x	0
+O	0	13	O	O	...	x	x	0
+O	0	14	O	O	an	x	x	0
+O	0	15	O	O	organized	x	x	0
+O	0	16	O	O	move	x	x	0
+O	0	17	O	O	by	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	government	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	hand	x	x	0
+B-PER	0	22	O	O	Ocalan	x	x	0
+O	0	23	O	O	over	x	x	0
+O	0	24	O	O	to	x	x	0
+B-GPE	0	25	O	O	Turkey	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	''	x	x	0
+B-PER	0	28	O	O	he	x	x	0
+O	0	29	O	O	said	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Naxakis	x	x	0
+O	0	1	O	O	and	x	x	0
+O	0	2	O	O	two	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	Ocalan	x	x	0
+O	0	5	O	O	's	x	x	0
+B-GPE	0	6	O	O	Kurdish	x	x	0
+O	0	7	O	O	associates	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	being	x	x	0
+O	0	10	O	O	tried	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	criminal	x	x	0
+O	0	13	O	O	charges	x	x	0
+O	0	14	O	O	of	x	x	0
+B-Crime	0	15	O	O	endangering	x	x	0
+I-Crime	0	16	O	O	national	x	x	0
+I-Crime	0	17	O	O	security	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ocalan	x	x	0
+I-PER	0	1	O	O	,	x	x	0
+I-PER	0	2	O	O	being	x	x	0
+I-PER	0	3	O	O	tried	x	x	0
+I-PER	0	4	O	O	in	x	x	0
+I-PER	0	5	O	O	absentia	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	indicted	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	entering	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	country	x	x	0
+O	0	13	O	O	illegally	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	misdemeanor	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Ocalan	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	leader	x	x	0
+O	0	3	O	O	of	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	Kurdistan	x	x	0
+I-ORG	0	6	O	O	Workers	x	x	0
+I-ORG	0	7	O	O	Party	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	or	x	x	0
+B-ORG	0	10	O	O	PKK	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	serving	x	x	0
+O	0	14	O	O	a	x	x	0
+B-Sentence	0	15	O	O	life	x	x	0
+O	0	16	O	O	sentence	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	Turkey	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	leading	x	x	0
+O	0	21	O	O	a	x	x	0
+B-TIME	0	22	O	O	15-year	x	x	0
+O	0	23	O	O	insurgency	x	x	0
+O	0	24	O	O	against	x	x	0
+B-GPE	0	25	O	O	the	x	x	0
+I-GPE	0	26	O	O	country	x	x	0
+O	0	27	O	O	that	x	x	0
+O	0	28	O	O	left	x	x	0
+B-PER	0	29	O	O	37,000	x	x	0
+I-PER	0	30	O	O	people	x	x	0
+O	0	31	O	O	dead	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	being	x	x	0
+O	0	3	O	O	tried	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Greece	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	absentia	x	x	0
+O	0	8	O	O	.	x	x	0
+

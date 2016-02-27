@@ -1,0 +1,263 @@
+O	0	0	O	O	AMMAN	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Jordan	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+B-GPE	0	6	O	O	Jordanian	x	x	0
+O	0	7	O	O	authorities	x	x	0
+O	0	8	O	O	on	x	x	0
+B-TIME	0	9	O	O	Monday	x	x	0
+O	0	10	O	O	said	x	x	0
+B-GPE	0	11	O	O	Jordan	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	first	x	x	0
+O	0	14	O	O	female	x	x	0
+O	0	15	O	O	lawmaker	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	ineligible	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	run	x	x	0
+O	0	20	O	O	in	x	x	0
+B-TIME	0	21	O	O	June	x	x	0
+I-TIME	0	22	O	O	17	x	x	0
+O	0	23	O	O	parliamentary	x	x	0
+O	0	24	O	O	elections	x	x	0
+O	0	25	O	O	following	x	x	0
+B-PER	0	26	O	O	her	x	x	0
+O	0	27	O	O	conviction	x	x	0
+B-TIME	0	28	O	O	last	x	x	0
+I-TIME	0	29	O	O	year	x	x	0
+O	0	30	O	O	over	x	x	0
+O	0	31	O	O	publishing	x	x	0
+O	0	32	O	O	information	x	x	0
+O	0	33	O	O	that	x	x	0
+O	0	34	O	O	harmed	x	x	0
+B-GPE	0	35	O	O	the	x	x	0
+I-GPE	0	36	O	O	government	x	x	0
+O	0	37	O	O	's	x	x	0
+O	0	38	O	O	reputation	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Toujan	x	x	0
+I-PER	0	1	O	O	Faisal	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	54	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	said	x	x	0
+B-PER	0	6	O	O	she	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	informed	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	refusal	x	x	0
+O	0	12	O	O	by	x	x	0
+O	0	13	O	O	an	x	x	0
+B-ORG	0	14	O	O	Interior	x	x	0
+I-ORG	0	15	O	O	Ministry	x	x	0
+O	0	16	O	O	committee	x	x	0
+O	0	17	O	O	overseeing	x	x	0
+O	0	18	O	O	election	x	x	0
+O	0	19	O	O	preparations	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	The	x	x	0
+O	0	2	O	O	excuse	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	invalid	x	x	0
+O	0	5	O	O	because	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	've	x	x	0
+O	0	8	O	O	been	x	x	0
+O	0	9	O	O	convicted	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	political	x	x	0
+O	0	12	O	O	not	x	x	0
+O	0	13	O	O	criminal	x	x	0
+O	0	14	O	O	grounds	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	which	x	x	0
+O	0	17	O	O	does	x	x	0
+O	0	18	O	O	n't	x	x	0
+O	0	19	O	O	violate	x	x	0
+B-PER	0	20	O	O	my	x	x	0
+O	0	21	O	O	right	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	contesting	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	elections	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	''	x	x	0
+B-PER	0	28	O	O	Faisal	x	x	0
+O	0	29	O	O	told	x	x	0
+B-ORG	0	30	O	O	The	x	x	0
+I-ORG	0	31	O	O	Associated	x	x	0
+I-ORG	0	32	O	O	Press	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Faisal	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	convicted	x	x	0
+O	0	3	O	O	in	x	x	0
+B-TIME	0	4	O	O	May	x	x	0
+I-TIME	0	5	O	O	2002	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	publishing	x	x	0
+O	0	8	O	O	false	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	exaggerated	x	x	0
+O	0	11	O	O	information	x	x	0
+O	0	12	O	O	abroad	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	harmed	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	government	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	reputation	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	dignity	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	sentenced	x	x	0
+O	0	3	O	O	to	x	x	0
+B-TIME	0	4	O	O	1	x	x	0
+I-TIME	0	5	O	O	{	x	x	0
+I-TIME	0	6	O	O	years	x	x	0
+O	0	7	O	O	in	x	x	0
+B-FAC	0	8	O	O	jail	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	after	x	x	0
+O	0	2	O	O	spending	x	x	0
+B-TIME	0	3	O	O	40	x	x	0
+I-TIME	0	4	O	O	days	x	x	0
+O	0	5	O	O	in	x	x	0
+B-FAC	0	6	O	O	prison	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	Jordan	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	King	x	x	0
+O	0	11	O	O	Abdullah	x	x	0
+O	0	12	O	O	II	x	x	0
+O	0	13	O	O	pardoned	x	x	0
+O	0	14	O	O	the	x	x	0
+B-TIME	0	15	O	O	former	x	x	0
+O	0	16	O	O	legislator	x	x	0
+O	0	17	O	O	known	x	x	0
+O	0	18	O	O	for	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	harsh	x	x	0
+O	0	21	O	O	criticism	x	x	0
+O	0	22	O	O	of	x	x	0
+B-GPE	0	23	O	O	the	x	x	0
+I-GPE	0	24	O	O	state	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Jordan	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	electoral	x	x	0
+O	0	3	O	O	law	x	x	0
+O	0	4	O	O	bans	x	x	0
+B-GPE	0	5	O	O	Jordanians	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	contesting	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	polls	x	x	0
+O	0	10	O	O	if	x	x	0
+B-GPE	0	11	O	O	they	x	x	0
+O	0	12	O	O	were	x	x	0
+O	0	13	O	O	convicted	x	x	0
+O	0	14	O	O	of	x	x	0
+B-Crime	0	15	O	O	any	x	x	0
+I-Crime	0	16	O	O	crime	x	x	0
+I-Crime	0	17	O	O	,	x	x	0
+I-Crime	0	18	O	O	except	x	x	0
+I-Crime	0	19	O	O	political	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	sentenced	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	more	x	x	0
+O	0	25	O	O	than	x	x	0
+O	0	26	O	O	one	x	x	0
+O	0	27	O	O	year	x	x	0
+O	0	28	O	O	in	x	x	0
+B-FAC	0	29	O	O	jail	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Government	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	immediately	x	x	0
+O	0	5	O	O	available	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	comment	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	During	x	x	0
+B-PER	0	1	O	O	Faisal	x	x	0
+O	0	2	O	O	's	x	x	0
+B-TIME	0	3	O	O	1993-97	x	x	0
+O	0	4	O	O	stint	x	x	0
+O	0	5	O	O	in	x	x	0
+B-ORG	0	6	O	O	parliament	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	she	x	x	0
+O	0	9	O	O	became	x	x	0
+O	0	10	O	O	known	x	x	0
+O	0	11	O	O	as	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	fierce	x	x	0
+O	0	14	O	O	critic	x	x	0
+O	0	15	O	O	of	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	government	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	Muslim	x	x	0
+O	0	20	O	O	extremists	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	champion	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	liberal	x	x	0
+O	0	26	O	O	views	x	x	0
+O	0	27	O	O	in	x	x	0
+B-GPE	0	28	O	O	conservative	x	x	0
+I-GPE	0	29	O	O	Jordan	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	lost	x	x	0
+B-PER	0	2	O	O	her	x	x	0
+O	0	3	O	O	seat	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+B-TIME	0	6	O	O	1997	x	x	0
+O	0	7	O	O	election.	x	x	0
+O	0	8	O	O	snm-jjh	x	x	0
+O	0	9	O	O	/	x	x	0
+O	0	10	O	O	pg	x	x	0
+

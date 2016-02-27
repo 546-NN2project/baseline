@@ -1,0 +1,470 @@
+B-PER	0	0	O	O	a	x	x	0
+I-PER	0	1	O	O	defense	x	x	0
+I-PER	0	2	O	O	attorney	x	x	0
+O	0	3	O	O	calls	x	x	0
+O	0	4	O	O	it	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	worst	x	x	0
+O	0	7	O	O	nightmare	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	convicted	x	x	0
+I-PER	0	2	O	O	murderer	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	released	x	x	0
+O	0	5	O	O	from	x	x	0
+B-FAC	0	6	O	O	prison	x	x	0
+O	0	7	O	O	before	x	x	0
+O	0	8	O	O	serving	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	full	x	x	0
+O	0	11	O	O	sentence	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	then	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	nightmare	x	x	0
+O	0	16	O	O	becomes	x	x	0
+O	0	17	O	O	reality	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	happened	x	x	0
+B-TIME	0	2	O	O	last	x	x	0
+I-TIME	0	3	O	O	week	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Michael	x	x	0
+I-PER	0	1	O	O	Sears	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	determined	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	prove	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	no	x	x	0
+O	0	9	O	O	longer	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	threat	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	His	x	x	0
+O	0	1	O	O	psychiatrist	x	x	0
+O	0	2	O	O	backed	x	x	0
+B-PER	0	3	O	O	him	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Serious	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	serving	x	x	0
+O	0	3	O	O	a	x	x	0
+B-TIME	0	4	O	O	30-year	x	x	0
+O	0	5	O	O	sentence	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	self-confessed	x	x	0
+B-TIME	0	9	O	O	1992	x	x	0
+O	0	10	O	O	killing	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	wife	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	Clinton	x	x	0
+O	0	16	O	O	,	x	x	0
+B-GPE	0	17	O	O	Maryland	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	but	x	x	0
+O	0	20	O	O	after	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	relentless	x	x	0
+O	0	23	O	O	campaign	x	x	0
+O	0	24	O	O	that	x	x	0
+O	0	25	O	O	included	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	letter	x	x	0
+O	0	28	O	O	from	x	x	0
+B-PER	0	29	O	O	his	x	x	0
+O	0	30	O	O	psychiatrist	x	x	0
+O	0	31	O	O	saying	x	x	0
+B-PER	0	32	O	O	serious	x	x	0
+O	0	33	O	O	was	x	x	0
+O	0	34	O	O	unlikely	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	commit	x	x	0
+O	0	37	O	O	such	x	x	0
+O	0	38	O	O	violence	x	x	0
+O	0	39	O	O	again	x	x	0
+O	0	40	O	O	,	x	x	0
+B-PER	0	41	O	O	the	x	x	0
+I-PER	0	42	O	O	judge	x	x	0
+I-PER	0	43	O	O	in	x	x	0
+I-PER	0	44	O	O	this	x	x	0
+I-PER	0	45	O	O	case	x	x	0
+O	0	46	O	O	,	x	x	0
+O	0	47	O	O	got	x	x	0
+B-PER	0	48	O	O	him	x	x	0
+O	0	49	O	O	released	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	served	x	x	0
+B-TIME	0	2	O	O	less	x	x	0
+I-TIME	0	3	O	O	than	x	x	0
+I-TIME	0	4	O	O	nine	x	x	0
+I-TIME	0	5	O	O	years	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Maryland	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	only	x	x	0
+O	0	4	O	O	state	x	x	0
+B-GPE	0	5	O	O	that	x	x	0
+O	0	6	O	O	allows	x	x	0
+O	0	7	O	O	unchecked	x	x	0
+O	0	8	O	O	judicial	x	x	0
+O	0	9	O	O	reconsideration	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	allowing	x	x	0
+B-PER	0	12	O	O	judges	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	reduce	x	x	0
+B-FAC	0	15	O	O	prison	x	x	0
+O	0	16	O	O	terms	x	x	0
+O	0	17	O	O	at	x	x	0
+O	0	18	O	O	any	x	x	0
+O	0	19	O	O	time	x	x	0
+O	0	20	O	O	after	x	x	0
+O	0	21	O	O	sentencing	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Those	x	x	0
+I-PER	0	1	O	O	favoring	x	x	0
+I-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	rule	x	x	0
+O	0	4	O	O	say	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	gives	x	x	0
+B-PER	0	7	O	O	convicts	x	x	0
+O	0	8	O	O	incentive	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	behave	x	x	0
+O	0	11	O	O	in	x	x	0
+B-FAC	0	12	O	O	prison	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	enables	x	x	0
+B-PER	0	15	O	O	judges	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	release	x	x	0
+B-PER	0	18	O	O	prisoners	x	x	0
+O	0	19	O	O	if	x	x	0
+O	0	20	O	O	new	x	x	0
+O	0	21	O	O	evidence	x	x	0
+O	0	22	O	O	comes	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	light	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	some	x	x	0
+O	0	2	O	O	point	x	x	0
+O	0	3	O	O	after	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	release	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Michael	x	x	0
+I-PER	0	8	O	O	Serious	x	x	0
+O	0	9	O	O	befriended	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	woman	x	x	0
+O	0	12	O	O	named	x	x	0
+B-PER	0	13	O	O	Darlene	x	x	0
+I-PER	0	14	O	O	Williamson	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Last	x	x	0
+I-TIME	0	1	O	O	week	x	x	0
+B-PER	0	2	O	O	Williamson	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	mother	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	four	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	found	x	x	0
+O	0	11	O	O	stabbed	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	death	x	x	0
+O	0	14	O	O	at	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	condominium	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	Greenbelt	x	x	0
+O	0	19	O	O	,	x	x	0
+B-GPE	0	20	O	O	Maryland	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	official	x	x	0
+O	0	2	O	O	resident	x	x	0
+O	0	3	O	O	of	x	x	0
+B-FAC	0	4	O	O	that	x	x	0
+I-FAC	0	5	O	O	Condo	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	man	x	x	0
+B-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	charged	x	x	0
+O	0	11	O	O	with	x	x	0
+B-PER	0	12	O	O	her	x	x	0
+O	0	13	O	O	murder	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	Michael	x	x	0
+I-PER	0	16	O	O	Serious	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Today	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	judge	x	x	0
+I-PER	0	3	O	O	in	x	x	0
+I-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	case	x	x	0
+O	0	6	O	O	retired	x	x	0
+B-GPE	0	7	O	O	Prince	x	x	0
+I-GPE	0	8	O	O	Georges	x	x	0
+I-GPE	0	9	O	O	County	x	x	0
+O	0	10	O	O	Circuit	x	x	0
+O	0	11	O	O	Court	x	x	0
+O	0	12	O	O	judge	x	x	0
+O	0	13	O	O	issued	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	statement	x	x	0
+O	0	16	O	O	to	x	x	0
+B-ORG	0	17	O	O	the	x	x	0
+I-ORG	0	18	O	O	news	x	x	0
+I-ORG	0	19	O	O	media	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	called	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	case	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	'm	x	x	0
+O	0	7	O	O	quoting	x	x	0
+B-TIME	0	8	O	O	now	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	judge	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	worst	x	x	0
+O	0	14	O	O	nightmare	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	but	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	noted	x	x	0
+O	0	19	O	O	that	x	x	0
+B-GPE	0	20	O	O	Maryland	x	x	0
+O	0	21	O	O	Parole	x	x	0
+O	0	22	O	O	Boards	x	x	0
+O	0	23	O	O	and	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	facility	x	x	0
+B-FAC	0	26	O	O	where	x	x	0
+B-PER	0	27	O	O	Michael	x	x	0
+I-PER	0	28	O	O	Serious	x	x	0
+O	0	29	O	O	was	x	x	0
+O	0	30	O	O	held	x	x	0
+O	0	31	O	O	,	x	x	0
+B-ORG	0	32	O	O	the	x	x	0
+I-ORG	0	33	O	O	institution	x	x	0
+O	0	34	O	O	made	x	x	0
+O	0	35	O	O	what	x	x	0
+B-PER	0	36	O	O	the	x	x	0
+I-PER	0	37	O	O	judge	x	x	0
+O	0	38	O	O	called	x	x	0
+O	0	39	O	O	the	x	x	0
+O	0	40	O	O	final	x	x	0
+O	0	41	O	O	decision	x	x	0
+O	0	42	O	O	on	x	x	0
+O	0	43	O	O	whether	x	x	0
+O	0	44	O	O	to	x	x	0
+O	0	45	O	O	release	x	x	0
+B-PER	0	46	O	O	serious	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	psychiatrist	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	by	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	way	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	wrote	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	letter	x	x	0
+O	0	11	O	O	on	x	x	0
+B-PER	0	12	O	O	Michael	x	x	0
+I-PER	0	13	O	O	Serious	x	x	0
+O	0	14	O	O	'	x	x	0
+O	0	15	O	O	behalf	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	Neil	x	x	0
+I-PER	0	18	O	O	Blumberg	x	x	0
+O	0	19	O	O	had	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	two-word	x	x	0
+O	0	22	O	O	response	x	x	0
+O	0	23	O	O	in	x	x	0
+O	0	24	O	O	an	x	x	0
+O	0	25	O	O	article	x	x	0
+O	0	26	O	O	in	x	x	0
+B-ORG	0	27	O	O	the	x	x	0
+I-ORG	0	28	O	O	Washington	x	x	0
+I-ORG	0	29	O	O	Post	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	My	x	x	0
+O	0	1	O	O	goodness	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	pretty	x	x	0
+O	0	6	O	O	surprised	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Serious	x	x	0
+O	0	1	O	O	'	x	x	0
+O	0	2	O	O	defense	x	x	0
+O	0	3	O	O	attorney	x	x	0
+B-PER	0	4	O	O	who	x	x	0
+O	0	5	O	O	persuaded	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	judge	x	x	0
+O	0	8	O	O	reduce	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	sentence	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	told	x	x	0
+B-ORG	0	13	O	O	the	x	x	0
+I-ORG	0	14	O	O	Post	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	'm	x	x	0
+O	0	18	O	O	quoting	x	x	0
+O	0	19	O	O	,	x	x	0
+B-PER	0	20	O	O	I	x	x	0
+O	0	21	O	O	'm	x	x	0
+O	0	22	O	O	very	x	x	0
+O	0	23	O	O	saddened	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	makes	x	x	0
+B-PER	0	2	O	O	me	x	x	0
+O	0	3	O	O	sick	x	x	0
+O	0	4	O	O	as	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	defense	x	x	0
+I-PER	0	7	O	O	attorney	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	a	x	x	0
+I-PER	0	2	O	O	defense	x	x	0
+I-PER	0	3	O	O	attorney	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	's	x	x	0
+B-PER	0	6	O	O	your	x	x	0
+O	0	7	O	O	worst	x	x	0
+O	0	8	O	O	nightmare	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	perspective	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	shocking	x	x	0
+O	0	7	O	O	case	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Glen	x	x	0
+I-PER	0	1	O	O	I'vey	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	Prince	x	x	0
+O	0	5	O	O	Georges	x	x	0
+O	0	6	O	O	County	x	x	0
+O	0	7	O	O	,	x	x	0
+B-GPE	0	8	O	O	Maryland	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	state	x	x	0
+O	0	11	O	O	attorney	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	shocking	x	x	0
+O	0	6	O	O	than	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	happen	x	x	0
+O	0	4	O	O	?	x	x	0
+

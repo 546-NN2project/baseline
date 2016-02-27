@@ -1,0 +1,562 @@
+O	0	0	O	O	KUALA	x	x	0
+O	0	1	O	O	LUMPUR	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	Malaysia	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	Malaysia	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	second	x	x	0
+O	0	10	O	O	highest	x	x	0
+O	0	11	O	O	court	x	x	0
+O	0	12	O	O	on	x	x	0
+B-TIME	0	13	O	O	Friday	x	x	0
+O	0	14	O	O	rejected	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	appeal	x	x	0
+O	0	17	O	O	by	x	x	0
+O	0	18	O	O	jailed	x	x	0
+B-TIME	0	19	O	O	former	x	x	0
+B-PER	0	20	O	O	Deputy	x	x	0
+I-PER	0	21	O	O	Prime	x	x	0
+I-PER	0	22	O	O	Minister	x	x	0
+O	0	23	O	O	Anwar	x	x	0
+O	0	24	O	O	Ibrahim	x	x	0
+O	0	25	O	O	against	x	x	0
+B-PER	0	26	O	O	his	x	x	0
+O	0	27	O	O	conviction	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	nine-year	x	x	0
+B-FAC	0	30	O	O	prison	x	x	0
+O	0	31	O	O	sentence	x	x	0
+O	0	32	O	O	for	x	x	0
+B-Crime	0	33	O	O	sodomy	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-PER	0	1	O	O	three-judge	x	x	0
+O	0	2	O	O	panel	x	x	0
+O	0	3	O	O	of	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	Court	x	x	0
+I-ORG	0	6	O	O	of	x	x	0
+I-ORG	0	7	O	O	Appeals	x	x	0
+O	0	8	O	O	unanimously	x	x	0
+O	0	9	O	O	upheld	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	verdict	x	x	0
+O	0	12	O	O	by	x	x	0
+B-ORG	0	13	O	O	High	x	x	0
+I-ORG	0	14	O	O	Court	x	x	0
+O	0	15	O	O	Judge	x	x	0
+O	0	16	O	O	Arifin	x	x	0
+O	0	17	O	O	Jaka	x	x	0
+B-TIME	0	18	O	O	nearly	x	x	0
+I-TIME	0	19	O	O	three	x	x	0
+I-TIME	0	20	O	O	years	x	x	0
+I-TIME	0	21	O	O	ago	x	x	0
+O	0	22	O	O	that	x	x	0
+O	0	23	O	O	found	x	x	0
+B-PER	0	24	O	O	Anwar	x	x	0
+O	0	25	O	O	guilty	x	x	0
+O	0	26	O	O	of	x	x	0
+O	0	27	O	O	sodomizing	x	x	0
+B-PER	0	28	O	O	his	x	x	0
+O	0	29	O	O	wife	x	x	0
+O	0	30	O	O	's	x	x	0
+B-TIME	0	31	O	O	former	x	x	0
+O	0	32	O	O	driver	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sodomy	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	crime	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	predominantly	x	x	0
+B-PER	0	7	O	O	Muslim	x	x	0
+B-GPE	0	8	O	O	Southeast	x	x	0
+I-GPE	0	9	O	O	Asian	x	x	0
+O	0	10	O	O	country	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anwar	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	expected	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	appeal	x	x	0
+O	0	5	O	O	again	x	x	0
+O	0	6	O	O	with	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	Federal	x	x	0
+I-ORG	0	9	O	O	Court	x	x	0
+O	0	10	O	O	,	x	x	0
+B-GPE	0	11	O	O	Malaysia	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	highest	x	x	0
+O	0	14	O	O	court	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Speaking	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	reporters	x	x	0
+O	0	3	O	O	after	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	verdict	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Anwar	x	x	0
+O	0	8	O	O	lambasted	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	judges	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	saying	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	had	x	x	0
+O	0	15	O	O	been	x	x	0
+O	0	16	O	O	``	x	x	0
+O	0	17	O	O	preselected	x	x	0
+O	0	18	O	O	''	x	x	0
+O	0	19	O	O	by	x	x	0
+B-ORG	0	20	O	O	the	x	x	0
+I-ORG	0	21	O	O	government	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	quash	x	x	0
+B-PER	0	24	O	O	his	x	x	0
+O	0	25	O	O	appeal	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	These	x	x	0
+O	0	2	O	O	are	x	x	0
+B-PER	0	3	O	O	spineless	x	x	0
+I-PER	0	4	O	O	judges	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	''	x	x	0
+B-PER	0	7	O	O	Anwar	x	x	0
+O	0	8	O	O	said	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	This	x	x	0
+O	0	2	O	O	decision	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	scripted	x	x	0
+O	0	6	O	O	.	x	x	0
+O	0	7	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	judges	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	rejected	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	application	x	x	0
+O	0	6	O	O	by	x	x	0
+B-PER	0	7	O	O	Anwar	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	released	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	bail	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	Anwar	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	lawyers	x	x	0
+O	0	4	O	O	said	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	filing	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	fresh	x	x	0
+O	0	10	O	O	request	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	bail	x	x	0
+O	0	13	O	O	pending	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	further	x	x	0
+O	0	16	O	O	appeal	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Monday	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	Anwar	x	x	0
+O	0	4	O	O	completed	x	x	0
+B-PER	0	5	O	O	his	x	x	0
+O	0	6	O	O	sentence	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	separate	x	x	0
+O	0	10	O	O	conviction	x	x	0
+O	0	11	O	O	on	x	x	0
+B-Crime	0	12	O	O	corruption	x	x	0
+O	0	13	O	O	charges	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	after	x	x	0
+B-Sentence	0	16	O	O	the	x	x	0
+I-Sentence	0	17	O	O	six-year	x	x	0
+I-Sentence	0	18	O	O	sentence	x	x	0
+O	0	19	O	O	was	x	x	0
+O	0	20	O	O	reduced	x	x	0
+O	0	21	O	O	by	x	x	0
+O	0	22	O	O	one-third	x	x	0
+O	0	23	O	O	for	x	x	0
+O	0	24	O	O	good	x	x	0
+O	0	25	O	O	behavior	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	began	x	x	0
+O	0	3	O	O	serving	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	nine-year	x	x	0
+B-FAC	0	6	O	O	prison	x	x	0
+O	0	7	O	O	sentence	x	x	0
+O	0	8	O	O	for	x	x	0
+B-Crime	0	9	O	O	sodomy	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+O	0	12	O	O	lawyers	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Prime	x	x	0
+I-PER	0	1	O	O	Minister	x	x	0
+O	0	2	O	O	Mahathir	x	x	0
+O	0	3	O	O	Mohamad	x	x	0
+O	0	4	O	O	fired	x	x	0
+B-PER	0	5	O	O	Anwar	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	his	x	x	0
+B-TIME	0	8	O	O	former	x	x	0
+O	0	9	O	O	protege	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	in	x	x	0
+B-TIME	0	12	O	O	1998	x	x	0
+O	0	13	O	O	following	x	x	0
+O	0	14	O	O	disputes	x	x	0
+O	0	15	O	O	over	x	x	0
+O	0	16	O	O	financial	x	x	0
+O	0	17	O	O	policy	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anwar	x	x	0
+O	0	1	O	O	led	x	x	0
+O	0	2	O	O	large	x	x	0
+O	0	3	O	O	protests	x	x	0
+O	0	4	O	O	against	x	x	0
+B-PER	0	5	O	O	Mahathir	x	x	0
+O	0	6	O	O	before	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	arrested	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	charged	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	convicted	x	x	0
+O	0	14	O	O	on	x	x	0
+B-Crime	0	15	O	O	corruption	x	x	0
+O	0	16	O	O	and	x	x	0
+B-Crime	0	17	O	O	sodomy	x	x	0
+O	0	18	O	O	charges	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anwar	x	x	0
+O	0	1	O	O	claims	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	charges	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	fabricated	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	keep	x	x	0
+B-PER	0	8	O	O	him	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	challenging	x	x	0
+B-PER	0	11	O	O	Mahathir	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	power	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	government	x	x	0
+O	0	2	O	O	denies	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Human	x	x	0
+O	0	1	O	O	rights	x	x	0
+O	0	2	O	O	group	x	x	0
+O	0	3	O	O	Amnesty	x	x	0
+O	0	4	O	O	International	x	x	0
+O	0	5	O	O	said	x	x	0
+B-TIME	0	6	O	O	Friday	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	verdict	x	x	0
+O	0	9	O	O	``	x	x	0
+O	0	10	O	O	represents	x	x	0
+O	0	11	O	O	another	x	x	0
+O	0	12	O	O	step	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	further	x	x	0
+O	0	16	O	O	deterioration	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	the	x	x	0
+B-PER	0	19	O	O	human	x	x	0
+O	0	20	O	O	rights	x	x	0
+O	0	21	O	O	situation	x	x	0
+O	0	22	O	O	in	x	x	0
+B-GPE	0	23	O	O	the	x	x	0
+I-GPE	0	24	O	O	country	x	x	0
+O	0	25	O	O	.	x	x	0
+O	0	26	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	This	x	x	0
+O	0	2	O	O	decision	x	x	0
+O	0	3	O	O	adds	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	already	x	x	0
+O	0	7	O	O	widespread	x	x	0
+O	0	8	O	O	perception	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	politically	x	x	0
+O	0	12	O	O	sensitive	x	x	0
+O	0	13	O	O	cases	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	independence	x	x	0
+O	0	17	O	O	of	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	judiciary	x	x	0
+O	0	20	O	O	can	x	x	0
+O	0	21	O	O	no	x	x	0
+O	0	22	O	O	longer	x	x	0
+O	0	23	O	O	be	x	x	0
+O	0	24	O	O	guaranteed	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	''	x	x	0
+B-ORG	0	27	O	O	the	x	x	0
+I-ORG	0	28	O	O	London-based	x	x	0
+I-ORG	0	29	O	O	group	x	x	0
+O	0	30	O	O	said	x	x	0
+O	0	31	O	O	in	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	statement	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-TIME	0	1	O	O	Today	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	situation	x	x	0
+O	0	5	O	O	looks	x	x	0
+O	0	6	O	O	much	x	x	0
+O	0	7	O	O	bleaker	x	x	0
+O	0	8	O	O	.	x	x	0
+O	0	9	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Param	x	x	0
+I-PER	0	1	O	O	Cumaraswamy	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+B-ORG	0	4	O	O	U.N.	x	x	0
+O	0	5	O	O	special	x	x	0
+O	0	6	O	O	investigator	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	freedom	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	judges	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	lawyers	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	said	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	statement	x	x	0
+O	0	19	O	O	:	x	x	0
+O	0	20	O	O	``	x	x	0
+O	0	21	O	O	So	x	x	0
+O	0	22	O	O	long	x	x	0
+O	0	23	O	O	as	x	x	0
+O	0	24	O	O	there	x	x	0
+O	0	25	O	O	are	x	x	0
+B-PER	0	26	O	O	judges	x	x	0
+B-PER	0	27	O	O	who	x	x	0
+O	0	28	O	O	are	x	x	0
+O	0	29	O	O	prepared	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	and	x	x	0
+O	0	32	O	O	continue	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	compromise	x	x	0
+O	0	35	O	O	the	x	x	0
+O	0	36	O	O	value	x	x	0
+O	0	37	O	O	and	x	x	0
+O	0	38	O	O	principles	x	x	0
+O	0	39	O	O	of	x	x	0
+B-PER	0	40	O	O	their	x	x	0
+O	0	41	O	O	high	x	x	0
+O	0	42	O	O	office	x	x	0
+O	0	43	O	O	...	x	x	0
+O	0	44	O	O	there	x	x	0
+O	0	45	O	O	is	x	x	0
+O	0	46	O	O	no	x	x	0
+O	0	47	O	O	hope	x	x	0
+O	0	48	O	O	for	x	x	0
+O	0	49	O	O	judicial	x	x	0
+O	0	50	O	O	independence	x	x	0
+O	0	51	O	O	and	x	x	0
+O	0	52	O	O	impartiality	x	x	0
+O	0	53	O	O	in	x	x	0
+O	0	54	O	O	the	x	x	0
+B-GPE	0	55	O	O	Malaysian	x	x	0
+O	0	56	O	O	justice	x	x	0
+O	0	57	O	O	system	x	x	0
+O	0	58	O	O	.	x	x	0
+O	0	59	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	About	x	x	0
+O	0	1	O	O	200	x	x	0
+O	0	2	O	O	demonstrators	x	x	0
+O	0	3	O	O	outside	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	court	x	x	0
+O	0	6	O	O	shouted	x	x	0
+B-PER	0	7	O	O	Anwar	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	slogan	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	``	x	x	0
+O	0	12	O	O	Reformasi	x	x	0
+O	0	13	O	O	!	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	political	x	x	0
+O	0	17	O	O	change	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Police	x	x	0
+O	0	1	O	O	armed	x	x	0
+O	0	2	O	O	with	x	x	0
+B-WEA	0	3	O	O	automatic	x	x	0
+I-WEA	0	4	O	O	weapons	x	x	0
+O	0	5	O	O	stood	x	x	0
+O	0	6	O	O	by	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	prevent	x	x	0
+O	0	9	O	O	rowdiness	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	court	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	dismissed	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	joint	x	x	0
+O	0	6	O	O	appeal	x	x	0
+O	0	7	O	O	by	x	x	0
+B-PER	0	8	O	O	Anwar	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	adopted	x	x	0
+O	0	11	O	O	brother	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	Sukma	x	x	0
+I-PER	0	14	O	O	Darmawan	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	who	x	x	0
+O	0	17	O	O	was	x	x	0
+O	0	18	O	O	convicted	x	x	0
+O	0	19	O	O	together	x	x	0
+O	0	20	O	O	with	x	x	0
+B-PER	0	21	O	O	Anwar	x	x	0
+O	0	22	O	O	for	x	x	0
+B-Crime	0	23	O	O	sodomy	x	x	0
+O	0	24	O	O	in	x	x	0
+B-TIME	0	25	O	O	August	x	x	0
+I-TIME	0	26	O	O	2000	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	sentenced	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	six	x	x	0
+O	0	31	O	O	years	x	x	0
+O	0	32	O	O	in	x	x	0
+B-FAC	0	33	O	O	jail	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	whipping	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sukma	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	free	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	bail	x	x	0
+O	0	6	O	O	pending	x	x	0
+O	0	7	O	O	appeal	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	judges	x	x	0
+O	0	12	O	O	on	x	x	0
+B-TIME	0	13	O	O	Friday	x	x	0
+O	0	14	O	O	ordered	x	x	0
+B-PER	0	15	O	O	him	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	begin	x	x	0
+B-PER	0	18	O	O	his	x	x	0
+O	0	19	O	O	sentence	x	x	0
+O	0	20	O	O	.	x	x	0
+

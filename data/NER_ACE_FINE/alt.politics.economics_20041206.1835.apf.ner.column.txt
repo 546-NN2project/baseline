@@ -1,0 +1,409 @@
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	hallmarks	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	good	x	x	0
+I-PER	0	7	O	O	totalitarian	x	x	0
+I-PER	0	8	O	O	leader	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	tendency	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	jump	x	x	0
+O	0	14	O	O	into	x	x	0
+O	0	15	O	O	a	x	x	0
+B-ORG	0	16	O	O	military	x	x	0
+O	0	17	O	O	uniform	x	x	0
+O	0	18	O	O	at	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	drop	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	hat	x	x	0
+O	0	24	O	O	(	x	x	0
+O	0	25	O	O	although	x	x	0
+O	0	26	O	O	stuffing	x	x	0
+O	0	27	O	O	socks	x	x	0
+O	0	28	O	O	in	x	x	0
+B-PER	0	29	O	O	your	x	x	0
+O	0	30	O	O	crotch	x	x	0
+O	0	31	O	O	while	x	x	0
+O	0	32	O	O	doing	x	x	0
+O	0	33	O	O	it	x	x	0
+O	0	34	O	O	is	x	x	0
+O	0	35	O	O	an	x	x	0
+O	0	36	O	O	innovation	x	x	0
+O	0	37	O	O	apparently	x	x	0
+O	0	38	O	O	dreamed	x	x	0
+O	0	39	O	O	up	x	x	0
+O	0	40	O	O	by	x	x	0
+B-PER	0	41	O	O	George	x	x	0
+I-PER	0	42	O	O	W.	x	x	0
+I-PER	0	43	O	O	Bush	x	x	0
+O	0	44	O	O	)	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Another	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	make	x	x	0
+O	0	4	O	O	sure	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	plenty	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	very	x	x	0
+O	0	10	O	O	big	x	x	0
+O	0	11	O	O	pictures	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	yourself	x	x	0
+O	0	14	O	O	all	x	x	0
+O	0	15	O	O	over	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	place	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Fortunately	x	x	0
+O	0	1	O	O	for	x	x	0
+B-GPE	0	2	O	O	Our	x	x	0
+O	0	3	O	O	Great	x	x	0
+O	0	4	O	O	Leader	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	does	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	do	x	x	0
+O	0	11	O	O	this	x	x	0
+B-PER	0	12	O	O	himself	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	because	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	got	x	x	0
+O	0	18	O	O	one	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	biggest	x	x	0
+B-ORG	0	22	O	O	media	x	x	0
+O	0	23	O	O	companies	x	x	0
+O	0	24	O	O	in	x	x	0
+B-GPE	0	25	O	O	the	x	x	0
+I-GPE	0	26	O	O	country	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	do	x	x	0
+O	0	29	O	O	it	x	x	0
+O	0	30	O	O	for	x	x	0
+B-PER	0	31	O	O	him	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Clear	x	x	0
+I-ORG	0	1	O	O	Channel	x	x	0
+O	0	2	O	O	home	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	Rush	x	x	0
+I-PER	0	5	O	O	Limbaugh	x	x	0
+O	0	6	O	O	and	x	x	0
+B-PER	0	7	O	O	Sean	x	x	0
+I-PER	0	8	O	O	Hannity	x	x	0
+O	0	9	O	O	owns	x	x	0
+O	0	10	O	O	over	x	x	0
+O	0	11	O	O	1,200	x	x	0
+O	0	12	O	O	radio	x	x	0
+O	0	13	O	O	stations	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	57	x	x	0
+O	0	16	O	O	television	x	x	0
+O	0	17	O	O	stations	x	x	0
+O	0	18	O	O	in	x	x	0
+B-GPE	0	19	O	O	America	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	own	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	billboards	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Want	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	what	x	x	0
+B-ORG	0	4	O	O	they	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	with	x	x	0
+B-ORG	0	7	O	O	their	x	x	0
+O	0	8	O	O	billboards	x	x	0
+O	0	9	O	O	when	x	x	0
+B-PER	0	10	O	O	nobody	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	paying	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	use	x	x	0
+O	0	15	O	O	them	x	x	0
+O	0	16	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	picture	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	taken	x	x	0
+O	0	4	O	O	off	x	x	0
+B-FAC	0	5	O	O	I-4	x	x	0
+O	0	6	O	O	north	x	x	0
+O	0	7	O	O	of	x	x	0
+B-LOC	0	8	O	O	downtown	x	x	0
+I-LOC	0	9	O	O	Orlando	x	x	0
+O	0	10	O	O	by	x	x	0
+B-PER	0	11	O	O	DUer	x	x	0
+I-PER	0	12	O	O	davhill	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	text	x	x	0
+O	0	2	O	O	at	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	bottom	x	x	0
+O	0	5	O	O	reads	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	Not	x	x	0
+O	0	9	O	O	authorized	x	x	0
+O	0	10	O	O	by	x	x	0
+O	0	11	O	O	any	x	x	0
+O	0	12	O	O	candidate	x	x	0
+O	0	13	O	O	or	x	x	0
+B-PER	0	14	O	O	candidate	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	committee	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	political	x	x	0
+O	0	2	O	O	public	x	x	0
+O	0	3	O	O	service	x	x	0
+O	0	4	O	O	message	x	x	0
+O	0	5	O	O	brought	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	by	x	x	0
+B-ORG	0	9	O	O	Clear	x	x	0
+I-ORG	0	10	O	O	Channel	x	x	0
+O	0	11	O	O	.	x	x	0
+O	0	12	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Did	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	one	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	largest	x	x	0
+B-ORG	0	8	O	O	media	x	x	0
+O	0	9	O	O	companies	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	country	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	business	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	bringing	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	"	x	x	0
+O	0	21	O	O	political	x	x	0
+O	0	22	O	O	public	x	x	0
+O	0	23	O	O	service	x	x	0
+O	0	24	O	O	messages	x	x	0
+O	0	25	O	O	?	x	x	0
+O	0	26	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Me	x	x	0
+O	0	1	O	O	either	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Truth	x	x	0
+O	0	1	O	O	be	x	x	0
+O	0	2	O	O	told	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	originally	x	x	0
+O	0	5	O	O	thought	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	picture	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	fake	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	we	x	x	0
+O	0	14	O	O	had	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	eat	x	x	0
+O	0	17	O	O	crow	x	x	0
+O	0	18	O	O	when	x	x	0
+B-ORG	0	19	O	O	Clear	x	x	0
+I-ORG	0	20	O	O	Channel	x	x	0
+O	0	21	O	O	released	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	statement	x	x	0
+O	0	24	O	O	which	x	x	0
+O	0	25	O	O	read	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	part	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	"	x	x	0
+B-ORG	0	30	O	O	Clear	x	x	0
+I-ORG	0	31	O	O	Channel	x	x	0
+O	0	32	O	O	Outdoor	x	x	0
+O	0	33	O	O	markets	x	x	0
+O	0	34	O	O	are	x	x	0
+O	0	35	O	O	operated	x	x	0
+O	0	36	O	O	locally	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Local	x	x	0
+I-PER	0	1	O	O	managers	x	x	0
+O	0	2	O	O	determine	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	copy	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	use	x	x	0
+O	0	7	O	O	when	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	location	x	x	0
+O	0	10	O	O	has	x	x	0
+O	0	11	O	O	time	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	not	x	x	0
+O	0	15	O	O	sold	x	x	0
+O	0	16	O	O	to	x	x	0
+B-PER	0	17	O	O	an	x	x	0
+I-PER	0	18	O	O	advertiser	x	x	0
+O	0	19	O	O	.	x	x	0
+O	0	20	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	statement	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	made	x	x	0
+O	0	4	O	O	after	x	x	0
+B-ORG	0	5	O	O	Clear	x	x	0
+I-ORG	0	6	O	O	Channel	x	x	0
+O	0	7	O	O	denied	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	billboard	x	x	0
+O	0	10	O	O	existed	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	course	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Florida	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	only	x	x	0
+O	0	5	O	O	state	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	suffer	x	x	0
+B-ORG	0	8	O	O	Clear	x	x	0
+I-ORG	0	9	O	O	Channel	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	"	x	x	0
+O	0	12	O	O	political	x	x	0
+O	0	13	O	O	public	x	x	0
+O	0	14	O	O	service	x	x	0
+O	0	15	O	O	messages	x	x	0
+O	0	16	O	O	"	x	x	0
+O	0	17	O	O	by	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	way	x	x	0
+O	0	20	O	O	check	x	x	0
+O	0	21	O	O	out	x	x	0
+O	0	22	O	O	this	x	x	0
+O	0	23	O	O	one	x	x	0
+O	0	24	O	O	from	x	x	0
+B-GPE	0	25	O	O	Arizona	x	x	0
+O	0	26	O	O	:	x	x	0
+O	0	27	O	O	Curse	x	x	0
+B-ORG	0	28	O	O	you	x	x	0
+O	0	29	O	O	,	x	x	0
+B-ORG	0	30	O	O	liberal	x	x	0
+I-ORG	0	31	O	O	media	x	x	0
+O	0	32	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	From	x	x	0
+B-PER	0	1	O	O	Democratic	x	x	0
+I-PER	0	2	O	O	Underground	x	x	0
+B-PER	0	3	O	O	Harry	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	such	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	cry	x	x	0
+I-PER	0	5	O	O	baby	x	x	0
+O	0	6	O	O	,	x	x	0
+B-ORG	0	7	O	O	Clear	x	x	0
+I-ORG	0	8	O	O	Channel	x	x	0
+O	0	9	O	O	should	x	x	0
+O	0	10	O	O	post	x	x	0
+O	0	11	O	O	this	x	x	0
+O	0	12	O	O	every	x	x	0
+O	0	13	O	O	where	x	x	0
+O	0	14	O	O	:	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	notice	x	x	0
+O	0	2	O	O	how	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	peep	x	x	0
+O	0	8	O	O	from	x	x	0
+O	0	9	O	O	any	x	x	0
+O	0	10	O	O	of	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	rightards	x	x	0
+I-PER	0	13	O	O	out	x	x	0
+I-PER	0	14	O	O	there	x	x	0
+O	0	15	O	O	.	x	x	0
+

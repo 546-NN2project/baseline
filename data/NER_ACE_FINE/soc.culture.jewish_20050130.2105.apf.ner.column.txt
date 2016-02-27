@@ -1,0 +1,283 @@
+B-PER	0	0	O	O	Saddam	x	x	0
+O	0	1	O	O	posed	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	threat	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Saudia	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	Kuwait	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	the	x	x	0
+B-GPE	0	11	O	O	British	x	x	0
+O	0	12	O	O	oil	x	x	0
+O	0	13	O	O	protectorates	x	x	0
+O	0	14	O	O	along	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	Gulf	x	x	0
+O	0	17	O	O	that	x	x	0
+O	0	18	O	O	is	x	x	0
+O	0	19	O	O	why	x	x	0
+B-GPE	0	20	O	O	we	x	x	0
+O	0	21	O	O	invaded	x	x	0
+O	0	22	O	O	,	x	x	0
+B-PER	0	23	O	O	stupid	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Deborah	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	truth	x	x	0
+O	0	2	O	O	seems	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	me	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	Israeli	x	x	0
+O	0	8	O	O	government	x	x	0
+O	0	9	O	O	got	x	x	0
+O	0	10	O	O	panicked	x	x	0
+O	0	11	O	O	when	x	x	0
+B-PER	0	12	O	O	Saddam	x	x	0
+O	0	13	O	O	announced	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	would	x	x	0
+O	0	17	O	O	reward	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	families	x	x	0
+O	0	20	O	O	of	x	x	0
+B-GPE	0	21	O	O	Palestinian	x	x	0
+O	0	22	O	O	suicide	x	x	0
+O	0	23	O	O	bombers	x	x	0
+O	0	24	O	O	with	x	x	0
+B-Numeric	0	25	O	O	some	x	x	0
+I-Numeric	0	26	O	O	10	x	x	0
+I-Numeric	0	27	O	O	thousand	x	x	0
+I-Numeric	0	28	O	O	dollars	x	x	0
+O	0	29	O	O	.	x	x	0
+
+O	0	0	O	O	ROFL	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	old	x	x	0
+O	0	2	O	O	are	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Too	x	x	0
+O	0	1	O	O	young	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	remember	x	x	0
+B-WEA	0	4	O	O	the	x	x	0
+I-WEA	0	5	O	O	scuds	x	x	0
+B-PER	0	6	O	O	Saddam	x	x	0
+O	0	7	O	O	's	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	Republican	x	x	0
+O	0	10	O	O	Guards	x	x	0
+O	0	11	O	O	lobbed	x	x	0
+O	0	12	O	O	into	x	x	0
+B-GPE	0	13	O	O	Israel	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	1991	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	or	x	x	0
+B-TIME	0	18	O	O	1982	x	x	0
+O	0	19	O	O	when	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	Israelis	x	x	0
+O	0	22	O	O	levelled	x	x	0
+O	0	23	O	O	the	x	x	0
+B-GPE	0	24	O	O	Iraqi	x	x	0
+B-WEA	0	25	O	O	nuclear	x	x	0
+I-WEA	0	26	O	O	weapon	x	x	0
+O	0	27	O	O	facility	x	x	0
+O	0	28	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Tilly	x	x	0
+B-Contact-Info	0	1	O	O	striking1583REM	x	x	0
+I-Contact-Info	0	2	O	O	...	x	x	0
+I-Contact-Info	0	3	O	O	@	x	x	0
+I-Contact-Info	0	4	O	O	yahoo.co.nz	x	x	0
+
+O	0	0	O	O	Do	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	even	x	x	0
+O	0	3	O	O	bother	x	x	0
+O	0	4	O	O	asking	x	x	0
+O	0	5	O	O	if	x	x	0
+B-PER	0	6	O	O	this	x	x	0
+I-PER	0	7	O	O	guy	x	x	0
+O	0	8	O	O	remembers	x	x	0
+O	0	9	O	O	the	x	x	0
+B-GPE	0	10	O	O	Iraq	x	x	0
+O	0	11	O	O	/	x	x	0
+B-GPE	0	12	O	O	Iran	x	x	0
+O	0	13	O	O	war	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	1980-1988	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	which	x	x	0
+O	0	18	O	O	when	x	x	0
+B-PER	0	19	O	O	Saddam	x	x	0
+O	0	20	O	O	launched	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	land	x	x	0
+O	0	23	O	O	/	x	x	0
+O	0	24	O	O	air	x	x	0
+O	0	25	O	O	invasion	x	x	0
+O	0	26	O	O	of	x	x	0
+B-GPE	0	27	O	O	Iran	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anyone	x	x	0
+O	0	1	O	O	remember	x	x	0
+B-PER	0	2	O	O	Khomeini	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	declaration	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	1982	x	x	0
+O	0	7	O	O	that	x	x	0
+B-GPE	0	8	O	O	Iran	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	stop	x	x	0
+O	0	12	O	O	fighting	x	x	0
+O	0	13	O	O	until	x	x	0
+B-GPE	0	14	O	O	they	x	x	0
+O	0	15	O	O	overthrew	x	x	0
+B-PER	0	16	O	O	Saddam	x	x	0
+O	0	17	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	about	x	x	0
+B-PER	0	2	O	O	Saddam	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	use	x	x	0
+O	0	5	O	O	of	x	x	0
+B-WEA	0	6	O	O	chemical	x	x	0
+I-WEA	0	7	O	O	weapons	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Recall	x	x	0
+O	0	1	O	O	that	x	x	0
+B-GPE	0	2	O	O	we	x	x	0
+O	0	3	O	O	(	x	x	0
+O	0	4	O	O	and	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	Brits	x	x	0
+O	0	7	O	O	)	x	x	0
+O	0	8	O	O	involved	x	x	0
+B-GPE	0	9	O	O	ourselves	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	war	x	x	0
+O	0	13	O	O	ONLY	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	1987	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	after	x	x	0
+O	0	18	O	O	attacks	x	x	0
+O	0	19	O	O	on	x	x	0
+B-GPE	0	20	O	O	Kuwaiti	x	x	0
+O	0	21	O	O	oil	x	x	0
+O	0	22	O	O	tankers	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	How	x	x	0
+I-PER	0	1	O	O	many	x	x	0
+I-PER	0	2	O	O	Iraqis	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	Iranians	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	killed	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	One	x	x	0
+I-PER	0	1	O	O	million	x	x	0
+O	0	2	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Two	x	x	0
+I-PER	0	1	O	O	million	x	x	0
+O	0	2	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Saddam	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	so	x	x	0
+O	0	3	O	O	unimpressed	x	x	0
+O	0	4	O	O	by	x	x	0
+B-GPE	0	5	O	O	Iraqi	x	x	0
+O	0	6	O	O	casualties	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	invaded	x	x	0
+B-GPE	0	10	O	O	Kuwait	x	x	0
+B-TIME	0	11	O	O	barely	x	x	0
+I-TIME	0	12	O	O	two	x	x	0
+I-TIME	0	13	O	O	years	x	x	0
+I-TIME	0	14	O	O	after	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	UN-imposed	x	x	0
+O	0	17	O	O	ceasefire	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	This	x	x	0
+I-PER	0	1	O	O	clown	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	however	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	thinks	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	truth	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	Israel	x	x	0
+B-GPE	0	15	O	O	who	x	x	0
+O	0	16	O	O	got	x	x	0
+O	0	17	O	O	panicked	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Deborah	x	x	0
+

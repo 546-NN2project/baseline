@@ -1,0 +1,292 @@
+B-GPE	0	0	O	O	TOKYO	x	x	0
+O	0	1	O	O	(	x	x	0
+B-ORG	0	2	O	O	AP	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	Toyota	x	x	0
+O	0	5	O	O	Motor	x	x	0
+O	0	6	O	O	Corp.	x	x	0
+O	0	7	O	O	said	x	x	0
+B-TIME	0	8	O	O	Tuesday	x	x	0
+B-ORG	0	9	O	O	it	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	promote	x	x	0
+B-PER	0	12	O	O	Akio	x	x	0
+I-PER	0	13	O	O	Toyoda	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	grandson	x	x	0
+O	0	17	O	O	of	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	company	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	founder	x	x	0
+B-PER	0	22	O	O	who	x	x	0
+O	0	23	O	O	is	x	x	0
+O	0	24	O	O	widely	x	x	0
+O	0	25	O	O	viewed	x	x	0
+O	0	26	O	O	as	x	x	0
+O	0	27	O	O	a	x	x	0
+O	0	28	O	O	candidate	x	x	0
+O	0	29	O	O	to	x	x	0
+B-TIME	0	30	O	O	some	x	x	0
+I-TIME	0	31	O	O	day	x	x	0
+O	0	32	O	O	head	x	x	0
+B-GPE	0	33	O	O	Japan	x	x	0
+O	0	34	O	O	's	x	x	0
+O	0	35	O	O	largest	x	x	0
+O	0	36	O	O	automaker	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Managing	x	x	0
+I-PER	0	1	O	O	director	x	x	0
+O	0	2	O	O	Toyoda	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	46	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	grandson	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	Kiichiro	x	x	0
+I-PER	0	9	O	O	Toyoda	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	eldest	x	x	0
+O	0	13	O	O	son	x	x	0
+O	0	14	O	O	of	x	x	0
+B-ORG	0	15	O	O	Toyota	x	x	0
+O	0	16	O	O	honorary	x	x	0
+O	0	17	O	O	chairman	x	x	0
+O	0	18	O	O	Shoichiro	x	x	0
+O	0	19	O	O	Toyoda	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	will	x	x	0
+O	0	22	O	O	become	x	x	0
+O	0	23	O	O	one	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	14	x	x	0
+B-Job-Title	0	26	O	O	senior	x	x	0
+I-Job-Title	0	27	O	O	managing	x	x	0
+I-Job-Title	0	28	O	O	directors	x	x	0
+O	0	29	O	O	under	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	streamlined	x	x	0
+O	0	32	O	O	management	x	x	0
+O	0	33	O	O	system	x	x	0
+O	0	34	O	O	set	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	be	x	x	0
+O	0	37	O	O	introduced	x	x	0
+O	0	38	O	O	after	x	x	0
+O	0	39	O	O	a	x	x	0
+B-PER	0	40	O	O	shareholders	x	x	0
+O	0	41	O	O	'	x	x	0
+O	0	42	O	O	meeting	x	x	0
+O	0	43	O	O	in	x	x	0
+B-TIME	0	44	O	O	June	x	x	0
+O	0	45	O	O	,	x	x	0
+B-ORG	0	46	O	O	the	x	x	0
+I-ORG	0	47	O	O	company	x	x	0
+O	0	48	O	O	said	x	x	0
+O	0	49	O	O	in	x	x	0
+O	0	50	O	O	a	x	x	0
+O	0	51	O	O	statement	x	x	0
+O	0	52	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Toyoda	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+O	0	3	O	O	joined	x	x	0
+O	0	4	O	O	Toyota	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	based	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	Toyota	x	x	0
+O	0	9	O	O	city	x	x	0
+O	0	10	O	O	,	x	x	0
+B-LOC	0	11	O	O	central	x	x	0
+I-LOC	0	12	O	O	Japan	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	1984	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	spearheaded	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	automaker	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	Internet	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	telematics	x	x	0
+O	0	24	O	O	business	x	x	0
+O	0	25	O	O	_	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	technology	x	x	0
+O	0	28	O	O	that	x	x	0
+O	0	29	O	O	puts	x	x	0
+O	0	30	O	O	wireless	x	x	0
+O	0	31	O	O	communications	x	x	0
+O	0	32	O	O	into	x	x	0
+B-VEH	0	33	O	O	vehicles	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Considered	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	candidate	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	future	x	x	0
+B-ORG	0	5	O	O	Toyota	x	x	0
+O	0	6	O	O	president	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	Toyoda	x	x	0
+O	0	9	O	O	oversees	x	x	0
+B-ORG	0	10	O	O	its	x	x	0
+B-GPE	0	11	O	O	China	x	x	0
+O	0	12	O	O	business	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	critical	x	x	0
+O	0	16	O	O	market	x	x	0
+O	0	17	O	O	for	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	automaker	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Toyoda	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	star	x	x	0
+O	0	6	O	O	track	x	x	0
+O	0	7	O	O	for	x	x	0
+B-TIME	0	8	O	O	years	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	joined	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	board	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	2000	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	was	x	x	0
+B-PER	0	10	O	O	its	x	x	0
+O	0	11	O	O	youngest	x	x	0
+O	0	12	O	O	member	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Under	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	reform	x	x	0
+O	0	3	O	O	led	x	x	0
+O	0	4	O	O	by	x	x	0
+B-PER	0	5	O	O	President	x	x	0
+O	0	6	O	O	Fujio	x	x	0
+O	0	7	O	O	Cho	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	membership	x	x	0
+O	0	11	O	O	of	x	x	0
+B-ORG	0	12	O	O	Toyota	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	board	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	directors	x	x	0
+O	0	17	O	O	will	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	slashed	x	x	0
+O	0	20	O	O	to	x	x	0
+B-PER	0	21	O	O	27	x	x	0
+O	0	22	O	O	from	x	x	0
+B-PER	0	23	O	O	58	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Executive	x	x	0
+I-PER	0	1	O	O	vice	x	x	0
+I-PER	0	2	O	O	presidents	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	reduced	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	seven	x	x	0
+O	0	8	O	O	from	x	x	0
+B-PER	0	9	O	O	nine	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	new	x	x	0
+O	0	2	O	O	system	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	designed	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	``	x	x	0
+O	0	7	O	O	speed	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	decision-making	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	operations	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	''	x	x	0
+B-ORG	0	14	O	O	Toyota	x	x	0
+O	0	15	O	O	spokesman	x	x	0
+O	0	16	O	O	Shigeru	x	x	0
+O	0	17	O	O	Hayakawa	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Toyota	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	top	x	x	0
+O	0	3	O	O	posts	x	x	0
+O	0	4	O	O	held	x	x	0
+O	0	5	O	O	by	x	x	0
+B-PER	0	6	O	O	Cho	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	Chairman	x	x	0
+O	0	9	O	O	Hiroshi	x	x	0
+O	0	10	O	O	Okuda	x	x	0
+O	0	11	O	O	remain	x	x	0
+O	0	12	O	O	unchanged	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kiichiro	x	x	0
+I-PER	0	1	O	O	Toyoda	x	x	0
+O	0	2	O	O	founded	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	automaker	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	1937	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	transforming	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	loom	x	x	0
+O	0	11	O	O	manufacturer	x	x	0
+O	0	12	O	O	started	x	x	0
+O	0	13	O	O	by	x	x	0
+B-PER	0	14	O	O	his	x	x	0
+O	0	15	O	O	father	x	x	0
+O	0	16	O	O	into	x	x	0
+B-ORG	0	17	O	O	an	x	x	0
+I-ORG	0	18	O	O	automaker	x	x	0
+O	0	19	O	O	.	x	x	0
+

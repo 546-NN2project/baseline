@@ -1,0 +1,345 @@
+O	0	0	O	O	time	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	check	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	business	x	x	0
+O	0	6	O	O	news	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	Carrie	x	x	0
+O	0	9	O	O	Lee	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	New	x	x	0
+I-GPE	0	12	O	O	York	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Carrie	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Renay	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	Dow	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	negative	x	x	0
+O	0	5	O	O	territory	x	x	0
+B-TIME	0	6	O	O	much	x	x	0
+I-TIME	0	7	O	O	of	x	x	0
+I-TIME	0	8	O	O	the	x	x	0
+I-TIME	0	9	O	O	day	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	couple	x	x	0
+O	0	2	O	O	stocks	x	x	0
+O	0	3	O	O	losing	x	x	0
+O	0	4	O	O	ground	x	x	0
+O	0	5	O	O	,	x	x	0
+B-ORG	0	6	O	O	Coca	x	x	0
+I-ORG	0	7	O	O	Cola	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	down	x	x	0
+B-Numeric	0	10	O	O	6.1	x	x	0
+I-Numeric	0	11	O	O	%	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	okay	x	x	0
+O	0	3	O	O	on	x	x	0
+B-TIME	0	4	O	O	the	x	x	0
+I-TIME	0	5	O	O	profit	x	x	0
+I-TIME	0	6	O	O	quarter	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	taste	x	x	0
+O	0	11	O	O	vowel	x	x	0
+O	0	12	O	O	came	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	late	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	all	x	x	0
+B-LOC	0	17	O	O	the	x	x	0
+I-LOC	0	18	O	O	regions	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	why	x	x	0
+B-ORG	0	22	O	O	it	x	x	0
+O	0	23	O	O	is	x	x	0
+O	0	24	O	O	selling	x	x	0
+O	0	25	O	O	off	x	x	0
+B-TIME	0	26	O	O	today	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	see	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	Nasdaq	x	x	0
+O	0	5	O	O	Pretty	x	x	0
+O	0	6	O	O	Nice	x	x	0
+O	0	7	O	O	gains	x	x	0
+O	0	8	O	O	holding	x	x	0
+O	0	9	O	O	steady	x	x	0
+O	0	10	O	O	throughout	x	x	0
+B-TIME	0	11	O	O	the	x	x	0
+I-TIME	0	12	O	O	day	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	mainly	x	x	0
+O	0	15	O	O	due	x	x	0
+O	0	16	O	O	to	x	x	0
+B-ORG	0	17	O	O	Intel	x	x	0
+O	0	18	O	O	and	x	x	0
+B-ORG	0	19	O	O	Microsoft	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	flu	x	x	0
+O	0	4	O	O	enshall	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	thed	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+B-ORG	0	0	O	O	Hey	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	better	x	x	0
+O	0	3	O	O	than	x	x	0
+O	0	4	O	O	expected	x	x	0
+O	0	5	O	O	profit	x	x	0
+O	0	6	O	O	reports	x	x	0
+O	0	7	O	O	for	x	x	0
+B-TIME	0	8	O	O	the	x	x	0
+I-TIME	0	9	O	O	recent	x	x	0
+I-TIME	0	10	O	O	quarter	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	both	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	good	x	x	0
+O	0	4	O	O	things	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	say	x	x	0
+O	0	7	O	O	going	x	x	0
+O	0	8	O	O	forward	x	x	0
+O	0	9	O	O	upping	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	reiterating	x	x	0
+B-TIME	0	12	O	O	2003	x	x	0
+O	0	13	O	O	guidance	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Good	x	x	0
+O	0	1	O	O	solid	x	x	0
+O	0	2	O	O	reports	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Motor	x	x	0
+O	0	1	O	O	row	x	x	0
+O	0	2	O	O	La.	x	x	0
+O	0	3	O	O	cutting	x	x	0
+O	0	4	O	O	another	x	x	0
+O	0	5	O	O	3,000	x	x	0
+O	0	6	O	O	jobs	x	x	0
+O	0	7	O	O	by	x	x	0
+B-TIME	0	8	O	O	the	x	x	0
+I-TIME	0	9	O	O	end	x	x	0
+I-TIME	0	10	O	O	of	x	x	0
+I-TIME	0	11	O	O	the	x	x	0
+I-TIME	0	12	O	O	year	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Profits	x	x	0
+O	0	1	O	O	for	x	x	0
+B-TIME	0	2	O	O	the	x	x	0
+I-TIME	0	3	O	O	end	x	x	0
+I-TIME	0	4	O	O	of	x	x	0
+I-TIME	0	5	O	O	the	x	x	0
+I-TIME	0	6	O	O	year	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	see	x	x	0
+O	0	9	O	O	profit	x	x	0
+O	0	10	O	O	as	x	x	0
+O	0	11	O	O	well	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Motorola	x	x	0
+O	0	1	O	O	and	x	x	0
+B-ORG	0	2	O	O	Texas	x	x	0
+I-ORG	0	3	O	O	instruments	x	x	0
+O	0	4	O	O	both	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	chips	x	x	0
+O	0	8	O	O	base	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	well	x	x	0
+O	0	11	O	O	swinging	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	profits	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	well	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	with	x	x	0
+O	0	18	O	O	sales	x	x	0
+O	0	19	O	O	up	x	x	0
+B-Numeric	0	20	O	O	20	x	x	0
+I-Numeric	0	21	O	O	%	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Finally	x	x	0
+B-ORG	0	1	O	O	Amr	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	stock	x	x	0
+O	0	5	O	O	gained	x	x	0
+B-Numeric	0	6	O	O	15	x	x	0
+I-Numeric	0	7	O	O	%	x	x	0
+B-TIME	0	8	O	O	yesterday	x	x	0
+O	0	9	O	O	,	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	shares	x	x	0
+O	0	13	O	O	up	x	x	0
+O	0	14	O	O	another	x	x	0
+O	0	15	O	O	Sen.8	x	x	0
+O	0	16	O	O	%	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	flight	x	x	0
+I-PER	0	2	O	O	attendants	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	until	x	x	0
+B-TIME	0	5	O	O	6:00	x	x	0
+I-TIME	0	6	O	O	today	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	ratify	x	x	0
+O	0	9	O	O	labor	x	x	0
+O	0	10	O	O	concessions	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-PER	0	1	O	O	pilots	x	x	0
+O	0	2	O	O	union	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	ground	x	x	0
+I-PER	0	5	O	O	crew	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	so	x	x	0
+B-TIME	0	8	O	O	yesterday	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	flight	x	x	0
+I-PER	0	2	O	O	attendants	x	x	0
+O	0	3	O	O	came	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	close	x	x	0
+O	0	8	O	O	vote	x	x	0
+O	0	9	O	O	rejecting	x	x	0
+O	0	10	O	O	these	x	x	0
+O	0	11	O	O	concessions	x	x	0
+O	0	12	O	O	so	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	CEO	x	x	0
+O	0	15	O	O	has	x	x	0
+O	0	16	O	O	extended	x	x	0
+B-TIME	0	17	O	O	the	x	x	0
+I-TIME	0	18	O	O	deadline	x	x	0
+B-TIME	0	19	O	O	today	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	if	x	x	0
+B-PER	0	22	O	O	they	x	x	0
+O	0	23	O	O	do	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	ratify	x	x	0
+O	0	26	O	O	these	x	x	0
+O	0	27	O	O	agreements	x	x	0
+O	0	28	O	O	,	x	x	0
+B-ORG	0	29	O	O	Amr	x	x	0
+O	0	30	O	O	will	x	x	0
+O	0	31	O	O	have	x	x	0
+O	0	32	O	O	to	x	x	0
+O	0	33	O	O	file	x	x	0
+O	0	34	O	O	for	x	x	0
+O	0	35	O	O	bankruptcy	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Investors	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	betting	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	agree	x	x	0
+O	0	6	O	O	,	x	x	0
+B-Numeric	0	7	O	O	16.8	x	x	0
+I-Numeric	0	8	O	O	%	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	upside	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	certainly	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	vote	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	confidence	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Back	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	guys	x	x	0
+O	0	5	O	O	.	x	x	0
+

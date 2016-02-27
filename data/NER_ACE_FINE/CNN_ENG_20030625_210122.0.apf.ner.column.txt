@@ -1,0 +1,382 @@
+O	0	0	O	O	going	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	use	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	in	x	x	0
+B-PER	0	5	O	O	those	x	x	0
+I-PER	0	6	O	O	patients	x	x	0
+O	0	7	O	O	*	x	x	0
+O	0	8	O	O	*	x	x	0
+B-PER	0	9	O	O	His	x	x	0
+O	0	10	O	O	Dandruff	x	x	0
+O	0	11	O	O	Shampoo	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	tough	x	x	0
+O	0	15	O	O	enough	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	black	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	so	x	x	0
+B-PER	0	20	O	O	I	x	x	0
+O	0	21	O	O	bought	x	x	0
+B-PER	0	22	O	O	him	x	x	0
+O	0	23	O	O	maximum	x	x	0
+O	0	24	O	O	strength	x	x	0
+O	0	25	O	O	Selsun	x	x	0
+O	0	26	O	O	blue	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	doctor	x	x	0
+O	0	3	O	O	recommended	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	works	x	x	0
+O	0	6	O	O	fast	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Selsun	x	x	0
+O	0	1	O	O	blue	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	riveted	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	nation	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	First	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	big	x	x	0
+O	0	4	O	O	hearing	x	x	0
+B-TIME	0	5	O	O	tomorrow	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+B-PER	0	8	O	O	Scott	x	x	0
+I-PER	0	9	O	O	Peterson	x	x	0
+O	0	10	O	O	case	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Punishing	x	x	0
+B-PER	0	1	O	O	prosecutors	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	grabs	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+O	0	1	O	O	the	x	x	0
+B-GPE	0	2	O	O	Texas	x	x	0
+O	0	3	O	O	woman	x	x	0
+O	0	4	O	O	accused	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	hitting	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	man	x	x	0
+O	0	9	O	O	with	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	car	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	driving	x	x	0
+B-FAC	0	14	O	O	home	x	x	0
+O	0	15	O	O	about	x	x	0
+B-PER	0	16	O	O	him	x	x	0
+O	0	17	O	O	stuck	x	x	0
+O	0	18	O	O	to	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+O	0	20	O	O	windshield	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	leaving	x	x	0
+B-PER	0	23	O	O	him	x	x	0
+O	0	24	O	O	there	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	die	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	Andrew	x	x	0
+I-PER	0	2	O	O	Luster	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	grandson	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	cosmetic	x	x	0
+I-PER	0	7	O	O	legend	x	x	0
+O	0	8	O	O	Max	x	x	0
+O	0	9	O	O	Factor	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	drove	x	x	0
+B-PER	0	2	O	O	him	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	become	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	serial	x	x	0
+I-PER	0	7	O	O	rapist	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	jump	x	x	0
+O	0	11	O	O	bail	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	middle	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	trial	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Only	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	captured	x	x	0
+O	0	4	O	O	in	x	x	0
+B-GPE	0	5	O	O	Mexico	x	x	0
+O	0	6	O	O	by	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	bounter	x	x	0
+I-PER	0	9	O	O	hunter	x	x	0
+O	0	10	O	O	after	x	x	0
+B-TIME	0	11	O	O	five	x	x	0
+I-TIME	0	12	O	O	months	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	Roun	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	next	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	"	x	x	0
+B-ORG	0	6	O	O	Larry	x	x	0
+I-ORG	0	7	O	O	King	x	x	0
+I-ORG	0	8	O	O	Live	x	x	0
+O	0	9	O	O	.	x	x	0
+O	0	10	O	O	"	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	begin	x	x	0
+O	0	2	O	O	first	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	extraordinary	x	x	0
+O	0	6	O	O	case	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	Andrew	x	x	0
+I-PER	0	9	O	O	Luster	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	guests	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	here	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Los	x	x	0
+I-GPE	0	7	O	O	Angeles	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	Roger	x	x	0
+I-PER	0	10	O	O	John	x	x	0
+I-PER	0	11	O	O	Diamond	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	is	x	x	0
+B-PER	0	2	O	O	Andrew	x	x	0
+I-PER	0	3	O	O	Luster	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	attorney	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Chicago	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	well	x	x	0
+I-PER	0	5	O	O	known	x	x	0
+I-PER	0	6	O	O	Bill	x	x	0
+I-PER	0	7	O	O	Curtis	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	special	x	x	0
+O	0	2	O	O	report	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	air	x	x	0
+B-TIME	0	5	O	O	tonight	x	x	0
+I-TIME	0	6	O	O	at	x	x	0
+I-TIME	0	7	O	O	10:00	x	x	0
+I-TIME	0	8	O	O	eastern	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	twisted	x	x	0
+O	0	12	O	O	mind	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	the	x	x	0
+B-PER	0	15	O	O	Andrew	x	x	0
+I-PER	0	16	O	O	Luster	x	x	0
+O	0	17	O	O	story	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	&	x	x	0
+O	0	21	O	O	amp	x	x	0
+O	0	22	O	O	;	x	x	0
+O	0	23	O	O	E	x	x	0
+O	0	24	O	O	produced	x	x	0
+O	0	25	O	O	by	x	x	0
+B-ORG	0	26	O	O	CBS	x	x	0
+I-ORG	0	27	O	O	News	x	x	0
+I-ORG	0	28	O	O	productions	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	&	x	x	0
+O	0	32	O	O	amp	x	x	0
+O	0	33	O	O	;	x	x	0
+O	0	34	O	O	E	x	x	0
+O	0	35	O	O	and	x	x	0
+B-PER	0	36	O	O	Bill	x	x	0
+I-PER	0	37	O	O	Curtis	x	x	0
+O	0	38	O	O	is	x	x	0
+B-PER	0	39	O	O	the	x	x	0
+I-PER	0	40	O	O	producer	x	x	0
+I-PER	0	41	O	O	and	x	x	0
+I-PER	0	42	O	O	director	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	New	x	x	0
+I-GPE	0	2	O	O	York	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	Nancy	x	x	0
+I-PER	0	5	O	O	Grace	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+B-TIME	0	1	O	O	former	x	x	0
+O	0	2	O	O	prosecutor	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Atlanta	x	x	0
+B-PER	0	2	O	O	Chris	x	x	0
+I-PER	0	3	O	O	picksly	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	defense	x	x	0
+I-PER	0	6	O	O	attorney	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	New	x	x	0
+I-GPE	0	3	O	O	York	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Dr.	x	x	0
+I-PER	0	6	O	O	Michael	x	x	0
+I-PER	0	7	O	O	Wellner	x	x	0
+B-PER	0	8	O	O	who	x	x	0
+O	0	9	O	O	published	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	research	x	x	0
+O	0	12	O	O	study	x	x	0
+O	0	13	O	O	on	x	x	0
+B-PER	0	14	O	O	drug	x	x	0
+I-PER	0	15	O	O	facilitated	x	x	0
+I-PER	0	16	O	O	rapists	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	professor	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	psychiatry	x	x	0
+O	0	6	O	O	at	x	x	0
+B-ORG	0	7	O	O	nyu	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	chairman	x	x	0
+O	0	10	O	O	of	x	x	0
+B-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	forensic	x	x	0
+I-ORG	0	13	O	O	panel	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	fellow	x	x	0
+I-PER	0	16	O	O	of	x	x	0
+I-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	depravity	x	x	0
+I-PER	0	19	O	O	scale	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	considers	x	x	0
+O	0	22	O	O	sensational	x	x	0
+O	0	23	O	O	crimes	x	x	0
+O	0	24	O	O	for	x	x	0
+O	0	25	O	O	sentencing	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	arrested	x	x	0
+O	0	3	O	O	in	x	x	0
+B-TIME	0	4	O	O	June	x	x	0
+O	0	5	O	O	after	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	jumped	x	x	0
+O	0	9	O	O	trial	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	bail	x	x	0
+O	0	12	O	O	.	x	x	0
+

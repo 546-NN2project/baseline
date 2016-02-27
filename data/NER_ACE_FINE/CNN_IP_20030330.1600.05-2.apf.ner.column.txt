@@ -1,0 +1,1170 @@
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	situation	x	x	0
+B-LOC	0	2	O	O	here	x	x	0
+O	0	3	O	O	appears	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	increasingly	x	x	0
+O	0	7	O	O	tense	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	few	x	x	0
+O	0	2	O	O	moments	x	x	0
+O	0	3	O	O	ago	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	on	x	x	0
+B-LOC	0	7	O	O	the	x	x	0
+I-LOC	0	8	O	O	horizon	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	very	x	x	0
+O	0	12	O	O	far	x	x	0
+O	0	13	O	O	ahead	x	x	0
+O	0	14	O	O	of	x	x	0
+B-ORG	0	15	O	O	the	x	x	0
+I-ORG	0	16	O	O	U.S.	x	x	0
+I-ORG	0	17	O	O	Army	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	3rd	x	x	0
+O	0	20	O	O	Squadron	x	x	0
+O	0	21	O	O	,	x	x	0
+B-ORG	0	22	O	O	7th	x	x	0
+I-ORG	0	23	O	O	Cavalry	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	we	x	x	0
+O	0	26	O	O	heard	x	x	0
+O	0	27	O	O	more	x	x	0
+O	0	28	O	O	than	x	x	0
+O	0	29	O	O	a	x	x	0
+O	0	30	O	O	few	x	x	0
+O	0	31	O	O	explosions	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	U.S.	x	x	0
+I-ORG	0	2	O	O	Army	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	3rd	x	x	0
+O	0	5	O	O	Squadron	x	x	0
+O	0	6	O	O	,	x	x	0
+B-ORG	0	7	O	O	7th	x	x	0
+I-ORG	0	8	O	O	Cavalry	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	compiled	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	rather	x	x	0
+O	0	13	O	O	extraordinary	x	x	0
+O	0	14	O	O	record	x	x	0
+O	0	15	O	O	in	x	x	0
+B-TIME	0	16	O	O	the	x	x	0
+I-TIME	0	17	O	O	past	x	x	0
+I-TIME	0	18	O	O	several	x	x	0
+I-TIME	0	19	O	O	days	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	first	x	x	0
+I-PER	0	4	O	O	unit	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	cross	x	x	0
+B-LOC	0	7	O	O	the	x	x	0
+I-LOC	0	8	O	O	Euphrates	x	x	0
+I-LOC	0	9	O	O	River	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	then	x	x	0
+O	0	12	O	O	punch	x	x	0
+O	0	13	O	O	northward	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	within	x	x	0
+O	0	16	O	O	60	x	x	0
+O	0	17	O	O	miles	x	x	0
+O	0	18	O	O	of	x	x	0
+B-GPE	0	19	O	O	Baghdad	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+B-ORG	0	2	O	O	the	x	x	0
+I-ORG	0	3	O	O	Army	x	x	0
+B-ORG	0	4	O	O	which	x	x	0
+O	0	5	O	O	assigned	x	x	0
+B-PER	0	6	O	O	me	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	3rd	x	x	0
+O	0	10	O	O	Squadron	x	x	0
+O	0	11	O	O	,	x	x	0
+B-ORG	0	12	O	O	7th	x	x	0
+I-ORG	0	13	O	O	Cavalry	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	that	x	x	0
+O	0	17	O	O	was	x	x	0
+O	0	18	O	O	extremely	x	x	0
+O	0	19	O	O	fortuitous	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	sitting	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	poker	x	x	0
+O	0	7	O	O	game	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	drawing	x	x	0
+O	0	10	O	O	four	x	x	0
+O	0	11	O	O	aces	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	because	x	x	0
+B-PER	0	14	O	O	this	x	x	0
+O	0	15	O	O	is	x	x	0
+B-PER	0	16	O	O	a	x	x	0
+I-PER	0	17	O	O	crack	x	x	0
+I-PER	0	18	O	O	unit	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	tip	x	x	0
+I-PER	0	4	O	O	of	x	x	0
+I-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	tip	x	x	0
+I-PER	0	7	O	O	of	x	x	0
+I-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	spear	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	absolutely	x	x	0
+O	0	5	O	O	terrific	x	x	0
+O	0	6	O	O	story	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	pushing	x	x	0
+O	0	9	O	O	forward	x	x	0
+O	0	10	O	O	north	x	x	0
+O	0	11	O	O	toward	x	x	0
+B-GPE	0	12	O	O	Baghdad	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Seventy-two	x	x	0
+I-TIME	0	1	O	O	hours	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	under	x	x	0
+O	0	6	O	O	constant	x	x	0
+O	0	7	O	O	fire	x	x	0
+O	0	8	O	O	coming	x	x	0
+O	0	9	O	O	at	x	x	0
+B-PER	0	10	O	O	us	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	both	x	x	0
+O	0	13	O	O	sides	x	x	0
+O	0	14	O	O	of	x	x	0
+B-FAC	0	15	O	O	the	x	x	0
+I-FAC	0	16	O	O	road	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	heard	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	incoming	x	x	0
+O	0	5	O	O	what	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	hell	x	x	0
+O	0	8	O	O	!	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	know	x	x	0
+O	0	8	O	O	what	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Recall	x	x	0
+B-PER	0	1	O	O	Winston	x	x	0
+I-PER	0	2	O	O	Churchill	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	old	x	x	0
+O	0	5	O	O	quote	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	There	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	nothing	x	x	0
+O	0	11	O	O	so	x	x	0
+O	0	12	O	O	exhilarating	x	x	0
+O	0	13	O	O	as	x	x	0
+O	0	14	O	O	being	x	x	0
+O	0	15	O	O	shot	x	x	0
+O	0	16	O	O	at	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	missed	x	x	0
+O	0	19	O	O	.	x	x	0
+O	0	20	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	try	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	stay	x	x	0
+O	0	7	O	O	calm	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	continue	x	x	0
+B-PER	0	10	O	O	your	x	x	0
+O	0	11	O	O	broadcasting	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	worst	x	x	0
+O	0	2	O	O	thing	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	can	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	either	x	x	0
+O	0	8	O	O	as	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	soldier	x	x	0
+O	0	11	O	O	or	x	x	0
+O	0	12	O	O	as	x	x	0
+B-PER	0	13	O	O	a	x	x	0
+I-PER	0	14	O	O	war	x	x	0
+I-PER	0	15	O	O	correspondent	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	panic	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	hearing	x	x	0
+O	0	3	O	O	incoming	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	sure	x	x	0
+O	0	4	O	O	what	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	see	x	x	0
+O	0	2	O	O	some	x	x	0
+O	0	3	O	O	stuff	x	x	0
+O	0	4	O	O	in	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	sky	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	may	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	break	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-PER	0	2	O	O	we	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	going	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	break	x	x	0
+O	0	7	O	O	off	x	x	0
+O	0	8	O	O	this	x	x	0
+O	0	9	O	O	live	x	x	0
+O	0	10	O	O	shot	x	x	0
+O	0	11	O	O	for	x	x	0
+B-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	time	x	x	0
+I-TIME	0	14	O	O	being	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	sure	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	see	x	x	0
+B-LOC	0	7	O	O	up	x	x	0
+I-LOC	0	8	O	O	there	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Goodbye	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	dive	x	x	0
+O	0	5	O	O	for	x	x	0
+B-VEH	0	6	O	O	vehicles	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	think	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	See	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Bye	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	under	x	x	0
+O	0	3	O	O	heavy	x	x	0
+O	0	4	O	O	fire	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	past	x	x	0
+O	0	8	O	O	couple	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	miles	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Mostly	x	x	0
+B-WEA	0	1	O	O	small	x	x	0
+I-WEA	0	2	O	O	arms	x	x	0
+O	0	3	O	O	fire	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	sand	x	x	0
+O	0	8	O	O	storm	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	enabled	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	Iraqis	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	come	x	x	0
+O	0	15	O	O	very	x	x	0
+O	0	16	O	O	close	x	x	0
+O	0	17	O	O	to	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	road	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	if	x	x	0
+B-PER	0	23	O	O	I	x	x	0
+O	0	24	O	O	sound	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	little	x	x	0
+O	0	27	O	O	nervous	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	it	x	x	0
+O	0	30	O	O	's	x	x	0
+O	0	31	O	O	because	x	x	0
+B-PER	0	32	O	O	we	x	x	0
+O	0	33	O	O	're	x	x	0
+O	0	34	O	O	in	x	x	0
+B-VEH	0	35	O	O	the	x	x	0
+I-VEH	0	36	O	O	soft	x	x	0
+I-VEH	0	37	O	O	skin	x	x	0
+I-VEH	0	38	O	O	vehicle	x	x	0
+O	0	39	O	O	and	x	x	0
+B-PER	0	40	O	O	everybody	x	x	0
+I-PER	0	41	O	O	else	x	x	0
+O	0	42	O	O	is	x	x	0
+O	0	43	O	O	in	x	x	0
+B-VEH	0	44	O	O	armor	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	'd	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	to	x	x	0
+B-TIME	0	4	O	O	now	x	x	0
+O	0	5	O	O	show	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+B-VEH	0	7	O	O	what	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	call	x	x	0
+B-VEH	0	10	O	O	Old	x	x	0
+I-VEH	0	11	O	O	Betsy	x	x	0
+O	0	12	O	O	(	x	x	0
+O	0	13	O	O	ph	x	x	0
+O	0	14	O	O	)	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	re-used	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	secondhand	x	x	0
+B-ORG	0	20	O	O	U.S.	x	x	0
+I-ORG	0	21	O	O	Army	x	x	0
+O	0	22	O	O	Humvee	x	x	0
+B-VEH	0	23	O	O	that	x	x	0
+B-PER	0	24	O	O	we	x	x	0
+O	0	25	O	O	've	x	x	0
+O	0	26	O	O	been	x	x	0
+O	0	27	O	O	traveling	x	x	0
+O	0	28	O	O	with	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	Any	x	x	0
+I-WEA	0	1	O	O	bullet	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	pass	x	x	0
+O	0	4	O	O	through	x	x	0
+B-VEH	0	5	O	O	it	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	even	x	x	0
+B-WEA	0	8	O	O	a	x	x	0
+I-WEA	0	9	O	O	.22	x	x	0
+I-WEA	0	10	O	O	caliber	x	x	0
+I-WEA	0	11	O	O	bullet	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	see	x	x	0
+B-PER	0	3	O	O	our	x	x	0
+O	0	4	O	O	body	x	x	0
+O	0	5	O	O	armor	x	x	0
+O	0	6	O	O	draped	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	door	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	what	x	x	0
+B-PER	0	3	O	O	we	x	x	0
+O	0	4	O	O	've	x	x	0
+O	0	5	O	O	literally	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	living	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+B-VEH	0	2	O	O	the	x	x	0
+I-VEH	0	3	O	O	kitchen	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	when	x	x	0
+B-PER	0	6	O	O	we	x	x	0
+O	0	7	O	O	're	x	x	0
+O	0	8	O	O	down	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	're	x	x	0
+O	0	13	O	O	very	x	x	0
+O	0	14	O	O	fortunate	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	because	x	x	0
+B-PER	0	17	O	O	we	x	x	0
+O	0	18	O	O	've	x	x	0
+O	0	19	O	O	got	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	teapot	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	my	x	x	0
+O	0	3	O	O	cubby	x	x	0
+O	0	4	O	O	hole	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	extraordinary	x	x	0
+O	0	3	O	O	cramped	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	because	x	x	0
+O	0	6	O	O	(	x	x	0
+O	0	7	O	O	UNINTELLIGIBLE	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	sandbag	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	floor	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	case	x	x	0
+B-PER	0	15	O	O	we	x	x	0
+O	0	16	O	O	hit	x	x	0
+B-WEA	0	17	O	O	a	x	x	0
+I-WEA	0	18	O	O	mine	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	space	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	eat	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	sleep	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	sleep	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	really	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	sleep	x	x	0
+B-LOC	0	5	O	O	out	x	x	0
+I-LOC	0	6	O	O	here	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	're	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	adrenaline	x	x	0
+O	0	8	O	O	high	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	racing	x	x	0
+O	0	12	O	O	across	x	x	0
+B-LOC	0	13	O	O	the	x	x	0
+I-LOC	0	14	O	O	desert	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+O	0	17	O	O	know	x	x	0
+O	0	18	O	O	that	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	're	x	x	0
+O	0	21	O	O	traveling	x	x	0
+O	0	22	O	O	toward	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	jaws	x	x	0
+O	0	25	O	O	of	x	x	0
+O	0	26	O	O	what	x	x	0
+O	0	27	O	O	could	x	x	0
+O	0	28	O	O	be	x	x	0
+O	0	29	O	O	a	x	x	0
+O	0	30	O	O	major	x	x	0
+O	0	31	O	O	military	x	x	0
+O	0	32	O	O	battle	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	realize	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	've	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	riding	x	x	0
+O	0	9	O	O	along	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	bouncing	x	x	0
+O	0	12	O	O	along	x	x	0
+O	0	13	O	O	in	x	x	0
+B-VEH	0	14	O	O	these	x	x	0
+I-VEH	0	15	O	O	tanks	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	probably	x	x	0
+B-TIME	0	18	O	O	six	x	x	0
+I-TIME	0	19	O	O	or	x	x	0
+I-TIME	0	20	O	O	more	x	x	0
+I-TIME	0	21	O	O	hours	x	x	0
+I-TIME	0	22	O	O	now	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	if	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	ride	x	x	0
+O	0	4	O	O	inside	x	x	0
+B-VEH	0	5	O	O	that	x	x	0
+I-VEH	0	6	O	O	tank	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	like	x	x	0
+O	0	11	O	O	riding	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	bowels	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	dragon	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	They	x	x	0
+O	0	1	O	O	roar	x	x	0
+O	0	2	O	O	,	x	x	0
+B-VEH	0	3	O	O	they	x	x	0
+O	0	4	O	O	screech	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	hardest	x	x	0
+O	0	2	O	O	part	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	trip	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	personal	x	x	0
+O	0	8	O	O	discomfort	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	cannot	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	levels	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	personal	x	x	0
+O	0	8	O	O	discomfort	x	x	0
+B-PER	0	9	O	O	we	x	x	0
+O	0	10	O	O	've	x	x	0
+O	0	11	O	O	experienced	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	extraordinary	x	x	0
+O	0	2	O	O	sandstorms	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	bitter	x	x	0
+O	0	6	O	O	cold	x	x	0
+O	0	7	O	O	nights	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	most	x	x	0
+O	0	2	O	O	uncomfortable	x	x	0
+O	0	3	O	O	thing	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	having	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	sleep	x	x	0
+O	0	8	O	O	sitting	x	x	0
+O	0	9	O	O	up	x	x	0
+O	0	10	O	O	in	x	x	0
+B-VEH	0	11	O	O	a	x	x	0
+I-VEH	0	12	O	O	Humvee	x	x	0
+O	0	13	O	O	with	x	x	0
+O	0	14	O	O	sandbags	x	x	0
+O	0	15	O	O	under	x	x	0
+B-PER	0	16	O	O	your	x	x	0
+O	0	17	O	O	feet	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	your	x	x	0
+O	0	20	O	O	knees	x	x	0
+O	0	21	O	O	at	x	x	0
+B-PER	0	22	O	O	your	x	x	0
+O	0	23	O	O	chin	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	excruciatingly	x	x	0
+O	0	3	O	O	uncomfortable	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	something	x	x	0
+O	0	7	O	O	that	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	wish	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	anybody	x	x	0
+O	0	13	O	O	but	x	x	0
+B-PER	0	14	O	O	a	x	x	0
+I-PER	0	15	O	O	contortionist	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	give	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	example	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	dust	x	x	0
+O	0	10	O	O	like	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Look	x	x	0
+O	0	1	O	O	at	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	through	x	x	0
+B-TIME	0	4	O	O	days	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	dust	x	x	0
+O	0	7	O	O	like	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	U.S.	x	x	0
+I-ORG	0	2	O	O	Army	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	7th	x	x	0
+O	0	5	O	O	Cavalry	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	just	x	x	0
+O	0	8	O	O	taken	x	x	0
+O	0	9	O	O	three	x	x	0
+B-GPE	0	10	O	O	Iraqi	x	x	0
+O	0	11	O	O	prisoners	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	war	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Actually	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	very	x	x	0
+O	0	5	O	O	close	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	say	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	more	x	x	0
+O	0	14	O	O	than	x	x	0
+O	0	15	O	O	40	x	x	0
+O	0	16	O	O	yards	x	x	0
+O	0	17	O	O	away	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	but	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	dust	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	sand	x	x	0
+O	0	24	O	O	are	x	x	0
+O	0	25	O	O	blowing	x	x	0
+O	0	26	O	O	so	x	x	0
+O	0	27	O	O	badly	x	x	0
+B-PER	0	28	O	O	you	x	x	0
+O	0	29	O	O	're	x	x	0
+O	0	30	O	O	getting	x	x	0
+O	0	31	O	O	these	x	x	0
+O	0	32	O	O	vague	x	x	0
+O	0	33	O	O	images	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	being	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	blizzard	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	except	x	x	0
+O	0	9	O	O	unfortunately	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	sand	x	x	0
+O	0	13	O	O	does	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	melt	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	snow	x	x	0
+O	0	19	O	O	does	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	eat	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	what	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	Army	x	x	0
+O	0	7	O	O	calls	x	x	0
+O	0	8	O	O	MREs	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	meals	x	x	0
+O	0	11	O	O	ready	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	eat	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	must	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	they	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	pretty	x	x	0
+O	0	8	O	O	darn	x	x	0
+O	0	9	O	O	good	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	course	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	everybody	x	x	0
+O	0	5	O	O	fights	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	best	x	x	0
+O	0	9	O	O	ones	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	treats	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	things	x	x	0
+O	0	4	O	O	like	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	M	x	x	0
+O	0	7	O	O	&	x	x	0
+O	0	8	O	O	amp	x	x	0
+O	0	9	O	O	;	x	x	0
+O	0	10	O	O	Ms	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	breakfast	x	x	0
+O	0	14	O	O	toasties	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Army	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	eating	x	x	0
+O	0	4	O	O	much	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	much	x	x	0
+O	0	7	O	O	better	x	x	0
+O	0	8	O	O	than	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	grandfathers	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	these	x	x	0
+I-PER	0	13	O	O	soldiers	x	x	0
+O	0	14	O	O	did	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	great	x	x	0
+O	0	18	O	O	grandfathers	x	x	0
+O	0	19	O	O	of	x	x	0
+B-PER	0	20	O	O	these	x	x	0
+I-PER	0	21	O	O	soldiers	x	x	0
+O	0	22	O	O	in	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	Second	x	x	0
+O	0	25	O	O	World	x	x	0
+O	0	26	O	O	War	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	hold	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	camera	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	show	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	crew	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	camera	x	x	0
+O	0	2	O	O	left	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	Charlie	x	x	0
+I-PER	0	5	O	O	Miller	x	x	0
+O	0	6	O	O	(	x	x	0
+O	0	7	O	O	ph	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	been	x	x	0
+B-PER	0	13	O	O	our	x	x	0
+O	0	14	O	O	superb	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	intrepid	x	x	0
+O	0	17	O	O	cameraman	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	Jeff	x	x	0
+I-PER	0	5	O	O	Barweis	x	x	0
+O	0	6	O	O	(	x	x	0
+O	0	7	O	O	ph	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	brilliant	x	x	0
+I-PER	0	12	O	O	satellite	x	x	0
+I-PER	0	13	O	O	engineer	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	crew	x	x	0
+B-PER	0	4	O	O	which	x	x	0
+O	0	5	O	O	really	x	x	0
+O	0	6	O	O	brings	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	these	x	x	0
+O	0	9	O	O	pictures	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	pictures	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	seeing	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	absolutely	x	x	0
+O	0	7	O	O	phenomenal	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	These	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	live	x	x	0
+O	0	3	O	O	pictures	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	7th	x	x	0
+I-PER	0	7	O	O	Cavalry	x	x	0
+O	0	8	O	O	racing	x	x	0
+O	0	9	O	O	across	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	desert	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	never	x	x	0
+O	0	3	O	O	seen	x	x	0
+O	0	4	O	O	battlefield	x	x	0
+O	0	5	O	O	pictures	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	these	x	x	0
+O	0	8	O	O	before	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	're	x	x	0
+O	0	3	O	O	watching	x	x	0
+O	0	4	O	O	here	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	truly	x	x	0
+O	0	7	O	O	historic	x	x	0
+O	0	8	O	O	television	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	journalism	x	x	0
+O	0	11	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Walter	x	x	0
+I-PER	0	1	O	O	Rodgers	x	x	0
+O	0	2	O	O	with	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	3-7th	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	ahead	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	'll	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	latest	x	x	0
+O	0	7	O	O	on	x	x	0
+B-TIME	0	8	O	O	today	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	suicide	x	x	0
+O	0	11	O	O	bombing	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Israel	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	report	x	x	0
+O	0	2	O	O	from	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	Kelly	x	x	0
+O	0	6	O	O	Wallace	x	x	0
+O	0	7	O	O	when	x	x	0
+B-ORG	0	8	O	O	we	x	x	0
+O	0	9	O	O	return	x	x	0
+O	0	10	O	O	.	x	x	0
+

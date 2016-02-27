@@ -1,0 +1,544 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+B-PER	0	2	O	O	2	x	x	0
+I-PER	0	3	O	O	girls	x	x	0
+O	0	4	O	O	already	x	x	0
+O	0	5	O	O	,	x	x	0
+B-TIME	0	6	O	O	nearly	x	x	0
+I-TIME	0	7	O	O	8	x	x	0
+O	0	8	O	O	and	x	x	0
+B-TIME	0	9	O	O	4.5	x	x	0
+I-TIME	0	10	O	O	yrs	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	always	x	x	0
+O	0	15	O	O	said	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	will	x	x	0
+O	0	18	O	O	NEVER	x	x	0
+O	0	19	O	O	forget	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	pain	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	childbirth	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Abby	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	true	x	x	0
+O	0	4	O	O	water	x	x	0
+O	0	5	O	O	birth	x	x	0
+O	0	6	O	O	(	x	x	0
+O	0	7	O	O	3kg	x	x	0
+O	0	8	O	O	normal	x	x	0
+O	0	9	O	O	)	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	with	x	x	0
+B-PER	0	12	O	O	Fiona	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	dragged	x	x	0
+O	0	16	O	O	out	x	x	0
+O	0	17	O	O	of	x	x	0
+B-FAC	0	18	O	O	the	x	x	0
+I-FAC	0	19	O	O	pool	x	x	0
+O	0	20	O	O	after	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	head	x	x	0
+O	0	23	O	O	crowned	x	x	0
+O	0	24	O	O	(	x	x	0
+B-PER	0	25	O	O	gyno	x	x	0
+O	0	26	O	O	had	x	x	0
+O	0	27	O	O	written	x	x	0
+O	0	28	O	O	on	x	x	0
+B-PER	0	29	O	O	my	x	x	0
+O	0	30	O	O	notes	x	x	0
+B-PER	0	31	O	O	she	x	x	0
+O	0	32	O	O	was	x	x	0
+O	0	33	O	O	4kg	x	x	0
+O	0	34	O	O	(	x	x	0
+O	0	35	O	O	large	x	x	0
+O	0	36	O	O	)	x	x	0
+O	0	37	O	O	and	x	x	0
+O	0	38	O	O	that	x	x	0
+B-PER	0	39	O	O	she	x	x	0
+O	0	40	O	O	was	x	x	0
+O	0	41	O	O	not	x	x	0
+O	0	42	O	O	to	x	x	0
+O	0	43	O	O	be	x	x	0
+O	0	44	O	O	born	x	x	0
+O	0	45	O	O	in	x	x	0
+O	0	46	O	O	the	x	x	0
+O	0	47	O	O	water	x	x	0
+O	0	48	O	O	(	x	x	0
+O	0	49	O	O	long	x	x	0
+O	0	50	O	O	painful	x	x	0
+O	0	51	O	O	story	x	x	0
+O	0	52	O	O	!	x	x	0
+O	0	53	O	O	)	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	still	x	x	0
+O	0	3	O	O	remember	x	x	0
+O	0	4	O	O	though	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	pain	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	felt	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	on	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	large	x	x	0
+O	0	5	O	O	side	x	x	0
+O	0	6	O	O	but	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	am	x	x	0
+O	0	9	O	O	so	x	x	0
+O	0	10	O	O	worried	x	x	0
+O	0	11	O	O	about	x	x	0
+O	0	12	O	O	how	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	'm	x	x	0
+O	0	15	O	O	going	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	cope	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	natural	x	x	0
+O	0	21	O	O	childbirth	x	x	0
+O	0	22	O	O	without	x	x	0
+B-FAC	0	23	O	O	a	x	x	0
+I-FAC	0	24	O	O	pool	x	x	0
+O	0	25	O	O	(	x	x	0
+O	0	26	O	O	not	x	x	0
+O	0	27	O	O	available	x	x	0
+O	0	28	O	O	round	x	x	0
+O	0	29	O	O	here	x	x	0
+O	0	30	O	O	)	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	seen	x	x	0
+O	0	3	O	O	videos	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	heard	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	ladies	x	x	0
+B-PER	0	8	O	O	who	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	"	x	x	0
+O	0	11	O	O	managed	x	x	0
+O	0	12	O	O	"	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	pain	x	x	0
+O	0	15	O	O	control	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	Heavens	x	x	0
+O	0	3	O	O	name	x	x	0
+O	0	4	O	O	can	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	;	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	know	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	pain	x	x	0
+O	0	10	O	O	feels	x	x	0
+O	0	11	O	O	like	x	x	0
+O	0	12	O	O	!!	x	x	0
+
+
+
+O	0	0	O	O	Can	x	x	0
+B-PER	0	1	O	O	anyone	x	x	0
+O	0	2	O	O	give	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	advice	x	x	0
+O	0	5	O	O	or	x	x	0
+O	0	6	O	O	let	x	x	0
+B-PER	0	7	O	O	me	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	any	x	x	0
+O	0	11	O	O	techniques	x	x	0
+O	0	12	O	O	which	x	x	0
+O	0	13	O	O	might	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	able	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	help	x	x	0
+O	0	18	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	advance	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anna	x	x	0
+I-PER	0	1	O	O	Mc	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	an	x	x	0
+O	0	6	O	O	institutional	x	x	0
+O	0	7	O	O	water	x	x	0
+O	0	8	O	O	birth	x	x	0
+O	0	9	O	O	available	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	have	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	considered	x	x	0
+O	0	14	O	O	just	x	x	0
+O	0	15	O	O	staying	x	x	0
+B-FAC	0	16	O	O	home	x	x	0
+O	0	17	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Unassisted	x	x	0
+O	0	1	O	O	or	x	x	0
+B-PER	0	2	O	O	midwife	x	x	0
+O	0	3	O	O	attended	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	understand	x	x	0
+O	0	2	O	O	hypnobirthing	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	very	x	x	0
+O	0	6	O	O	helpful	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	pursuing	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	because	x	x	0
+B-PER	0	6	O	O	I	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	able	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	go	x	x	0
+O	0	11	O	O	inside	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	pain	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	good	x	x	0
+O	0	17	O	O	place	x	x	0
+O	0	18	O	O	without	x	x	0
+O	0	19	O	O	training	x	x	0
+O	0	20	O	O	,	x	x	0
+B-TIME	0	21	O	O	last	x	x	0
+I-TIME	0	22	O	O	time	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	thinking	x	x	0
+O	0	5	O	O	much	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	hard	x	x	0
+O	0	9	O	O	part	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	labor	x	x	0
+O	0	12	O	O	prior	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	getting	x	x	0
+O	0	15	O	O	so	x	x	0
+O	0	16	O	O	close	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	remember	x	x	0
+O	0	3	O	O	how	x	x	0
+O	0	4	O	O	intense	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	am	x	x	0
+O	0	4	O	O	still	x	x	0
+O	0	5	O	O	looking	x	x	0
+O	0	6	O	O	forward	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	more	x	x	0
+O	0	10	O	O	than	x	x	0
+O	0	11	O	O	fearing	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	but	x	x	0
+O	0	15	O	O	hey	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	really	x	x	0
+O	0	4	O	O	intense	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	vulnerable	x	x	0
+O	0	7	O	O	thing	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Dagny	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	a	x	x	0
+B-FAC	0	5	O	O	home	x	x	0
+O	0	6	O	O	birth	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	can	x	x	0
+O	0	9	O	O	rent	x	x	0
+B-FAC	0	10	O	O	a	x	x	0
+I-FAC	0	11	O	O	birthing	x	x	0
+I-FAC	0	12	O	O	pool	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	necessaritly	x	x	0
+O	0	4	O	O	say	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	repeat	x	x	0
+O	0	11	O	O	labour	x	x	0
+O	0	12	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	first	x	x	0
+O	0	2	O	O	labour	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	was	x	x	0
+B-TIME	0	5	O	O	30	x	x	0
+I-TIME	0	6	O	O	hours	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	epidural	x	x	0
+O	0	11	O	O	after	x	x	0
+O	0	12	O	O	22	x	x	0
+O	0	13	O	O	hours.	x	x	0
+O	0	14	O	O	#	x	x	0
+O	0	15	O	O	2	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	went	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	saying	x	x	0
+O	0	20	O	O	"	x	x	0
+O	0	21	O	O	give	x	x	0
+B-PER	0	22	O	O	me	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	epidural	x	x	0
+O	0	25	O	O	asap-and	x	x	0
+O	0	26	O	O	never	x	x	0
+O	0	27	O	O	got	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	state	x	x	0
+O	0	31	O	O	where	x	x	0
+B-PER	0	32	O	O	I	x	x	0
+O	0	33	O	O	felt	x	x	0
+O	0	34	O	O	that	x	x	0
+B-PER	0	35	O	O	I	x	x	0
+O	0	36	O	O	needed	x	x	0
+O	0	37	O	O	it	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Only	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	tens	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	gas-and-air	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	give	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	idea	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	natural	x	x	0
+O	0	11	O	O	birth	x	x	0
+O	0	12	O	O	because	x	x	0
+O	0	13	O	O	last	x	x	0
+O	0	14	O	O	time	x	x	0
+O	0	15	O	O	was	x	x	0
+O	0	16	O	O	painful	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+B-PER	0	2	O	O	different	x	x	0
+I-PER	0	3	O	O	people	x	x	0
+O	0	4	O	O	/	x	x	0
+O	0	5	O	O	different	x	x	0
+O	0	6	O	O	labours	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	different	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	so	x	x	0
+O	0	11	O	O	just	x	x	0
+O	0	12	O	O	because	x	x	0
+B-PER	0	13	O	O	one	x	x	0
+I-PER	0	14	O	O	person	x	x	0
+O	0	15	O	O	says	x	x	0
+O	0	16	O	O	"	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	did	x	x	0
+O	0	19	O	O	***	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	it	x	x	0
+O	0	22	O	O	did	x	x	0
+O	0	23	O	O	n't	x	x	0
+O	0	24	O	O	hurt	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	bit	x	x	0
+O	0	27	O	O	"	x	x	0
+O	0	28	O	O	does	x	x	0
+O	0	29	O	O	n't	x	x	0
+O	0	30	O	O	mean	x	x	0
+O	0	31	O	O	that	x	x	0
+O	0	32	O	O	it	x	x	0
+O	0	33	O	O	will	x	x	0
+O	0	34	O	O	work	x	x	0
+O	0	35	O	O	for	x	x	0
+B-PER	0	36	O	O	someone	x	x	0
+I-PER	0	37	O	O	else	x	x	0
+O	0	38	O	O	,	x	x	0
+O	0	39	O	O	so	x	x	0
+O	0	40	O	O	going	x	x	0
+O	0	41	O	O	in	x	x	0
+O	0	42	O	O	with	x	x	0
+O	0	43	O	O	a	x	x	0
+O	0	44	O	O	set	x	x	0
+O	0	45	O	O	of	x	x	0
+O	0	46	O	O	suggestions	x	x	0
+O	0	47	O	O	,	x	x	0
+O	0	48	O	O	and	x	x	0
+O	0	49	O	O	being	x	x	0
+O	0	50	O	O	prepared	x	x	0
+O	0	51	O	O	to	x	x	0
+O	0	52	O	O	try	x	x	0
+O	0	53	O	O	them	x	x	0
+O	0	54	O	O	and	x	x	0
+O	0	55	O	O	see	x	x	0
+O	0	56	O	O	which	x	x	0
+O	0	57	O	O	is	x	x	0
+O	0	58	O	O	the	x	x	0
+O	0	59	O	O	best	x	x	0
+O	0	60	O	O	is	x	x	0
+O	0	61	O	O	probably	x	x	0
+O	0	62	O	O	the	x	x	0
+O	0	63	O	O	most	x	x	0
+O	0	64	O	O	helpful	x	x	0
+O	0	65	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	Oh	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	hurt	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	bit	x	x	0
+O	0	10	O	O	"	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	usually	x	x	0
+O	0	13	O	O	helped	x	x	0
+O	0	14	O	O	by	x	x	0
+B-PER	0	15	O	O	mummy	x	x	0
+O	0	16	O	O	amnesia	x	x	0
+O	0	17	O	O	!!	x	x	0
+O	0	18	O	O	;	x	x	0
+O	0	19	O	O	-	x	x	0
+O	0	20	O	O	P	x	x	0
+O	0	21	O	O	)	x	x	0
+B-PER	0	22	O	O	Debbie	x	x	0
+

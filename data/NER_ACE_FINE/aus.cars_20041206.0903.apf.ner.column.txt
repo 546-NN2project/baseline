@@ -1,0 +1,754 @@
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	fact	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	intend	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	drive	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	irrelevant	x	x	0
+O	0	12	O	O	"	x	x	0
+O	0	13	O	O	FFS	x	x	0
+O	0	14	O	O	!	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	relevant	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	then	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	fluck	x	x	0
+O	0	10	O	O	*	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	*	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	well	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	lets	x	x	0
+O	0	4	O	O	cross	x	x	0
+B-TIME	0	5	O	O	now	x	x	0
+O	0	6	O	O	to	x	x	0
+B-GPE	0	7	O	O	our	x	x	0
+O	0	8	O	O	mob	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	mindless	x	x	0
+I-PER	0	11	O	O	drones	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	hear	x	x	0
+O	0	14	O	O	about	x	x	0
+O	0	15	O	O	how	x	x	0
+O	0	16	O	O	good	x	x	0
+O	0	17	O	O	it	x	x	0
+O	0	18	O	O	is	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	this	x	x	0
+O	0	21	O	O	menace	x	x	0
+O	0	22	O	O	to	x	x	0
+B-GPE	0	23	O	O	society	x	x	0
+O	0	24	O	O	is	x	x	0
+O	0	25	O	O	going	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	be	x	x	0
+O	0	28	O	O	locked	x	x	0
+O	0	29	O	O	up	x	x	0
+O	0	30	O	O	before	x	x	0
+B-PER	0	31	O	O	he	x	x	0
+O	0	32	O	O	kills	x	x	0
+O	0	33	O	O	all	x	x	0
+B-GPE	0	34	O	O	our	x	x	0
+O	0	35	O	O	innocent	x	x	0
+O	0	36	O	O	children	x	x	0
+O	0	37	O	O	.	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	doubt	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	law	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Q	x	x	0
+O	0	7	O	O	since	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	extended	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	being	x	x	0
+O	0	13	O	O	drunk	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	charge	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	horse	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	rigorously	x	x	0
+O	0	5	O	O	policed	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	as	x	x	0
+O	0	8	O	O	long	x	x	0
+O	0	9	O	O	as	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	can	x	x	0
+O	0	12	O	O	remember	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Note	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	had	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	drunken	x	x	0
+I-PER	0	6	O	O	fool	x	x	0
+O	0	7	O	O	attempted	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	sleep	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	off	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	of	x	x	0
+B-VEH	0	14	O	O	the	x	x	0
+I-VEH	0	15	O	O	car	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	'd	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	carted	x	x	0
+O	0	21	O	O	off	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	clink	x	x	0
+O	0	24	O	O	for	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	different	x	x	0
+O	0	27	O	O	offence	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Had	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	seen	x	x	0
+O	0	4	O	O	consuming	x	x	0
+O	0	5	O	O	alcohol	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	public	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	'd	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	been	x	x	0
+O	0	12	O	O	done	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	as	x	x	0
+O	0	16	O	O	well	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	every	x	x	0
+I-PER	0	2	O	O	Queenslander	x	x	0
+O	0	3	O	O	knows	x	x	0
+O	0	4	O	O	...	x	x	0
+O	0	5	O	O	if	x	x	0
+B-GPE	0	6	O	O	we	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	toughest	x	x	0
+O	0	12	O	O	laws	x	x	0
+O	0	13	O	O	outside	x	x	0
+O	0	14	O	O	Islam	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	place	x	x	0
+O	0	17	O	O	would	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	rolling	x	x	0
+O	0	20	O	O	with	x	x	0
+B-PER	0	21	O	O	drunks	x	x	0
+O	0	22	O	O	!	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	H	x	x	0
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	getting	x	x	0
+O	0	3	O	O	beyond	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	joke	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	several	x	x	0
+O	0	8	O	O	times	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	slept	x	x	0
+O	0	12	O	O	in	x	x	0
+B-PER	0	13	O	O	my	x	x	0
+O	0	14	O	O	car	x	x	0
+B-TIME	0	15	O	O	after	x	x	0
+I-TIME	0	16	O	O	a	x	x	0
+I-TIME	0	17	O	O	night	x	x	0
+O	0	18	O	O	out	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	drive	x	x	0
+B-FAC	0	22	O	O	home	x	x	0
+O	0	23	O	O	or	x	x	0
+O	0	24	O	O	be	x	x	0
+O	0	25	O	O	picked	x	x	0
+O	0	26	O	O	up	x	x	0
+B-TIME	0	27	O	O	the	x	x	0
+I-TIME	0	28	O	O	next	x	x	0
+I-TIME	0	29	O	O	day	x	x	0
+O	0	30	O	O	depending	x	x	0
+O	0	31	O	O	on	x	x	0
+O	0	32	O	O	alcahol	x	x	0
+O	0	33	O	O	consumption	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	FFS	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	because	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	sat	x	x	0
+O	0	5	O	O	is	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	drivers	x	x	0
+O	0	8	O	O	seat	x	x	0
+O	0	9	O	O	does	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	mean	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	took	x	x	0
+O	0	14	O	O	control	x	x	0
+O	0	15	O	O	of	x	x	0
+B-VEH	0	16	O	O	the	x	x	0
+I-VEH	0	17	O	O	car	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	put	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	keys	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	ignition	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	turn	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	accessories	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	listen	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	radio	x	x	0
+O	0	19	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+B-VEH	0	1	O	O	the	x	x	0
+I-VEH	0	2	O	O	car	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	running	x	x	0
+O	0	5	O	O	fair	x	x	0
+O	0	6	O	O	enough	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	wonder	x	x	0
+O	0	10	O	O	why	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	law	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	doubted	x	x	0
+O	0	15	O	O	so	x	x	0
+O	0	16	O	O	often	x	x	0
+B-PER	0	17	O	O	scott	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	thought	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	law	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	fairly	x	x	0
+O	0	6	O	O	well	x	x	0
+O	0	7	O	O	known	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	long	x	x	0
+O	0	11	O	O	as	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	keys	x	x	0
+O	0	18	O	O	on	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	ok	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Surely	x	x	0
+B-PER	0	1	O	O	everyone	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	heard	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	trick	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	rolling	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	front	x	x	0
+O	0	10	O	O	wheel	x	x	0
+O	0	11	O	O	over	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	keys	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Chances	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	sleeping	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	off	x	x	0
+O	0	5	O	O	in	x	x	0
+B-VEH	0	6	O	O	the	x	x	0
+I-VEH	0	7	O	O	car	x	x	0
+O	0	8	O	O	wo	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	be	x	x	0
+O	0	11	O	O	terribly	x	x	0
+O	0	12	O	O	effective	x	x	0
+O	0	13	O	O	because	x	x	0
+B-PER	0	14	O	O	you	x	x	0
+O	0	15	O	O	'll	x	x	0
+O	0	16	O	O	most	x	x	0
+O	0	17	O	O	likely	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	over	x	x	0
+O	0	20	O	O	0.05	x	x	0
+B-TIME	0	21	O	O	the	x	x	0
+I-TIME	0	22	O	O	next	x	x	0
+I-TIME	0	23	O	O	morning	x	x	0
+O	0	24	O	O	anyway	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Michael	x	x	0
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	Q	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	charge	x	x	0
+O	0	6	O	O	of	x	x	0
+B-VEH	0	7	O	O	the	x	x	0
+I-VEH	0	8	O	O	car	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	moment	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	attempts	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	put	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	key	x	x	0
+O	0	18	O	O	in	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	door	x	x	0
+O	0	21	O	O	lock	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	asleep	x	x	0
+O	0	4	O	O	in	x	x	0
+B-VEH	0	5	O	O	the	x	x	0
+I-VEH	0	6	O	O	back	x	x	0
+I-VEH	0	7	O	O	seat	x	x	0
+O	0	8	O	O	with	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	keys	x	x	0
+O	0	11	O	O	in	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	possession	x	x	0
+O	0	14	O	O	then	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	person	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	charge	x	x	0
+O	0	21	O	O	of	x	x	0
+B-VEH	0	22	O	O	the	x	x	0
+I-VEH	0	23	O	O	car	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	offence	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	being	x	x	0
+O	0	4	O	O	drunk	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	charge	x	x	0
+O	0	7	O	O	of	x	x	0
+B-VEH	0	8	O	O	a	x	x	0
+I-VEH	0	9	O	O	vehicle	x	x	0
+O	0	10	O	O	as	x	x	0
+O	0	11	O	O	distinct	x	x	0
+O	0	12	O	O	from	x	x	0
+O	0	13	O	O	being	x	x	0
+O	0	14	O	O	drunk	x	x	0
+O	0	15	O	O	while	x	x	0
+O	0	16	O	O	operating	x	x	0
+B-VEH	0	17	O	O	a	x	x	0
+I-VEH	0	18	O	O	vehicle	x	x	0
+O	0	19	O	O	(	x	x	0
+O	0	20	O	O	which	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	separate	x	x	0
+O	0	24	O	O	offence	x	x	0
+O	0	25	O	O	)	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	way	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	avoid	x	x	0
+O	0	4	O	O	being	x	x	0
+O	0	5	O	O	charged	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	give	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	keys	x	x	0
+O	0	11	O	O	to	x	x	0
+B-PER	0	12	O	O	someone	x	x	0
+I-PER	0	13	O	O	else	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	unlock	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	door	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	them	x	x	0
+O	0	21	O	O	hang	x	x	0
+O	0	22	O	O	on	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	keys	x	x	0
+O	0	26	O	O	until	x	x	0
+B-PER	0	27	O	O	you	x	x	0
+O	0	28	O	O	're	x	x	0
+O	0	29	O	O	below	x	x	0
+O	0	30	O	O	.05	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	standard	x	x	0
+O	0	2	O	O	ruse	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	throw	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	keys	x	x	0
+O	0	8	O	O	under	x	x	0
+B-VEH	0	9	O	O	the	x	x	0
+I-VEH	0	10	O	O	car	x	x	0
+O	0	11	O	O	after	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	've	x	x	0
+O	0	14	O	O	unlocked	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	door	x	x	0
+O	0	17	O	O	(	x	x	0
+O	0	18	O	O	which	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	can	x	x	0
+O	0	21	O	O	later	x	x	0
+O	0	22	O	O	claim	x	x	0
+O	0	23	O	O	was	x	x	0
+O	0	24	O	O	unlocked	x	x	0
+O	0	25	O	O	by	x	x	0
+B-PER	0	26	O	O	a	x	x	0
+I-PER	0	27	O	O	person	x	x	0
+I-PER	0	28	O	O	unknown	x	x	0
+O	0	29	O	O	)	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	case	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	offender	x	x	0
+O	0	5	O	O	escaped	x	x	0
+O	0	6	O	O	conviction	x	x	0
+O	0	7	O	O	first	x	x	0
+O	0	8	O	O	time	x	x	0
+O	0	9	O	O	around	x	x	0
+O	0	10	O	O	because	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	accepted	x	x	0
+O	0	14	O	O	that	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	attempted	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	get	x	x	0
+O	0	19	O	O	rid	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	keys	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	which	x	x	0
+O	0	25	O	O	supposedly	x	x	0
+O	0	26	O	O	landed	x	x	0
+O	0	27	O	O	in	x	x	0
+B-PER	0	28	O	O	his	x	x	0
+O	0	29	O	O	lap	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Judge	x	x	0
+O	0	1	O	O	McGill	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	right	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	law	x	x	0
+O	0	8	O	O	stands	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	H	x	x	0
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	trying	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	understand	x	x	0
+O	0	4	O	O	here	x	x	0
+O	0	5	O	O	...	x	x	0
+O	0	6	O	O	given	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	quote	x	x	0
+O	0	9	O	O	:	x	x	0
+O	0	10	O	O	"	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	had	x	x	0
+B-WEA	0	3	O	O	a	x	x	0
+I-WEA	0	4	O	O	pistol	x	x	0
+O	0	5	O	O	in	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	pocket	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	or	x	x	0
+B-WEA	0	10	O	O	a	x	x	0
+I-WEA	0	11	O	O	case	x	x	0
+I-WEA	0	12	O	O	of	x	x	0
+I-WEA	0	13	O	O	gelignite	x	x	0
+O	0	14	O	O	at	x	x	0
+B-PER	0	15	O	O	his	x	x	0
+O	0	16	O	O	feet	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	I	x	x	0
+O	0	19	O	O	'd	x	x	0
+O	0	20	O	O	guess	x	x	0
+O	0	21	O	O	that	x	x	0
+O	0	22	O	O	half	x	x	0
+B-PER	0	23	O	O	the	x	x	0
+I-PER	0	24	O	O	people	x	x	0
+I-PER	0	25	O	O	on	x	x	0
+I-PER	0	26	O	O	this	x	x	0
+I-PER	0	27	O	O	ng	x	x	0
+O	0	28	O	O	would	x	x	0
+O	0	29	O	O	be	x	x	0
+O	0	30	O	O	baying	x	x	0
+O	0	31	O	O	for	x	x	0
+B-PER	0	32	O	O	his	x	x	0
+O	0	33	O	O	hide	x	x	0
+O	0	34	O	O	....	x	x	0
+
+
+
+O	0	0	O	O	Where	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	fundamental	x	x	0
+O	0	4	O	O	difference	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	Same	x	x	0
+O	0	1	O	O	as	x	x	0
+O	0	2	O	O	if	x	x	0
+B-WEA	0	3	O	O	the	x	x	0
+I-WEA	0	4	O	O	pistol	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	safe	x	x	0
+O	0	9	O	O	and	x	x	0
+B-WEA	0	10	O	O	the	x	x	0
+I-WEA	0	11	O	O	gelly	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	locked	x	x	0
+O	0	14	O	O	in	x	x	0
+B-FAC	0	15	O	O	the	x	x	0
+I-FAC	0	16	O	O	shed	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	long	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	attempt	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	access	x	x	0
+B-WEA	0	9	O	O	either	x	x	0
+O	0	10	O	O	any	x	x	0
+O	0	11	O	O	charge	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	likely	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	stick	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	reminded	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	when	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	lived	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	another	x	x	0
+I-GPE	0	9	O	O	state	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	local	x	x	0
+I-PER	0	13	O	O	cop	x	x	0
+O	0	14	O	O	charged	x	x	0
+O	0	15	O	O	the	x	x	0
+B-GPE	0	16	O	O	town	x	x	0
+O	0	17	O	O	drunk	x	x	0
+O	0	18	O	O	in	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	driveway	x	x	0
+O	0	21	O	O	after	x	x	0
+O	0	22	O	O	following	x	x	0
+B-PER	0	23	O	O	him	x	x	0
+B-FAC	0	24	O	O	home	x	x	0
+O	0	25	O	O	from	x	x	0
+B-FAC	0	26	O	O	the	x	x	0
+I-FAC	0	27	O	O	pub	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	drunk	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	acquitted	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	technicality	x	x	0
+O	0	7	O	O	that	x	x	0
+B-PER	0	8	O	O	he	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	n't	x	x	0
+O	0	11	O	O	on	x	x	0
+B-FAC	0	12	O	O	a	x	x	0
+I-FAC	0	13	O	O	public	x	x	0
+I-FAC	0	14	O	O	road	x	x	0
+O	0	15	O	O	when	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	cop	x	x	0
+O	0	18	O	O	arrested	x	x	0
+B-PER	0	19	O	O	him	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Would	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	happened	x	x	0
+O	0	4	O	O	under	x	x	0
+B-GPE	0	5	O	O	Qld	x	x	0
+O	0	6	O	O	law	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	should	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	happened	x	x	0
+B-GPE	0	12	O	O	anywhere	x	x	0
+I-GPE	0	13	O	O	else	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-GPE	0	1	O	O	whose	x	x	0
+O	0	2	O	O	law	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	stupid	x	x	0
+O	0	5	O	O	?	x	x	0
+

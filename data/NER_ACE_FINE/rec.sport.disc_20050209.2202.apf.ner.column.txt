@@ -1,0 +1,1163 @@
+O	0	0	O	O	Hello	x	x	0
+B-PER	0	1	O	O	everyone	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	am	x	x	0
+O	0	4	O	O	attempting	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	learn	x	x	0
+O	0	7	O	O	more	x	x	0
+O	0	8	O	O	information	x	x	0
+O	0	9	O	O	about	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	policies	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	various	x	x	0
+O	0	14	O	O	athletic	x	x	0
+O	0	15	O	O	departments	x	x	0
+O	0	16	O	O	at	x	x	0
+B-ORG	0	17	O	O	schools	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	specifically	x	x	0
+O	0	20	O	O	with	x	x	0
+O	0	21	O	O	regards	x	x	0
+O	0	22	O	O	to	x	x	0
+B-ORG	0	23	O	O	ultimate	x	x	0
+I-ORG	0	24	O	O	teams	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-ORG	0	1	O	O	Northwestern	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	the	x	x	0
+B-PER	0	4	O	O	Men	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	Ultimate	x	x	0
+O	0	7	O	O	team	x	x	0
+O	0	8	O	O	falls	x	x	0
+O	0	9	O	O	under	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	Club	x	x	0
+O	0	12	O	O	Sports	x	x	0
+O	0	13	O	O	department	x	x	0
+B-ORG	0	14	O	O	which	x	x	0
+O	0	15	O	O	falls	x	x	0
+O	0	16	O	O	into	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	dark	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	barely	x	x	0
+O	0	21	O	O	lit	x	x	0
+O	0	22	O	O	corner	x	x	0
+O	0	23	O	O	of	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	Athletic	x	x	0
+I-ORG	0	26	O	O	Department	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	some	x	x	0
+O	0	3	O	O	restrictions	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	what	x	x	0
+B-ORG	0	6	O	O	we	x	x	0
+O	0	7	O	O	can	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	cannot	x	x	0
+O	0	10	O	O	do	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	am	x	x	0
+O	0	5	O	O	most	x	x	0
+O	0	6	O	O	interested	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	comparing	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	similar	x	x	0
+O	0	11	O	O	policies	x	x	0
+O	0	12	O	O	at	x	x	0
+B-ORG	0	13	O	O	other	x	x	0
+I-ORG	0	14	O	O	schools	x	x	0
+O	0	15	O	O	concerns	x	x	0
+B-ORG	0	16	O	O	our	x	x	0
+O	0	17	O	O	ability	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	travel	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-ORG	0	1	O	O	Northwestern	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	allowed	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	either	x	x	0
+O	0	8	O	O	rent	x	x	0
+B-ORG	0	9	O	O	school	x	x	0
+O	0	10	O	O	vans	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	charge	x	x	0
+O	0	14	O	O	or	x	x	0
+O	0	15	O	O	take	x	x	0
+B-ORG	0	16	O	O	our	x	x	0
+O	0	17	O	O	own	x	x	0
+O	0	18	O	O	vehicles	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	tournaments	x	x	0
+O	0	21	O	O	within	x	x	0
+O	0	22	O	O	300	x	x	0
+O	0	23	O	O	miles	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	Evanston	x	x	0
+O	0	26	O	O	,	x	x	0
+B-GPE	0	27	O	O	IL	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	allowed	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	fly	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	take	x	x	0
+B-VEH	0	9	O	O	a	x	x	0
+I-VEH	0	10	O	O	bus	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	or	x	x	0
+O	0	13	O	O	take	x	x	0
+B-VEH	0	14	O	O	Amtrak	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	any	x	x	0
+O	0	17	O	O	tournament	x	x	0
+B-ORG	0	18	O	O	we	x	x	0
+O	0	19	O	O	want	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	no	x	x	0
+O	0	22	O	O	matter	x	x	0
+O	0	23	O	O	how	x	x	0
+O	0	24	O	O	far	x	x	0
+O	0	25	O	O	away	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	is	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	allowed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	compete	x	x	0
+O	0	5	O	O	under	x	x	0
+O	0	6	O	O	the	x	x	0
+B-ORG	0	7	O	O	Northwestern	x	x	0
+O	0	8	O	O	name	x	x	0
+O	0	9	O	O	if	x	x	0
+B-ORG	0	10	O	O	we	x	x	0
+O	0	11	O	O	take	x	x	0
+O	0	12	O	O	any	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	these	x	x	0
+O	0	15	O	O	options	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	However	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	often	x	x	0
+O	0	4	O	O	occurs	x	x	0
+O	0	5	O	O	that	x	x	0
+B-ORG	0	6	O	O	we	x	x	0
+O	0	7	O	O	want	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	go	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	tournament	x	x	0
+O	0	13	O	O	farther	x	x	0
+O	0	14	O	O	than	x	x	0
+O	0	15	O	O	300	x	x	0
+O	0	16	O	O	miles	x	x	0
+O	0	17	O	O	without	x	x	0
+O	0	18	O	O	flying	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	For	x	x	0
+O	0	2	O	O	example	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	Regionals	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	often	x	x	0
+O	0	7	O	O	slightly	x	x	0
+O	0	8	O	O	farther	x	x	0
+O	0	9	O	O	than	x	x	0
+O	0	10	O	O	300	x	x	0
+O	0	11	O	O	miles	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	yet	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	reasonable	x	x	0
+O	0	16	O	O	drive	x	x	0
+O	0	17	O	O	.	x	x	0
+O	0	18	O	O	)	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-ORG	0	1	O	O	we	x	x	0
+O	0	2	O	O	choose	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	so	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	understood	x	x	0
+O	0	10	O	O	that	x	x	0
+B-ORG	0	11	O	O	we	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	officially	x	x	0
+O	0	15	O	O	competing	x	x	0
+O	0	16	O	O	under	x	x	0
+O	0	17	O	O	the	x	x	0
+B-ORG	0	18	O	O	Northwestern	x	x	0
+O	0	19	O	O	name	x	x	0
+B-ORG	0	20	O	O	we	x	x	0
+O	0	21	O	O	are	x	x	0
+O	0	22	O	O	just	x	x	0
+O	0	23	O	O	a	x	x	0
+O	0	24	O	O	group	x	x	0
+O	0	25	O	O	of	x	x	0
+B-PER	0	26	O	O	people	x	x	0
+O	0	27	O	O	playing	x	x	0
+O	0	28	O	O	ultimate	x	x	0
+O	0	29	O	O	at	x	x	0
+O	0	30	O	O	a	x	x	0
+O	0	31	O	O	tournament	x	x	0
+O	0	32	O	O	and	x	x	0
+O	0	33	O	O	not	x	x	0
+O	0	34	O	O	involving	x	x	0
+B-ORG	0	35	O	O	the	x	x	0
+I-ORG	0	36	O	O	university	x	x	0
+O	0	37	O	O	in	x	x	0
+O	0	38	O	O	any	x	x	0
+O	0	39	O	O	way	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+O	0	1	O	O	any	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	other	x	x	0
+B-ORG	0	5	O	O	college	x	x	0
+O	0	6	O	O	players	x	x	0
+O	0	7	O	O	face	x	x	0
+O	0	8	O	O	similar	x	x	0
+O	0	9	O	O	restrictions	x	x	0
+O	0	10	O	O	in	x	x	0
+B-PER	0	11	O	O	your	x	x	0
+O	0	12	O	O	travel	x	x	0
+O	0	13	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	are	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	schools	x	x	0
+O	0	4	O	O	'	x	x	0
+O	0	5	O	O	policies	x	x	0
+O	0	6	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	interested	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	both	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	responses	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	players	x	x	0
+O	0	9	O	O	at	x	x	0
+B-ORG	0	10	O	O	public	x	x	0
+I-ORG	0	11	O	O	and	x	x	0
+I-ORG	0	12	O	O	private	x	x	0
+I-ORG	0	13	O	O	schools	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Feel	x	x	0
+O	0	1	O	O	free	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	email	x	x	0
+B-PER	0	4	O	O	me	x	x	0
+O	0	5	O	O	if	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	want	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	post	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	forum	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	for	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	help	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Cesa	x	x	0
+B-ORG	0	1	O	O	Northwestern	x	x	0
+B-Contact-Info	0	2	O	O	d-c	x	x	0
+I-Contact-Info	0	3	O	O	...	x	x	0
+I-Contact-Info	0	4	O	O	@	x	x	0
+I-Contact-Info	0	5	O	O	northwestern.edu	x	x	0
+
+O	0	0	O	O	Man	x	x	0
+O	0	1	O	O	...	x	x	0
+B-ORG	0	2	O	O	you	x	x	0
+O	0	3	O	O	guys	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	so	x	x	0
+O	0	7	O	O	sweet	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Pitt	x	x	0
+O	0	1	O	O	gets	x	x	0
+B-Numeric	0	2	O	O	$2000	x	x	0
+O	0	3	O	O	/	x	x	0
+B-TIME	0	4	O	O	year	x	x	0
+O	0	5	O	O	towards	x	x	0
+O	0	6	O	O	competition	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	means	x	x	0
+O	0	2	O	O	bids	x	x	0
+O	0	3	O	O	,	x	x	0
+B-FAC	0	4	O	O	hotel	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	transportation	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	jerseys	x	x	0
+O	0	9	O	O	(	x	x	0
+B-PER	0	10	O	O	I	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	mention	x	x	0
+O	0	15	O	O	,	x	x	0
+B-ORG	0	16	O	O	our	x	x	0
+O	0	17	O	O	jerseys	x	x	0
+B-TIME	0	18	O	O	this	x	x	0
+I-TIME	0	19	O	O	year	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	hot	x	x	0
+O	0	22	O	O	)	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	doesnt	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	very	x	x	0
+O	0	4	O	O	far	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	thats	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	hard	x	x	0
+O	0	10	O	O	cap	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	anything	x	x	0
+O	0	13	O	O	related	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	competition	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	all	x	x	0
+O	0	18	O	O	competetive	x	x	0
+B-ORG	0	19	O	O	club	x	x	0
+O	0	20	O	O	sports	x	x	0
+O	0	21	O	O	teams	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Next	x	x	0
+I-TIME	0	1	O	O	year	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	budgeting	x	x	0
+B-ORG	0	6	O	O	our	x	x	0
+O	0	7	O	O	jerseys	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	practice	x	x	0
+O	0	11	O	O	jerseys	x	x	0
+O	0	12	O	O	"	x	x	0
+O	0	13	O	O	however	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	so	x	x	0
+B-ORG	0	16	O	O	we	x	x	0
+O	0	17	O	O	hope	x	x	0
+O	0	18	O	O	they	x	x	0
+O	0	19	O	O	'll	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	paid	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	point	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	,	x	x	0
+B-Numeric	0	4	O	O	$2k	x	x	0
+O	0	5	O	O	gets	x	x	0
+B-ORG	0	6	O	O	us	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	tournament	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	half	x	x	0
+O	0	14	O	O	using	x	x	0
+B-ORG	0	15	O	O	University	x	x	0
+O	0	16	O	O	transportation	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	dont	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	playing	x	x	0
+O	0	5	O	O	officially	x	x	0
+O	0	6	O	O	under	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	university	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	name	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	or	x	x	0
+O	0	13	O	O	why	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	matters	x	x	0
+O	0	16	O	O	really	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	long	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	registrar	x	x	0
+O	0	5	O	O	signs	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	roster	x	x	0
+O	0	10	O	O	for	x	x	0
+B-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	UPA	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	doesnt	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	importance	x	x	0
+O	0	17	O	O	of	x	x	0
+B-ORG	0	18	O	O	University	x	x	0
+O	0	19	O	O	affiliation	x	x	0
+O	0	20	O	O	become	x	x	0
+O	0	21	O	O	moot	x	x	0
+O	0	22	O	O	?	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	should	x	x	0
+O	0	2	O	O	clarify	x	x	0
+O	0	3	O	O	that	x	x	0
+B-ORG	0	4	O	O	NU	x	x	0
+O	0	5	O	O	does	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	specifically	x	x	0
+O	0	8	O	O	pay	x	x	0
+O	0	9	O	O	for	x	x	0
+B-ORG	0	10	O	O	us	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	fly	x	x	0
+B-ORG	0	13	O	O	we	x	x	0
+O	0	14	O	O	get	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	budget	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	well	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	pay	x	x	0
+O	0	2	O	O	for	x	x	0
+B-ORG	0	3	O	O	our	x	x	0
+O	0	4	O	O	flights	x	x	0
+O	0	5	O	O	/	x	x	0
+O	0	6	O	O	rental	x	x	0
+O	0	7	O	O	cars	x	x	0
+O	0	8	O	O	out	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	pocket	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	specifically	x	x	0
+O	0	3	O	O	interested	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	driving	x	x	0
+O	0	8	O	O	radius	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	as	x	x	0
+B-ORG	0	12	O	O	we	x	x	0
+O	0	13	O	O	call	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	is	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	school	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	matters	x	x	0
+O	0	2	O	O	for	x	x	0
+O	0	3	O	O	liability	x	x	0
+O	0	4	O	O	questions	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Cesa	x	x	0
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	SUNY	x	x	0
+O	0	2	O	O	Albany	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	NY	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	as	x	x	0
+B-ORG	0	8	O	O	state	x	x	0
+O	0	9	O	O	school	x	x	0
+O	0	10	O	O	as	x	x	0
+B-PER	0	11	O	O	you	x	x	0
+O	0	12	O	O	can	x	x	0
+O	0	13	O	O	get	x	x	0
+O	0	14	O	O	,	x	x	0
+B-ORG	0	15	O	O	we	x	x	0
+O	0	16	O	O	get	x	x	0
+O	0	17	O	O	about	x	x	0
+O	0	18	O	O	500	x	x	0
+O	0	19	O	O	less	x	x	0
+O	0	20	O	O	than	x	x	0
+O	0	21	O	O	what	x	x	0
+B-PER	0	22	O	O	you	x	x	0
+O	0	23	O	O	're	x	x	0
+O	0	24	O	O	talking	x	x	0
+O	0	25	O	O	about	x	x	0
+O	0	26	O	O	at	x	x	0
+B-ORG	0	27	O	O	Pitt	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	school	x	x	0
+O	0	2	O	O	does	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	really	x	x	0
+O	0	5	O	O	care	x	x	0
+O	0	6	O	O	what	x	x	0
+B-ORG	0	7	O	O	we	x	x	0
+O	0	8	O	O	do	x	x	0
+O	0	9	O	O	at	x	x	0
+O	0	10	O	O	tournaments	x	x	0
+O	0	11	O	O	or	x	x	0
+O	0	12	O	O	how	x	x	0
+O	0	13	O	O	far	x	x	0
+O	0	14	O	O	away	x	x	0
+B-ORG	0	15	O	O	we	x	x	0
+O	0	16	O	O	are	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	take	x	x	0
+B-ORG	0	2	O	O	our	x	x	0
+O	0	3	O	O	own	x	x	0
+O	0	4	O	O	cars	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	every	x	x	0
+O	0	7	O	O	tournament	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	even	x	x	0
+O	0	10	O	O	ones	x	x	0
+O	0	11	O	O	down	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Maryland	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	money	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	get	x	x	0
+O	0	4	O	O	from	x	x	0
+B-ORG	0	5	O	O	our	x	x	0
+B-PER	0	6	O	O	student	x	x	0
+O	0	7	O	O	association	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	pay	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	jerseys	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	supposed	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	help	x	x	0
+B-ORG	0	18	O	O	us	x	x	0
+O	0	19	O	O	with	x	x	0
+O	0	20	O	O	tournaments	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	etc	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Every	x	x	0
+O	0	1	O	O	tournament	x	x	0
+B-ORG	0	2	O	O	our	x	x	0
+O	0	3	O	O	team	x	x	0
+O	0	4	O	O	goes	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	,	x	x	0
+B-ORG	0	7	O	O	we	x	x	0
+O	0	8	O	O	each	x	x	0
+O	0	9	O	O	pay	x	x	0
+B-Numeric	0	10	O	O	10-20	x	x	0
+I-Numeric	0	11	O	O	bucks	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	pocket	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-ORG	0	1	O	O	you	x	x	0
+O	0	2	O	O	are	x	x	0
+B-ORG	0	3	O	O	an	x	x	0
+I-ORG	0	4	O	O	ultimate	x	x	0
+I-ORG	0	5	O	O	frisbee	x	x	0
+I-ORG	0	6	O	O	team	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	sleeping	x	x	0
+O	0	9	O	O	in	x	x	0
+B-FAC	0	10	O	O	hotels	x	x	0
+O	0	11	O	O	...	x	x	0
+O	0	12	O	O	consider	x	x	0
+B-ORG	0	13	O	O	yourself	x	x	0
+O	0	14	O	O	as	x	x	0
+O	0	15	O	O	spoiled	x	x	0
+O	0	16	O	O	as	x	x	0
+B-ORG	0	17	O	O	an	x	x	0
+I-ORG	0	18	O	O	ultimate	x	x	0
+I-ORG	0	19	O	O	team	x	x	0
+O	0	20	O	O	gets	x	x	0
+O	0	21	O	O	in	x	x	0
+B-PER	0	22	O	O	my	x	x	0
+O	0	23	O	O	opinion	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	gotta	x	x	0
+O	0	2	O	O	learn	x	x	0
+O	0	3	O	O	how	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	save	x	x	0
+O	0	6	O	O	money	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Most	x	x	0
+O	0	1	O	O	tournaments	x	x	0
+O	0	2	O	O	will	x	x	0
+O	0	3	O	O	house	x	x	0
+B-ORG	0	4	O	O	you	x	x	0
+O	0	5	O	O	if	x	x	0
+B-ORG	0	6	O	O	you	x	x	0
+O	0	7	O	O	ask	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	explain	x	x	0
+B-ORG	0	10	O	O	your	x	x	0
+O	0	11	O	O	situation	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-ORG	0	1	O	O	we	x	x	0
+O	0	2	O	O	ca	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	housing	x	x	0
+O	0	6	O	O	,	x	x	0
+B-ORG	0	7	O	O	we	x	x	0
+O	0	8	O	O	camp	x	x	0
+O	0	9	O	O	out	x	x	0
+O	0	10	O	O	somewhere	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+B-FAC	0	1	O	O	Binghamton	x	x	0
+B-TIME	0	2	O	O	this	x	x	0
+I-TIME	0	3	O	O	year	x	x	0
+B-ORG	0	4	O	O	we	x	x	0
+O	0	5	O	O	threw	x	x	0
+O	0	6	O	O	up	x	x	0
+B-FAC	0	7	O	O	a	x	x	0
+I-FAC	0	8	O	O	tent	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	high	x	x	0
+O	0	12	O	O	jump	x	x	0
+O	0	13	O	O	mat	x	x	0
+O	0	14	O	O	(	x	x	0
+O	0	15	O	O	which	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	must	x	x	0
+O	0	18	O	O	say	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	very	x	x	0
+O	0	21	O	O	comfortable	x	x	0
+O	0	22	O	O	)	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Regionals	x	x	0
+B-TIME	0	1	O	O	2	x	x	0
+I-TIME	0	2	O	O	years	x	x	0
+I-TIME	0	3	O	O	ago	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	our	x	x	0
+O	0	6	O	O	team	x	x	0
+O	0	7	O	O	and	x	x	0
+B-ORG	0	8	O	O	about	x	x	0
+I-ORG	0	9	O	O	7	x	x	0
+I-ORG	0	10	O	O	others	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	afford	x	x	0
+O	0	14	O	O	housing	x	x	0
+O	0	15	O	O	at	x	x	0
+B-FAC	0	16	O	O	Princeton	x	x	0
+O	0	17	O	O	so	x	x	0
+B-ORG	0	18	O	O	we	x	x	0
+O	0	19	O	O	camped	x	x	0
+O	0	20	O	O	way	x	x	0
+O	0	21	O	O	way	x	x	0
+O	0	22	O	O	out	x	x	0
+O	0	23	O	O	back	x	x	0
+O	0	24	O	O	on	x	x	0
+B-LOC	0	25	O	O	the	x	x	0
+I-LOC	0	26	O	O	fields	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	hung	x	x	0
+O	0	29	O	O	out	x	x	0
+B-TIME	0	30	O	O	all	x	x	0
+I-TIME	0	31	O	O	night	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+B-ORG	0	1	O	O	you	x	x	0
+B-ORG	0	2	O	O	northwestern	x	x	0
+O	0	3	O	O	guys	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	you	x	x	0
+O	0	6	O	O	really	x	x	0
+O	0	7	O	O	need	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	get	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	touch	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	someone	x	x	0
+O	0	14	O	O	at	x	x	0
+B-ORG	0	15	O	O	your	x	x	0
+O	0	16	O	O	school	x	x	0
+B-PER	0	17	O	O	that	x	x	0
+O	0	18	O	O	will	x	x	0
+O	0	19	O	O	listen	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Our	x	x	0
+O	0	1	O	O	school	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	like	x	x	0
+B-ORG	0	5	O	O	us	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	long	x	x	0
+O	0	9	O	O	time	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+B-ORG	0	12	O	O	we	x	x	0
+O	0	13	O	O	behaved	x	x	0
+B-ORG	0	14	O	O	ourselves	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	very	x	x	0
+O	0	18	O	O	respectfully	x	x	0
+O	0	19	O	O	approached	x	x	0
+B-PER	0	20	O	O	various	x	x	0
+I-PER	0	21	O	O	people	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	working	x	x	0
+B-ORG	0	24	O	O	our	x	x	0
+O	0	25	O	O	way	x	x	0
+O	0	26	O	O	up	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	ladder	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	about	x	x	0
+O	0	31	O	O	changing	x	x	0
+O	0	32	O	O	some	x	x	0
+O	0	33	O	O	policies	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Start	x	x	0
+O	0	1	O	O	off	x	x	0
+O	0	2	O	O	low	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	work	x	x	0
+B-ORG	0	6	O	O	your	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	up	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Explain	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	them	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	if	x	x	0
+B-ORG	0	5	O	O	you	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	driving	x	x	0
+B-ORG	0	8	O	O	your	x	x	0
+O	0	9	O	O	own	x	x	0
+O	0	10	O	O	cars	x	x	0
+O	0	11	O	O	,	x	x	0
+B-ORG	0	12	O	O	you	x	x	0
+O	0	13	O	O	should	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	able	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	go	x	x	0
+O	0	18	O	O	wherever	x	x	0
+B-ORG	0	19	O	O	you	x	x	0
+O	0	20	O	O	want	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	even	x	x	0
+O	0	24	O	O	throw	x	x	0
+O	0	25	O	O	in	x	x	0
+O	0	26	O	O	there	x	x	0
+O	0	27	O	O	if	x	x	0
+O	0	28	O	O	for	x	x	0
+O	0	29	O	O	any	x	x	0
+O	0	30	O	O	reason	x	x	0
+B-ORG	0	31	O	O	you	x	x	0
+O	0	32	O	O	bring	x	x	0
+O	0	33	O	O	shame	x	x	0
+O	0	34	O	O	to	x	x	0
+B-ORG	0	35	O	O	the	x	x	0
+I-ORG	0	36	O	O	university	x	x	0
+O	0	37	O	O	,	x	x	0
+B-ORG	0	38	O	O	you	x	x	0
+O	0	39	O	O	will	x	x	0
+O	0	40	O	O	go	x	x	0
+O	0	41	O	O	right	x	x	0
+O	0	42	O	O	back	x	x	0
+O	0	43	O	O	to	x	x	0
+O	0	44	O	O	the	x	x	0
+O	0	45	O	O	old	x	x	0
+O	0	46	O	O	policy	x	x	0
+O	0	47	O	O	no	x	x	0
+O	0	48	O	O	questions	x	x	0
+O	0	49	O	O	asked	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	often	x	x	0
+O	0	2	O	O	do	x	x	0
+B-ORG	0	3	O	O	you	x	x	0
+O	0	4	O	O	go	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	tournament	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	whatever	x	x	0
+O	0	10	O	O	happens	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	gets	x	x	0
+O	0	13	O	O	back	x	x	0
+O	0	14	O	O	to	x	x	0
+B-PER	0	15	O	O	administration	x	x	0
+O	0	16	O	O	?	x	x	0
+O	0	17	O	O	pretty	x	x	0
+O	0	18	O	O	much	x	x	0
+O	0	19	O	O	never	x	x	0
+O	0	20	O	O	so	x	x	0
+B-ORG	0	21	O	O	your	x	x	0
+O	0	22	O	O	safe	x	x	0
+O	0	23	O	O	with	x	x	0
+O	0	24	O	O	that	x	x	0
+O	0	25	O	O	offer	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Another	x	x	0
+O	0	1	O	O	thing	x	x	0
+B-ORG	0	2	O	O	we	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	lot	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	fundraisers	x	x	0
+O	0	10	O	O	on	x	x	0
+B-FAC	0	11	O	O	campus	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	entered	x	x	0
+O	0	14	O	O	banner	x	x	0
+O	0	15	O	O	contests	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	sporting	x	x	0
+O	0	18	O	O	events	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	etc	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Once	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	school	x	x	0
+O	0	3	O	O	saw	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	unlike	x	x	0
+B-ORG	0	6	O	O	a	x	x	0
+I-ORG	0	7	O	O	lot	x	x	0
+I-ORG	0	8	O	O	of	x	x	0
+I-ORG	0	9	O	O	clubs	x	x	0
+O	0	10	O	O	,	x	x	0
+B-ORG	0	11	O	O	we	x	x	0
+O	0	12	O	O	were	x	x	0
+O	0	13	O	O	busting	x	x	0
+B-ORG	0	14	O	O	our	x	x	0
+O	0	15	O	O	asses	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	fundraise	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	get	x	x	0
+O	0	20	O	O	involved	x	x	0
+O	0	21	O	O	with	x	x	0
+B-ORG	0	22	O	O	school	x	x	0
+O	0	23	O	O	activities	x	x	0
+O	0	24	O	O	,	x	x	0
+B-ORG	0	25	O	O	their	x	x	0
+O	0	26	O	O	whole	x	x	0
+O	0	27	O	O	attitude	x	x	0
+O	0	28	O	O	towards	x	x	0
+B-ORG	0	29	O	O	us	x	x	0
+O	0	30	O	O	changed	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Sell	x	x	0
+O	0	1	O	O	discs	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	sell	x	x	0
+O	0	4	O	O	pint	x	x	0
+O	0	5	O	O	glasses	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	then	x	x	0
+O	0	8	O	O	go	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	someone	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	more	x	x	0
+I-PER	0	13	O	O	than	x	x	0
+I-PER	0	14	O	O	one	x	x	0
+I-PER	0	15	O	O	person	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	show	x	x	0
+B-PER	0	19	O	O	them	x	x	0
+O	0	20	O	O	what	x	x	0
+O	0	21	O	O	kind	x	x	0
+O	0	22	O	O	of	x	x	0
+O	0	23	O	O	effort	x	x	0
+B-ORG	0	24	O	O	you	x	x	0
+O	0	25	O	O	are	x	x	0
+O	0	26	O	O	putting	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	lot	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	school	x	x	0
+O	0	4	O	O	officials	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	understand	x	x	0
+O	0	8	O	O	how	x	x	0
+O	0	9	O	O	structured	x	x	0
+O	0	10	O	O	ultimate	x	x	0
+O	0	11	O	O	actually	x	x	0
+O	0	12	O	O	is	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Go	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	and	x	x	0
+O	0	3	O	O	explain	x	x	0
+O	0	4	O	O	to	x	x	0
+B-PER	0	5	O	O	them	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	Regionals	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	just	x	x	0
+O	0	10	O	O	being	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	little	x	x	0
+O	0	13	O	O	"	x	x	0
+O	0	14	O	O	get	x	x	0
+O	0	15	O	O	together	x	x	0
+O	0	16	O	O	"	x	x	0
+O	0	17	O	O	but	x	x	0
+O	0	18	O	O	actually	x	x	0
+O	0	19	O	O	be	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	championship	x	x	0
+O	0	22	O	O	series	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Hope	x	x	0
+B-PER	0	1	O	O	my	x	x	0
+O	0	2	O	O	rambling	x	x	0
+O	0	3	O	O	gave	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	ideas	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	might	x	x	0
+O	0	9	O	O	work	x	x	0
+O	0	10	O	O	~	x	x	0
+B-PER	0	11	O	O	Squirrel	x	x	0
+O	0	12	O	O	PS	x	x	0
+O	0	13	O	O	CLIPBOARD	x	x	0
+B-TIME	0	14	O	O	NOW	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	SEAN	x	x	0
+O	0	17	O	O	FOR	x	x	0
+B-TIME	0	18	O	O	THE	x	x	0
+I-TIME	0	19	O	O	FUTURE	x	x	0
+O	0	20	O	O	!!!!!!!!!!!	x	x	0
+

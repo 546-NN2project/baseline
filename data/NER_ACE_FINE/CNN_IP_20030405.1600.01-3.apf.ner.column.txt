@@ -1,0 +1,418 @@
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	very	x	x	0
+O	0	2	O	O	much	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	An	x	x	0
+O	0	1	O	O	investigation	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	under	x	x	0
+O	0	4	O	O	way	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	makeshift	x	x	0
+O	0	8	O	O	morgue	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	southern	x	x	0
+I-LOC	0	11	O	O	Iraq	x	x	0
+O	0	12	O	O	after	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	gruesome	x	x	0
+O	0	15	O	O	discovery	x	x	0
+O	0	16	O	O	by	x	x	0
+O	0	17	O	O	some	x	x	0
+B-GPE	0	18	O	O	British	x	x	0
+O	0	19	O	O	troops	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Tim	x	x	0
+O	0	1	O	O	Ewart	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	ITN	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	reports	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	evidence	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	atrocities	x	x	0
+O	0	10	O	O	at	x	x	0
+O	0	11	O	O	an	x	x	0
+O	0	12	O	O	abandoned	x	x	0
+B-GPE	0	13	O	O	Iraqi	x	x	0
+O	0	14	O	O	military	x	x	0
+O	0	15	O	O	base	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	discovery	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	horrified	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	soldiers	x	x	0
+B-PER	0	8	O	O	who	x	x	0
+O	0	9	O	O	made	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	remains	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	hundreds	x	x	0
+I-PER	0	4	O	O	of	x	x	0
+I-PER	0	5	O	O	men	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	found	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	plastic	x	x	0
+O	0	10	O	O	bags	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	Unsealed	x	x	0
+O	0	13	O	O	hard-board	x	x	0
+O	0	14	O	O	coffins	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	British	x	x	0
+O	0	1	O	O	troops	x	x	0
+O	0	2	O	O	found	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	bodies	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	abandoned	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	military	x	x	0
+O	0	10	O	O	base	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	outskirts	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Azubayr	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	evidence	x	x	0
+O	0	2	O	O	suggested	x	x	0
+B-FAC	0	3	O	O	it	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	scene	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	appalling	x	x	0
+O	0	9	O	O	atrocities	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	teeth	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	many	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	skulls	x	x	0
+O	0	7	O	O	had	x	x	0
+O	0	8	O	O	been	x	x	0
+O	0	9	O	O	broken	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	bones	x	x	0
+O	0	13	O	O	appeared	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	be	x	x	0
+O	0	16	O	O	wrapped	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	strips	x	x	0
+O	0	19	O	O	of	x	x	0
+B-ORG	0	20	O	O	military	x	x	0
+O	0	21	O	O	uniform	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	clear	x	x	0
+O	0	4	O	O	how	x	x	0
+O	0	5	O	O	long	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	bodies	x	x	0
+O	0	8	O	O	had	x	x	0
+O	0	9	O	O	lain	x	x	0
+B-FAC	0	10	O	O	here	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	but	x	x	0
+B-PER	0	13	O	O	they	x	x	0
+O	0	14	O	O	were	x	x	0
+O	0	15	O	O	clearly	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	from	x	x	0
+O	0	18	O	O	this	x	x	0
+O	0	19	O	O	war	x	x	0
+O	0	20	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	come	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	expect	x	x	0
+O	0	4	O	O	everything	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	war	x	x	0
+O	0	7	O	O	fighting	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	coffins	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	bit	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	surprise	x	x	0
+O	0	8	O	O	when	x	x	0
+B-PER	0	9	O	O	I	x	x	0
+O	0	10	O	O	discovered	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	bags	x	x	0
+O	0	13	O	O	with	x	x	0
+O	0	14	O	O	the	x	x	0
+B-PER	0	15	O	O	human	x	x	0
+O	0	16	O	O	remains	x	x	0
+O	0	17	O	O	inside	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	Inside	x	x	0
+B-FAC	0	1	O	O	a	x	x	0
+I-FAC	0	2	O	O	neighboring	x	x	0
+I-FAC	0	3	O	O	building	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	there	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	evidence	x	x	0
+O	0	8	O	O	of	x	x	0
+B-FAC	0	9	O	O	cells	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	catalog	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	photographs	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	dead	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Most	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	died	x	x	0
+O	0	3	O	O	from	x	x	0
+O	0	4	O	O	gunshot	x	x	0
+O	0	5	O	O	wounds	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	head	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Others	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	mutilated	x	x	0
+O	0	3	O	O	beyond	x	x	0
+O	0	4	O	O	recognition	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	faces	x	x	0
+O	0	8	O	O	burned	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	swollen	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Outside	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	soldiers	x	x	0
+O	0	3	O	O	discovered	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	described	x	x	0
+O	0	7	O	O	as	x	x	0
+B-FAC	0	8	O	O	a	x	x	0
+I-FAC	0	9	O	O	purpose	x	x	0
+I-FAC	0	10	O	O	built	x	x	0
+I-FAC	0	11	O	O	shooting	x	x	0
+I-FAC	0	12	O	O	gallery	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	brickwork	x	x	0
+O	0	16	O	O	behind	x	x	0
+B-FAC	0	17	O	O	it	x	x	0
+O	0	18	O	O	riddled	x	x	0
+O	0	19	O	O	with	x	x	0
+B-WEA	0	20	O	O	bullets	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Identity	x	x	0
+O	0	1	O	O	cards	x	x	0
+O	0	2	O	O	revealed	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	names	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	some	x	x	0
+I-PER	0	7	O	O	of	x	x	0
+I-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	dead	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Forensic	x	x	0
+I-PER	0	1	O	O	specialists	x	x	0
+O	0	2	O	O	will	x	x	0
+B-TIME	0	3	O	O	now	x	x	0
+O	0	4	O	O	visit	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	scene	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	hope	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	establish	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	truth	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	what	x	x	0
+O	0	15	O	O	happened	x	x	0
+B-FAC	0	16	O	O	here	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	when	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-TIME	0	5	O	O	Today	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	discovery	x	x	0
+O	0	8	O	O	seems	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	provide	x	x	0
+O	0	11	O	O	shocking	x	x	0
+O	0	12	O	O	evidence	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	atrocities	x	x	0
+O	0	15	O	O	under	x	x	0
+B-PER	0	16	O	O	Saddam	x	x	0
+I-PER	0	17	O	O	Hussein	x	x	0
+O	0	18	O	O	's	x	x	0
+O	0	19	O	O	regime	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Most	x	x	0
+I-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	afraid	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	talk	x	x	0
+O	0	6	O	O	openly	x	x	0
+O	0	7	O	O	about	x	x	0
+O	0	8	O	O	what	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	been	x	x	0
+O	0	11	O	O	happening	x	x	0
+O	0	12	O	O	here	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	when	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	British	x	x	0
+O	0	6	O	O	soldiers	x	x	0
+O	0	7	O	O	believe	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	more	x	x	0
+O	0	10	O	O	horrors	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	come	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	light	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Tim	x	x	0
+I-PER	0	1	O	O	Ewart	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	ITV	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Azubayr	x	x	0
+O	0	7	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	from	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	gruesome	x	x	0
+O	0	5	O	O	finding	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	dangerous	x	x	0
+O	0	9	O	O	one	x	x	0
+O	0	10	O	O	in	x	x	0
+B-LOC	0	11	O	O	central	x	x	0
+I-LOC	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	troops	x	x	0
+O	0	2	O	O	work	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	clear	x	x	0
+B-LOC	0	5	O	O	that	x	x	0
+I-LOC	0	6	O	O	area	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	weapons	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	coming	x	x	0
+O	0	12	O	O	up	x	x	0
+O	0	13	O	O	.	x	x	0
+

@@ -1,0 +1,145 @@
+B-PER	0	0	O	O	Dog	x	x	0
+I-PER	0	1	O	O	Chapman	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	same	x	x	0
+O	0	6	O	O	truck	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	saw	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	At	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	point	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+B-GPE	0	5	O	O	Mexican	x	x	0
+O	0	6	O	O	police	x	x	0
+O	0	7	O	O	busted	x	x	0
+O	0	8	O	O	both	x	x	0
+B-PER	0	9	O	O	Andrew	x	x	0
+I-PER	0	10	O	O	Luster	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	Dwayne	x	x	0
+I-PER	0	13	O	O	Dog	x	x	0
+I-PER	0	14	O	O	Chapman	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	because	x	x	0
+B-PER	0	17	O	O	they	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	n't	x	x	0
+O	0	20	O	O	like	x	x	0
+B-PER	0	21	O	O	bounty	x	x	0
+I-PER	0	22	O	O	hunters	x	x	0
+O	0	23	O	O	in	x	x	0
+B-GPE	0	24	O	O	Mexico	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Chapman	x	x	0
+O	0	1	O	O	remains	x	x	0
+O	0	2	O	O	behind	x	x	0
+O	0	3	O	O	bars	x	x	0
+O	0	4	O	O	as	x	x	0
+B-ORG	0	5	O	O	we	x	x	0
+O	0	6	O	O	speak	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	Mexico	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Andrew	x	x	0
+I-PER	0	1	O	O	Luster	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	though	x	x	0
+O	0	4	O	O	arrived	x	x	0
+B-TIME	0	5	O	O	yesterday	x	x	0
+O	0	6	O	O	at	x	x	0
+B-FAC	0	7	O	O	Los	x	x	0
+I-FAC	0	8	O	O	Angeles	x	x	0
+I-FAC	0	9	O	O	International	x	x	0
+I-FAC	0	10	O	O	Airport	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	commercial	x	x	0
+O	0	14	O	O	flight	x	x	0
+O	0	15	O	O	from	x	x	0
+B-GPE	0	16	O	O	Mexico	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	soon	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	arrived	x	x	0
+O	0	5	O	O	thoom	x	x	0
+O	0	6	O	O	being	x	x	0
+O	0	7	O	O	walked	x	x	0
+O	0	8	O	O	by	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	FBI	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	van	x	x	0
+O	0	14	O	O	belonging	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	the	x	x	0
+B-GPE	0	17	O	O	Ventura	x	x	0
+I-GPE	0	18	O	O	County	x	x	0
+O	0	19	O	O	Sheriff	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	folks	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	taken	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	prison	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	Kearn	x	x	0
+O	0	8	O	O	County	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	California	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	about	x	x	0
+O	0	13	O	O	100	x	x	0
+O	0	14	O	O	miles	x	x	0
+O	0	15	O	O	from	x	x	0
+B-GPE	0	16	O	O	Los	x	x	0
+I-GPE	0	17	O	O	Angeles	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	place	x	x	0
+O	0	21	O	O	mostly	x	x	0
+O	0	22	O	O	known	x	x	0
+O	0	23	O	O	for	x	x	0
+B-GPE	0	24	O	O	its	x	x	0
+O	0	25	O	O	grapes	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Make	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	what	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	May	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Heidi	x	x	0
+O	0	1	O	O	?	x	x	0
+

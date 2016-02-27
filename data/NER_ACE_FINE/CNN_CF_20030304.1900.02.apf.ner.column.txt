@@ -1,0 +1,1750 @@
+O	0	0	O	O	Welcome	x	x	0
+O	0	1	O	O	back	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Both	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	AMA	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	the	x	x	0
+B-PER	0	5	O	O	Bush	x	x	0
+O	0	6	O	O	administration	x	x	0
+O	0	7	O	O	released	x	x	0
+O	0	8	O	O	reports	x	x	0
+B-TIME	0	9	O	O	this	x	x	0
+I-TIME	0	10	O	O	week	x	x	0
+O	0	11	O	O	saying	x	x	0
+B-PER	0	12	O	O	out	x	x	0
+I-PER	0	13	O	O	of	x	x	0
+I-PER	0	14	O	O	control	x	x	0
+I-PER	0	15	O	O	trial	x	x	0
+I-PER	0	16	O	O	lawyers	x	x	0
+O	0	17	O	O	are	x	x	0
+O	0	18	O	O	driving	x	x	0
+B-PER	0	19	O	O	doctors	x	x	0
+O	0	20	O	O	out	x	x	0
+O	0	21	O	O	of	x	x	0
+B-PER	0	22	O	O	their	x	x	0
+O	0	23	O	O	practices	x	x	0
+O	0	24	O	O	all	x	x	0
+O	0	25	O	O	across	x	x	0
+B-GPE	0	26	O	O	the	x	x	0
+I-GPE	0	27	O	O	country	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	President	x	x	0
+O	0	1	O	O	Bush	x	x	0
+O	0	2	O	O	points	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	way	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	even	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	most	x	x	0
+O	0	10	O	O	frivolous	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	lawsuits	x	x	0
+O	0	13	O	O	cost	x	x	0
+O	0	14	O	O	money	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	premiums	x	x	0
+O	0	17	O	O	go	x	x	0
+O	0	18	O	O	up	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	either	x	x	0
+O	0	21	O	O	way	x	x	0
+O	0	22	O	O	,	x	x	0
+B-PER	0	23	O	O	the	x	x	0
+I-PER	0	24	O	O	patient	x	x	0
+O	0	25	O	O	pays	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	debating	x	x	0
+O	0	3	O	O	malpractice	x	x	0
+O	0	4	O	O	reform	x	x	0
+O	0	5	O	O	with	x	x	0
+B-PER	0	6	O	O	consumer	x	x	0
+O	0	7	O	O	advocate	x	x	0
+O	0	8	O	O	Ralph	x	x	0
+O	0	9	O	O	Nader	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+B-ORG	0	12	O	O	AMA	x	x	0
+O	0	13	O	O	President-Elect	x	x	0
+B-PER	0	14	O	O	Dr.	x	x	0
+O	0	15	O	O	Ronald	x	x	0
+O	0	16	O	O	Palmisano	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Dr.	x	x	0
+O	0	1	O	O	Palmisano	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	again	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	thanks	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	staying	x	x	0
+O	0	8	O	O	with	x	x	0
+B-PER	0	9	O	O	us	x	x	0
+O	0	10	O	O	through	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	break	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	set	x	x	0
+O	0	3	O	O	aside	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	hypocrisy	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	man	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	became	x	x	0
+B-PER	0	11	O	O	president	x	x	0
+O	0	12	O	O	because	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	lawsuit	x	x	0
+O	0	16	O	O	trying	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	eliminate	x	x	0
+B-PER	0	19	O	O	everybody	x	x	0
+I-PER	0	20	O	O	else	x	x	0
+O	0	21	O	O	's	x	x	0
+O	0	22	O	O	lawsuits	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	but	x	x	0
+O	0	25	O	O	instead	x	x	0
+O	0	26	O	O	focus	x	x	0
+O	0	27	O	O	on	x	x	0
+B-PER	0	28	O	O	his	x	x	0
+I-PER	0	29	O	O	own	x	x	0
+O	0	30	O	O	experience	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	governor	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	my	x	x	0
+O	0	6	O	O	state	x	x	0
+O	0	7	O	O	of	x	x	0
+B-GPE	0	8	O	O	Texas	x	x	0
+O	0	9	O	O	,	x	x	0
+B-GPE	0	10	O	O	where	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	are	x	x	0
+B-PER	0	13	O	O	a	x	x	0
+I-PER	0	14	O	O	whole	x	x	0
+I-PER	0	15	O	O	lot	x	x	0
+I-PER	0	16	O	O	of	x	x	0
+I-PER	0	17	O	O	doctors	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	turns	x	x	0
+O	0	2	O	O	out	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	do	x	x	0
+O	0	8	O	O	any	x	x	0
+O	0	9	O	O	kind	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	job	x	x	0
+O	0	13	O	O	policing	x	x	0
+B-PER	0	14	O	O	your	x	x	0
+O	0	15	O	O	profession	x	x	0
+O	0	16	O	O	at	x	x	0
+O	0	17	O	O	all	x	x	0
+O	0	18	O	O	when	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	was	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	governor	x	x	0
+O	0	23	O	O	of	x	x	0
+B-GPE	0	24	O	O	Texas	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	what	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	"	x	x	0
+I-ORG	0	5	O	O	Dallas	x	x	0
+I-ORG	0	6	O	O	Morning	x	x	0
+I-ORG	0	7	O	O	News	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	reported	x	x	0
+B-TIME	0	10	O	O	recently	x	x	0
+O	0	11	O	O	:	x	x	0
+O	0	12	O	O	"	x	x	0
+B-ORG	0	13	O	O	The	x	x	0
+I-ORG	0	14	O	O	Texas	x	x	0
+I-ORG	0	15	O	O	State	x	x	0
+I-ORG	0	16	O	O	Board	x	x	0
+I-ORG	0	17	O	O	of	x	x	0
+I-ORG	0	18	O	O	Medical	x	x	0
+I-ORG	0	19	O	O	Examiners	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	agency	x	x	0
+B-ORG	0	23	O	O	that	x	x	0
+O	0	24	O	O	pledges	x	x	0
+O	0	25	O	O	to	x	x	0
+O	0	26	O	O	protect	x	x	0
+B-PER	0	27	O	O	the	x	x	0
+I-PER	0	28	O	O	public	x	x	0
+O	0	29	O	O	has	x	x	0
+O	0	30	O	O	granted	x	x	0
+O	0	31	O	O	second	x	x	0
+O	0	32	O	O	and	x	x	0
+O	0	33	O	O	third	x	x	0
+O	0	34	O	O	chances	x	x	0
+O	0	35	O	O	to	x	x	0
+B-Job-Title	0	36	O	O	surgeons	x	x	0
+B-PER	0	37	O	O	who	x	x	0
+O	0	38	O	O	are	x	x	0
+O	0	39	O	O	thrown	x	x	0
+O	0	40	O	O	out	x	x	0
+O	0	41	O	O	of	x	x	0
+B-ORG	0	42	O	O	hospitals	x	x	0
+O	0	43	O	O	because	x	x	0
+B-PER	0	44	O	O	they	x	x	0
+O	0	45	O	O	botched	x	x	0
+O	0	46	O	O	operations	x	x	0
+O	0	47	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	It	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	forgiven	x	x	0
+O	0	3	O	O	physicians	x	x	0
+B-PER	0	4	O	O	who	x	x	0
+O	0	5	O	O	overlook	x	x	0
+O	0	6	O	O	cancerous	x	x	0
+O	0	7	O	O	tumors	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	maimed	x	x	0
+B-PER	0	11	O	O	infants	x	x	0
+O	0	12	O	O	or	x	x	0
+B-PER	0	13	O	O	whose	x	x	0
+O	0	14	O	O	mistakes	x	x	0
+O	0	15	O	O	left	x	x	0
+B-PER	0	16	O	O	women	x	x	0
+O	0	17	O	O	sterilized	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	It	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	refused	x	x	0
+O	0	3	O	O	in	x	x	0
+B-TIME	0	4	O	O	the	x	x	0
+I-TIME	0	5	O	O	last	x	x	0
+I-TIME	0	6	O	O	five	x	x	0
+I-TIME	0	7	O	O	years	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	revoke	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	license	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	single	x	x	0
+B-Job-Title	0	15	O	O	doctor	x	x	0
+O	0	16	O	O	for	x	x	0
+O	0	17	O	O	committing	x	x	0
+O	0	18	O	O	medical	x	x	0
+O	0	19	O	O	errors	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thousands	x	x	0
+O	0	1	O	O	more	x	x	0
+O	0	2	O	O	may	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	ignored	x	x	0
+O	0	6	O	O	over	x	x	0
+B-TIME	0	7	O	O	the	x	x	0
+I-TIME	0	8	O	O	last	x	x	0
+I-TIME	0	9	O	O	decade	x	x	0
+O	0	10	O	O	.	x	x	0
+O	0	11	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+B-PER	0	3	O	O	Bush	x	x	0
+O	0	4	O	O	record	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	policing	x	x	0
+B-PER	0	7	O	O	surgeons	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	why	x	x	0
+O	0	10	O	O	should	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	trust	x	x	0
+B-PER	0	13	O	O	him	x	x	0
+B-TIME	0	14	O	O	now	x	x	0
+O	0	15	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	first	x	x	0
+O	0	3	O	O	off	x	x	0
+O	0	4	O	O	...	x	x	0
+
+B-PER	0	0	O	O	Physicians	x	x	0
+O	0	1	O	O	generally	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	just	x	x	0
+B-PER	0	5	O	O	surgeons	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	forgive	x	x	0
+B-PER	0	8	O	O	me	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	Sure	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	need	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	make	x	x	0
+O	0	8	O	O	sure	x	x	0
+O	0	9	O	O	that	x	x	0
+B-GPE	0	10	O	O	state	x	x	0
+O	0	11	O	O	boards	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	number	x	x	0
+O	0	14	O	O	one	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	adequate	x	x	0
+O	0	18	O	O	funding	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	AMA	x	x	0
+O	0	2	O	O	supports	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	any	x	x	0
+O	0	4	O	O	bad	x	x	0
+B-Job-Title	0	5	O	O	doctors	x	x	0
+B-ORG	0	6	O	O	we	x	x	0
+O	0	7	O	O	want	x	x	0
+B-PER	0	8	O	O	them	x	x	0
+O	0	9	O	O	removed	x	x	0
+O	0	10	O	O	from	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	practice	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	medicine	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	...	x	x	0
+
+O	0	0	O	O	...	x	x	0
+B-PER	0	1	O	O	bad	x	x	0
+I-PER	0	2	O	O	doctors	x	x	0
+O	0	3	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	also	x	x	0
+O	0	5	O	O	unfair	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	make	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	judgment	x	x	0
+O	0	10	O	O	without	x	x	0
+O	0	11	O	O	knowing	x	x	0
+O	0	12	O	O	all	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	facts	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	case	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+B-PER	0	1	O	O	someone	x	x	0
+O	0	2	O	O	pays	x	x	0
+O	0	3	O	O	money	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	case	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	insurance	x	x	0
+I-ORG	0	10	O	O	company	x	x	0
+O	0	11	O	O	may	x	x	0
+O	0	12	O	O	pay	x	x	0
+O	0	13	O	O	money	x	x	0
+O	0	14	O	O	because	x	x	0
+B-ORG	0	15	O	O	they	x	x	0
+O	0	16	O	O	're	x	x	0
+O	0	17	O	O	afraid	x	x	0
+O	0	18	O	O	there	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	is	x	x	0
+O	0	21	O	O	going	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	be	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	giant	x	x	0
+O	0	26	O	O	award	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	this	x	x	0
+O	0	29	O	O	case	x	x	0
+O	0	30	O	O	because	x	x	0
+O	0	31	O	O	of	x	x	0
+O	0	32	O	O	this	x	x	0
+O	0	33	O	O	broken	x	x	0
+O	0	34	O	O	liability	x	x	0
+O	0	35	O	O	system	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Troy	x	x	0
+O	0	1	O	O	Brennan	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	ph	x	x	0
+O	0	4	O	O	)	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	Harvard	x	x	0
+O	0	7	O	O	said	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	no	x	x	0
+O	0	11	O	O	correlation	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	negligence	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	only	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	disability	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	let	x	x	0
+B-PER	0	2	O	O	's	x	x	0
+O	0	3	O	O	look	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	facts	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+O	0	11	O	O	give	x	x	0
+B-PER	0	12	O	O	everybody	x	x	0
+O	0	13	O	O	due	x	x	0
+O	0	14	O	O	process	x	x	0
+O	0	15	O	O	here	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	America	x	x	0
+O	0	18	O	O	before	x	x	0
+B-PER	0	19	O	O	we	x	x	0
+O	0	20	O	O	criticize	x	x	0
+O	0	21	O	O	.	x	x	0
+
+O	0	0	O	O	Actually	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Troy	x	x	0
+I-PER	0	3	O	O	Brennan	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	same	x	x	0
+O	0	7	O	O	doctor	x	x	0
+O	0	8	O	O	at	x	x	0
+B-ORG	0	9	O	O	Harvard	x	x	0
+O	0	10	O	O	Public	x	x	0
+O	0	11	O	O	School	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	Health	x	x	0
+O	0	14	O	O	said	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	issue	x	x	0
+O	0	17	O	O	is	x	x	0
+O	0	18	O	O	not	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	fuel	x	x	0
+O	0	21	O	O	lawsuits	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	it	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	too	x	x	0
+O	0	26	O	O	many	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Less	x	x	0
+O	0	1	O	O	than	x	x	0
+B-Numeric	0	2	O	O	10	x	x	0
+I-Numeric	0	3	O	O	percent	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	victims	x	x	0
+I-PER	0	7	O	O	of	x	x	0
+I-PER	0	8	O	O	medical	x	x	0
+I-PER	0	9	O	O	malpractice	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	we	x	x	0
+O	0	13	O	O	're	x	x	0
+O	0	14	O	O	talking	x	x	0
+O	0	15	O	O	about	x	x	0
+O	0	16	O	O	horrific	x	x	0
+O	0	17	O	O	injuries	x	x	0
+O	0	18	O	O	here	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	even	x	x	0
+O	0	21	O	O	file	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	claim	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Even	x	x	0
+O	0	1	O	O	file	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	claim	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	entire	x	x	0
+O	0	3	O	O	pay-out	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	victims	x	x	0
+B-PER	0	9	O	O	that	x	x	0
+O	0	10	O	O	get	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	little	x	x	0
+O	0	13	O	O	money	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	the	x	x	0
+B-Numeric	0	17	O	O	90	x	x	0
+I-Numeric	0	18	O	O	percent	x	x	0
+B-PER	0	19	O	O	who	x	x	0
+O	0	20	O	O	never	x	x	0
+O	0	21	O	O	file	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	claim	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	amounts	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	less	x	x	0
+O	0	28	O	O	than	x	x	0
+O	0	29	O	O	what	x	x	0
+B-PER	0	30	O	O	we	x	x	0
+O	0	31	O	O	spend	x	x	0
+O	0	32	O	O	on	x	x	0
+O	0	33	O	O	dog	x	x	0
+O	0	34	O	O	food	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	dog	x	x	0
+O	0	2	O	O	food	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	about	x	x	0
+B-Numeric	0	3	O	O	$5.4	x	x	0
+I-Numeric	0	4	O	O	billion	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	pay-out	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	fraction	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	physician	x	x	0
+O	0	6	O	O	income	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	fraction	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	health	x	x	0
+O	0	7	O	O	care	x	x	0
+O	0	8	O	O	expense	x	x	0
+O	0	9	O	O	of	x	x	0
+B-Numeric	0	10	O	O	1.4	x	x	0
+I-Numeric	0	11	O	O	trillion	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	look	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	all	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	facts	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	balance	x	x	0
+O	0	14	O	O	here	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	people	x	x	0
+O	0	5	O	O	in	x	x	0
+B-ORG	0	6	O	O	Congress	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	do	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	make	x	x	0
+O	0	4	O	O	sure	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	whatever	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	decide	x	x	0
+O	0	9	O	O	keeps	x	x	0
+B-PER	0	10	O	O	doctors	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	practice	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	patients	x	x	0
+O	0	15	O	O	having	x	x	0
+O	0	16	O	O	access	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	care	x	x	0
+O	0	19	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Doctors	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	going	x	x	0
+O	0	3	O	O	...	x	x	0
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	let	x	x	0
+B-PER	0	2	O	O	me	x	x	0
+O	0	3	O	O	but	x	x	0
+O	0	4	O	O	let	x	x	0
+B-PER	0	5	O	O	me	x	x	0
+O	0	6	O	O	wait	x	x	0
+O	0	7	O	O	...	x	x	0
+
+B-PER	0	0	O	O	Doctors	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	leaving	x	x	0
+O	0	3	O	O	practice	x	x	0
+O	0	4	O	O	because	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	insurance	x	x	0
+O	0	7	O	O	premium	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	right	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	right	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	abandon	x	x	0
+B-PER	0	4	O	O	their	x	x	0
+O	0	5	O	O	patients	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	except	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	high	x	x	0
+O	0	11	O	O	premiums	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	few	x	x	0
+O	0	15	O	O	specialties	x	x	0
+O	0	16	O	O	?	x	x	0
+
+O	0	0	O	O	Because	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	premiums	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	first	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	let	x	x	0
+B-PER	0	5	O	O	me	x	x	0
+O	0	6	O	O	...	x	x	0
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	crack	x	x	0
+O	0	5	O	O	down	x	x	0
+O	0	6	O	O	on	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	insurance	x	x	0
+I-ORG	0	9	O	O	companies	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	No.	x	x	0
+O	0	1	O	O	Let	x	x	0
+B-PER	0	2	O	O	's	x	x	0
+O	0	3	O	O	talk	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	facts	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	talk	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	facts	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	fact	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	UNINTELLIGIBLE	x	x	0
+O	0	2	O	O	)	x	x	0
+B-Numeric	0	3	O	O	percent	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	doctors	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	insured	x	x	0
+O	0	9	O	O	by	x	x	0
+B-ORG	0	10	O	O	physician-owned	x	x	0
+I-ORG	0	11	O	O	insurance	x	x	0
+I-ORG	0	12	O	O	companies	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	medical	x	x	0
+O	0	16	O	O	side	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	Oklahoma	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	they	x	x	0
+O	0	7	O	O	own	x	x	0
+B-ORG	0	8	O	O	this	x	x	0
+I-ORG	0	9	O	O	insurance	x	x	0
+I-ORG	0	10	O	O	company	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	trying	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+B-GPE	0	5	O	O	their	x	x	0
+O	0	6	O	O	very	x	x	0
+O	0	7	O	O	best	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+B-ORG	0	2	O	O	a	x	x	0
+I-ORG	0	3	O	O	company	x	x	0
+I-ORG	0	4	O	O	not	x	x	0
+I-ORG	0	5	O	O	for	x	x	0
+I-ORG	0	6	O	O	profit	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	happens	x	x	0
+O	0	2	O	O	here	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	more	x	x	0
+O	0	6	O	O	money	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	being	x	x	0
+O	0	9	O	O	paid	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	than	x	x	0
+O	0	12	O	O	comes	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	as	x	x	0
+O	0	2	O	O	far	x	x	0
+O	0	3	O	O	as	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	investment	x	x	0
+O	0	6	O	O	income	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	A.M.	x	x	0
+I-ORG	0	9	O	O	Bests	x	x	0
+O	0	10	O	O	(	x	x	0
+O	0	11	O	O	ph	x	x	0
+O	0	12	O	O	)	x	x	0
+O	0	13	O	O	show	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	in	x	x	0
+B-TIME	0	16	O	O	the	x	x	0
+I-TIME	0	17	O	O	past	x	x	0
+I-TIME	0	18	O	O	five	x	x	0
+I-TIME	0	19	O	O	years	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	investment	x	x	0
+O	0	23	O	O	income	x	x	0
+O	0	24	O	O	has	x	x	0
+O	0	25	O	O	been	x	x	0
+O	0	26	O	O	stable	x	x	0
+O	0	27	O	O	at	x	x	0
+O	0	28	O	O	around	x	x	0
+B-Numeric	0	29	O	O	5	x	x	0
+I-Numeric	0	30	O	O	percent	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Brown	x	x	0
+I-ORG	0	1	O	O	Brothers	x	x	0
+I-ORG	0	2	O	O	Harriman	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	investments	x	x	0
+O	0	6	O	O	did	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	precipitate	x	x	0
+O	0	9	O	O	the	x	x	0
+B-TIME	0	10	O	O	current	x	x	0
+O	0	11	O	O	crisis	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	...	x	x	0
+O	0	1	O	O	payoffs	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	stable	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	adjusted	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	inflation	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	National	x	x	0
+O	0	11	O	O	Practitioners	x	x	0
+O	0	12	O	O	Databank	x	x	0
+O	0	13	O	O	(	x	x	0
+O	0	14	O	O	ph	x	x	0
+O	0	15	O	O	)	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	secret	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	information	x	x	0
+O	0	4	O	O	about	x	x	0
+B-PER	0	5	O	O	bad	x	x	0
+I-PER	0	6	O	O	doctors	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	National	x	x	0
+O	0	10	O	O	Practitioner	x	x	0
+O	0	11	O	O	bank	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	,	x	x	0
+B-ORG	0	15	O	O	the	x	x	0
+I-ORG	0	16	O	O	AMA	x	x	0
+O	0	17	O	O	wants	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	keep	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	secret	x	x	0
+O	0	22	O	O	from	x	x	0
+B-PER	0	23	O	O	other	x	x	0
+I-PER	0	24	O	O	doctors	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	other	x	x	0
+O	0	27	O	O	patients	x	x	0
+O	0	28	O	O	around	x	x	0
+B-GPE	0	29	O	O	the	x	x	0
+I-GPE	0	30	O	O	country	x	x	0
+B-PER	0	31	O	O	who	x	x	0
+O	0	32	O	O	want	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	know	x	x	0
+O	0	35	O	O	whether	x	x	0
+B-PER	0	36	O	O	their	x	x	0
+O	0	37	O	O	doctor	x	x	0
+O	0	38	O	O	is	x	x	0
+O	0	39	O	O	on	x	x	0
+O	0	40	O	O	that	x	x	0
+O	0	41	O	O	list	x	x	0
+O	0	42	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	let	x	x	0
+B-PER	0	3	O	O	's	x	x	0
+O	0	4	O	O	look	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	what	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	president	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	actually	x	x	0
+O	0	11	O	O	proposing	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	people	x	x	0
+B-PER	0	14	O	O	who	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	been	x	x	0
+O	0	17	O	O	harmed	x	x	0
+O	0	18	O	O	by	x	x	0
+B-PER	0	19	O	O	a	x	x	0
+I-PER	0	20	O	O	bad	x	x	0
+I-PER	0	21	O	O	doctor	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	listen	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	said	x	x	0
+O	0	7	O	O	to	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	AMA	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	harmed	x	x	0
+O	0	2	O	O	by	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	doc	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	they	x	x	0
+O	0	7	O	O	ought	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	able	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	recover	x	x	0
+B-PER	0	13	O	O	their	x	x	0
+O	0	14	O	O	economic	x	x	0
+O	0	15	O	O	costs	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	economic	x	x	0
+O	0	18	O	O	losses	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	should	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	able	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	recover	x	x	0
+O	0	6	O	O	non	x	x	0
+O	0	7	O	O	economic	x	x	0
+O	0	8	O	O	damages	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	well	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	sake	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	system	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	non	x	x	0
+O	0	9	O	O	economic	x	x	0
+O	0	10	O	O	damages	x	x	0
+O	0	11	O	O	should	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	capped	x	x	0
+O	0	14	O	O	at	x	x	0
+B-Numeric	0	15	O	O	$250,000	x	x	0
+O	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	in	x	x	0
+B-LOC	0	2	O	O	the	x	x	0
+I-LOC	0	3	O	O	world	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	wrong	x	x	0
+O	0	6	O	O	with	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Tell	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	wrong	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	?	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	wrong	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Tell	x	x	0
+O	0	1	O	O	someone	x	x	0
+B-PER	0	2	O	O	who	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	double	x	x	0
+O	0	6	O	O	mastectomy	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	tell	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	infant	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	brain-damaged	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	has	x	x	0
+O	0	16	O	O	no	x	x	0
+O	0	17	O	O	economic	x	x	0
+O	0	18	O	O	loss	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	for	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	rest	x	x	0
+O	0	23	O	O	of	x	x	0
+B-PER	0	24	O	O	their	x	x	0
+O	0	25	O	O	lives	x	x	0
+B-PER	0	26	O	O	they	x	x	0
+O	0	27	O	O	're	x	x	0
+O	0	28	O	O	going	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	get	x	x	0
+O	0	31	O	O	dribbled	x	x	0
+O	0	32	O	O	out	x	x	0
+B-Numeric	0	33	O	O	$250,000	x	x	0
+O	0	34	O	O	for	x	x	0
+B-PER	0	35	O	O	their	x	x	0
+O	0	36	O	O	entire	x	x	0
+O	0	37	O	O	life	x	x	0
+O	0	38	O	O	expectancy	x	x	0
+O	0	39	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Wait	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	minute	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	head	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	AIG	x	x	0
+B-TIME	0	4	O	O	a	x	x	0
+I-TIME	0	5	O	O	few	x	x	0
+I-TIME	0	6	O	O	years	x	x	0
+I-TIME	0	7	O	O	ago	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	making	x	x	0
+B-Numeric	0	10	O	O	$250,000	x	x	0
+B-TIME	0	11	O	O	every	x	x	0
+I-TIME	0	12	O	O	week	x	x	0
+O	0	13	O	O	.	x	x	0
+
+B-Numeric	0	0	O	O	Two	x	x	0
+I-Numeric	0	1	O	O	hundred	x	x	0
+I-Numeric	0	2	O	O	and	x	x	0
+I-Numeric	0	3	O	O	fifty	x	x	0
+I-Numeric	0	4	O	O	thousand	x	x	0
+I-Numeric	0	5	O	O	dollars	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	lot	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	money	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	though	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Not	x	x	0
+O	0	1	O	O	for	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	but	x	x	0
+O	0	5	O	O	for	x	x	0
+B-PER	0	6	O	O	most	x	x	0
+I-PER	0	7	O	O	people	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	lot	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	money	x	x	0
+O	0	14	O	O	.	x	x	0
+
+B-PER	0	0	O	O	These	x	x	0
+I-PER	0	1	O	O	executives	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	why	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	n't	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	tell	x	x	0
+O	0	8	O	O	...	x	x	0
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	California	x	x	0
+O	0	2	O	O	wait	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	Mr.	x	x	0
+O	0	5	O	O	Nader	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	California	x	x	0
+O	0	2	O	O	...	x	x	0
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	cap	x	x	0
+O	0	5	O	O	insurance	x	x	0
+O	0	6	O	O	...	x	x	0
+
+B-PER	0	0	O	O	Mr.	x	x	0
+O	0	1	O	O	Palmisano	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	go	x	x	0
+O	0	4	O	O	ahead	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Give	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	moment	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	please	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	Go	x	x	0
+O	0	1	O	O	ahead	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	go	x	x	0
+O	0	4	O	O	ahead	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	California	x	x	0
+B-GPE	0	2	O	O	where	x	x	0
+B-GPE	0	3	O	O	they	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	law	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	caps	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	non-economics	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	ones	x	x	0
+B-PER	0	15	O	O	you	x	x	0
+O	0	16	O	O	ca	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	quantify	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	awards	x	x	0
+O	0	3	O	O	in	x	x	0
+B-Numeric	0	4	O	O	10	x	x	0
+I-Numeric	0	5	O	O	million	x	x	0
+O	0	6	O	O	,	x	x	0
+B-Numeric	0	7	O	O	20	x	x	0
+I-Numeric	0	8	O	O	million	x	x	0
+O	0	9	O	O	,	x	x	0
+B-Numeric	0	10	O	O	$30	x	x	0
+I-Numeric	0	11	O	O	million	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	California	x	x	0
+O	0	14	O	O	for	x	x	0
+O	0	15	O	O	economic	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	medicals	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	all	x	x	0
+O	0	5	O	O	rehabilitation	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	care	x	x	0
+O	0	8	O	O	services	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	home	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	lost	x	x	0
+O	0	14	O	O	wages	x	x	0
+O	0	15	O	O	...	x	x	0
+
+O	0	0	O	O	No	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	no	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	ask	x	x	0
+B-PER	0	5	O	O	Mr.	x	x	0
+O	0	6	O	O	Nader	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	we	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	almost	x	x	0
+O	0	11	O	O	out	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	time	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Doug	x	x	0
+O	0	1	O	O	Friedman	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	ph	x	x	0
+O	0	4	O	O	)	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	who	x	x	0
+O	0	7	O	O	ran	x	x	0
+B-PER	0	8	O	O	Jesse	x	x	0
+I-PER	0	9	O	O	Ventura	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	campaign	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	governor	x	x	0
+B-TIME	0	14	O	O	four	x	x	0
+I-TIME	0	15	O	O	years	x	x	0
+I-TIME	0	16	O	O	ago	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	says	x	x	0
+B-PER	0	19	O	O	he	x	x	0
+O	0	20	O	O	wants	x	x	0
+B-PER	0	21	O	O	you	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	run	x	x	0
+O	0	24	O	O	for	x	x	0
+O	0	25	O	O	president	x	x	0
+O	0	26	O	O	again	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	're	x	x	0
+O	0	4	O	O	saying	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	's	x	x	0
+O	0	7	O	O	much	x	x	0
+O	0	8	O	O	too	x	x	0
+O	0	9	O	O	early	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	run	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	president	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	simple	x	x	0
+O	0	3	O	O	question	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Ralph	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	will	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	consider	x	x	0
+O	0	10	O	O	another	x	x	0
+O	0	11	O	O	run	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	president	x	x	0
+O	0	14	O	O	?	x	x	0
+
+O	0	0	O	O	Much	x	x	0
+O	0	1	O	O	too	x	x	0
+O	0	2	O	O	early	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	consider	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	am	x	x	0
+O	0	2	O	O	concerned	x	x	0
+O	0	3	O	O	about	x	x	0
+O	0	4	O	O	Donald	x	x	0
+O	0	5	O	O	Zook	x	x	0
+O	0	6	O	O	(	x	x	0
+O	0	7	O	O	ph	x	x	0
+O	0	8	O	O	)	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	who	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	head	x	x	0
+O	0	13	O	O	of	x	x	0
+B-ORG	0	14	O	O	a	x	x	0
+I-ORG	0	15	O	O	medical	x	x	0
+I-ORG	0	16	O	O	malpractice	x	x	0
+I-ORG	0	17	O	O	insurance	x	x	0
+I-ORG	0	18	O	O	company	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	big	x	x	0
+O	0	22	O	O	one	x	x	0
+O	0	23	O	O	in	x	x	0
+B-LOC	0	24	O	O	the	x	x	0
+I-LOC	0	25	O	O	West	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	saying	x	x	0
+O	0	28	O	O	that	x	x	0
+B-PER	0	29	O	O	his	x	x	0
+B-ORG	0	30	O	O	insurance	x	x	0
+I-ORG	0	31	O	O	company	x	x	0
+O	0	32	O	O	executive	x	x	0
+O	0	33	O	O	colleagues	x	x	0
+O	0	34	O	O	should	x	x	0
+O	0	35	O	O	not	x	x	0
+O	0	36	O	O	blame	x	x	0
+O	0	37	O	O	the	x	x	0
+O	0	38	O	O	tort	x	x	0
+O	0	39	O	O	injury	x	x	0
+O	0	40	O	O	system	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	that	x	x	0
+B-PER	0	3	O	O	your	x	x	0
+O	0	4	O	O	problem	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	jacking	x	x	0
+O	0	7	O	O	up	x	x	0
+O	0	8	O	O	these	x	x	0
+O	0	9	O	O	insurance	x	x	0
+O	0	10	O	O	rates	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	self-inflicted	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	an	x	x	0
+B-ORG	0	3	O	O	insurance	x	x	0
+I-ORG	0	4	O	O	company	x	x	0
+O	0	5	O	O	executive	x	x	0
+B-PER	0	6	O	O	who	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	saying	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Mr.	x	x	0
+O	0	3	O	O	Zook	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	executive	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	quoting	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	need	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	do	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	look	x	x	0
+O	0	7	O	O	at	x	x	0
+O	0	8	O	O	all	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	people	x	x	0
+B-PER	0	12	O	O	who	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	have	x	x	0
+B-PER	0	16	O	O	doctors	x	x	0
+O	0	17	O	O	...	x	x	0
+
+O	0	0	O	O	Hey	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	let	x	x	0
+B-PER	0	3	O	O	's	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	some	x	x	0
+O	0	6	O	O	agreement	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Should	x	x	0
+B-PER	0	1	O	O	we	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	agreement	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	...	x	x	0
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	really	x	x	0
+O	0	5	O	O	crack	x	x	0
+O	0	6	O	O	down	x	x	0
+O	0	7	O	O	on	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	bad	x	x	0
+I-PER	0	10	O	O	doctors	x	x	0
+O	0	11	O	O	?	x	x	0
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	crack	x	x	0
+O	0	4	O	O	down	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	attorneys	x	x	0
+B-PER	0	8	O	O	who	x	x	0
+O	0	9	O	O	file	x	x	0
+O	0	10	O	O	frivolous	x	x	0
+O	0	11	O	O	suits	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	Fine	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Fine	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-Numeric	0	0	O	O	Seventy	x	x	0
+I-Numeric	0	1	O	O	percent	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	cases	x	x	0
+O	0	5	O	O	filed	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	told	x	x	0
+O	0	8	O	O	there	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	no	x	x	0
+O	0	11	O	O	payment	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	kind	x	x	0
+O	0	2	O	O	of	x	x	0
+B-PER	0	3	O	O	peer	x	x	0
+O	0	4	O	O	review	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	?	x	x	0
+
+O	0	0	O	O	Wait	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Wait	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	crack	x	x	0
+O	0	5	O	O	down	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	bad	x	x	0
+I-PER	0	9	O	O	doctors	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	in	x	x	0
+B-ORG	0	3	O	O	AMA	x	x	0
+O	0	4	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	definitely	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	crack	x	x	0
+O	0	5	O	O	down	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	bad	x	x	0
+I-PER	0	8	O	O	doctors	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	...	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	CROSSTALK	x	x	0
+O	0	4	O	O	)	x	x	0
+
+O	0	0	O	O	Do	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	want	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	control	x	x	0
+O	0	5	O	O	insurance	x	x	0
+O	0	6	O	O	rates	x	x	0
+O	0	7	O	O	?	x	x	0
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	free	x	x	0
+O	0	4	O	O	market	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	dictate	x	x	0
+O	0	7	O	O	what	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	done	x	x	0
+O	0	10	O	O	.	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	free	x	x	0
+O	0	2	O	O	market	x	x	0
+O	0	3	O	O	actually	x	x	0
+O	0	4	O	O	dictates	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	have	x	x	0
+O	0	7	O	O	got	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	sell	x	x	0
+O	0	10	O	O	some	x	x	0
+O	0	11	O	O	commercials	x	x	0
+O	0	12	O	O	here	x	x	0
+O	0	13	O	O	on	x	x	0
+B-ORG	0	14	O	O	CNN	x	x	0
+O	0	15	O	O	or	x	x	0
+B-PER	0	16	O	O	we	x	x	0
+O	0	17	O	O	're	x	x	0
+O	0	18	O	O	all	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	...	x	x	0
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Privilege	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	here	x	x	0
+O	0	4	O	O	.	x	x	0
+

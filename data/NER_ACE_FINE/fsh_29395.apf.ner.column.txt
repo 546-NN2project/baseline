@@ -1,0 +1,1303 @@
+O	0	0	O	O	6	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Criminal	x	x	0
+O	0	1	O	O	Trials	x	x	0
+O	0	2	O	O	/	x	x	0
+B-PER	0	3	O	O	Peterson	x	x	0
+B-PER	0	4	O	O	Scott	x	x	0
+I-PER	0	5	O	O	Peterson	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	found	x	x	0
+O	0	9	O	O	guilty	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	murdering	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	wife	x	x	0
+B-PER	0	14	O	O	Laci	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+O	0	17	O	O	unborn	x	x	0
+O	0	18	O	O	son	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	and	x	x	0
+B-PER	0	21	O	O	he	x	x	0
+B-TIME	0	22	O	O	now	x	x	0
+O	0	23	O	O	faces	x	x	0
+B-Sentence	0	24	O	O	the	x	x	0
+I-Sentence	0	25	O	O	death	x	x	0
+I-Sentence	0	26	O	O	penalty	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lot	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	media	x	x	0
+O	0	7	O	O	coverage	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	the	x	x	0
+B-PER	0	10	O	O	Peterson	x	x	0
+O	0	11	O	O	trial	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	do	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	trial	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	been	x	x	0
+O	0	8	O	O	so	x	x	0
+O	0	9	O	O	publicized	x	x	0
+O	0	10	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	other	x	x	0
+B-PER	0	2	O	O	criminal	x	x	0
+O	0	3	O	O	trials	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	gotten	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	lot	x	x	0
+O	0	8	O	O	of	x	x	0
+B-ORG	0	9	O	O	media	x	x	0
+O	0	10	O	O	attention	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	why	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	most	x	x	0
+O	0	4	O	O	memorable	x	x	0
+B-PER	0	5	O	O	criminal	x	x	0
+O	0	6	O	O	trial	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	can	x	x	0
+O	0	9	O	O	recall	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	this	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	Winnette	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Michigan	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Hi	x	x	0
+B-PER	0	1	O	O	this	x	x	0
+O	0	2	O	O	is	x	x	0
+B-PER	0	3	O	O	Irvin	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	Sullivan	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	Illinois	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	name	x	x	0
+O	0	4	O	O	again	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	Winnette	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	With	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	~	x	x	0
+O	0	3	O	O	W	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	~	x	x	0
+O	0	1	O	O	WYNETT	x	x	0
+O	0	2	O	O	?	x	x	0
+
+O	0	0	O	O	~	x	x	0
+O	0	1	O	O	INNETTE	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	~	x	x	0
+O	0	1	O	O	WI	x	x	0
+O	0	2	O	O	Okay	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Okay	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Michigan	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	huh	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	?	x	x	0
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	right	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Uh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	what	x	x	0
+O	0	3	O	O	do	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	this	x	x	0
+B-PER	0	8	O	O	Scott	x	x	0
+I-PER	0	9	O	O	Peterson	x	x	0
+O	0	10	O	O	trial	x	x	0
+O	0	11	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	much	x	x	0
+O	0	5	O	O	about	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	honest	x	x	0
+O	0	11	O	O	with	x	x	0
+B-PER	0	12	O	O	you	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	funny	x	x	0
+O	0	4	O	O	because	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	just	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	one	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	my	x	x	0
+O	0	11	O	O	calls	x	x	0
+B-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	other	x	x	0
+I-TIME	0	14	O	O	day	x	x	0
+O	0	15	O	O	was	x	x	0
+O	0	16	O	O	regarding	x	x	0
+O	0	17	O	O	this	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	Really	x	x	0
+O	0	1	O	O	?	x	x	0
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	uh	x	x	0
+O	0	2	O	O	uh	x	x	0
+B-ORG	0	3	O	O	they	x	x	0
+O	0	4	O	O	're	x	x	0
+O	0	5	O	O	act	x	x	0
+O	0	6	O	O	actually	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	getting	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	few	x	x	0
+O	0	12	O	O	different	x	x	0
+O	0	13	O	O	questions	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	actually	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	gentleman	x	x	0
+B-PER	0	18	O	O	I	x	x	0
+O	0	19	O	O	got	x	x	0
+B-TIME	0	20	O	O	the	x	x	0
+I-TIME	0	21	O	O	other	x	x	0
+I-TIME	0	22	O	O	day	x	x	0
+O	0	23	O	O	had	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	even	x	x	0
+O	0	26	O	O	heard	x	x	0
+O	0	27	O	O	about	x	x	0
+O	0	28	O	O	it	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	really	x	x	0
+O	0	2	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	um	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	've	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	following	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	pretty	x	x	0
+O	0	9	O	O	closely	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	guess	x	x	0
+O	0	4	O	O	because	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	know	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	being	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	mother	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	being	x	x	0
+O	0	14	O	O	pregnant	x	x	0
+O	0	15	O	O	for	x	x	0
+B-PER	0	16	O	O	a	x	x	0
+I-PER	0	17	O	O	baby	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh-huh	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	kind	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	hit	x	x	0
+O	0	5	O	O	more	x	x	0
+O	0	6	O	O	to	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	know	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	home	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	So	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	how	x	x	0
+O	0	5	O	O	much	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	have	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	followed	x	x	0
+O	0	11	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Did	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	did	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	follow	x	x	0
+O	0	5	O	O	any	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	at	x	x	0
+O	0	9	O	O	all	x	x	0
+O	0	10	O	O	when	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	news	x	x	0
+O	0	17	O	O	or	x	x	0
+O	0	18	O	O	in	x	x	0
+B-ORG	0	19	O	O	the	x	x	0
+I-ORG	0	20	O	O	papers	x	x	0
+O	0	21	O	O	or	x	x	0
+O	0	22	O	O	anything	x	x	0
+O	0	23	O	O	?	x	x	0
+
+O	0	0	O	O	Hardly	x	x	0
+O	0	1	O	O	any	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	all	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	because	x	x	0
+O	0	8	O	O	um	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	thing	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	not	x	x	0
+O	0	15	O	O	have	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	~	x	x	0
+O	0	18	O	O	TV	x	x	0
+O	0	19	O	O	or	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	radio	x	x	0
+O	0	22	O	O	and	x	x	0
+B-PER	0	23	O	O	I	x	x	0
+O	0	24	O	O	do	x	x	0
+O	0	25	O	O	n't	x	x	0
+O	0	26	O	O	get	x	x	0
+O	0	27	O	O	a	x	x	0
+B-TIME	0	28	O	O	daily	x	x	0
+O	0	29	O	O	newspaper	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	get	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	wow	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	get	x	x	0
+O	0	2	O	O	a	x	x	0
+B-TIME	0	3	O	O	weekly	x	x	0
+O	0	4	O	O	newspaper	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	Okay	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	well	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	'll	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	get	x	x	0
+B-ORG	0	9	O	O	any	x	x	0
+I-ORG	0	10	O	O	newspapers	x	x	0
+O	0	11	O	O	at	x	x	0
+B-FAC	0	12	O	O	the	x	x	0
+I-FAC	0	13	O	O	house	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	but	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	listen	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	radio	x	x	0
+B-TIME	0	21	O	O	every	x	x	0
+I-TIME	0	22	O	O	morning	x	x	0
+O	0	23	O	O	on	x	x	0
+B-PER	0	24	O	O	my	x	x	0
+O	0	25	O	O	way	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	work	x	x	0
+O	0	28	O	O	and	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	yeah	x	x	0
+O	0	2	O	O	?	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	uh	x	x	0
+O	0	2	O	O	when	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	first	x	x	0
+O	0	5	O	O	happened	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	pretty	x	x	0
+O	0	9	O	O	publicized	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	every	x	x	0
+O	0	12	O	O	radio	x	x	0
+O	0	13	O	O	station	x	x	0
+O	0	14	O	O	um	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	come	x	x	0
+O	0	17	O	O	across	x	x	0
+O	0	18	O	O	on	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	news	x	x	0
+O	0	21	O	O	and	x	x	0
+B-ORG	0	22	O	O	we	x	x	0
+O	0	23	O	O	keep	x	x	0
+B-ORG	0	24	O	O	our	x	x	0
+O	0	25	O	O	~	x	x	0
+O	0	26	O	O	TV	x	x	0
+O	0	27	O	O	on	x	x	0
+O	0	28	O	O	at	x	x	0
+B-PER	0	29	O	O	my	x	x	0
+O	0	30	O	O	work	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	because	x	x	0
+B-ORG	0	33	O	O	we	x	x	0
+O	0	34	O	O	have	x	x	0
+O	0	35	O	O	a	x	x	0
+B-PER	0	36	O	O	customer	x	x	0
+O	0	37	O	O	waiting	x	x	0
+O	0	38	O	O	area	x	x	0
+O	0	39	O	O	,	x	x	0
+O	0	40	O	O	so	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh-huh	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	um	x	x	0
+O	0	1	O	O	actually	x	x	0
+O	0	2	O	O	one	x	x	0
+O	0	3	O	O	of	x	x	0
+B-ORG	0	4	O	O	our	x	x	0
+O	0	5	O	O	employees	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	wa	x	x	0
+O	0	8	O	O	watched	x	x	0
+O	0	9	O	O	((	x	x	0
+O	0	10	O	O	happening	x	x	0
+O	0	11	O	O	))	x	x	0
+O	0	12	O	O	so	x	x	0
+O	0	13	O	O	from	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	point	x	x	0
+O	0	16	O	O	on	x	x	0
+B-PER	0	17	O	O	we	x	x	0
+O	0	18	O	O	kind	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	talked	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	lot	x	x	0
+O	0	23	O	O	about	x	x	0
+O	0	24	O	O	it	x	x	0
+O	0	25	O	O	at	x	x	0
+O	0	26	O	O	work	x	x	0
+O	0	27	O	O	and	x	x	0
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	long	x	x	0
+O	0	2	O	O	ago	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	different	x	x	0
+O	0	1	O	O	things	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	was	x	x	0
+B-TIME	0	4	O	O	a	x	x	0
+I-TIME	0	5	O	O	year	x	x	0
+I-TIME	0	6	O	O	almost	x	x	0
+I-TIME	0	7	O	O	a	x	x	0
+I-TIME	0	8	O	O	year	x	x	0
+I-TIME	0	9	O	O	ago	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Over	x	x	0
+I-TIME	0	1	O	O	a	x	x	0
+I-TIME	0	2	O	O	year	x	x	0
+I-TIME	0	3	O	O	ago	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+O	0	1	O	O	it	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	just	x	x	0
+O	0	4	O	O	before	x	x	0
+O	0	5	O	O	Christmas	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	happened	x	x	0
+O	0	9	O	O	.	x	x	0
+
+B-TIME	0	0	O	O	Over	x	x	0
+I-TIME	0	1	O	O	a	x	x	0
+I-TIME	0	2	O	O	year	x	x	0
+I-TIME	0	3	O	O	ago	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	'm	x	x	0
+O	0	4	O	O	thinking	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	n't	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	,	x	x	0
+B-TIME	0	10	O	O	November	x	x	0
+O	0	11	O	O	,	x	x	0
+B-TIME	0	12	O	O	December	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	I	x	x	0
+O	0	15	O	O	'm	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	sure	x	x	0
+O	0	18	O	O	exactly	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	just	x	x	0
+O	0	6	O	O	before	x	x	0
+O	0	7	O	O	Christmas	x	x	0
+O	0	8	O	O	when	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	uh	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	had	x	x	0
+O	0	14	O	O	happened	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	because	x	x	0
+B-PER	0	17	O	O	she	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	missing	x	x	0
+O	0	20	O	O	during	x	x	0
+O	0	21	O	O	Christmas	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	then	x	x	0
+B-PER	0	24	O	O	they	x	x	0
+O	0	25	O	O	had	x	x	0
+O	0	26	O	O	found	x	x	0
+B-PER	0	27	O	O	her	x	x	0
+O	0	28	O	O	body	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+B-PER	0	2	O	O	they	x	x	0
+O	0	3	O	O	found	x	x	0
+B-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	baby	x	x	0
+O	0	6	O	O	as	x	x	0
+O	0	7	O	O	well	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	Terrible	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	so	x	x	0
+O	0	3	O	O	when	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	found	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	baby	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	baby	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	course	x	x	0
+O	0	13	O	O	had	x	x	0
+O	0	14	O	O	been	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	do	x	x	0
+O	0	17	O	O	n't	x	x	0
+O	0	18	O	O	know	x	x	0
+O	0	19	O	O	if	x	x	0
+B-PER	0	20	O	O	the	x	x	0
+I-PER	0	21	O	O	baby	x	x	0
+O	0	22	O	O	was	x	x	0
+O	0	23	O	O	born	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	through	x	x	0
+O	0	26	O	O	delivery	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	or	x	x	0
+O	0	29	O	O	if	x	x	0
+O	0	30	O	O	maybe	x	x	0
+O	0	31	O	O	from	x	x	0
+O	0	32	O	O	um	x	x	0
+B-PER	0	33	O	O	the	x	x	0
+I-PER	0	34	O	O	corpse	x	x	0
+B-PER	0	35	O	O	I	x	x	0
+O	0	36	O	O	guess	x	x	0
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	baby	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	separate	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	maybe	x	x	0
+O	0	1	O	O	extracted	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	actually	x	x	0
+B-PER	0	3	O	O	she	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	pregnant	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	baby	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	baby	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	separate	x	x	0
+O	0	5	O	O	from	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	body	x	x	0
+O	0	8	O	O	when	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	found	x	x	0
+B-PER	0	11	O	O	it	x	x	0
+O	0	12	O	O	?	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yep	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Um	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	if	x	x	0
+O	0	7	O	O	ma	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+B-PER	0	9	O	O	you	x	x	0
+O	0	10	O	O	know	x	x	0
+B-PER	0	11	O	O	I	x	x	0
+O	0	12	O	O	do	x	x	0
+O	0	13	O	O	n't	x	x	0
+O	0	14	O	O	know	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	whole	x	x	0
+O	0	17	O	O	story	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	sure	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	but	x	x	0
+O	0	22	O	O	um	x	x	0
+B-PER	0	23	O	O	he	x	x	0
+O	0	24	O	O	had	x	x	0
+B-PER	0	25	O	O	you	x	x	0
+O	0	26	O	O	know	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	obviously	x	x	0
+O	0	29	O	O	denied	x	x	0
+O	0	30	O	O	that	x	x	0
+B-PER	0	31	O	O	he	x	x	0
+O	0	32	O	O	was	x	x	0
+O	0	33	O	O	involved	x	x	0
+O	0	34	O	O	anything	x	x	0
+O	0	35	O	O	to	x	x	0
+O	0	36	O	O	do	x	x	0
+O	0	37	O	O	with	x	x	0
+O	0	38	O	O	it	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Then	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	found	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	having	x	x	0
+O	0	8	O	O	an	x	x	0
+O	0	9	O	O	affair	x	x	0
+O	0	10	O	O	on	x	x	0
+B-PER	0	11	O	O	her	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	course	x	x	0
+O	0	4	O	O	when	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	were	x	x	0
+O	0	7	O	O	investigating	x	x	0
+B-PER	0	8	O	O	him	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	tried	x	x	0
+O	0	11	O	O	running	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Dyed	x	x	0
+B-PER	0	1	O	O	his	x	x	0
+O	0	2	O	O	hair	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	grew	x	x	0
+O	0	5	O	O	out	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	mustache	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	caught	x	x	0
+B-PER	0	11	O	O	him	x	x	0
+O	0	12	O	O	trying	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	run	x	x	0
+O	0	15	O	O	with	x	x	0
+O	0	16	O	O	quite	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	bit	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	cash	x	x	0
+O	0	21	O	O	.	x	x	0
+
+O	0	0	O	O	Wow	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	mean	x	x	0
+O	0	3	O	O	,	x	x	0
+
+O	0	0	O	O	((	x	x	0
+O	0	1	O	O	))	x	x	0
+
+B-PER	0	0	O	O	he	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	honesty	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	guilty	x	x	0
+O	0	7	O	O	all	x	x	0
+O	0	8	O	O	along	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	way	x	x	0
+O	0	11	O	O	but	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	of	x	x	0
+O	0	1	O	O	course	x	x	0
+B-PER	0	2	O	O	you	x	x	0
+O	0	3	O	O	know	x	x	0
+B-PER	0	4	O	O	they	x	x	0
+O	0	5	O	O	've	x	x	0
+O	0	6	O	O	got	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	give	x	x	0
+B-PER	0	9	O	O	him	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	reasonable	x	x	0
+O	0	12	O	O	doubt	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	is	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	is	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	still	x	x	0
+O	0	6	O	O	um	x	x	0
+O	0	7	O	O	in	x	x	0
+B-FAC	0	8	O	O	prison	x	x	0
+B-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	Yeah	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	're	x	x	0
+O	0	3	O	O	making	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	determination	x	x	0
+O	0	6	O	O	if	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	fact	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	get	x	x	0
+B-Sentence	0	12	O	O	the	x	x	0
+I-Sentence	0	13	O	O	death	x	x	0
+I-Sentence	0	14	O	O	penalty	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	or	x	x	0
+O	0	17	O	O	life	x	x	0
+O	0	18	O	O	in	x	x	0
+B-FAC	0	19	O	O	prison	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	up	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	air	x	x	0
+B-TIME	0	10	O	O	right	x	x	0
+I-TIME	0	11	O	O	now	x	x	0
+O	0	12	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	What	x	x	0
+I-GPE	0	1	O	O	state	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	?	x	x	0
+
+B-GPE	0	0	O	O	California	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	California	x	x	0
+O	0	4	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	um	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	know	x	x	0
+B-PER	0	4	O	O	I	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	supposed	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	deliberated	x	x	0
+O	0	14	O	O	on	x	x	0
+B-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	twenty-second	x	x	0
+I-TIME	0	17	O	O	of	x	x	0
+I-TIME	0	18	O	O	November	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	but	x	x	0
+B-PER	0	21	O	O	they	x	x	0
+O	0	22	O	O	had	x	x	0
+O	0	23	O	O	an	x	x	0
+O	0	24	O	O	issue	x	x	0
+O	0	25	O	O	happen	x	x	0
+O	0	26	O	O	with	x	x	0
+O	0	27	O	O	one	x	x	0
+O	0	28	O	O	of	x	x	0
+B-PER	0	29	O	O	the	x	x	0
+I-PER	0	30	O	O	jurors	x	x	0
+O	0	31	O	O	so	x	x	0
+O	0	32	O	O	it	x	x	0
+O	0	33	O	O	's	x	x	0
+O	0	34	O	O	postponed	x	x	0
+O	0	35	O	O	everything	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	actually	x	x	0
+B-PER	0	3	O	O	they	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	trying	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	pass	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	law	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	know	x	x	0
+O	0	16	O	O	if	x	x	0
+O	0	17	O	O	it	x	x	0
+O	0	18	O	O	ever	x	x	0
+O	0	19	O	O	did	x	x	0
+O	0	20	O	O	take	x	x	0
+O	0	21	O	O	into	x	x	0
+O	0	22	O	O	effect	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	that	x	x	0
+O	0	25	O	O	if	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	fact	x	x	0
+B-PER	0	28	O	O	a	x	x	0
+I-PER	0	29	O	O	mother	x	x	0
+O	0	30	O	O	was	x	x	0
+O	0	31	O	O	killed	x	x	0
+O	0	32	O	O	,	x	x	0
+O	0	33	O	O	and	x	x	0
+O	0	34	O	O	pregnant	x	x	0
+O	0	35	O	O	,	x	x	0
+O	0	36	O	O	um	x	x	0
+O	0	37	O	O	for	x	x	0
+O	0	38	O	O	there	x	x	0
+O	0	39	O	O	to	x	x	0
+O	0	40	O	O	be	x	x	0
+B-Crime	0	41	O	O	a	x	x	0
+I-Crime	0	42	O	O	double	x	x	0
+I-Crime	0	43	O	O	murder	x	x	0
+O	0	44	O	O	charge	x	x	0
+O	0	45	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	uh-huh	x	x	0
+O	0	3	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	were	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	fact	x	x	0
+O	0	5	O	O	trying	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	enforce	x	x	0
+B-Sentence	0	8	O	O	the	x	x	0
+I-Sentence	0	9	O	O	death	x	x	0
+I-Sentence	0	10	O	O	penalty	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	charge	x	x	0
+O	0	14	O	O	if	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	were	x	x	0
+O	0	17	O	O	found	x	x	0
+O	0	18	O	O	guilty	x	x	0
+O	0	19	O	O	on	x	x	0
+O	0	20	O	O	both	x	x	0
+O	0	21	O	O	charges	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	Uh-huh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	so	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	kind	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	up	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	air	x	x	0
+B-TIME	0	10	O	O	now	x	x	0
+O	0	11	O	O	because	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+B-PER	0	13	O	O	I	x	x	0
+O	0	14	O	O	believe	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	got	x	x	0
+B-Crime	0	17	O	O	first	x	x	0
+I-Crime	0	18	O	O	degree	x	x	0
+I-Crime	0	19	O	O	murder	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	um	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	then	x	x	0
+O	0	24	O	O	got	x	x	0
+B-Crime	0	25	O	O	manslaughter	x	x	0
+O	0	26	O	O	on	x	x	0
+B-PER	0	27	O	O	the	x	x	0
+I-PER	0	28	O	O	baby	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	both	x	x	0
+B-Crime	0	6	O	O	first	x	x	0
+I-Crime	0	7	O	O	degree	x	x	0
+I-Crime	0	8	O	O	murders	x	x	0
+O	0	9	O	O	.	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	difference	x	x	0
+O	0	4	O	O	?	x	x	0
+
+O	0	0	O	O	Where	x	x	0
+O	0	1	O	O	Um	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	guess	x	x	0
+O	0	5	O	O	because	x	x	0
+B-PER	0	6	O	O	he	x	x	0
+O	0	7	O	O	did	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	murder	x	x	0
+B-PER	0	10	O	O	the	x	x	0
+I-PER	0	11	O	O	baby	x	x	0
+O	0	12	O	O	directly	x	x	0
+O	0	13	O	O	.	x	x	0
+
+O	0	0	O	O	Oh	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	thinking	x	x	0
+O	0	3	O	O	maybe	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	difference	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	because	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	charge	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	baby	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	they	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	automatically	x	x	0
+O	0	14	O	O	give	x	x	0
+B-PER	0	15	O	O	him	x	x	0
+B-Sentence	0	16	O	O	the	x	x	0
+I-Sentence	0	17	O	O	death	x	x	0
+I-Sentence	0	18	O	O	penalty	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	but	x	x	0
+O	0	21	O	O	obviously	x	x	0
+O	0	22	O	O	there	x	x	0
+O	0	23	O	O	's	x	x	0
+O	0	24	O	O	enough	x	x	0
+O	0	25	O	O	um	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	complaints	x	x	0
+O	0	28	O	O	or	x	x	0
+O	0	29	O	O	whatever	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	excuse	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	doing	x	x	0
+O	0	6	O	O	something	x	x	0
+O	0	7	O	O	horrible	x	x	0
+O	0	8	O	O	like	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	?	x	x	0
+
+O	0	0	O	O	and	x	x	0
+O	0	1	O	O	well	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	still	x	x	0
+O	0	4	O	O	denies	x	x	0
+O	0	5	O	O	everything	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	never	x	x	0
+O	0	3	O	O	admitted	x	x	0
+
+O	0	0	O	O	((	x	x	0
+O	0	1	O	O	Still	x	x	0
+O	0	2	O	O	does	x	x	0
+O	0	3	O	O	))	x	x	0
+
+O	0	0	O	O	to	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	it.	x	x	0
+O	0	3	O	O	um	x	x	0
+O	0	4	O	O	But	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	only	x	x	0
+O	0	7	O	O	thing	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	can	x	x	0
+O	0	10	O	O	figure	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	maybe	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	wanted	x	x	0
+O	0	16	O	O	back	x	x	0
+O	0	17	O	O	into	x	x	0
+O	0	18	O	O	the	x	x	0
+B-PER	0	19	O	O	bachelor	x	x	0
+O	0	20	O	O	life	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	did	x	x	0
+O	0	24	O	O	n't	x	x	0
+O	0	25	O	O	want	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	be	x	x	0
+B-PER	0	28	O	O	a	x	x	0
+I-PER	0	29	O	O	father	x	x	0
+O	0	30	O	O	,	x	x	0
+O	0	31	O	O	did	x	x	0
+O	0	32	O	O	n't	x	x	0
+O	0	33	O	O	want	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	be	x	x	0
+O	0	36	O	O	tied	x	x	0
+O	0	37	O	O	down	x	x	0
+O	0	38	O	O	with	x	x	0
+B-PER	0	39	O	O	a	x	x	0
+I-PER	0	40	O	O	wife	x	x	0
+I-PER	0	41	O	O	and	x	x	0
+I-PER	0	42	O	O	child	x	x	0
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	have	x	x	0
+B-PER	0	5	O	O	any	x	x	0
+I-PER	0	6	O	O	other	x	x	0
+I-PER	0	7	O	O	children	x	x	0
+O	0	8	O	O	?	x	x	0
+
+O	0	0	O	O	that	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	No	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	that	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	going	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	be	x	x	0
+B-PER	0	9	O	O	their	x	x	0
+O	0	10	O	O	first	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	actually	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	even	x	x	0
+O	0	6	O	O	think	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	were	x	x	0
+O	0	9	O	O	married	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	long	x	x	0
+O	0	12	O	O	,	x	x	0
+B-TIME	0	13	O	O	maybe	x	x	0
+I-TIME	0	14	O	O	a	x	x	0
+I-TIME	0	15	O	O	year	x	x	0
+I-TIME	0	16	O	O	or	x	x	0
+I-TIME	0	17	O	O	two	x	x	0
+O	0	18	O	O	.	x	x	0
+

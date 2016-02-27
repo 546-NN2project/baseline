@@ -1,0 +1,84 @@
+O	0	0	O	O	good	x	x	0
+B-TIME	0	1	O	O	evening	x	x	0
+O	0	2	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Coalition	x	x	0
+O	0	1	O	O	forces	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Baghdad	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	arrested	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	Palestinian	x	x	0
+O	0	8	O	O	terrorist	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	led	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	hijacking	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	the	x	x	0
+B-GPE	0	15	O	O	Italian	x	x	0
+O	0	16	O	O	cruise	x	x	0
+O	0	17	O	O	ship	x	x	0
+B-VEH	0	18	O	O	the	x	x	0
+I-VEH	0	19	O	O	Achille	x	x	0
+I-VEH	0	20	O	O	Lauro	x	x	0
+O	0	21	O	O	in	x	x	0
+B-TIME	0	22	O	O	1985	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	During	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	hijacking	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	terrorists	x	x	0
+O	0	5	O	O	shot	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	killed	x	x	0
+B-PER	0	8	O	O	a	x	x	0
+I-PER	0	9	O	O	disabled	x	x	0
+I-PER	0	10	O	O	American	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	Leon	x	x	0
+I-PER	0	13	O	O	Klinghoffer	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	as	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	sat	x	x	0
+O	0	18	O	O	in	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	wheelchair	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	threw	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	body	x	x	0
+O	0	4	O	O	overboard	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	National	x	x	0
+I-PER	0	1	O	O	Security	x	x	0
+I-PER	0	2	O	O	correspondent	x	x	0
+O	0	3	O	O	David	x	x	0
+O	0	4	O	O	ensor	x	x	0
+O	0	5	O	O	joins	x	x	0
+B-PER	0	6	O	O	US	x	x	0
+O	0	7	O	O	live	x	x	0
+O	0	8	O	O	from	x	x	0
+B-GPE	0	9	O	O	Washington	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	David	x	x	0
+O	0	1	O	O	?	x	x	0
+

@@ -1,0 +1,875 @@
+B-GPE	0	0	O	O	BEIJING	x	x	0
+O	0	1	O	O	(	x	x	0
+B-ORG	0	2	O	O	AP	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	An	x	x	0
+O	0	5	O	O	accident	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	diesel-powered	x	x	0
+B-GPE	0	9	O	O	Chinese	x	x	0
+O	0	10	O	O	submarine	x	x	0
+O	0	11	O	O	has	x	x	0
+O	0	12	O	O	killed	x	x	0
+B-PER	0	13	O	O	all	x	x	0
+I-PER	0	14	O	O	70	x	x	0
+I-PER	0	15	O	O	officers	x	x	0
+I-PER	0	16	O	O	and	x	x	0
+I-PER	0	17	O	O	sailors	x	x	0
+I-PER	0	18	O	O	aboard	x	x	0
+O	0	19	O	O	,	x	x	0
+B-ORG	0	20	O	O	the	x	x	0
+I-ORG	0	21	O	O	official	x	x	0
+I-ORG	0	22	O	O	Xinhua	x	x	0
+I-ORG	0	23	O	O	News	x	x	0
+I-ORG	0	24	O	O	Agency	x	x	0
+O	0	25	O	O	reported	x	x	0
+B-TIME	0	26	O	O	Friday	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	accident	x	x	0
+O	0	2	O	O	occurred	x	x	0
+O	0	3	O	O	``	x	x	0
+B-TIME	0	4	O	O	recently	x	x	0
+O	0	5	O	O	''	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Chinese	x	x	0
+O	0	8	O	O	waters	x	x	0
+O	0	9	O	O	east	x	x	0
+O	0	10	O	O	of	x	x	0
+B-LOC	0	11	O	O	the	x	x	0
+I-LOC	0	12	O	O	Neichangshan	x	x	0
+I-LOC	0	13	O	O	islands	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	brief	x	x	0
+O	0	17	O	O	Chinese-language	x	x	0
+O	0	18	O	O	report	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-LOC	0	0	O	O	The	x	x	0
+I-LOC	0	1	O	O	islands	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	in	x	x	0
+B-LOC	0	4	O	O	the	x	x	0
+I-LOC	0	5	O	O	Yellow	x	x	0
+I-LOC	0	6	O	O	Sea	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	between	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	northeastern	x	x	0
+O	0	11	O	O	province	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	Liaoning	x	x	0
+O	0	14	O	O	and	x	x	0
+B-GPE	0	15	O	O	North	x	x	0
+I-GPE	0	16	O	O	Korea	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	submarine	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	exercise	x	x	0
+O	0	6	O	O	when	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	accident	x	x	0
+O	0	9	O	O	occurred	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	``	x	x	0
+O	0	13	O	O	because	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	mechanical	x	x	0
+O	0	17	O	O	malfunction	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	70	x	x	0
+B-PER	0	21	O	O	crew	x	x	0
+O	0	22	O	O	members	x	x	0
+O	0	23	O	O	on	x	x	0
+O	0	24	O	O	board	x	x	0
+O	0	25	O	O	died	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	''	x	x	0
+O	0	28	O	O	the	x	x	0
+B-ORG	0	29	O	O	Xinhua	x	x	0
+O	0	30	O	O	report	x	x	0
+O	0	31	O	O	said	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	give	x	x	0
+O	0	4	O	O	further	x	x	0
+O	0	5	O	O	details	x	x	0
+O	0	6	O	O	or	x	x	0
+O	0	7	O	O	say	x	x	0
+O	0	8	O	O	how	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	crew	x	x	0
+O	0	11	O	O	died	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	vessel	x	x	0
+O	0	2	O	O	already	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	towed	x	x	0
+O	0	6	O	O	back	x	x	0
+O	0	7	O	O	to	x	x	0
+B-GPE	0	8	O	O	an	x	x	0
+I-GPE	0	9	O	O	unidentified	x	x	0
+I-GPE	0	10	O	O	port	x	x	0
+O	0	11	O	O	,	x	x	0
+B-ORG	0	12	O	O	Xinhua	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	It	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	hull	x	x	0
+O	0	4	O	O	number	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	361	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	which	x	x	0
+B-PER	0	9	O	O	military	x	x	0
+I-PER	0	10	O	O	analysts	x	x	0
+O	0	11	O	O	said	x	x	0
+O	0	12	O	O	appeared	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	make	x	x	0
+B-VEH	0	15	O	O	it	x	x	0
+B-VEH	0	16	O	O	a	x	x	0
+I-VEH	0	17	O	O	Ming-class	x	x	0
+I-VEH	0	18	O	O	submarine	x	x	0
+O	0	19	O	O	,	x	x	0
+B-VEH	0	20	O	O	a	x	x	0
+I-VEH	0	21	O	O	vessel	x	x	0
+I-VEH	0	22	O	O	used	x	x	0
+I-VEH	0	23	O	O	for	x	x	0
+I-VEH	0	24	O	O	patrols	x	x	0
+I-VEH	0	25	O	O	and	x	x	0
+I-VEH	0	26	O	O	coastal	x	x	0
+I-VEH	0	27	O	O	defense	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	announcement	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	unusual	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	communist	x	x	0
+O	0	7	O	O	government	x	x	0
+B-GPE	0	8	O	O	that	x	x	0
+O	0	9	O	O	rarely	x	x	0
+O	0	10	O	O	acknowledges	x	x	0
+O	0	11	O	O	military	x	x	0
+O	0	12	O	O	accidents	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	first	x	x	0
+O	0	4	O	O	time	x	x	0
+B-GPE	0	5	O	O	China	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	announced	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	fatal	x	x	0
+B-VEH	0	10	O	O	submarine	x	x	0
+O	0	11	O	O	mishap	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	said	x	x	0
+B-PER	0	14	O	O	Bernard	x	x	0
+I-PER	0	15	O	O	Cole	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	professor	x	x	0
+O	0	19	O	O	at	x	x	0
+O	0	20	O	O	the	x	x	0
+B-GPE	0	21	O	O	U.N.	x	x	0
+O	0	22	O	O	National	x	x	0
+O	0	23	O	O	War	x	x	0
+O	0	24	O	O	College	x	x	0
+O	0	25	O	O	in	x	x	0
+B-GPE	0	26	O	O	Washington	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	specialist	x	x	0
+O	0	30	O	O	on	x	x	0
+O	0	31	O	O	the	x	x	0
+B-GPE	0	32	O	O	Chinese	x	x	0
+O	0	33	O	O	navy	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	There	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	rumors	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	around	x	x	0
+O	0	7	O	O	about	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	loss	x	x	0
+O	0	10	O	O	of	x	x	0
+B-VEH	0	11	O	O	submarines	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	but	x	x	0
+O	0	14	O	O	this	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	first	x	x	0
+O	0	18	O	O	fatal	x	x	0
+O	0	19	O	O	accident	x	x	0
+O	0	20	O	O	that	x	x	0
+B-PER	0	21	O	O	I	x	x	0
+O	0	22	O	O	know	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	''	x	x	0
+O	0	26	O	O	said	x	x	0
+B-PER	0	27	O	O	Cole	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	China	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	military	x	x	0
+O	0	3	O	O	,	x	x	0
+B-ORG	0	4	O	O	which	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	tradition	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	secrecy	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	did	x	x	0
+O	0	12	O	O	not	x	x	0
+O	0	13	O	O	comment	x	x	0
+O	0	14	O	O	about	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	accident	x	x	0
+B-TIME	0	17	O	O	Friday	x	x	0
+I-TIME	0	18	O	O	night	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Foreign	x	x	0
+I-PER	0	1	O	O	military	x	x	0
+I-PER	0	2	O	O	analysts	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	be	x	x	0
+O	0	7	O	O	highly	x	x	0
+O	0	8	O	O	unusual	x	x	0
+O	0	9	O	O	for	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	accident	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	kill	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	whole	x	x	0
+B-VEH	0	16	O	O	submarine	x	x	0
+O	0	17	O	O	crew	x	x	0
+O	0	18	O	O	while	x	x	0
+O	0	19	O	O	still	x	x	0
+O	0	20	O	O	allowing	x	x	0
+B-VEH	0	21	O	O	the	x	x	0
+I-VEH	0	22	O	O	vessel	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	be	x	x	0
+O	0	25	O	O	recovered	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	suggested	x	x	0
+O	0	2	O	O	possible	x	x	0
+O	0	3	O	O	causes	x	x	0
+O	0	4	O	O	ranging	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	sinking	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	shallow	x	x	0
+O	0	10	O	O	water	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	disaster	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	flooded	x	x	0
+B-VEH	0	16	O	O	the	x	x	0
+I-VEH	0	17	O	O	vessel	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	toxic	x	x	0
+O	0	20	O	O	chemical	x	x	0
+O	0	21	O	O	fumes	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Michael	x	x	0
+I-PER	0	1	O	O	McGinty	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	expert	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	the	x	x	0
+B-GPE	0	7	O	O	Chinese	x	x	0
+O	0	8	O	O	navy	x	x	0
+O	0	9	O	O	from	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	Royal	x	x	0
+O	0	12	O	O	United	x	x	0
+O	0	13	O	O	Services	x	x	0
+O	0	14	O	O	Institute	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	Defense	x	x	0
+O	0	17	O	O	Studies	x	x	0
+O	0	18	O	O	in	x	x	0
+B-GPE	0	19	O	O	London	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	said	x	x	0
+O	0	22	O	O	that	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	mishap	x	x	0
+O	0	25	O	O	likely	x	x	0
+O	0	26	O	O	happened	x	x	0
+O	0	27	O	O	while	x	x	0
+B-VEH	0	28	O	O	the	x	x	0
+I-VEH	0	29	O	O	submarine	x	x	0
+O	0	30	O	O	was	x	x	0
+O	0	31	O	O	on	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	surface	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	accident	x	x	0
+O	0	3	O	O	happened	x	x	0
+O	0	4	O	O	when	x	x	0
+B-VEH	0	5	O	O	the	x	x	0
+I-VEH	0	6	O	O	vessel	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	underwater	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	less	x	x	0
+O	0	13	O	O	likely	x	x	0
+O	0	14	O	O	that	x	x	0
+B-GPE	0	15	O	O	China	x	x	0
+O	0	16	O	O	could	x	x	0
+O	0	17	O	O	have	x	x	0
+O	0	18	O	O	recovered	x	x	0
+B-VEH	0	19	O	O	it	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	said	x	x	0
+B-PER	0	22	O	O	McGinty	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	a	x	x	0
+B-TIME	0	25	O	O	former	x	x	0
+B-GPE	0	26	O	O	British	x	x	0
+B-Job-Title	0	27	O	O	submariner	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	For	x	x	0
+O	0	2	O	O	an	x	x	0
+O	0	3	O	O	accident	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	been	x	x	0
+O	0	7	O	O	so	x	x	0
+O	0	8	O	O	catastrophic	x	x	0
+O	0	9	O	O	when	x	x	0
+B-VEH	0	10	O	O	the	x	x	0
+I-VEH	0	11	O	O	submarine	x	x	0
+O	0	12	O	O	was	x	x	0
+O	0	13	O	O	on	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	surface	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	I	x	x	0
+O	0	18	O	O	find	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	very	x	x	0
+O	0	22	O	O	mysterious	x	x	0
+O	0	23	O	O	thing	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	''	x	x	0
+B-PER	0	26	O	O	he	x	x	0
+O	0	27	O	O	said	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	McGinty	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	that	x	x	0
+B-VEH	0	3	O	O	the	x	x	0
+I-VEH	0	4	O	O	submarine	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	batteries	x	x	0
+O	0	7	O	O	might	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	leaked	x	x	0
+O	0	10	O	O	acid	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	mixed	x	x	0
+O	0	13	O	O	with	x	x	0
+O	0	14	O	O	seawater	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	creating	x	x	0
+O	0	17	O	O	toxic	x	x	0
+O	0	18	O	O	chlorine	x	x	0
+O	0	19	O	O	gas	x	x	0
+O	0	20	O	O	that	x	x	0
+O	0	21	O	O	killed	x	x	0
+B-PER	0	22	O	O	the	x	x	0
+I-PER	0	23	O	O	crew	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	The	x	x	0
+I-WEA	0	1	O	O	torpedoes	x	x	0
+O	0	2	O	O	might	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	leaked	x	x	0
+O	0	5	O	O	propellant	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	poisoned	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	crew	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	he	x	x	0
+O	0	12	O	O	said	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	accident	x	x	0
+O	0	2	O	O	could	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	occurred	x	x	0
+B-TIME	0	5	O	O	as	x	x	0
+I-TIME	0	6	O	O	long	x	x	0
+I-TIME	0	7	O	O	ago	x	x	0
+I-TIME	0	8	O	O	as	x	x	0
+I-TIME	0	9	O	O	March	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	said	x	x	0
+B-PER	0	12	O	O	Cole	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	a	x	x	0
+B-TIME	0	15	O	O	former	x	x	0
+B-GPE	0	16	O	O	U.S.	x	x	0
+O	0	17	O	O	Navy	x	x	0
+B-Job-Title	0	18	O	O	antisubmarine	x	x	0
+I-Job-Title	0	19	O	O	warfare	x	x	0
+I-Job-Title	0	20	O	O	officer	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	There	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	been	x	x	0
+O	0	4	O	O	exercises	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	in	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	Yellow	x	x	0
+I-LOC	0	10	O	O	Sea	x	x	0
+O	0	11	O	O	over	x	x	0
+B-TIME	0	12	O	O	the	x	x	0
+I-TIME	0	13	O	O	past	x	x	0
+I-TIME	0	14	O	O	two	x	x	0
+I-TIME	0	15	O	O	months	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	''	x	x	0
+B-PER	0	18	O	O	he	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-VEH	0	1	O	O	This	x	x	0
+I-VEH	0	2	O	O	boat	x	x	0
+O	0	3	O	O	could	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	involved	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	those	x	x	0
+O	0	9	O	O	exercises	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	gone	x	x	0
+O	0	12	O	O	down	x	x	0
+B-TIME	0	13	O	O	over	x	x	0
+I-TIME	0	14	O	O	a	x	x	0
+I-TIME	0	15	O	O	month	x	x	0
+I-TIME	0	16	O	O	ago	x	x	0
+O	0	17	O	O	.	x	x	0
+O	0	18	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Cole	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	loss	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	all	x	x	0
+I-PER	0	6	O	O	hands	x	x	0
+O	0	7	O	O	suggested	x	x	0
+B-VEH	0	8	O	O	the	x	x	0
+I-VEH	0	9	O	O	vessel	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	flooded	x	x	0
+O	0	12	O	O	or	x	x	0
+O	0	13	O	O	sank	x	x	0
+O	0	14	O	O	because	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	collision	x	x	0
+O	0	18	O	O	or	x	x	0
+O	0	19	O	O	engineering	x	x	0
+O	0	20	O	O	problem	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+B-VEH	0	2	O	O	Ming-class	x	x	0
+I-VEH	0	3	O	O	subs	x	x	0
+O	0	4	O	O	usually	x	x	0
+O	0	5	O	O	carry	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	crew	x	x	0
+O	0	8	O	O	of	x	x	0
+B-PER	0	9	O	O	50	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	suggesting	x	x	0
+O	0	12	O	O	that	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	others	x	x	0
+I-PER	0	15	O	O	aboard	x	x	0
+O	0	16	O	O	might	x	x	0
+O	0	17	O	O	have	x	x	0
+O	0	18	O	O	been	x	x	0
+B-PER	0	19	O	O	technicians	x	x	0
+O	0	20	O	O	or	x	x	0
+B-PER	0	21	O	O	staff	x	x	0
+I-PER	0	22	O	O	officers	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	China	x	x	0
+O	0	1	O	O	began	x	x	0
+O	0	2	O	O	building	x	x	0
+B-VEH	0	3	O	O	the	x	x	0
+I-VEH	0	4	O	O	Ming-class	x	x	0
+I-VEH	0	5	O	O	subs	x	x	0
+O	0	6	O	O	in	x	x	0
+B-TIME	0	7	O	O	the	x	x	0
+I-TIME	0	8	O	O	1970s	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-VEH	0	11	O	O	they	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	obsolete	x	x	0
+O	0	14	O	O	by	x	x	0
+O	0	15	O	O	modern	x	x	0
+O	0	16	O	O	standards	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	according	x	x	0
+O	0	19	O	O	to	x	x	0
+B-ORG	0	20	O	O	the	x	x	0
+I-ORG	0	21	O	O	Federation	x	x	0
+I-ORG	0	22	O	O	of	x	x	0
+I-ORG	0	23	O	O	American	x	x	0
+I-ORG	0	24	O	O	Scientists	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	The	x	x	0
+I-VEH	0	1	O	O	first	x	x	0
+I-VEH	0	2	O	O	three	x	x	0
+I-VEH	0	3	O	O	Ming-class	x	x	0
+I-VEH	0	4	O	O	subs	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	completed	x	x	0
+O	0	7	O	O	between	x	x	0
+B-TIME	0	8	O	O	1971	x	x	0
+O	0	9	O	O	and	x	x	0
+B-TIME	0	10	O	O	1979	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	of	x	x	0
+B-VEH	0	15	O	O	them	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	scrapped	x	x	0
+O	0	18	O	O	after	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	fire	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	according	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	Web	x	x	0
+O	0	26	O	O	site	x	x	0
+O	0	27	O	O	of	x	x	0
+B-ORG	0	28	O	O	Jane	x	x	0
+I-ORG	0	29	O	O	's	x	x	0
+I-ORG	0	30	O	O	Information	x	x	0
+I-ORG	0	31	O	O	Group	x	x	0
+O	0	32	O	O	,	x	x	0
+B-ORG	0	33	O	O	a	x	x	0
+I-ORG	0	34	O	O	leading	x	x	0
+I-ORG	0	35	O	O	of	x	x	0
+I-ORG	0	36	O	O	source	x	x	0
+I-ORG	0	37	O	O	defense	x	x	0
+I-ORG	0	38	O	O	information	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	China	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	believed	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	have	x	x	0
+B-VEH	0	5	O	O	as	x	x	0
+I-VEH	0	6	O	O	many	x	x	0
+I-VEH	0	7	O	O	as	x	x	0
+I-VEH	0	8	O	O	19	x	x	0
+I-VEH	0	9	O	O	Ming-class	x	x	0
+I-VEH	0	10	O	O	submarines	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	China	x	x	0
+O	0	1	O	O	's	x	x	0
+B-VEH	0	2	O	O	submarine	x	x	0
+O	0	3	O	O	fleet	x	x	0
+O	0	4	O	O	includes	x	x	0
+O	0	5	O	O	66	x	x	0
+O	0	6	O	O	boats	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	most	x	x	0
+O	0	9	O	O	of	x	x	0
+B-VEH	0	10	O	O	them	x	x	0
+B-VEH	0	11	O	O	aging	x	x	0
+I-VEH	0	12	O	O	diesel-electric	x	x	0
+I-VEH	0	13	O	O	vessels	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	McGinty	x	x	0
+O	0	16	O	O	said	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+B-VEH	0	2	O	O	the	x	x	0
+I-VEH	0	3	O	O	fleet	x	x	0
+O	0	4	O	O	suffers	x	x	0
+O	0	5	O	O	from	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	chronic	x	x	0
+O	0	8	O	O	lack	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	money	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	training	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	maintenance	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-GPE	0	1	O	O	the	x	x	0
+I-GPE	0	2	O	O	Chinese	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	aggressively	x	x	0
+O	0	5	O	O	updating	x	x	0
+B-GPE	0	6	O	O	their	x	x	0
+O	0	7	O	O	fleet	x	x	0
+O	0	8	O	O	with	x	x	0
+B-VEH	0	9	O	O	Russian-made	x	x	0
+I-VEH	0	10	O	O	Kilo-class	x	x	0
+I-VEH	0	11	O	O	diesel-electric	x	x	0
+I-VEH	0	12	O	O	subs	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	The	x	x	0
+B-VEH	0	2	O	O	submarine	x	x	0
+O	0	3	O	O	force	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	most	x	x	0
+O	0	7	O	O	potent	x	x	0
+O	0	8	O	O	part	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	the	x	x	0
+B-GPE	0	11	O	O	Chinese	x	x	0
+O	0	12	O	O	navy	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	''	x	x	0
+O	0	15	O	O	said	x	x	0
+B-PER	0	16	O	O	Cole	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Despite	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	difficulty	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	maintaining	x	x	0
+B-VEH	0	5	O	O	a	x	x	0
+I-VEH	0	6	O	O	fleet	x	x	0
+O	0	7	O	O	,	x	x	0
+B-VEH	0	8	O	O	subs	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	valuable	x	x	0
+O	0	11	O	O	because	x	x	0
+B-VEH	0	12	O	O	they	x	x	0
+O	0	13	O	O	are	x	x	0
+O	0	14	O	O	hard	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	detect	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	Cole	x	x	0
+O	0	19	O	O	said	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	conflict	x	x	0
+O	0	3	O	O	over	x	x	0
+B-GPE	0	4	O	O	Taiwan	x	x	0
+O	0	5	O	O	or	x	x	0
+O	0	6	O	O	some	x	x	0
+O	0	7	O	O	other	x	x	0
+O	0	8	O	O	confrontation	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	said	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	``	x	x	0
+B-GPE	0	14	O	O	China	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	ability	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	field	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	force	x	x	0
+O	0	21	O	O	of	x	x	0
+B-VEH	0	22	O	O	even	x	x	0
+I-VEH	0	23	O	O	a	x	x	0
+I-VEH	0	24	O	O	dozen	x	x	0
+I-VEH	0	25	O	O	submarines	x	x	0
+O	0	26	O	O	could	x	x	0
+O	0	27	O	O	pose	x	x	0
+O	0	28	O	O	a	x	x	0
+O	0	29	O	O	big	x	x	0
+O	0	30	O	O	problem	x	x	0
+O	0	31	O	O	for	x	x	0
+B-ORG	0	32	O	O	any	x	x	0
+I-ORG	0	33	O	O	other	x	x	0
+I-ORG	0	34	O	O	naval	x	x	0
+I-ORG	0	35	O	O	force	x	x	0
+O	0	36	O	O	.	x	x	0
+O	0	37	O	O	''	x	x	0
+
+
+
+B-ORG	0	0	O	O	Xinhua	x	x	0
+O	0	1	O	O	said	x	x	0
+B-TIME	0	2	O	O	former	x	x	0
+B-Job-Title	0	3	O	O	President	x	x	0
+O	0	4	O	O	Jiang	x	x	0
+O	0	5	O	O	Zemin	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	chairman	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	commission	x	x	0
+B-ORG	0	13	O	O	that	x	x	0
+O	0	14	O	O	runs	x	x	0
+B-GPE	0	15	O	O	China	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	military	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	on	x	x	0
+B-TIME	0	20	O	O	Friday	x	x	0
+O	0	21	O	O	sent	x	x	0
+O	0	22	O	O	condolences	x	x	0
+O	0	23	O	O	to	x	x	0
+O	0	24	O	O	family	x	x	0
+O	0	25	O	O	members	x	x	0
+O	0	26	O	O	of	x	x	0
+B-PER	0	27	O	O	the	x	x	0
+I-PER	0	28	O	O	crew	x	x	0
+O	0	29	O	O	.	x	x	0
+

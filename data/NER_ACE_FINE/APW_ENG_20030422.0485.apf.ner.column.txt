@@ -1,0 +1,270 @@
+O	0	0	O	O	LISBON	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Portugal	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	The	x	x	0
+B-GPE	0	7	O	O	U.S.	x	x	0
+O	0	8	O	O	Assistant	x	x	0
+O	0	9	O	O	Secretary	x	x	0
+O	0	10	O	O	of	x	x	0
+B-ORG	0	11	O	O	State	x	x	0
+O	0	12	O	O	for	x	x	0
+B-GPE	0	13	O	O	Europe	x	x	0
+O	0	14	O	O	and	x	x	0
+B-GPE	0	15	O	O	Eurasia	x	x	0
+O	0	16	O	O	said	x	x	0
+B-TIME	0	17	O	O	Tuesday	x	x	0
+O	0	18	O	O	that	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	U.S.	x	x	0
+O	0	21	O	O	government	x	x	0
+O	0	22	O	O	wo	x	x	0
+O	0	23	O	O	n't	x	x	0
+O	0	24	O	O	be	x	x	0
+O	0	25	O	O	involved	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	choosing	x	x	0
+B-PER	0	28	O	O	subcontractors	x	x	0
+O	0	29	O	O	for	x	x	0
+B-GPE	0	30	O	O	American	x	x	0
+O	0	31	O	O	companies	x	x	0
+O	0	32	O	O	named	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	help	x	x	0
+O	0	35	O	O	rebuild	x	x	0
+B-GPE	0	36	O	O	Iraq	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	The	x	x	0
+O	0	2	O	O	way	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	works	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	that	x	x	0
+O	0	7	O	O	there	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	initial	x	x	0
+O	0	12	O	O	set	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	contracts	x	x	0
+O	0	15	O	O	let	x	x	0
+O	0	16	O	O	to	x	x	0
+B-GPE	0	17	O	O	US	x	x	0
+O	0	18	O	O	companies	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	since	x	x	0
+O	0	21	O	O	it	x	x	0
+O	0	22	O	O	's	x	x	0
+B-GPE	0	23	O	O	U.S.	x	x	0
+O	0	24	O	O	money	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Those	x	x	0
+I-ORG	0	1	O	O	companies	x	x	0
+O	0	2	O	O	can	x	x	0
+O	0	3	O	O	subcontract	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	any	x	x	0
+O	0	6	O	O	company	x	x	0
+B-ORG	0	7	O	O	they	x	x	0
+O	0	8	O	O	want	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	''	x	x	0
+B-PER	0	11	O	O	Elizabeth	x	x	0
+I-PER	0	12	O	O	Jones	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	made	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	statements	x	x	0
+O	0	4	O	O	after	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	meeting	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	speaker	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	Portuguese	x	x	0
+O	0	13	O	O	parliament	x	x	0
+O	0	14	O	O	,	x	x	0
+B-PER	0	15	O	O	Joao	x	x	0
+I-PER	0	16	O	O	Mota	x	x	0
+I-PER	0	17	O	O	Amaral	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	The	x	x	0
+B-GPE	0	2	O	O	U.S.	x	x	0
+O	0	3	O	O	government	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	done	x	x	0
+O	0	6	O	O	what	x	x	0
+B-GPE	0	7	O	O	it	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	going	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	:	x	x	0
+B-GPE	0	13	O	O	it	x	x	0
+O	0	14	O	O	has	x	x	0
+O	0	15	O	O	opened	x	x	0
+O	0	16	O	O	up	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	process	x	x	0
+O	0	19	O	O	to	x	x	0
+B-ORG	0	20	O	O	international	x	x	0
+I-ORG	0	21	O	O	companies	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	ca	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	direct	x	x	0
+O	0	4	O	O	commerce	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	''	x	x	0
+B-PER	0	7	O	O	Jones	x	x	0
+O	0	8	O	O	said	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Once	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	commercial	x	x	0
+O	0	6	O	O	proposition	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	then	x	x	0
+O	0	9	O	O	international	x	x	0
+O	0	10	O	O	bidding	x	x	0
+O	0	11	O	O	processes	x	x	0
+O	0	12	O	O	come	x	x	0
+O	0	13	O	O	into	x	x	0
+O	0	14	O	O	effect	x	x	0
+O	0	15	O	O	.	x	x	0
+O	0	16	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	Jones	x	x	0
+O	0	1	O	O	met	x	x	0
+O	0	2	O	O	with	x	x	0
+B-PER	0	3	O	O	Defense	x	x	0
+I-PER	0	4	O	O	Minister	x	x	0
+O	0	5	O	O	Paulo	x	x	0
+O	0	6	O	O	Portas	x	x	0
+O	0	7	O	O	on	x	x	0
+B-TIME	0	8	O	O	Tuesday	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	will	x	x	0
+O	0	11	O	O	meet	x	x	0
+B-PER	0	12	O	O	Foreign	x	x	0
+I-PER	0	13	O	O	Minister	x	x	0
+O	0	14	O	O	Antonio	x	x	0
+O	0	15	O	O	Martins	x	x	0
+O	0	16	O	O	da	x	x	0
+O	0	17	O	O	Cruz	x	x	0
+O	0	18	O	O	before	x	x	0
+O	0	19	O	O	leaving	x	x	0
+B-GPE	0	20	O	O	Portugal	x	x	0
+B-TIME	0	21	O	O	Wednesday	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	About	x	x	0
+O	0	1	O	O	50	x	x	0
+B-GPE	0	2	O	O	Portuguese	x	x	0
+O	0	3	O	O	companies	x	x	0
+O	0	4	O	O	mostly	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	construction	x	x	0
+O	0	8	O	O	sector	x	x	0
+O	0	9	O	O	_	x	x	0
+O	0	10	O	O	are	x	x	0
+O	0	11	O	O	applying	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	subcontracts	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	help	x	x	0
+O	0	16	O	O	rebuild	x	x	0
+B-GPE	0	17	O	O	Iraq	x	x	0
+O	0	18	O	O	,	x	x	0
+B-GPE	0	19	O	O	Portuguese	x	x	0
+O	0	20	O	O	media	x	x	0
+O	0	21	O	O	reported	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Many	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	hoping	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	reap	x	x	0
+O	0	5	O	O	benefits	x	x	0
+O	0	6	O	O	from	x	x	0
+B-GPE	0	7	O	O	Portuguese	x	x	0
+O	0	8	O	O	government	x	x	0
+O	0	9	O	O	support	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	the	x	x	0
+B-GPE	0	12	O	O	U.S.	x	x	0
+O	0	13	O	O	-	x	x	0
+O	0	14	O	O	led	x	x	0
+O	0	15	O	O	war	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	oust	x	x	0
+B-PER	0	18	O	O	Saddam	x	x	0
+I-PER	0	19	O	O	Hussein	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Portugal	x	x	0
+O	0	3	O	O	hosted	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	last	x	x	0
+O	0	6	O	O	ditch	x	x	0
+O	0	7	O	O	pre-war	x	x	0
+O	0	8	O	O	summit	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	Azores	x	x	0
+I-LOC	0	12	O	O	islands	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	leaders	x	x	0
+O	0	15	O	O	of	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	United	x	x	0
+I-GPE	0	18	O	O	States	x	x	0
+O	0	19	O	O	,	x	x	0
+B-GPE	0	20	O	O	Britain	x	x	0
+O	0	21	O	O	and	x	x	0
+B-GPE	0	22	O	O	Spain	x	x	0
+O	0	23	O	O	.	x	x	0
+

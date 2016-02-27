@@ -1,0 +1,1023 @@
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	make	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	donation	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	help	x	x	0
+B-PER	0	9	O	O	the	x	x	0
+I-PER	0	10	O	O	survivors	x	x	0
+I-PER	0	11	O	O	of	x	x	0
+I-PER	0	12	O	O	the	x	x	0
+I-PER	0	13	O	O	tsunami	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	skepticism	x	x	0
+O	0	6	O	O	with	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	Red	x	x	0
+I-ORG	0	9	O	O	Cross	x	x	0
+O	0	10	O	O	and	x	x	0
+B-ORG	0	11	O	O	a	x	x	0
+I-ORG	0	12	O	O	few	x	x	0
+I-ORG	0	13	O	O	others	x	x	0
+O	0	14	O	O	based	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	horror	x	x	0
+O	0	17	O	O	stories	x	x	0
+B-PER	0	18	O	O	I	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	heard	x	x	0
+O	0	21	O	O	reported	x	x	0
+O	0	22	O	O	in	x	x	0
+B-ORG	0	23	O	O	the	x	x	0
+I-ORG	0	24	O	O	media	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	this	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	always	x	x	0
+O	0	6	O	O	shied	x	x	0
+O	0	7	O	O	away	x	x	0
+O	0	8	O	O	from	x	x	0
+B-ORG	0	9	O	O	these	x	x	0
+I-ORG	0	10	O	O	national	x	x	0
+I-ORG	0	11	O	O	organizations	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	stuck	x	x	0
+O	0	14	O	O	with	x	x	0
+B-ORG	0	15	O	O	local	x	x	0
+I-ORG	0	16	O	O	groups	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Any	x	x	0
+O	0	1	O	O	thoughts	x	x	0
+O	0	2	O	O	as	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	where	x	x	0
+B-PER	0	5	O	O	my	x	x	0
+O	0	6	O	O	money	x	x	0
+O	0	7	O	O	would	x	x	0
+O	0	8	O	O	go	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	furthest	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Appreciate	x	x	0
+O	0	1	O	O	any	x	x	0
+O	0	2	O	O	input	x	x	0
+O	0	3	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	heard	x	x	0
+O	0	3	O	O	mostly	x	x	0
+O	0	4	O	O	positive	x	x	0
+O	0	5	O	O	things	x	x	0
+O	0	6	O	O	about	x	x	0
+O	0	7	O	O	how	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	Red	x	x	0
+I-ORG	0	10	O	O	Cross	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	handling	x	x	0
+B-ORG	0	13	O	O	their	x	x	0
+O	0	14	O	O	donations	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	with	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	very	x	x	0
+O	0	19	O	O	high	x	x	0
+B-Numeric	0	20	O	O	percentage	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	donated	x	x	0
+O	0	24	O	O	funds	x	x	0
+O	0	25	O	O	going	x	x	0
+O	0	26	O	O	directly	x	x	0
+O	0	27	O	O	for	x	x	0
+O	0	28	O	O	relief	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	not	x	x	0
+O	0	31	O	O	for	x	x	0
+O	0	32	O	O	administrative	x	x	0
+O	0	33	O	O	expenses	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-ORG	0	1	O	O	that	x	x	0
+O	0	2	O	O	is	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	channel	x	x	0
+B-PER	0	5	O	O	we	x	x	0
+O	0	6	O	O	chose	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	our	x	x	0
+B-PER	0	9	O	O	own	x	x	0
+O	0	10	O	O	donation	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	what	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	worth	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	here	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	some	x	x	0
+O	0	11	O	O	contact	x	x	0
+O	0	12	O	O	information	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	few	x	x	0
+O	0	16	O	O	agencies	x	x	0
+B-ORG	0	17	O	O	that	x	x	0
+O	0	18	O	O	seem	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	highly	x	x	0
+O	0	22	O	O	regarded	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Habitat	x	x	0
+I-ORG	0	2	O	O	for	x	x	0
+I-ORG	0	3	O	O	Humanity	x	x	0
+O	0	4	O	O	might	x	x	0
+O	0	5	O	O	be	x	x	0
+B-ORG	0	6	O	O	a	x	x	0
+I-ORG	0	7	O	O	good	x	x	0
+I-ORG	0	8	O	O	one	x	x	0
+I-ORG	0	9	O	O	to	x	x	0
+I-ORG	0	10	O	O	consider	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	since	x	x	0
+B-ORG	0	13	O	O	their	x	x	0
+O	0	14	O	O	expertise	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	building	x	x	0
+O	0	18	O	O	housing	x	x	0
+O	0	19	O	O	,	x	x	0
+B-FAC	0	20	O	O	which	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	course	x	x	0
+O	0	23	O	O	is	x	x	0
+O	0	24	O	O	so	x	x	0
+O	0	25	O	O	beadly	x	x	0
+O	0	26	O	O	needed	x	x	0
+O	0	27	O	O	over	x	x	0
+B-LOC	0	28	O	O	there	x	x	0
+O	0	29	O	O	at	x	x	0
+O	0	30	O	O	this	x	x	0
+O	0	31	O	O	time	x	x	0
+O	0	32	O	O	:	x	x	0
+B-ORG	0	33	O	O	American	x	x	0
+I-ORG	0	34	O	O	Red	x	x	0
+I-ORG	0	35	O	O	Cross	x	x	0
+O	0	36	O	O	:	x	x	0
+O	0	37	O	O	Disaster	x	x	0
+O	0	38	O	O	Relief	x	x	0
+O	0	39	O	O	Fund	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	P.O.	x	x	0
+O	0	42	O	O	Box	x	x	0
+O	0	43	O	O	37243	x	x	0
+O	0	44	O	O	,	x	x	0
+B-GPE	0	45	O	O	Washington	x	x	0
+I-GPE	0	46	O	O	,	x	x	0
+I-GPE	0	47	O	O	DC	x	x	0
+O	0	48	O	O	20013	x	x	0
+O	0	49	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Phone	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	(	x	x	0
+B-Contact-Info	0	3	O	O	800	x	x	0
+I-Contact-Info	0	4	O	O	)	x	x	0
+I-Contact-Info	0	5	O	O	435-7669	x	x	0
+B-ORG	0	6	O	O	Habitat	x	x	0
+I-ORG	0	7	O	O	for	x	x	0
+I-ORG	0	8	O	O	Humanity	x	x	0
+I-ORG	0	9	O	O	International	x	x	0
+O	0	10	O	O	:	x	x	0
+O	0	11	O	O	Asia	x	x	0
+O	0	12	O	O	Tsunami	x	x	0
+O	0	13	O	O	Response	x	x	0
+O	0	14	O	O	Fund	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	121	x	x	0
+O	0	17	O	O	Habitat	x	x	0
+O	0	18	O	O	St.	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	Americus	x	x	0
+O	0	21	O	O	,	x	x	0
+B-GPE	0	22	O	O	GA	x	x	0
+O	0	23	O	O	31709-3498	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Phone	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	(	x	x	0
+B-Contact-Info	0	3	O	O	800	x	x	0
+I-Contact-Info	0	4	O	O	)	x	x	0
+I-Contact-Info	0	5	O	O	422-4828	x	x	0
+B-ORG	0	6	O	O	Save	x	x	0
+I-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	Children	x	x	0
+O	0	9	O	O	:	x	x	0
+O	0	10	O	O	Attn	x	x	0
+O	0	11	O	O	:	x	x	0
+O	0	12	O	O	Asian	x	x	0
+O	0	13	O	O	Earthquake	x	x	0
+O	0	14	O	O	/	x	x	0
+O	0	15	O	O	Tsunami	x	x	0
+O	0	16	O	O	Relief	x	x	0
+O	0	17	O	O	Fund	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	54	x	x	0
+B-FAC	0	20	O	O	Wilton	x	x	0
+I-FAC	0	21	O	O	Road	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	Westport	x	x	0
+O	0	24	O	O	,	x	x	0
+B-GPE	0	25	O	O	CT	x	x	0
+O	0	26	O	O	06880	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Phone	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	(	x	x	0
+B-Contact-Info	0	3	O	O	800	x	x	0
+I-Contact-Info	0	4	O	O	)	x	x	0
+I-Contact-Info	0	5	O	O	728-3843	x	x	0
+B-ORG	0	6	O	O	The	x	x	0
+I-ORG	0	7	O	O	Salvation	x	x	0
+I-ORG	0	8	O	O	Army	x	x	0
+O	0	9	O	O	:	x	x	0
+O	0	10	O	O	P.O.	x	x	0
+O	0	11	O	O	Box	x	x	0
+O	0	12	O	O	269	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	Alexandria	x	x	0
+O	0	15	O	O	,	x	x	0
+B-GPE	0	16	O	O	VA	x	x	0
+O	0	17	O	O	22313	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	800	x	x	0
+O	0	2	O	O	)	x	x	0
+O	0	3	O	O	725-2763.	x	x	0
+O	0	4	O	O	-	x	x	0
+O	0	5	O	O	Best	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	David	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	NV	x	x	0
+
+O	0	0	O	O	Actually	x	x	0
+O	0	1	O	O	more	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	money	x	x	0
+O	0	5	O	O	from	x	x	0
+B-PER	0	6	O	O	your	x	x	0
+O	0	7	O	O	donation	x	x	0
+O	0	8	O	O	has	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	chance	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	going	x	x	0
+O	0	13	O	O	directly	x	x	0
+O	0	14	O	O	toward	x	x	0
+O	0	15	O	O	its	x	x	0
+O	0	16	O	O	intended	x	x	0
+O	0	17	O	O	purpose	x	x	0
+O	0	18	O	O	than	x	x	0
+B-ORG	0	19	O	O	any	x	x	0
+I-ORG	0	20	O	O	other	x	x	0
+I-ORG	0	21	O	O	charity	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Red	x	x	0
+I-ORG	0	2	O	O	Cross	x	x	0
+O	0	3	O	O	normally	x	x	0
+O	0	4	O	O	deducts	x	x	0
+B-Numeric	0	5	O	O	9	x	x	0
+I-Numeric	0	6	O	O	%	x	x	0
+O	0	7	O	O	from	x	x	0
+O	0	8	O	O	all	x	x	0
+O	0	9	O	O	deductions	x	x	0
+O	0	10	O	O	for	x	x	0
+B-ORG	0	11	O	O	its	x	x	0
+O	0	12	O	O	administratice	x	x	0
+O	0	13	O	O	costs	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	It	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	announced	x	x	0
+O	0	3	O	O	that	x	x	0
+B-ORG	0	4	O	O	it	x	x	0
+O	0	5	O	O	will	x	x	0
+O	0	6	O	O	forego	x	x	0
+O	0	7	O	O	the	x	x	0
+B-Numeric	0	8	O	O	9	x	x	0
+I-Numeric	0	9	O	O	%	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	donations	x	x	0
+O	0	12	O	O	earmarked	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	tsunami	x	x	0
+O	0	15	O	O	relief	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	that	x	x	0
+B-Numeric	0	18	O	O	100	x	x	0
+I-Numeric	0	19	O	O	%	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	these	x	x	0
+O	0	22	O	O	funds	x	x	0
+O	0	23	O	O	will	x	x	0
+O	0	24	O	O	go	x	x	0
+O	0	25	O	O	directly	x	x	0
+O	0	26	O	O	toward	x	x	0
+O	0	27	O	O	aid	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-Numeric	0	0	O	O	9	x	x	0
+I-Numeric	0	1	O	O	%	x	x	0
+O	0	2	O	O	in	x	x	0
+O	0	3	O	O	administrative	x	x	0
+O	0	4	O	O	costs	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	place	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	Red	x	x	0
+I-ORG	0	9	O	O	Cross	x	x	0
+O	0	10	O	O	among	x	x	0
+B-ORG	0	11	O	O	charity	x	x	0
+I-ORG	0	12	O	O	organizations	x	x	0
+I-ORG	0	13	O	O	making	x	x	0
+I-ORG	0	14	O	O	the	x	x	0
+I-ORG	0	15	O	O	the	x	x	0
+I-ORG	0	16	O	O	most	x	x	0
+I-ORG	0	17	O	O	efficient	x	x	0
+I-ORG	0	18	O	O	use	x	x	0
+I-ORG	0	19	O	O	of	x	x	0
+I-ORG	0	20	O	O	donated	x	x	0
+I-ORG	0	21	O	O	funds	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	figure	x	x	0
+O	0	2	O	O	for	x	x	0
+B-ORG	0	3	O	O	most	x	x	0
+I-ORG	0	4	O	O	charities	x	x	0
+O	0	5	O	O	is	x	x	0
+B-Numeric	0	6	O	O	10-16	x	x	0
+I-Numeric	0	7	O	O	%	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	what	x	x	0
+O	0	5	O	O	negative	x	x	0
+O	0	6	O	O	stories	x	x	0
+O	0	7	O	O	about	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	Red	x	x	0
+I-ORG	0	10	O	O	Cross	x	x	0
+B-PER	0	11	O	O	you	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	heard	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	nothing	x	x	0
+O	0	2	O	O	is	x	x	0
+B-Numeric	0	3	O	O	100	x	x	0
+I-Numeric	0	4	O	O	%	x	x	0
+O	0	5	O	O	and	x	x	0
+B-ORG	0	6	O	O	no	x	x	0
+I-ORG	0	7	O	O	organization	x	x	0
+I-ORG	0	8	O	O	of	x	x	0
+I-ORG	0	9	O	O	any	x	x	0
+I-ORG	0	10	O	O	kind	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	perfect	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	because	x	x	0
+O	0	2	O	O	of	x	x	0
+B-ORG	0	3	O	O	its	x	x	0
+O	0	4	O	O	size	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	which	x	x	0
+O	0	7	O	O	dwarfs	x	x	0
+B-ORG	0	8	O	O	most	x	x	0
+I-ORG	0	9	O	O	other	x	x	0
+I-ORG	0	10	O	O	charities	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	I	x	x	0
+O	0	13	O	O	would	x	x	0
+O	0	14	O	O	assume	x	x	0
+O	0	15	O	O	that	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	Red	x	x	0
+I-ORG	0	18	O	O	Cross	x	x	0
+O	0	19	O	O	may	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	responsible	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	proportionately	x	x	0
+O	0	24	O	O	more	x	x	0
+O	0	25	O	O	blunders	x	x	0
+O	0	26	O	O	than	x	x	0
+O	0	27	O	O	most	x	x	0
+O	0	28	O	O	other	x	x	0
+O	0	29	O	O	charitable	x	x	0
+O	0	30	O	O	organizations.	x	x	0
+O	0	31	O	O	----------------------------	x	x	0
+O	0	32	O	O	----------	x	x	0
+O	0	33	O	O	As	x	x	0
+O	0	34	O	O	tragic	x	x	0
+O	0	35	O	O	as	x	x	0
+O	0	36	O	O	the	x	x	0
+O	0	37	O	O	earthquake	x	x	0
+O	0	38	O	O	and	x	x	0
+O	0	39	O	O	tsunami	x	x	0
+O	0	40	O	O	in	x	x	0
+B-GPE	0	41	O	O	South	x	x	0
+I-GPE	0	42	O	O	Asia	x	x	0
+O	0	43	O	O	have	x	x	0
+O	0	44	O	O	been	x	x	0
+O	0	45	O	O	,	x	x	0
+O	0	46	O	O	it	x	x	0
+O	0	47	O	O	is	x	x	0
+O	0	48	O	O	truly	x	x	0
+O	0	49	O	O	uplifting	x	x	0
+O	0	50	O	O	to	x	x	0
+O	0	51	O	O	see	x	x	0
+O	0	52	O	O	how	x	x	0
+B-PER	0	53	O	O	so	x	x	0
+I-PER	0	54	O	O	many	x	x	0
+I-PER	0	55	O	O	people	x	x	0
+O	0	56	O	O	have	x	x	0
+O	0	57	O	O	opened	x	x	0
+B-PER	0	58	O	O	their	x	x	0
+O	0	59	O	O	hearts	x	x	0
+O	0	60	O	O	and	x	x	0
+O	0	61	O	O	so	x	x	0
+O	0	62	O	O	generously	x	x	0
+O	0	63	O	O	responded	x	x	0
+O	0	64	O	O	to	x	x	0
+O	0	65	O	O	the	x	x	0
+O	0	66	O	O	call	x	x	0
+O	0	67	O	O	for	x	x	0
+O	0	68	O	O	help	x	x	0
+O	0	69	O	O	toward	x	x	0
+O	0	70	O	O	disaster	x	x	0
+O	0	71	O	O	relief	x	x	0
+O	0	72	O	O	efforts	x	x	0
+O	0	73	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Money	x	x	0
+O	0	1	O	O	from	x	x	0
+O	0	2	O	O	private	x	x	0
+O	0	3	O	O	donations	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	been	x	x	0
+O	0	6	O	O	flowing	x	x	0
+O	0	7	O	O	into	x	x	0
+B-ORG	0	8	O	O	charitable	x	x	0
+I-ORG	0	9	O	O	relief	x	x	0
+I-ORG	0	10	O	O	organizations	x	x	0
+O	0	11	O	O	at	x	x	0
+O	0	12	O	O	an	x	x	0
+O	0	13	O	O	unprecedented	x	x	0
+O	0	14	O	O	rate	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	some	x	x	0
+O	0	18	O	O	cases	x	x	0
+O	0	19	O	O	by	x	x	0
+B-Numeric	0	20	O	O	millions	x	x	0
+I-Numeric	0	21	O	O	of	x	x	0
+I-Numeric	0	22	O	O	dollars	x	x	0
+B-TIME	0	23	O	O	per	x	x	0
+I-TIME	0	24	O	O	hour	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Tsunami	x	x	0
+O	0	2	O	O	aid	x	x	0
+O	0	3	O	O	"	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	fourth	x	x	0
+O	0	7	O	O	most	x	x	0
+O	0	8	O	O	frequently	x	x	0
+O	0	9	O	O	used	x	x	0
+O	0	10	O	O	term	x	x	0
+O	0	11	O	O	used	x	x	0
+O	0	12	O	O	in	x	x	0
+O	0	13	O	O	internet	x	x	0
+O	0	14	O	O	searches	x	x	0
+B-TIME	0	15	O	O	last	x	x	0
+I-TIME	0	16	O	O	week	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Although	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	need	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	help	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	still	x	x	0
+O	0	7	O	O	continuing	x	x	0
+O	0	8	O	O	,	x	x	0
+B-ORG	0	9	O	O	some	x	x	0
+I-ORG	0	10	O	O	individual	x	x	0
+I-ORG	0	11	O	O	charities	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	announced	x	x	0
+O	0	14	O	O	that	x	x	0
+B-ORG	0	15	O	O	they	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	already	x	x	0
+O	0	18	O	O	received	x	x	0
+O	0	19	O	O	as	x	x	0
+O	0	20	O	O	much	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	donations	x	x	0
+O	0	23	O	O	as	x	x	0
+B-ORG	0	24	O	O	they	x	x	0
+O	0	25	O	O	can	x	x	0
+O	0	26	O	O	put	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	use	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	this	x	x	0
+O	0	31	O	O	effort	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	following	x	x	0
+O	0	2	O	O	announcement	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	received	x	x	0
+O	0	5	O	O	from	x	x	0
+B-ORG	0	6	O	O	MSF	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	Doctors	x	x	0
+O	0	9	O	O	Without	x	x	0
+O	0	10	O	O	Borders	x	x	0
+O	0	11	O	O	/	x	x	0
+O	0	12	O	O	Medecins	x	x	0
+O	0	13	O	O	Sans	x	x	0
+O	0	14	O	O	Frontieres	x	x	0
+O	0	15	O	O	(	x	x	0
+B-ORG	0	16	O	O	MSF	x	x	0
+O	0	17	O	O	)	x	x	0
+O	0	18	O	O	has	x	x	0
+O	0	19	O	O	received	x	x	0
+O	0	20	O	O	an	x	x	0
+O	0	21	O	O	extraordinary	x	x	0
+O	0	22	O	O	outpouring	x	x	0
+O	0	23	O	O	of	x	x	0
+O	0	24	O	O	support	x	x	0
+O	0	25	O	O	for	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	people	x	x	0
+O	0	28	O	O	of	x	x	0
+B-GPE	0	29	O	O	South	x	x	0
+I-GPE	0	30	O	O	Asia	x	x	0
+O	0	31	O	O	and	x	x	0
+B-ORG	0	32	O	O	we	x	x	0
+O	0	33	O	O	are	x	x	0
+O	0	34	O	O	extremely	x	x	0
+O	0	35	O	O	grateful	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	very	x	x	0
+O	0	7	O	O	important	x	x	0
+O	0	8	O	O	to	x	x	0
+B-ORG	0	9	O	O	MSF	x	x	0
+O	0	10	O	O	that	x	x	0
+B-ORG	0	11	O	O	we	x	x	0
+O	0	12	O	O	use	x	x	0
+B-PER	0	13	O	O	your	x	x	0
+O	0	14	O	O	contribution	x	x	0
+O	0	15	O	O	as	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+O	0	17	O	O	intend	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	be	x	x	0
+O	0	21	O	O	used	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	why	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	want	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	let	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	know	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	at	x	x	0
+O	0	11	O	O	this	x	x	0
+O	0	12	O	O	time	x	x	0
+O	0	13	O	O	,	x	x	0
+B-ORG	0	14	O	O	MSF	x	x	0
+O	0	15	O	O	estimates	x	x	0
+O	0	16	O	O	that	x	x	0
+B-ORG	0	17	O	O	we	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	received	x	x	0
+O	0	20	O	O	sufficient	x	x	0
+O	0	21	O	O	funds	x	x	0
+O	0	22	O	O	for	x	x	0
+B-ORG	0	23	O	O	our	x	x	0
+B-TIME	0	24	O	O	currently	x	x	0
+O	0	25	O	O	foreseen	x	x	0
+O	0	26	O	O	emergency	x	x	0
+O	0	27	O	O	response	x	x	0
+O	0	28	O	O	in	x	x	0
+B-GPE	0	29	O	O	South	x	x	0
+I-GPE	0	30	O	O	Asia	x	x	0
+O	0	31	O	O	.	x	x	0
+O	0	32	O	O	"	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	read	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	too	x	x	0
+O	0	5	O	O	unfortunate	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	because	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	've	x	x	0
+O	0	10	O	O	worked	x	x	0
+O	0	11	O	O	with	x	x	0
+B-ORG	0	12	O	O	them	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Rwanda	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	very	x	x	0
+O	0	18	O	O	impressed	x	x	0
+O	0	19	O	O	with	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	professionalism	x	x	0
+O	0	22	O	O	of	x	x	0
+B-ORG	0	23	O	O	their	x	x	0
+O	0	24	O	O	organization	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	stated	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	there	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	lots	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	places	x	x	0
+O	0	9	O	O	in	x	x	0
+B-LOC	0	10	O	O	the	x	x	0
+I-LOC	0	11	O	O	world	x	x	0
+B-LOC	0	12	O	O	where	x	x	0
+B-ORG	0	13	O	O	they	x	x	0
+O	0	14	O	O	continue	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	work	x	x	0
+B-LOC	0	17	O	O	which	x	x	0
+O	0	18	O	O	needs	x	x	0
+O	0	19	O	O	plenty	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	help	x	x	0
+O	0	22	O	O	too	x	x	0
+O	0	23	O	O	quite	x	x	0
+O	0	24	O	O	an	x	x	0
+O	0	25	O	O	important	x	x	0
+O	0	26	O	O	reminder	x	x	0
+O	0	27	O	O	because	x	x	0
+O	0	28	O	O	other	x	x	0
+O	0	29	O	O	needy	x	x	0
+O	0	30	O	O	areas	x	x	0
+O	0	31	O	O	of	x	x	0
+B-LOC	0	32	O	O	the	x	x	0
+I-LOC	0	33	O	O	world	x	x	0
+O	0	34	O	O	are	x	x	0
+O	0	35	O	O	getting	x	x	0
+O	0	36	O	O	less	x	x	0
+O	0	37	O	O	donations	x	x	0
+B-TIME	0	38	O	O	now	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-ORG	0	1	O	O	they	x	x	0
+O	0	2	O	O	did	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	discourage	x	x	0
+O	0	5	O	O	donations	x	x	0
+O	0	6	O	O	to	x	x	0
+B-ORG	0	7	O	O	them	x	x	0
+O	0	8	O	O	per	x	x	0
+O	0	9	O	O	se	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	just	x	x	0
+O	0	12	O	O	not	x	x	0
+O	0	13	O	O	for	x	x	0
+B-GPE	0	14	O	O	this	x	x	0
+I-GPE	0	15	O	O	specific	x	x	0
+I-GPE	0	16	O	O	area	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	realize	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	most	x	x	0
+I-PER	0	6	O	O	people	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	want	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	help	x	x	0
+B-LOC	0	11	O	O	where	x	x	0
+I-LOC	0	12	O	O	the	x	x	0
+I-LOC	0	13	O	O	need	x	x	0
+I-LOC	0	14	O	O	for	x	x	0
+I-LOC	0	15	O	O	it	x	x	0
+I-LOC	0	16	O	O	is	x	x	0
+I-LOC	0	17	O	O	the	x	x	0
+I-LOC	0	18	O	O	most	x	x	0
+I-LOC	0	19	O	O	immediate	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	statement	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	confirmed	x	x	0
+B-PER	0	8	O	O	my	x	x	0
+O	0	9	O	O	view	x	x	0
+O	0	10	O	O	that	x	x	0
+B-ORG	0	11	O	O	Doctors	x	x	0
+I-ORG	0	12	O	O	without	x	x	0
+I-ORG	0	13	O	O	Borders	x	x	0
+O	0	14	O	O	ia	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	very	x	x	0
+O	0	17	O	O	professional	x	x	0
+O	0	18	O	O	operatoin	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Thomas	x	x	0
+I-PER	0	1	O	O	W	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-ORG	0	0	O	O	No	x	x	0
+I-ORG	0	1	O	O	org	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	perfect	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Our	x	x	0
+O	0	1	O	O	news	x	x	0
+O	0	2	O	O	system	x	x	0
+O	0	3	O	O	thrives	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	finding	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	chinc	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	armor	x	x	0
+O	0	11	O	O	of	x	x	0
+B-ORG	0	12	O	O	an	x	x	0
+I-ORG	0	13	O	O	organisation	x	x	0
+O	0	14	O	O	,	x	x	0
+B-ORG	0	15	O	O	a	x	x	0
+I-ORG	0	16	O	O	not	x	x	0
+I-ORG	0	17	O	O	perfect	x	x	0
+I-ORG	0	18	O	O	organisation	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	They	x	x	0
+O	0	1	O	O	need	x	x	0
+O	0	2	O	O	ratings	x	x	0
+O	0	3	O	O	and	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	do	x	x	0
+O	0	6	O	O	anything	x	x	0
+O	0	7	O	O	for	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	IMHO	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	go	x	x	0
+O	0	3	O	O	with	x	x	0
+B-ORG	0	4	O	O	the	x	x	0
+I-ORG	0	5	O	O	Red	x	x	0
+I-ORG	0	6	O	O	Cross	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	or	x	x	0
+B-ORG	0	9	O	O	any	x	x	0
+I-ORG	0	10	O	O	other	x	x	0
+I-ORG	0	11	O	O	national	x	x	0
+I-ORG	0	12	O	O	organisation	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	give	x	x	0
+O	0	2	O	O	carefully.	x	x	0
+O	0	3	O	O	if	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	going	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	give	x	x	0
+O	0	9	O	O	assistance	x	x	0
+O	0	10	O	O	then	x	x	0
+O	0	11	O	O	LOOK	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	suspicion	x	x	0
+O	0	14	O	O	at	x	x	0
+O	0	15	O	O	all	x	x	0
+B-ORG	0	16	O	O	they	x	x	0
+O	0	17	O	O	do	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	better	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	keep	x	x	0
+O	0	23	O	O	your	x	x	0
+B-Numeric	0	24	O	O	$$$	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	All	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	done	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	buy	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	difficult	x	x	0
+O	0	9	O	O	time	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Don	x	x	0
+I-PER	0	1	O	O	Strevel	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	Las	x	x	0
+O	0	4	O	O	Vegas	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	NV.	x	x	0
+B-Contact-Info	0	7	O	O	i	x	x	0
+I-Contact-Info	0	8	O	O	...	x	x	0
+I-Contact-Info	0	9	O	O	@	x	x	0
+I-Contact-Info	0	10	O	O	mysecretvegas.com	x	x	0
+O	0	11	O	O	(	x	x	0
+O	0	12	O	O	autoresponder	x	x	0
+O	0	13	O	O	)	x	x	0
+
+O	0	0	O	O	--	x	x	0
+O	0	1	O	O	Outgoing	x	x	0
+O	0	2	O	O	mail	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	certified	x	x	0
+O	0	5	O	O	Virus	x	x	0
+O	0	6	O	O	Free	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Checked	x	x	0
+O	0	1	O	O	by	x	x	0
+O	0	2	O	O	AVG	x	x	0
+O	0	3	O	O	anti-virus	x	x	0
+O	0	4	O	O	system	x	x	0
+O	0	5	O	O	(	x	x	0
+O	0	6	O	O	)	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Version	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	6.0.830	x	x	0
+O	0	3	O	O	/	x	x	0
+O	0	4	O	O	Virus	x	x	0
+O	0	5	O	O	Database	x	x	0
+O	0	6	O	O	:	x	x	0
+O	0	7	O	O	565	x	x	0
+O	0	8	O	O	Release	x	x	0
+O	0	9	O	O	Date	x	x	0
+O	0	10	O	O	:	x	x	0
+O	0	11	O	O	1/6/2005	x	x	0
+

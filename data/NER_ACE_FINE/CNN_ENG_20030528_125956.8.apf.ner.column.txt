@@ -1,0 +1,435 @@
+O	0	0	O	O	well	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	security	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	tight	x	x	0
+O	0	5	O	O	as	x	x	0
+B-ORG	0	6	O	O	Exxon	x	x	0
+I-ORG	0	7	O	O	Mobil	x	x	0
+O	0	8	O	O	shareholders	x	x	0
+O	0	9	O	O	meet	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Dallas	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Allan	x	x	0
+I-PER	0	1	O	O	Chernoff	x	x	0
+O	0	2	O	O	live	x	x	0
+O	0	3	O	O	from	x	x	0
+B-FAC	0	4	O	O	the	x	x	0
+I-FAC	0	5	O	O	New	x	x	0
+I-FAC	0	6	O	O	York	x	x	0
+I-FAC	0	7	O	O	Stock	x	x	0
+I-FAC	0	8	O	O	Exchange	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	tell	x	x	0
+B-ORG	0	11	O	O	us	x	x	0
+O	0	12	O	O	what	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	behind	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	precautions	x	x	0
+O	0	17	O	O	.	x	x	0
+
+B-PER	0	0	O	O	we	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	controversy	x	x	0
+O	0	4	O	O	at	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	meeting	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Exxon	x	x	0
+I-ORG	0	1	O	O	Mobil	x	x	0
+O	0	2	O	O	shareholder	x	x	0
+O	0	3	O	O	set	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	vote	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	resolutions	x	x	0
+O	0	8	O	O	dealing	x	x	0
+O	0	9	O	O	with	x	x	0
+O	0	10	O	O	steps	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	promote	x	x	0
+O	0	13	O	O	global	x	x	0
+O	0	14	O	O	energy	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	risks	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	global	x	x	0
+O	0	20	O	O	warming	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Management	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	surprisingly	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	opposes	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	resolutions	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Environmentalists	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	pressuring	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	oil	x	x	0
+I-ORG	0	5	O	O	giant	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	drop	x	x	0
+B-ORG	0	9	O	O	it	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	greenhouse	x	x	0
+O	0	12	O	O	emissions	x	x	0
+O	0	13	O	O	limits	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Yesterday	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	protesters	x	x	0
+O	0	3	O	O	blocked	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	entrance	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	protest	x	x	0
+O	0	8	O	O	what	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	claim	x	x	0
+O	0	11	O	O	is	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	company	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	inaction	x	x	0
+O	0	16	O	O	against	x	x	0
+O	0	17	O	O	global	x	x	0
+O	0	18	O	O	warming	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Exxon	x	x	0
+I-ORG	0	1	O	O	Mobil	x	x	0
+O	0	2	O	O	maintains	x	x	0
+B-ORG	0	3	O	O	it	x	x	0
+O	0	4	O	O	does	x	x	0
+O	0	5	O	O	take	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	issue	x	x	0
+O	0	8	O	O	skreersly	x	x	0
+O	0	9	O	O	and	x	x	0
+B-ORG	0	10	O	O	it	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	being	x	x	0
+O	0	13	O	O	targeted	x	x	0
+O	0	14	O	O	unfairly	x	x	0
+B-ORG	0	15	O	O	Zblen	x	x	0
+I-ORG	0	16	O	O	Ron	x	x	0
+O	0	17	O	O	also	x	x	0
+O	0	18	O	O	engaging	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	blame	x	x	0
+O	0	22	O	O	game	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Who	x	x	0
+O	0	1	O	O	is	x	x	0
+B-TIME	0	2	O	O	the	x	x	0
+I-TIME	0	3	O	O	latest	x	x	0
+O	0	4	O	O	target	x	x	0
+O	0	5	O	O	?	x	x	0
+
+O	0	0	O	O	very	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	story	x	x	0
+O	0	3	O	O	with	x	x	0
+B-ORG	0	4	O	O	Enron	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	source	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-ORG	0	3	O	O	US	x	x	0
+B-ORG	0	4	O	O	Enron	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	considering	x	x	0
+O	0	7	O	O	suing	x	x	0
+O	0	8	O	O	its	x	x	0
+B-ORG	0	9	O	O	own	x	x	0
+O	0	10	O	O	investment	x	x	0
+O	0	11	O	O	bankers	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	giving	x	x	0
+B-ORG	0	14	O	O	it	x	x	0
+O	0	15	O	O	bad	x	x	0
+O	0	16	O	O	financial	x	x	0
+O	0	17	O	O	advice	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Of	x	x	0
+O	0	1	O	O	course	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	the	x	x	0
+I-ORG	0	4	O	O	notorious	x	x	0
+I-ORG	0	5	O	O	energy	x	x	0
+I-ORG	0	6	O	O	trader	x	x	0
+O	0	7	O	O	is	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	subject	x	x	0
+I-ORG	0	10	O	O	of	x	x	0
+I-ORG	0	11	O	O	a	x	x	0
+I-ORG	0	12	O	O	slew	x	x	0
+I-ORG	0	13	O	O	of	x	x	0
+I-ORG	0	14	O	O	investigations	x	x	0
+I-ORG	0	15	O	O	for	x	x	0
+I-ORG	0	16	O	O	alleged	x	x	0
+I-ORG	0	17	O	O	financial	x	x	0
+I-ORG	0	18	O	O	trickery	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Enron	x	x	0
+O	0	1	O	O	may	x	x	0
+O	0	2	O	O	actually	x	x	0
+O	0	3	O	O	try	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	blame	x	x	0
+B-ORG	0	6	O	O	its	x	x	0
+O	0	7	O	O	bankers	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	including	x	x	0
+B-ORG	0	10	O	O	Jpmorgan	x	x	0
+I-ORG	0	11	O	O	Chase	x	x	0
+O	0	12	O	O	and	x	x	0
+B-ORG	0	13	O	O	Citigroup	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	dishing	x	x	0
+O	0	17	O	O	out	x	x	0
+O	0	18	O	O	advice	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	actually	x	x	0
+O	0	21	O	O	helped	x	x	0
+B-ORG	0	22	O	O	the	x	x	0
+I-ORG	0	23	O	O	company	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	downfall	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	The	x	x	0
+I-TIME	0	1	O	O	latest	x	x	0
+O	0	2	O	O	move	x	x	0
+O	0	3	O	O	here	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	part	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	new	x	x	0
+O	0	9	O	O	Bush	x	x	0
+O	0	10	O	O	by	x	x	0
+B-ORG	0	11	O	O	Enron	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	new	x	x	0
+O	0	14	O	O	chief	x	x	0
+O	0	15	O	O	executive	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	settle	x	x	0
+O	0	18	O	O	pending	x	x	0
+O	0	19	O	O	litigation	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Jpmorgan	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	Citigroup	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+B-ORG	0	5	O	O	other	x	x	0
+I-ORG	0	6	O	O	advisers	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	already	x	x	0
+O	0	9	O	O	been	x	x	0
+O	0	10	O	O	sued	x	x	0
+O	0	11	O	O	by	x	x	0
+B-PER	0	12	O	O	shareholders	x	x	0
+O	0	13	O	O	and	x	x	0
+B-ORG	0	14	O	O	they	x	x	0
+O	0	15	O	O	also	x	x	0
+O	0	16	O	O	face	x	x	0
+O	0	17	O	O	regulatory	x	x	0
+O	0	18	O	O	investigations	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	's	x	x	0
+O	0	2	O	O	turn	x	x	0
+B-PER	0	3	O	O	our	x	x	0
+O	0	4	O	O	attention	x	x	0
+O	0	5	O	O	to	x	x	0
+B-ORG	0	6	O	O	Wall	x	x	0
+I-ORG	0	7	O	O	Street	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	some	x	x	0
+O	0	4	O	O	green	x	x	0
+O	0	5	O	O	arrows	x	x	0
+O	0	6	O	O	here	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stocks	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	struggling	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	hold	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	modest	x	x	0
+O	0	8	O	O	gains	x	x	0
+B-TIME	0	9	O	O	right	x	x	0
+I-TIME	0	10	O	O	now	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	got	x	x	0
+O	0	3	O	O	solid	x	x	0
+O	0	4	O	O	corporate	x	x	0
+O	0	5	O	O	profit	x	x	0
+O	0	6	O	O	reports	x	x	0
+B-TIME	0	7	O	O	today	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	course	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	little	x	x	0
+O	0	5	O	O	momentum	x	x	0
+O	0	6	O	O	after	x	x	0
+B-TIME	0	7	O	O	yesterday	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	rally	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	let	x	x	0
+B-PER	0	2	O	O	's	x	x	0
+O	0	3	O	O	have	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	look	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	Dow	x	x	0
+O	0	9	O	O	Jones	x	x	0
+O	0	10	O	O	industrial	x	x	0
+O	0	11	O	O	average	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	up	x	x	0
+O	0	3	O	O	by	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	little	x	x	0
+O	0	6	O	O	more	x	x	0
+O	0	7	O	O	than	x	x	0
+O	0	8	O	O	five	x	x	0
+O	0	9	O	O	points	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	been	x	x	0
+O	0	3	O	O	zigging	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	zagging	x	x	0
+O	0	6	O	O	between	x	x	0
+O	0	7	O	O	green	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	red	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Right	x	x	0
+I-TIME	0	1	O	O	now	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	holding	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	Green	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	the	x	x	0
+B-ORG	0	2	O	O	Nasdaq	x	x	0
+O	0	3	O	O	composite	x	x	0
+O	0	4	O	O	also	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	positive	x	x	0
+O	0	7	O	O	territory	x	x	0
+B-TIME	0	8	O	O	right	x	x	0
+I-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	still	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Nasdaq	x	x	0
+O	0	2	O	O	at	x	x	0
+O	0	3	O	O	its	x	x	0
+O	0	4	O	O	highest	x	x	0
+O	0	5	O	O	level	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	nearly	x	x	0
+

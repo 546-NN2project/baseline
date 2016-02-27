@@ -1,0 +1,494 @@
+B-GPE	0	0	O	O	LOS	x	x	0
+I-GPE	0	1	O	O	ANGELES	x	x	0
+O	0	2	O	O	(	x	x	0
+B-ORG	0	3	O	O	AP	x	x	0
+O	0	4	O	O	)	x	x	0
+B-PER	0	5	O	O	Barry	x	x	0
+I-PER	0	6	O	O	Diller	x	x	0
+O	0	7	O	O	resigned	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	co-chief	x	x	0
+O	0	10	O	O	executive	x	x	0
+O	0	11	O	O	of	x	x	0
+B-ORG	0	12	O	O	Vivendi	x	x	0
+I-ORG	0	13	O	O	Universal	x	x	0
+I-ORG	0	14	O	O	Entertainment	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	saying	x	x	0
+O	0	17	O	O	it	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	appropriate	x	x	0
+O	0	20	O	O	for	x	x	0
+B-PER	0	21	O	O	him	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	step	x	x	0
+O	0	24	O	O	down	x	x	0
+O	0	25	O	O	while	x	x	0
+B-ORG	0	26	O	O	Paris-based	x	x	0
+I-ORG	0	27	O	O	Vivendi	x	x	0
+I-ORG	0	28	O	O	Universal	x	x	0
+O	0	29	O	O	entertains	x	x	0
+O	0	30	O	O	bids	x	x	0
+O	0	31	O	O	for	x	x	0
+B-ORG	0	32	O	O	Universal	x	x	0
+I-ORG	0	33	O	O	Studios	x	x	0
+O	0	34	O	O	,	x	x	0
+B-ORG	0	35	O	O	Universal	x	x	0
+O	0	36	O	O	's	x	x	0
+O	0	37	O	O	theme	x	x	0
+O	0	38	O	O	parks	x	x	0
+O	0	39	O	O	and	x	x	0
+B-ORG	0	40	O	O	other	x	x	0
+I-ORG	0	41	O	O	entertainment	x	x	0
+I-ORG	0	42	O	O	assets	x	x	0
+O	0	43	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	appointed	x	x	0
+O	0	3	O	O	interim	x	x	0
+O	0	4	O	O	CEO	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	Vivendi	x	x	0
+I-ORG	0	7	O	O	Universal	x	x	0
+O	0	8	O	O	's	x	x	0
+B-GPE	0	9	O	O	U.S.	x	x	0
+O	0	10	O	O	-	x	x	0
+O	0	11	O	O	based	x	x	0
+O	0	12	O	O	entertainment	x	x	0
+O	0	13	O	O	assets	x	x	0
+B-TIME	0	14	O	O	last	x	x	0
+I-TIME	0	15	O	O	year	x	x	0
+O	0	16	O	O	while	x	x	0
+B-ORG	0	17	O	O	Vivendi	x	x	0
+I-ORG	0	18	O	O	Universal	x	x	0
+O	0	19	O	O	concentrated	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	repaying	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	massive	x	x	0
+O	0	24	O	O	debt	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Cash-strapped	x	x	0
+I-ORG	0	1	O	O	Vivendi	x	x	0
+O	0	2	O	O	wants	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	sell	x	x	0
+B-ORG	0	5	O	O	Universal	x	x	0
+I-ORG	0	6	O	O	Studios	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	its	x	x	0
+B-ORG	0	9	O	O	Universal	x	x	0
+O	0	10	O	O	theme	x	x	0
+O	0	11	O	O	parks	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	television	x	x	0
+O	0	14	O	O	production	x	x	0
+O	0	15	O	O	company	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Former	x	x	0
+O	0	1	O	O	oilman	x	x	0
+O	0	2	O	O	Marvin	x	x	0
+O	0	3	O	O	Davis	x	x	0
+O	0	4	O	O	has	x	x	0
+O	0	5	O	O	offered	x	x	0
+B-Numeric	0	6	O	O	$20	x	x	0
+I-Numeric	0	7	O	O	billion	x	x	0
+O	0	8	O	O	for	x	x	0
+B-ORG	0	9	O	O	VUE	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	plus	x	x	0
+B-ORG	0	12	O	O	Universal	x	x	0
+I-ORG	0	13	O	O	Music	x	x	0
+I-ORG	0	14	O	O	Group	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Vivendi	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	holding	x	x	0
+O	0	4	O	O	talks	x	x	0
+O	0	5	O	O	with	x	x	0
+B-ORG	0	6	O	O	Viacom	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	MGM	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	other	x	x	0
+O	0	11	O	O	buyers	x	x	0
+O	0	12	O	O	interested	x	x	0
+O	0	13	O	O	in	x	x	0
+O	0	14	O	O	acquiring	x	x	0
+O	0	15	O	O	all	x	x	0
+O	0	16	O	O	or	x	x	0
+O	0	17	O	O	parts	x	x	0
+O	0	18	O	O	of	x	x	0
+B-ORG	0	19	O	O	its	x	x	0
+O	0	20	O	O	entertainment	x	x	0
+O	0	21	O	O	companies	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	served	x	x	0
+O	0	2	O	O	as	x	x	0
+B-PER	0	3	O	O	co-CEO	x	x	0
+O	0	4	O	O	with	x	x	0
+B-ORG	0	5	O	O	Vivendi	x	x	0
+I-ORG	0	6	O	O	Universal	x	x	0
+O	0	7	O	O	chairman	x	x	0
+O	0	8	O	O	Jean-Rene	x	x	0
+O	0	9	O	O	Fourtou	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	My	x	x	0
+O	0	2	O	O	executive	x	x	0
+O	0	3	O	O	role	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	never	x	x	0
+O	0	6	O	O	intended	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	permanent	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	''	x	x	0
+B-PER	0	12	O	O	Diller	x	x	0
+O	0	13	O	O	said	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	statement	x	x	0
+B-TIME	0	17	O	O	Wednesday	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-TIME	0	1	O	O	Now	x	x	0
+O	0	2	O	O	that	x	x	0
+B-ORG	0	3	O	O	Vivendi	x	x	0
+I-ORG	0	4	O	O	Universal	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	begun	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	formal	x	x	0
+O	0	9	O	O	process	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	reviewing	x	x	0
+O	0	12	O	O	options	x	x	0
+O	0	13	O	O	for	x	x	0
+B-ORG	0	14	O	O	its	x	x	0
+O	0	15	O	O	entertainment	x	x	0
+O	0	16	O	O	assets	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	is	x	x	0
+O	0	20	O	O	appropriate	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	step	x	x	0
+O	0	23	O	O	aside	x	x	0
+O	0	24	O	O	from	x	x	0
+O	0	25	O	O	any	x	x	0
+O	0	26	O	O	direct	x	x	0
+O	0	27	O	O	management	x	x	0
+O	0	28	O	O	responsibility	x	x	0
+O	0	29	O	O	.	x	x	0
+O	0	30	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	61	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	remains	x	x	0
+O	0	5	O	O	chief	x	x	0
+O	0	6	O	O	executive	x	x	0
+O	0	7	O	O	officer	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	USA	x	x	0
+O	0	10	O	O	Interactive	x	x	0
+O	0	11	O	O	,	x	x	0
+B-ORG	0	12	O	O	which	x	x	0
+O	0	13	O	O	operates	x	x	0
+B-ORG	0	14	O	O	the	x	x	0
+I-ORG	0	15	O	O	Home	x	x	0
+I-ORG	0	16	O	O	Shopping	x	x	0
+I-ORG	0	17	O	O	Network	x	x	0
+O	0	18	O	O	,	x	x	0
+B-ORG	0	19	O	O	Ticketmaster	x	x	0
+O	0	20	O	O	,	x	x	0
+B-ORG	0	21	O	O	Match.com	x	x	0
+O	0	22	O	O	and	x	x	0
+B-ORG	0	23	O	O	Expedia	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	among	x	x	0
+B-ORG	0	26	O	O	other	x	x	0
+I-ORG	0	27	O	O	companies	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	has	x	x	0
+O	0	31	O	O	a	x	x	0
+B-Numeric	0	32	O	O	5.4	x	x	0
+I-Numeric	0	33	O	O	percent	x	x	0
+O	0	34	O	O	stake	x	x	0
+O	0	35	O	O	in	x	x	0
+B-ORG	0	36	O	O	VUE	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	continue	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	play	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	critical	x	x	0
+O	0	7	O	O	role	x	x	0
+O	0	8	O	O	in	x	x	0
+O	0	9	O	O	the	x	x	0
+B-TIME	0	10	O	O	future	x	x	0
+O	0	11	O	O	of	x	x	0
+B-ORG	0	12	O	O	Vivendi	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	entertainment	x	x	0
+O	0	15	O	O	arm	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	personally	x	x	0
+O	0	2	O	O	owns	x	x	0
+B-Numeric	0	3	O	O	1.5	x	x	0
+I-Numeric	0	4	O	O	percent	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	joint	x	x	0
+I-ORG	0	8	O	O	venture	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	owns	x	x	0
+O	0	3	O	O	preferred	x	x	0
+O	0	4	O	O	stock	x	x	0
+O	0	5	O	O	in	x	x	0
+B-ORG	0	6	O	O	Vivendi	x	x	0
+I-ORG	0	7	O	O	Universal	x	x	0
+I-ORG	0	8	O	O	Entertainment	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	believed	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	interested	x	x	0
+O	0	7	O	O	in	x	x	0
+B-PER	0	8	O	O	his	x	x	0
+B-PER	0	9	O	O	own	x	x	0
+O	0	10	O	O	bid	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	one	x	x	0
+O	0	13	O	O	or	x	x	0
+O	0	14	O	O	more	x	x	0
+O	0	15	O	O	of	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	entertainment	x	x	0
+I-ORG	0	18	O	O	unit	x	x	0
+O	0	19	O	O	's	x	x	0
+O	0	20	O	O	assets	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	most	x	x	0
+O	0	23	O	O	likely	x	x	0
+B-ORG	0	24	O	O	the	x	x	0
+I-ORG	0	25	O	O	film	x	x	0
+I-ORG	0	26	O	O	studio	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	a	x	x	0
+B-TIME	0	2	O	O	recent	x	x	0
+O	0	3	O	O	interview	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Diller	x	x	0
+O	0	6	O	O	told	x	x	0
+B-ORG	0	7	O	O	The	x	x	0
+I-ORG	0	8	O	O	Associated	x	x	0
+I-ORG	0	9	O	O	Press	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	would	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	interested	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	opportunity	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	bid	x	x	0
+O	0	19	O	O	as	x	x	0
+O	0	20	O	O	long	x	x	0
+O	0	21	O	O	as	x	x	0
+O	0	22	O	O	it	x	x	0
+O	0	23	O	O	did	x	x	0
+O	0	24	O	O	not	x	x	0
+O	0	25	O	O	require	x	x	0
+B-PER	0	26	O	O	him	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	serve	x	x	0
+O	0	29	O	O	as	x	x	0
+B-PER	0	30	O	O	chief	x	x	0
+I-PER	0	31	O	O	executive	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	maintained	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	top	x	x	0
+O	0	5	O	O	interest	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	serving	x	x	0
+O	0	8	O	O	as	x	x	0
+O	0	9	O	O	head	x	x	0
+O	0	10	O	O	of	x	x	0
+B-ORG	0	11	O	O	USA	x	x	0
+I-ORG	0	12	O	O	Interactive	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Diller	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	served	x	x	0
+O	0	3	O	O	as	x	x	0
+O	0	4	O	O	head	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	Paramount	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	Twentieth	x	x	0
+O	0	9	O	O	Century	x	x	0
+O	0	10	O	O	Fox	x	x	0
+O	0	11	O	O	,	x	x	0
+B-ORG	0	12	O	O	where	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	helped	x	x	0
+O	0	15	O	O	launch	x	x	0
+O	0	16	O	O	the	x	x	0
+B-ORG	0	17	O	O	Fox	x	x	0
+O	0	18	O	O	Television	x	x	0
+O	0	19	O	O	network	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	While	x	x	0
+O	0	1	O	O	at	x	x	0
+B-ORG	0	2	O	O	Fox	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	instrumental	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	creating	x	x	0
+O	0	9	O	O	such	x	x	0
+O	0	10	O	O	shows	x	x	0
+O	0	11	O	O	as	x	x	0
+O	0	12	O	O	``	x	x	0
+O	0	13	O	O	Married	x	x	0
+O	0	14	O	O	with	x	x	0
+O	0	15	O	O	Children	x	x	0
+O	0	16	O	O	''	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	``	x	x	0
+O	0	19	O	O	The	x	x	0
+O	0	20	O	O	Simpsons	x	x	0
+O	0	21	O	O	.	x	x	0
+O	0	22	O	O	''	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	started	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	entertainment	x	x	0
+O	0	4	O	O	career	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	ABC	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	where	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	is	x	x	0
+O	0	11	O	O	credited	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	creating	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	``	x	x	0
+O	0	16	O	O	movie	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	week	x	x	0
+O	0	20	O	O	''	x	x	0
+O	0	21	O	O	concept	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Shares	x	x	0
+O	0	1	O	O	of	x	x	0
+B-ORG	0	2	O	O	USA	x	x	0
+I-ORG	0	3	O	O	Interactive	x	x	0
+O	0	4	O	O	fell	x	x	0
+B-Numeric	0	5	O	O	$2.08	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	or	x	x	0
+O	0	8	O	O	nearly	x	x	0
+B-Numeric	0	9	O	O	8	x	x	0
+I-Numeric	0	10	O	O	percent	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	to	x	x	0
+B-Numeric	0	13	O	O	$24.41	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	midday	x	x	0
+O	0	16	O	O	trading	x	x	0
+O	0	17	O	O	on	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	New	x	x	0
+O	0	20	O	O	York	x	x	0
+O	0	21	O	O	Stock	x	x	0
+O	0	22	O	O	Exchange	x	x	0
+O	0	23	O	O	,	x	x	0
+B-ORG	0	24	O	O	where	x	x	0
+B-ORG	0	25	O	O	Vivendi	x	x	0
+O	0	26	O	O	's	x	x	0
+B-GPE	0	27	O	O	U.S.	x	x	0
+O	0	28	O	O	shares	x	x	0
+O	0	29	O	O	rose	x	x	0
+B-Numeric	0	30	O	O	35	x	x	0
+I-Numeric	0	31	O	O	cents	x	x	0
+O	0	32	O	O	to	x	x	0
+B-Numeric	0	33	O	O	$15.15	x	x	0
+O	0	34	O	O	.	x	x	0
+

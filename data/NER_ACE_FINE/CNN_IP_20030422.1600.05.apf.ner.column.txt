@@ -1,0 +1,142 @@
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	final	x	x	0
+O	0	3	O	O	story	x	x	0
+O	0	4	O	O	:	x	x	0
+O	0	5	O	O	retired	x	x	0
+B-Job-Title	0	6	O	O	Senator	x	x	0
+O	0	7	O	O	Strom	x	x	0
+O	0	8	O	O	Thurmond	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	never	x	x	0
+O	0	11	O	O	made	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	secret	x	x	0
+O	0	14	O	O	about	x	x	0
+B-PER	0	15	O	O	his	x	x	0
+O	0	16	O	O	fondness	x	x	0
+O	0	17	O	O	for	x	x	0
+B-PER	0	18	O	O	young	x	x	0
+I-PER	0	19	O	O	,	x	x	0
+I-PER	0	20	O	O	pretty	x	x	0
+I-PER	0	21	O	O	women	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	some	x	x	0
+O	0	2	O	O	think	x	x	0
+B-PER	0	3	O	O	Thurmond	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	travel	x	x	0
+O	0	6	O	O	plans	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	South	x	x	0
+I-GPE	0	9	O	O	Carolina	x	x	0
+B-TIME	0	10	O	O	next	x	x	0
+I-TIME	0	11	O	O	month	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	rather	x	x	0
+O	0	14	O	O	fitting	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	fly	x	x	0
+O	0	3	O	O	to	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	first	x	x	0
+O	0	6	O	O	public	x	x	0
+O	0	7	O	O	appearance	x	x	0
+O	0	8	O	O	since	x	x	0
+O	0	9	O	O	returning	x	x	0
+O	0	10	O	O	to	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+B-GPE	0	12	O	O	home	x	x	0
+O	0	13	O	O	state	x	x	0
+O	0	14	O	O	aboard	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	private	x	x	0
+O	0	17	O	O	jet	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	a	x	x	0
+B-ORG	0	20	O	O	Hooters	x	x	0
+I-ORG	0	21	O	O	Air	x	x	0
+O	0	22	O	O	executive	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Hooters	x	x	0
+I-ORG	0	1	O	O	Air	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	spin-off	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	a	x	x	0
+B-ORG	0	7	O	O	restaurant	x	x	0
+O	0	8	O	O	chain	x	x	0
+O	0	9	O	O	known	x	x	0
+O	0	10	O	O	for	x	x	0
+B-ORG	0	11	O	O	its	x	x	0
+O	0	12	O	O	scantily	x	x	0
+O	0	13	O	O	clad	x	x	0
+O	0	14	O	O	waitresses	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	local	x	x	0
+B-ORG	0	3	O	O	Republican	x	x	0
+O	0	4	O	O	official	x	x	0
+O	0	5	O	O	insists	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	any	x	x	0
+B-ORG	0	11	O	O	Hooters	x	x	0
+O	0	12	O	O	girls	x	x	0
+O	0	13	O	O	onboard	x	x	0
+O	0	14	O	O	with	x	x	0
+O	0	15	O	O	the	x	x	0
+B-TIME	0	16	O	O	100-year-old	x	x	0
+O	0	17	O	O	Thurmond	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Smiles	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	That	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	INSIDE	x	x	0
+O	0	5	O	O	POLITICS	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+B-PER	0	2	O	O	Judy	x	x	0
+I-PER	0	3	O	O	Woodruff	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	joining	x	x	0
+B-ORG	0	3	O	O	us	x	x	0
+O	0	4	O	O	.	x	x	0
+

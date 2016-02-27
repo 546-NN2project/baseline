@@ -1,0 +1,1093 @@
+O	0	0	O	O	JAKARTA	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Indonesia	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+B-PER	0	6	O	O	The	x	x	0
+I-PER	0	7	O	O	dictator	x	x	0
+B-PER	0	8	O	O	Suharto	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	fallen	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	constitution	x	x	0
+O	0	14	O	O	has	x	x	0
+O	0	15	O	O	changed	x	x	0
+O	0	16	O	O	,	x	x	0
+B-ORG	0	17	O	O	the	x	x	0
+I-ORG	0	18	O	O	media	x	x	0
+O	0	19	O	O	was	x	x	0
+O	0	20	O	O	unshackled	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	democratic	x	x	0
+O	0	23	O	O	elections	x	x	0
+O	0	24	O	O	held	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	and	x	x	0
+B-GPE	0	27	O	O	East	x	x	0
+I-GPE	0	28	O	O	Timor	x	x	0
+O	0	29	O	O	freed	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	After	x	x	0
+B-TIME	0	1	O	O	Sept.	x	x	0
+I-TIME	0	2	O	O	11	x	x	0
+I-TIME	0	3	O	O	,	x	x	0
+I-TIME	0	4	O	O	2001	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Indonesia	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	quick	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	sign	x	x	0
+O	0	11	O	O	onto	x	x	0
+B-GPE	0	12	O	O	U.S.	x	x	0
+O	0	13	O	O	President	x	x	0
+O	0	14	O	O	George	x	x	0
+O	0	15	O	O	W.	x	x	0
+O	0	16	O	O	Bush	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	global	x	x	0
+O	0	19	O	O	war	x	x	0
+O	0	20	O	O	on	x	x	0
+O	0	21	O	O	terror	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yet	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Washington	x	x	0
+O	0	3	O	O	maintains	x	x	0
+O	0	4	O	O	a	x	x	0
+B-TIME	0	5	O	O	12-year	x	x	0
+O	0	6	O	O	ban	x	x	0
+O	0	7	O	O	on	x	x	0
+B-WEA	0	8	O	O	arms	x	x	0
+O	0	9	O	O	sales	x	x	0
+O	0	10	O	O	to	x	x	0
+B-LOC	0	11	O	O	the	x	x	0
+I-LOC	0	12	O	O	world	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	most	x	x	0
+O	0	15	O	O	populous	x	x	0
+B-PER	0	16	O	O	Muslim	x	x	0
+O	0	17	O	O	nation	x	x	0
+O	0	18	O	O	with	x	x	0
+O	0	19	O	O	the	x	x	0
+O	0	20	O	O	aim	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	curbing	x	x	0
+B-PER	0	23	O	O	human	x	x	0
+O	0	24	O	O	rights	x	x	0
+O	0	25	O	O	abuses	x	x	0
+O	0	26	O	O	still	x	x	0
+O	0	27	O	O	happening	x	x	0
+O	0	28	O	O	despite	x	x	0
+O	0	29	O	O	momentous	x	x	0
+O	0	30	O	O	political	x	x	0
+O	0	31	O	O	change	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Frustrated	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Jakarta	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	generals	x	x	0
+O	0	5	O	O	are	x	x	0
+O	0	6	O	O	looking	x	x	0
+O	0	7	O	O	elsewhere	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	replace	x	x	0
+O	0	10	O	O	antiquated	x	x	0
+O	0	11	O	O	arsenals	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Later	x	x	0
+I-TIME	0	1	O	O	this	x	x	0
+I-TIME	0	2	O	O	month	x	x	0
+B-GPE	0	3	O	O	Indonesian	x	x	0
+O	0	4	O	O	President	x	x	0
+O	0	5	O	O	Megawati	x	x	0
+O	0	6	O	O	Sukarnoputri	x	x	0
+O	0	7	O	O	travels	x	x	0
+O	0	8	O	O	to	x	x	0
+B-GPE	0	9	O	O	Moscow	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	seek	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	Kremlin	x	x	0
+O	0	14	O	O	's	x	x	0
+O	0	15	O	O	help	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	modernizing	x	x	0
+B-PER	0	18	O	O	her	x	x	0
+O	0	19	O	O	increasingly	x	x	0
+O	0	20	O	O	obsolete	x	x	0
+B-PER	0	21	O	O	300,000-member	x	x	0
+O	0	22	O	O	armed	x	x	0
+O	0	23	O	O	forces	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	likely	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	open	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	way	x	x	0
+O	0	8	O	O	for	x	x	0
+B-GPE	0	9	O	O	Russian	x	x	0
+O	0	10	O	O	companies	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	vie	x	x	0
+O	0	13	O	O	for	x	x	0
+O	0	14	O	O	lucrative	x	x	0
+O	0	15	O	O	deals	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+O	0	18	O	O	oil	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	gas	x	x	0
+O	0	21	O	O	sector	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	long	x	x	0
+O	0	24	O	O	dominated	x	x	0
+O	0	25	O	O	by	x	x	0
+B-GPE	0	26	O	O	American	x	x	0
+O	0	27	O	O	and	x	x	0
+B-GPE	0	28	O	O	British	x	x	0
+O	0	29	O	O	resource	x	x	0
+O	0	30	O	O	giants	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Although	x	x	0
+O	0	1	O	O	opposite	x	x	0
+O	0	2	O	O	ends	x	x	0
+O	0	3	O	O	of	x	x	0
+B-LOC	0	4	O	O	the	x	x	0
+I-LOC	0	5	O	O	Earth	x	x	0
+O	0	6	O	O	,	x	x	0
+B-GPE	0	7	O	O	Indonesia	x	x	0
+O	0	8	O	O	and	x	x	0
+B-GPE	0	9	O	O	Russia	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	some	x	x	0
+O	0	12	O	O	basic	x	x	0
+O	0	13	O	O	things	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	common	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Both	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	geographically	x	x	0
+O	0	3	O	O	sprawling	x	x	0
+O	0	4	O	O	with	x	x	0
+B-GPE	0	5	O	O	massive	x	x	0
+I-GPE	0	6	O	O	multiethnic	x	x	0
+I-GPE	0	7	O	O	populations	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Both	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	struggling	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	preserve	x	x	0
+O	0	5	O	O	national	x	x	0
+O	0	6	O	O	unity	x	x	0
+O	0	7	O	O	as	x	x	0
+B-GPE	0	8	O	O	they	x	x	0
+O	0	9	O	O	fight	x	x	0
+O	0	10	O	O	separatism	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	build	x	x	0
+O	0	13	O	O	democracy	x	x	0
+O	0	14	O	O	after	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	collapse	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	decades	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	authoritarian	x	x	0
+O	0	21	O	O	rule	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Both	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	resource-rich	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	but	x	x	0
+O	0	5	O	O	face	x	x	0
+O	0	6	O	O	huge	x	x	0
+O	0	7	O	O	economic	x	x	0
+O	0	8	O	O	problems	x	x	0
+O	0	9	O	O	made	x	x	0
+O	0	10	O	O	worse	x	x	0
+O	0	11	O	O	by	x	x	0
+O	0	12	O	O	endemic	x	x	0
+O	0	13	O	O	corruption	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+B-TIME	0	2	O	O	currently	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	both	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	opposed	x	x	0
+O	0	7	O	O	the	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	led	x	x	0
+O	0	10	O	O	war	x	x	0
+O	0	11	O	O	on	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Indonesia	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Foreign	x	x	0
+O	0	3	O	O	Ministry	x	x	0
+O	0	4	O	O	spokesman	x	x	0
+B-PER	0	5	O	O	Marty	x	x	0
+I-PER	0	6	O	O	Natalegawa	x	x	0
+O	0	7	O	O	says	x	x	0
+B-PER	0	8	O	O	Megawati	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	meeting	x	x	0
+O	0	11	O	O	with	x	x	0
+B-GPE	0	12	O	O	Russian	x	x	0
+O	0	13	O	O	President	x	x	0
+O	0	14	O	O	Putin	x	x	0
+O	0	15	O	O	slated	x	x	0
+O	0	16	O	O	for	x	x	0
+B-TIME	0	17	O	O	April	x	x	0
+I-TIME	0	18	O	O	21	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	touch	x	x	0
+O	0	21	O	O	on	x	x	0
+O	0	22	O	O	the	x	x	0
+B-GPE	0	23	O	O	Iraq	x	x	0
+O	0	24	O	O	crisis	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	other	x	x	0
+I-PER	0	2	O	O	diplomats	x	x	0
+O	0	3	O	O	say	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	issue	x	x	0
+O	0	6	O	O	will	x	x	0
+O	0	7	O	O	serve	x	x	0
+O	0	8	O	O	primarily	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	bring	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	two	x	x	0
+O	0	13	O	O	closer	x	x	0
+O	0	14	O	O	together	x	x	0
+O	0	15	O	O	on	x	x	0
+O	0	16	O	O	bottom-line	x	x	0
+O	0	17	O	O	issues	x	x	0
+O	0	18	O	O	such	x	x	0
+O	0	19	O	O	as	x	x	0
+O	0	20	O	O	trade	x	x	0
+O	0	21	O	O	and	x	x	0
+B-WEA	0	22	O	O	arms	x	x	0
+O	0	23	O	O	sales	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Analysts	x	x	0
+O	0	1	O	O	worry	x	x	0
+O	0	2	O	O	that	x	x	0
+B-GPE	0	3	O	O	Indonesia	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	military	x	x	0
+O	0	6	O	O	is	x	x	0
+B-TIME	0	7	O	O	now	x	x	0
+O	0	8	O	O	so	x	x	0
+O	0	9	O	O	degraded	x	x	0
+B-ORG	0	10	O	O	it	x	x	0
+O	0	11	O	O	can	x	x	0
+O	0	12	O	O	no	x	x	0
+O	0	13	O	O	longer	x	x	0
+O	0	14	O	O	control	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	borders	x	x	0
+O	0	17	O	O	of	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	far-flung	x	x	0
+I-GPE	0	20	O	O	archipelago	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	allowing	x	x	0
+O	0	23	O	O	for	x	x	0
+O	0	24	O	O	easy	x	x	0
+O	0	25	O	O	infiltration	x	x	0
+O	0	26	O	O	by	x	x	0
+B-PER	0	27	O	O	extremists	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Last	x	x	0
+I-TIME	0	1	O	O	year	x	x	0
+O	0	2	O	O	's	x	x	0
+B-GPE	0	3	O	O	Bali	x	x	0
+O	0	4	O	O	bombings	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	which	x	x	0
+O	0	7	O	O	killed	x	x	0
+B-PER	0	8	O	O	202	x	x	0
+I-PER	0	9	O	O	people	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	illustrated	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	threat	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	terrorism	x	x	0
+O	0	16	O	O	in	x	x	0
+B-GPE	0	17	O	O	Indonesia	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	broad	x	x	0
+O	0	3	O	O	opposition	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	-	x	x	0
+O	0	8	O	O	led	x	x	0
+O	0	9	O	O	attack	x	x	0
+O	0	10	O	O	on	x	x	0
+B-GPE	0	11	O	O	Iraq	x	x	0
+O	0	12	O	O	threatens	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	lead	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	backlash	x	x	0
+O	0	18	O	O	by	x	x	0
+B-PER	0	19	O	O	militant	x	x	0
+I-PER	0	20	O	O	Islamists	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Nearly	x	x	0
+O	0	2	O	O	everybody	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	Indonesia	x	x	0
+O	0	5	O	O	sees	x	x	0
+O	0	6	O	O	this	x	x	0
+B-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	war	x	x	0
+O	0	9	O	O	as	x	x	0
+O	0	10	O	O	completely	x	x	0
+O	0	11	O	O	unnecessary	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	there	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	widespread	x	x	0
+O	0	16	O	O	public	x	x	0
+O	0	17	O	O	opposition	x	x	0
+O	0	18	O	O	to	x	x	0
+B-GPE	0	19	O	O	U.S.	x	x	0
+O	0	20	O	O	policies	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	''	x	x	0
+O	0	23	O	O	said	x	x	0
+O	0	24	O	O	Jusuf	x	x	0
+O	0	25	O	O	Wanadi	x	x	0
+O	0	26	O	O	of	x	x	0
+O	0	27	O	O	the	x	x	0
+O	0	28	O	O	Center	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	Strategic	x	x	0
+O	0	31	O	O	and	x	x	0
+O	0	32	O	O	International	x	x	0
+O	0	33	O	O	Studies	x	x	0
+O	0	34	O	O	in	x	x	0
+B-GPE	0	35	O	O	Jakarta	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Close	x	x	0
+O	0	1	O	O	ties	x	x	0
+O	0	2	O	O	between	x	x	0
+B-GPE	0	3	O	O	Moscow	x	x	0
+O	0	4	O	O	and	x	x	0
+B-GPE	0	5	O	O	Jakarta	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	not	x	x	0
+O	0	8	O	O	unprecedented	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Indonesia	x	x	0
+O	0	1	O	O	relied	x	x	0
+O	0	2	O	O	on	x	x	0
+B-GPE	0	3	O	O	Soviet	x	x	0
+O	0	4	O	O	military	x	x	0
+O	0	5	O	O	assistance	x	x	0
+O	0	6	O	O	in	x	x	0
+B-TIME	0	7	O	O	the	x	x	0
+I-TIME	0	8	O	O	1950s	x	x	0
+O	0	9	O	O	under	x	x	0
+B-PER	0	10	O	O	Megawati	x	x	0
+O	0	11	O	O	's	x	x	0
+O	0	12	O	O	father	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	founding	x	x	0
+I-PER	0	15	O	O	President	x	x	0
+O	0	16	O	O	Sukarno	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	but	x	x	0
+O	0	19	O	O	these	x	x	0
+O	0	20	O	O	were	x	x	0
+O	0	21	O	O	severed	x	x	0
+O	0	22	O	O	after	x	x	0
+B-PER	0	23	O	O	the	x	x	0
+I-PER	0	24	O	O	anti-communist	x	x	0
+I-PER	0	25	O	O	Gen.	x	x	0
+I-PER	0	26	O	O	Suharto	x	x	0
+O	0	27	O	O	seized	x	x	0
+O	0	28	O	O	power	x	x	0
+O	0	29	O	O	in	x	x	0
+B-TIME	0	30	O	O	1965	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	United	x	x	0
+I-GPE	0	2	O	O	States	x	x	0
+O	0	3	O	O	quickly	x	x	0
+O	0	4	O	O	became	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	Southeast	x	x	0
+I-GPE	0	7	O	O	Asian	x	x	0
+O	0	8	O	O	country	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	main	x	x	0
+B-WEA	0	11	O	O	weapons	x	x	0
+O	0	12	O	O	supplier	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	and	x	x	0
+B-TIME	0	15	O	O	annual	x	x	0
+B-WEA	0	16	O	O	arms	x	x	0
+O	0	17	O	O	sales	x	x	0
+O	0	18	O	O	peaked	x	x	0
+O	0	19	O	O	at	x	x	0
+B-GPE	0	20	O	O	US	x	x	0
+B-Numeric	0	21	O	O	$	x	x	0
+I-Numeric	0	22	O	O	400	x	x	0
+I-Numeric	0	23	O	O	million	x	x	0
+O	0	24	O	O	in	x	x	0
+B-TIME	0	25	O	O	the	x	x	0
+I-TIME	0	26	O	O	1980s	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	1991	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	however	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	Congress	x	x	0
+O	0	8	O	O	banned	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	after	x	x	0
+B-GPE	0	11	O	O	Indonesian	x	x	0
+O	0	12	O	O	troops	x	x	0
+O	0	13	O	O	killed	x	x	0
+O	0	14	O	O	hundreds	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	civilians	x	x	0
+O	0	17	O	O	in	x	x	0
+B-GPE	0	18	O	O	East	x	x	0
+I-GPE	0	19	O	O	Timor	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-TIME	0	1	O	O	1999	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	East	x	x	0
+I-GPE	0	4	O	O	Timor	x	x	0
+O	0	5	O	O	became	x	x	0
+O	0	6	O	O	free	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	only	x	x	0
+O	0	10	O	O	after	x	x	0
+B-GPE	0	11	O	O	Indonesian	x	x	0
+O	0	12	O	O	forces	x	x	0
+O	0	13	O	O	laid	x	x	0
+O	0	14	O	O	waste	x	x	0
+O	0	15	O	O	to	x	x	0
+B-GPE	0	16	O	O	it	x	x	0
+O	0	17	O	O	as	x	x	0
+B-PER	0	18	O	O	they	x	x	0
+O	0	19	O	O	withdrew	x	x	0
+O	0	20	O	O	after	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	pro-independence	x	x	0
+O	0	23	O	O	referendum	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	shocking	x	x	0
+O	0	2	O	O	level	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	destruction	x	x	0
+O	0	5	O	O	prompted	x	x	0
+B-GPE	0	6	O	O	U.S.	x	x	0
+O	0	7	O	O	lawmakers	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	expand	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	ban	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	cover	x	x	0
+O	0	14	O	O	almost	x	x	0
+O	0	15	O	O	all	x	x	0
+B-ORG	0	16	O	O	military	x	x	0
+O	0	17	O	O	ties	x	x	0
+O	0	18	O	O	with	x	x	0
+B-GPE	0	19	O	O	Indonesia	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Since	x	x	0
+O	0	1	O	O	then	x	x	0
+O	0	2	O	O	some	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	the	x	x	0
+B-PER	0	5	O	O	Bush	x	x	0
+O	0	6	O	O	administration	x	x	0
+O	0	7	O	O	_	x	x	0
+O	0	8	O	O	particularly	x	x	0
+O	0	9	O	O	Deputy	x	x	0
+B-ORG	0	10	O	O	Defense	x	x	0
+O	0	11	O	O	Secretary	x	x	0
+O	0	12	O	O	Paul	x	x	0
+O	0	13	O	O	Wolfowitz	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	a	x	x	0
+B-TIME	0	16	O	O	former	x	x	0
+O	0	17	O	O	ambassador	x	x	0
+O	0	18	O	O	to	x	x	0
+B-GPE	0	19	O	O	Jakarta	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	prime	x	x	0
+O	0	23	O	O	architect	x	x	0
+O	0	24	O	O	of	x	x	0
+O	0	25	O	O	the	x	x	0
+B-GPE	0	26	O	O	Iraq	x	x	0
+O	0	27	O	O	war	x	x	0
+O	0	28	O	O	_	x	x	0
+O	0	29	O	O	have	x	x	0
+O	0	30	O	O	pushed	x	x	0
+O	0	31	O	O	for	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	ban	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	be	x	x	0
+O	0	36	O	O	repealed	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	far	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	lawmakers	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	reinstated	x	x	0
+O	0	7	O	O	only	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	limited	x	x	0
+B-PER	0	10	O	O	officer	x	x	0
+O	0	11	O	O	training	x	x	0
+O	0	12	O	O	program	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	that	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	far	x	x	0
+O	0	4	O	O	from	x	x	0
+O	0	5	O	O	enough	x	x	0
+O	0	6	O	O	for	x	x	0
+B-GPE	0	7	O	O	Indonesia	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	generals	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	the	x	x	0
+B-GPE	0	4	O	O	Indonesian	x	x	0
+O	0	5	O	O	military	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	finally	x	x	0
+O	0	8	O	O	decided	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	restrictions	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	conditionalities	x	x	0
+O	0	13	O	O	from	x	x	0
+B-GPE	0	14	O	O	Washington	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	just	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	worth	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	''	x	x	0
+O	0	22	O	O	said	x	x	0
+B-PER	0	23	O	O	Juwono	x	x	0
+I-PER	0	24	O	O	Sudarsono	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	a	x	x	0
+B-TIME	0	27	O	O	former	x	x	0
+O	0	28	O	O	defense	x	x	0
+O	0	29	O	O	minister	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	So	x	x	0
+B-ORG	0	2	O	O	they	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	look	x	x	0
+O	0	6	O	O	for	x	x	0
+O	0	7	O	O	alternative	x	x	0
+O	0	8	O	O	sources	x	x	0
+O	0	9	O	O	for	x	x	0
+B-VEH	0	10	O	O	planes	x	x	0
+O	0	11	O	O	,	x	x	0
+B-VEH	0	12	O	O	helicopters	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	other	x	x	0
+O	0	15	O	O	hardware	x	x	0
+O	0	16	O	O	.	x	x	0
+O	0	17	O	O	''	x	x	0
+
+
+
+B-GPE	0	0	O	O	Moscow	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	already	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	some	x	x	0
+O	0	5	O	O	success	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	wooing	x	x	0
+B-GPE	0	8	O	O	Indonesia	x	x	0
+O	0	9	O	O	as	x	x	0
+B-GPE	0	10	O	O	a	x	x	0
+I-GPE	0	11	O	O	customer	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Jakarta	x	x	0
+O	0	1	O	O	has	x	x	0
+B-TIME	0	2	O	O	recently	x	x	0
+O	0	3	O	O	purchased	x	x	0
+O	0	4	O	O	some	x	x	0
+B-GPE	0	5	O	O	Russian	x	x	0
+O	0	6	O	O	weapons	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	including	x	x	0
+O	0	9	O	O	10,000	x	x	0
+B-WEA	0	10	O	O	Kalashnikov	x	x	0
+O	0	11	O	O	assault	x	x	0
+O	0	12	O	O	rifles	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	a	x	x	0
+O	0	15	O	O	squadron	x	x	0
+O	0	16	O	O	of	x	x	0
+B-ORG	0	17	O	O	naval	x	x	0
+B-VEH	0	18	O	O	Mil-2	x	x	0
+O	0	19	O	O	helicopters	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	a	x	x	0
+O	0	22	O	O	dozen	x	x	0
+B-VEH	0	23	O	O	BTR-80A	x	x	0
+O	0	24	O	O	amphibious	x	x	0
+O	0	25	O	O	carriers	x	x	0
+O	0	26	O	O	for	x	x	0
+B-GPE	0	27	O	O	its	x	x	0
+O	0	28	O	O	marines	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Currently	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Indonesia	x	x	0
+O	0	3	O	O	uses	x	x	0
+O	0	4	O	O	short-range	x	x	0
+B-WEA	0	5	O	O	Rapier	x	x	0
+O	0	6	O	O	missiles	x	x	0
+O	0	7	O	O	purchased	x	x	0
+B-TIME	0	8	O	O	30	x	x	0
+I-TIME	0	9	O	O	years	x	x	0
+I-TIME	0	10	O	O	ago	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	protect	x	x	0
+B-GPE	0	13	O	O	its	x	x	0
+O	0	14	O	O	vital	x	x	0
+O	0	15	O	O	oil	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	natural	x	x	0
+O	0	18	O	O	gas	x	x	0
+O	0	19	O	O	fields	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	Sumatra	x	x	0
+O	0	22	O	O	,	x	x	0
+B-GPE	0	23	O	O	Borneo	x	x	0
+O	0	24	O	O	and	x	x	0
+B-GPE	0	25	O	O	Papua	x	x	0
+O	0	26	O	O	from	x	x	0
+O	0	27	O	O	air	x	x	0
+O	0	28	O	O	attack	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+O	0	1	O	O	Replenishing	x	x	0
+B-FAC	0	2	O	O	them	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	big	x	x	0
+O	0	7	O	O	problem	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	''	x	x	0
+B-PER	0	10	O	O	Sudarsono	x	x	0
+O	0	11	O	O	said	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Air	x	x	0
+I-PER	0	1	O	O	defense	x	x	0
+I-PER	0	2	O	O	commanders	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	augment	x	x	0
+B-WEA	0	6	O	O	the	x	x	0
+I-WEA	0	7	O	O	Rapiers	x	x	0
+O	0	8	O	O	with	x	x	0
+B-GPE	0	9	O	O	Russia	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	impressive	x	x	0
+O	0	12	O	O	long-range	x	x	0
+B-WEA	0	13	O	O	S-300	x	x	0
+O	0	14	O	O	missiles	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	or	x	x	0
+O	0	17	O	O	shorter-range	x	x	0
+O	0	18	O	O	systems	x	x	0
+O	0	19	O	O	such	x	x	0
+O	0	20	O	O	as	x	x	0
+B-WEA	0	21	O	O	the	x	x	0
+I-WEA	0	22	O	O	SA-15	x	x	0
+I-WEA	0	23	O	O	Gauntlet	x	x	0
+O	0	24	O	O	or	x	x	0
+B-WEA	0	25	O	O	shoulder-fired	x	x	0
+I-WEA	0	26	O	O	Igla	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Air	x	x	0
+I-ORG	0	2	O	O	Force	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	reportedly	x	x	0
+O	0	5	O	O	considering	x	x	0
+O	0	6	O	O	purchasing	x	x	0
+O	0	7	O	O	several	x	x	0
+O	0	8	O	O	squadrons	x	x	0
+O	0	9	O	O	of	x	x	0
+B-VEH	0	10	O	O	Sukhoi	x	x	0
+I-VEH	0	11	O	O	Su-27	x	x	0
+O	0	12	O	O	interceptors	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	considered	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	world	x	x	0
+O	0	17	O	O	's	x	x	0
+O	0	18	O	O	premier	x	x	0
+O	0	19	O	O	dogfighters	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Previously	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Indonesian	x	x	0
+B-ORG	0	3	O	O	Air	x	x	0
+I-ORG	0	4	O	O	Force	x	x	0
+O	0	5	O	O	commanders	x	x	0
+O	0	6	O	O	preferred	x	x	0
+B-GPE	0	7	O	O	Western	x	x	0
+O	0	8	O	O	jets	x	x	0
+B-VEH	0	9	O	O	that	x	x	0
+O	0	10	O	O	were	x	x	0
+O	0	11	O	O	compatible	x	x	0
+O	0	12	O	O	with	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	U.S.	x	x	0
+O	0	15	O	O	-	x	x	0
+O	0	16	O	O	made	x	x	0
+B-VEH	0	17	O	O	F-16	x	x	0
+O	0	18	O	O	fighter-bombers	x	x	0
+O	0	19	O	O	already	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	the	x	x	0
+B-GPE	0	22	O	O	Indonesian	x	x	0
+O	0	23	O	O	inventory	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-GPE	0	1	O	O	neighboring	x	x	0
+I-GPE	0	2	O	O	Malaysia	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	success	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	integrating	x	x	0
+B-GPE	0	7	O	O	Russian	x	x	0
+O	0	8	O	O	MiG-29s	x	x	0
+O	0	9	O	O	and	x	x	0
+B-GPE	0	10	O	O	American	x	x	0
+B-VEH	0	11	O	O	F	x	x	0
+I-VEH	0	12	O	O	/	x	x	0
+I-VEH	0	13	O	O	A-18	x	x	0
+O	0	14	O	O	Hornets	x	x	0
+O	0	15	O	O	persuaded	x	x	0
+B-PER	0	16	O	O	them	x	x	0
+O	0	17	O	O	otherwise	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	Sudarsono	x	x	0
+O	0	20	O	O	said	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	Megawati	x	x	0
+O	0	2	O	O	does	x	x	0
+O	0	3	O	O	stiff-arm	x	x	0
+B-GPE	0	4	O	O	the	x	x	0
+I-GPE	0	5	O	O	United	x	x	0
+I-GPE	0	6	O	O	States	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	the	x	x	0
+B-WEA	0	9	O	O	weapons	x	x	0
+O	0	10	O	O	issue	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	unlikely	x	x	0
+O	0	15	O	O	relations	x	x	0
+O	0	16	O	O	with	x	x	0
+B-GPE	0	17	O	O	Washington	x	x	0
+O	0	18	O	O	will	x	x	0
+O	0	19	O	O	be	x	x	0
+O	0	20	O	O	permanently	x	x	0
+O	0	21	O	O	damaged	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Whatever	x	x	0
+O	0	1	O	O	happens	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	Indonesia	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	mainly	x	x	0
+B-PER	0	7	O	O	Muslim	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	politically	x	x	0
+O	0	10	O	O	secular	x	x	0
+O	0	11	O	O	state	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	is	x	x	0
+B-GPE	0	14	O	O	natural	x	x	0
+I-GPE	0	15	O	O	ally	x	x	0
+I-GPE	0	16	O	O	in	x	x	0
+I-GPE	0	17	O	O	the	x	x	0
+I-GPE	0	18	O	O	struggle	x	x	0
+I-GPE	0	19	O	O	against	x	x	0
+I-GPE	0	20	O	O	terrorism	x	x	0
+I-GPE	0	21	O	O	and	x	x	0
+I-GPE	0	22	O	O	religious	x	x	0
+I-GPE	0	23	O	O	militancy	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	more	x	x	0
+O	0	4	O	O	worrying	x	x	0
+O	0	5	O	O	for	x	x	0
+B-GPE	0	6	O	O	Washington	x	x	0
+O	0	7	O	O	is	x	x	0
+B-GPE	0	8	O	O	Russia	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	economic	x	x	0
+O	0	11	O	O	ambitions	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Trade	x	x	0
+O	0	1	O	O	between	x	x	0
+B-GPE	0	2	O	O	Indonesia	x	x	0
+O	0	3	O	O	and	x	x	0
+B-GPE	0	4	O	O	Russia	x	x	0
+O	0	5	O	O	increased	x	x	0
+O	0	6	O	O	by	x	x	0
+B-Numeric	0	7	O	O	dlrs	x	x	0
+I-Numeric	0	8	O	O	36.2	x	x	0
+I-Numeric	0	9	O	O	million	x	x	0
+O	0	10	O	O	to	x	x	0
+B-Numeric	0	11	O	O	dlrs	x	x	0
+I-Numeric	0	12	O	O	203.5	x	x	0
+I-Numeric	0	13	O	O	million	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	2001	x	x	0
+O	0	16	O	O	_	x	x	0
+B-TIME	0	17	O	O	the	x	x	0
+I-TIME	0	18	O	O	last	x	x	0
+I-TIME	0	19	O	O	year	x	x	0
+I-TIME	0	20	O	O	for	x	x	0
+I-TIME	0	21	O	O	which	x	x	0
+I-TIME	0	22	O	O	statistics	x	x	0
+I-TIME	0	23	O	O	are	x	x	0
+I-TIME	0	24	O	O	available	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Analysts	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	can	x	x	0
+O	0	4	O	O	only	x	x	0
+O	0	5	O	O	grow	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	real	x	x	0
+O	0	2	O	O	concerns	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	though	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	are	x	x	0
+O	0	7	O	O	in	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	petroleum	x	x	0
+I-ORG	0	10	O	O	sector	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Megawati	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	Putin	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	expected	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	sign	x	x	0
+O	0	7	O	O	agreements	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	give	x	x	0
+B-GPE	0	10	O	O	Russian	x	x	0
+O	0	11	O	O	companies	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	toehold	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Indonesia	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	oil	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	gas	x	x	0
+O	0	20	O	O	industry	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	long	x	x	0
+O	0	23	O	O	dominated	x	x	0
+O	0	24	O	O	by	x	x	0
+B-GPE	0	25	O	O	American	x	x	0
+O	0	26	O	O	and	x	x	0
+B-GPE	0	27	O	O	British	x	x	0
+O	0	28	O	O	giants	x	x	0
+O	0	29	O	O	such	x	x	0
+O	0	30	O	O	as	x	x	0
+B-ORG	0	31	O	O	Exxon	x	x	0
+I-ORG	0	32	O	O	Mobil	x	x	0
+O	0	33	O	O	and	x	x	0
+B-ORG	0	34	O	O	BP	x	x	0
+O	0	35	O	O	.	x	x	0
+

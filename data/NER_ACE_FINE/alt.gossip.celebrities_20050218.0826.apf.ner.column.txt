@@ -1,0 +1,947 @@
+O	0	0	O	O	Lovely	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	refuses	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	autopsy	x	x	0
+O	0	6	O	O	which	x	x	0
+O	0	7	O	O	could	x	x	0
+O	0	8	O	O	prove	x	x	0
+O	0	9	O	O	how	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	husband	x	x	0
+O	0	12	O	O	died	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	but	x	x	0
+O	0	15	O	O	then	x	x	0
+B-PER	0	16	O	O	she	x	x	0
+O	0	17	O	O	turns	x	x	0
+O	0	18	O	O	around	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	makes	x	x	0
+O	0	21	O	O	accusations	x	x	0
+O	0	22	O	O	like	x	x	0
+O	0	23	O	O	this	x	x	0
+O	0	24	O	O	against	x	x	0
+B-PER	0	25	O	O	his	x	x	0
+O	0	26	O	O	treatment	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	and	x	x	0
+O	0	29	O	O	in	x	x	0
+O	0	30	O	O	effect	x	x	0
+O	0	31	O	O	,	x	x	0
+B-PER	0	32	O	O	his	x	x	0
+O	0	33	O	O	doctors	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	makes	x	x	0
+B-PER	0	2	O	O	me	x	x	0
+O	0	3	O	O	super	x	x	0
+O	0	4	O	O	pissed	x	x	0
+O	0	5	O	O	off	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	sypmtoms	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	massive	x	x	0
+O	0	5	O	O	allergic	x	x	0
+O	0	6	O	O	reaction	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	a	x	x	0
+O	0	10	O	O	systemic	x	x	0
+O	0	11	O	O	infection	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	completely	x	x	0
+O	0	14	O	O	different	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Yet	x	x	0
+O	0	1	O	O	suddenly	x	x	0
+O	0	2	O	O	,	x	x	0
+B-PER	0	3	O	O	she	x	x	0
+O	0	4	O	O	's	x	x	0
+B-PER	0	5	O	O	an	x	x	0
+I-PER	0	6	O	O	expert	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Statements	x	x	0
+O	0	1	O	O	like	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	on	x	x	0
+O	0	4	O	O	shows	x	x	0
+O	0	5	O	O	like	x	x	0
+O	0	6	O	O	Oprah	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	who	x	x	0
+O	0	9	O	O	loves	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	spread	x	x	0
+O	0	12	O	O	medical	x	x	0
+O	0	13	O	O	ignorance	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	are	x	x	0
+O	0	16	O	O	completely	x	x	0
+O	0	17	O	O	irresponsible	x	x	0
+O	0	18	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	did	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	see	x	x	0
+O	0	4	O	O	this	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	accusation	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	explanation	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	allergic	x	x	0
+O	0	4	O	O	reactions	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	meds	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	have	x	x	0
+O	0	9	O	O	n't	x	x	0
+O	0	10	O	O	reacted	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	before	x	x	0
+O	0	13	O	O	without	x	x	0
+B-PER	0	14	O	O	anyone	x	x	0
+O	0	15	O	O	knowing	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	will	x	x	0
+O	0	18	O	O	happen	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	exposure	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	substance	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	causes	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	allergy	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	form	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Like	x	x	0
+B-PER	0	1	O	O	people	x	x	0
+O	0	2	O	O	walking	x	x	0
+O	0	3	O	O	through	x	x	0
+O	0	4	O	O	poison	x	x	0
+O	0	5	O	O	ivy	x	x	0
+O	0	6	O	O	half	x	x	0
+B-PER	0	7	O	O	their	x	x	0
+O	0	8	O	O	lives	x	x	0
+O	0	9	O	O	then	x	x	0
+O	0	10	O	O	suddenly	x	x	0
+O	0	11	O	O	having	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	bad	x	x	0
+O	0	14	O	O	reaction	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Like	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	thousands	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	people	x	x	0
+O	0	5	O	O	developing	x	x	0
+O	0	6	O	O	allergies	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	latex	x	x	0
+B-TIME	0	9	O	O	these	x	x	0
+I-TIME	0	10	O	O	days	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	etc	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	saw	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	show	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	did	x	x	0
+O	0	6	O	O	n't	x	x	0
+O	0	7	O	O	think	x	x	0
+B-PER	0	8	O	O	she	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	accusing	x	x	0
+B-PER	0	11	O	O	anyone	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	anything	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	more	x	x	0
+O	0	16	O	O	trying	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	explain	x	x	0
+O	0	19	O	O	to	x	x	0
+B-PER	0	20	O	O	people	x	x	0
+O	0	21	O	O	why	x	x	0
+B-PER	0	22	O	O	he	x	x	0
+O	0	23	O	O	died	x	x	0
+O	0	24	O	O	so	x	x	0
+O	0	25	O	O	suddenly	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	mentioned	x	x	0
+O	0	2	O	O	several	x	x	0
+O	0	3	O	O	times	x	x	0
+O	0	4	O	O	how	x	x	0
+O	0	5	O	O	wonderful	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+I-PER	0	7	O	O	Doctors	x	x	0
+I-PER	0	8	O	O	and	x	x	0
+I-PER	0	9	O	O	nurses	x	x	0
+I-PER	0	10	O	O	and	x	x	0
+I-PER	0	11	O	O	therapists	x	x	0
+B-PER	0	12	O	O	have	x	x	0
+O	0	13	O	O	been	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	mentioned	x	x	0
+B-PER	0	16	O	O	them	x	x	0
+O	0	17	O	O	by	x	x	0
+O	0	18	O	O	name	x	x	0
+O	0	19	O	O	.	x	x	0
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	accusations	x	x	0
+O	0	4	O	O	by	x	x	0
+B-PER	0	5	O	O	her	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	said	x	x	0
+O	0	2	O	O	there	x	x	0
+O	0	3	O	O	were	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	couple	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	drugs	x	x	0
+O	0	8	O	O	that	x	x	0
+B-PER	0	9	O	O	they	x	x	0
+O	0	10	O	O	had	x	x	0
+O	0	11	O	O	used	x	x	0
+O	0	12	O	O	with	x	x	0
+B-PER	0	13	O	O	Chris	x	x	0
+O	0	14	O	O	in	x	x	0
+B-TIME	0	15	O	O	the	x	x	0
+I-TIME	0	16	O	O	past	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	treat	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	infections	x	x	0
+O	0	21	O	O	with	x	x	0
+O	0	22	O	O	no	x	x	0
+O	0	23	O	O	problems	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	and	x	x	0
+B-PER	0	26	O	O	they	x	x	0
+O	0	27	O	O	would	x	x	0
+O	0	28	O	O	use	x	x	0
+O	0	29	O	O	them	x	x	0
+O	0	30	O	O	again	x	x	0
+O	0	31	O	O	and	x	x	0
+B-PER	0	32	O	O	he	x	x	0
+O	0	33	O	O	would	x	x	0
+O	0	34	O	O	have	x	x	0
+O	0	35	O	O	an	x	x	0
+O	0	36	O	O	allergic	x	x	0
+O	0	37	O	O	reaction	x	x	0
+O	0	38	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	happens	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	lot	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	said	x	x	0
+B-PER	0	2	O	O	she	x	x	0
+O	0	3	O	O	did	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	want	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	autopsy	x	x	0
+O	0	8	O	O	because	x	x	0
+O	0	9	O	O	there	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	no	x	x	0
+O	0	12	O	O	blame	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	she	x	x	0
+O	0	15	O	O	knew	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	was	x	x	0
+O	0	18	O	O	just	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	body	x	x	0
+O	0	21	O	O	shutting	x	x	0
+O	0	22	O	O	down	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Drugs	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	allergic	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	in	x	x	0
+B-TIME	0	7	O	O	the	x	x	0
+I-TIME	0	8	O	O	past	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	suddenly	x	x	0
+O	0	11	O	O	cause	x	x	0
+O	0	12	O	O	massive	x	x	0
+O	0	13	O	O	problems	x	x	0
+O	0	14	O	O	when	x	x	0
+B-PER	0	15	O	O	they	x	x	0
+O	0	16	O	O	tried	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	use	x	x	0
+O	0	19	O	O	them	x	x	0
+O	0	20	O	O	for	x	x	0
+O	0	21	O	O	a	x	x	0
+B-TIME	0	22	O	O	new	x	x	0
+O	0	23	O	O	infection	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	nothing	x	x	0
+O	0	3	O	O	but	x	x	0
+O	0	4	O	O	praise	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	gratitude	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	all	x	x	0
+I-PER	0	9	O	O	his	x	x	0
+I-PER	0	10	O	O	doctors	x	x	0
+I-PER	0	11	O	O	,	x	x	0
+I-PER	0	12	O	O	nurses	x	x	0
+I-PER	0	13	O	O	and	x	x	0
+I-PER	0	14	O	O	care	x	x	0
+I-PER	0	15	O	O	givers	x	x	0
+B-PER	0	16	O	O	.	x	x	0
+
+O	0	0	O	O	Again	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	true	x	x	0
+O	0	4	O	O	allergic	x	x	0
+O	0	5	O	O	reaction	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	an	x	x	0
+O	0	8	O	O	infection	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	different	x	x	0
+O	0	11	O	O	symptoms	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	saying	x	x	0
+B-PER	0	3	O	O	all	x	x	0
+I-PER	0	4	O	O	the	x	x	0
+I-PER	0	5	O	O	doctors	x	x	0
+I-PER	0	6	O	O	and	x	x	0
+I-PER	0	7	O	O	other	x	x	0
+I-PER	0	8	O	O	professionals	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	wrong	x	x	0
+O	0	11	O	O	and	x	x	0
+B-PER	0	12	O	O	she	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	right	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	if	x	x	0
+O	0	3	O	O	any	x	x	0
+O	0	4	O	O	drug	x	x	0
+O	0	5	O	O	causes	x	x	0
+O	0	6	O	O	adverse	x	x	0
+O	0	7	O	O	effects	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	those	x	x	0
+O	0	10	O	O	effects	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	supposed	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	reported	x	x	0
+O	0	16	O	O	to	x	x	0
+B-ORG	0	17	O	O	the	x	x	0
+I-ORG	0	18	O	O	FDA	x	x	0
+O	0	19	O	O	so	x	x	0
+B-TIME	0	20	O	O	future	x	x	0
+O	0	21	O	O	drug	x	x	0
+O	0	22	O	O	users	x	x	0
+O	0	23	O	O	can	x	x	0
+O	0	24	O	O	be	x	x	0
+O	0	25	O	O	alerted	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	posible	x	x	0
+O	0	28	O	O	consequences	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	she	x	x	0
+O	0	2	O	O	truely	x	x	0
+O	0	3	O	O	believed	x	x	0
+O	0	4	O	O	what	x	x	0
+B-PER	0	5	O	O	she	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	saying	x	x	0
+O	0	8	O	O	(	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	wa	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	just	x	x	0
+O	0	13	O	O	talking	x	x	0
+O	0	14	O	O	out	x	x	0
+O	0	15	O	O	of	x	x	0
+B-PER	0	16	O	O	her	x	x	0
+O	0	17	O	O	ass	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	probably	x	x	0
+O	0	20	O	O	displaying	x	x	0
+B-PER	0	21	O	O	her	x	x	0
+O	0	22	O	O	denial	x	x	0
+O	0	23	O	O	about	x	x	0
+B-PER	0	24	O	O	her	x	x	0
+O	0	25	O	O	husband	x	x	0
+O	0	26	O	O	's	x	x	0
+O	0	27	O	O	illness	x	x	0
+O	0	28	O	O	)	x	x	0
+B-PER	0	29	O	O	she	x	x	0
+O	0	30	O	O	would	x	x	0
+O	0	31	O	O	allow	x	x	0
+O	0	32	O	O	proper	x	x	0
+O	0	33	O	O	data	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	be	x	x	0
+O	0	36	O	O	gathered	x	x	0
+O	0	37	O	O	so	x	x	0
+O	0	38	O	O	it	x	x	0
+O	0	39	O	O	could	x	x	0
+O	0	40	O	O	be	x	x	0
+O	0	41	O	O	used	x	x	0
+O	0	42	O	O	to	x	x	0
+O	0	43	O	O	help	x	x	0
+B-PER	0	44	O	O	others	x	x	0
+O	0	45	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Christopher	x	x	0
+I-PER	0	1	O	O	Reeve	x	x	0
+O	0	2	O	O	had	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	rare	x	x	0
+O	0	5	O	O	disorder	x	x	0
+O	0	6	O	O	called	x	x	0
+O	0	7	O	O	Mastocytosis	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Drug	x	x	0
+O	0	1	O	O	sensitivities	x	x	0
+O	0	2	O	O	are	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	difficulties	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	that	x	x	0
+O	0	9	O	O	disorder	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Since	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	knew	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	had	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	probably	x	x	0
+O	0	10	O	O	why	x	x	0
+B-PER	0	11	O	O	she	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	questioning	x	x	0
+O	0	15	O	O	this	x	x	0
+O	0	16	O	O	issue	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	often	x	x	0
+O	0	2	O	O	wondered	x	x	0
+O	0	3	O	O	how	x	x	0
+B-PER	0	4	O	O	he	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	doing	x	x	0
+O	0	7	O	O	with	x	x	0
+O	0	8	O	O	all	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	meds	x	x	0
+O	0	11	O	O	because	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	his	x	x	0
+O	0	14	O	O	illness	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	which	x	x	0
+O	0	17	O	O	developed	x	x	0
+O	0	18	O	O	before	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	paralyzing	x	x	0
+O	0	21	O	O	accident	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	actually	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	testament	x	x	0
+O	0	5	O	O	to	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+O	0	7	O	O	stamina	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	doctors	x	x	0
+O	0	11	O	O	that	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	was	x	x	0
+O	0	14	O	O	able	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	survive	x	x	0
+O	0	17	O	O	as	x	x	0
+O	0	18	O	O	long	x	x	0
+O	0	19	O	O	as	x	x	0
+B-PER	0	20	O	O	he	x	x	0
+O	0	21	O	O	did	x	x	0
+O	0	22	O	O	with	x	x	0
+O	0	23	O	O	this	x	x	0
+O	0	24	O	O	disorder	x	x	0
+O	0	25	O	O	complicating	x	x	0
+B-PER	0	26	O	O	his	x	x	0
+O	0	27	O	O	care	x	x	0
+O	0	28	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	sure	x	x	0
+O	0	4	O	O	about	x	x	0
+O	0	5	O	O	this	x	x	0
+O	0	6	O	O	disagreement	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	speaking	x	x	0
+O	0	10	O	O	of	x	x	0
+O	0	11	O	O	between	x	x	0
+B-PER	0	12	O	O	her	x	x	0
+O	0	13	O	O	version	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	the	x	x	0
+I-PER	0	16	O	O	doctors	x	x	0
+O	0	17	O	O	version	x	x	0
+O	0	18	O	O	of	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	cause	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	death	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Maybe	x	x	0
+B-PER	0	1	O	O	the	x	x	0
+I-PER	0	2	O	O	Dr.s	x	x	0
+O	0	3	O	O	had	x	x	0
+O	0	4	O	O	hypothesized	x	x	0
+O	0	5	O	O	possibilities	x	x	0
+O	0	6	O	O	at	x	x	0
+B-TIME	0	7	O	O	the	x	x	0
+I-TIME	0	8	O	O	time	x	x	0
+I-TIME	0	9	O	O	of	x	x	0
+I-TIME	0	10	O	O	death	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	in	x	x	0
+B-TIME	0	13	O	O	the	x	x	0
+I-TIME	0	14	O	O	months	x	x	0
+I-TIME	0	15	O	O	since	x	x	0
+I-TIME	0	16	O	O	then	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	they	x	x	0
+O	0	19	O	O	may	x	x	0
+O	0	20	O	O	thought	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	other	x	x	0
+O	0	23	O	O	reasons	x	x	0
+B-PER	0	24	O	O	I	x	x	0
+O	0	25	O	O	do	x	x	0
+O	0	26	O	O	n't	x	x	0
+O	0	27	O	O	know	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	allergic	x	x	0
+O	0	4	O	O	reactions	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	meds	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	've	x	x	0
+O	0	10	O	O	been	x	x	0
+B-PER	0	11	O	O	a	x	x	0
+I-PER	0	12	O	O	nurse	x	x	0
+B-TIME	0	13	O	O	for	x	x	0
+I-TIME	0	14	O	O	20	x	x	0
+I-TIME	0	15	O	O	years	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	get	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	little	x	x	0
+O	0	5	O	O	defensive	x	x	0
+B-PER	0	6	O	O	myself	x	x	0
+O	0	7	O	O	when	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	hear	x	x	0
+B-PER	0	10	O	O	a	x	x	0
+I-PER	0	11	O	O	layperson	x	x	0
+O	0	12	O	O	(	x	x	0
+O	0	13	O	O	although	x	x	0
+B-PER	0	14	O	O	she	x	x	0
+O	0	15	O	O	probably	x	x	0
+O	0	16	O	O	had	x	x	0
+O	0	17	O	O	more	x	x	0
+O	0	18	O	O	knowledge	x	x	0
+O	0	19	O	O	than	x	x	0
+B-PER	0	20	O	O	most	x	x	0
+O	0	21	O	O	about	x	x	0
+B-PER	0	22	O	O	her	x	x	0
+O	0	23	O	O	husband	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	diagnosis	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	treatment	x	x	0
+O	0	28	O	O	)	x	x	0
+O	0	29	O	O	talking	x	x	0
+O	0	30	O	O	like	x	x	0
+B-PER	0	31	O	O	an	x	x	0
+I-PER	0	32	O	O	expert	x	x	0
+O	0	33	O	O	on	x	x	0
+O	0	34	O	O	TV	x	x	0
+O	0	35	O	O	without	x	x	0
+O	0	36	O	O	knowing	x	x	0
+O	0	37	O	O	all	x	x	0
+O	0	38	O	O	the	x	x	0
+O	0	39	O	O	details	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	as	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	said	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	saw	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	show	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	did	x	x	0
+O	0	11	O	O	not	x	x	0
+O	0	12	O	O	get	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	feeling	x	x	0
+O	0	15	O	O	at	x	x	0
+O	0	16	O	O	all	x	x	0
+O	0	17	O	O	that	x	x	0
+B-PER	0	18	O	O	she	x	x	0
+O	0	19	O	O	was	x	x	0
+O	0	20	O	O	being	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	any	x	x	0
+O	0	23	O	O	way	x	x	0
+O	0	24	O	O	accusatory	x	x	0
+O	0	25	O	O	or	x	x	0
+O	0	26	O	O	blaming	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	She	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	coming	x	x	0
+O	0	5	O	O	off	x	x	0
+O	0	6	O	O	as	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	know-it-all	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	part	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	interview	x	x	0
+O	0	5	O	O	was	x	x	0
+O	0	6	O	O	very	x	x	0
+O	0	7	O	O	off-hand	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	informal	x	x	0
+O	0	10	O	O	feeling	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	more	x	x	0
+O	0	13	O	O	like	x	x	0
+O	0	14	O	O	gosh	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	do	x	x	0
+O	0	18	O	O	n't	x	x	0
+O	0	19	O	O	think	x	x	0
+B-PER	0	20	O	O	we	x	x	0
+O	0	21	O	O	'll	x	x	0
+O	0	22	O	O	ever	x	x	0
+O	0	23	O	O	know	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	maybe	x	x	0
+O	0	26	O	O	it	x	x	0
+O	0	27	O	O	was	x	x	0
+O	0	28	O	O	this	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	it	x	x	0
+O	0	31	O	O	could	x	x	0
+O	0	32	O	O	have	x	x	0
+O	0	33	O	O	been	x	x	0
+O	0	34	O	O	that	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	she	x	x	0
+O	0	5	O	O	knew	x	x	0
+B-PER	0	6	O	O	many	x	x	0
+I-PER	0	7	O	O	people	x	x	0
+O	0	8	O	O	cared	x	x	0
+O	0	9	O	O	about	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	husband	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	wanted	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	know	x	x	0
+O	0	16	O	O	what	x	x	0
+B-PER	0	17	O	O	his	x	x	0
+O	0	18	O	O	last	x	x	0
+O	0	19	O	O	hours	x	x	0
+O	0	20	O	O	were	x	x	0
+O	0	21	O	O	like	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	know	x	x	0
+B-PER	0	2	O	O	not	x	x	0
+I-PER	0	3	O	O	everyone	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	enthralled	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	Dana	x	x	0
+I-PER	0	8	O	O	Reeve	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	but	x	x	0
+B-PER	0	11	O	O	she	x	x	0
+O	0	12	O	O	had	x	x	0
+O	0	13	O	O	won	x	x	0
+B-PER	0	14	O	O	many	x	x	0
+I-PER	0	15	O	O	people	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	respect	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	People	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	interested	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	know	x	x	0
+O	0	5	O	O	how	x	x	0
+B-PER	0	6	O	O	she	x	x	0
+O	0	7	O	O	's	x	x	0
+O	0	8	O	O	doing	x	x	0
+O	0	9	O	O	after	x	x	0
+O	0	10	O	O	having	x	x	0
+O	0	11	O	O	lost	x	x	0
+O	0	12	O	O	such	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	big	x	x	0
+O	0	15	O	O	part	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	her	x	x	0
+O	0	18	O	O	life	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	and	x	x	0
+O	0	21	O	O	this	x	x	0
+O	0	22	O	O	really	x	x	0
+O	0	23	O	O	was	x	x	0
+O	0	24	O	O	more	x	x	0
+O	0	25	O	O	what	x	x	0
+O	0	26	O	O	the	x	x	0
+O	0	27	O	O	interview	x	x	0
+O	0	28	O	O	was	x	x	0
+O	0	29	O	O	about	x	x	0
+O	0	30	O	O	.	x	x	0
+
+O	0	0	O	O	What	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	was	x	x	0
+O	0	4	O	O	quite	x	x	0
+O	0	5	O	O	appalling	x	x	0
+O	0	6	O	O	from	x	x	0
+O	0	7	O	O	what	x	x	0
+B-PER	0	8	O	O	Dana	x	x	0
+O	0	9	O	O	said	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	Oprah	x	x	0
+O	0	13	O	O	show	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	that	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	doctors	x	x	0
+O	0	18	O	O	wanted	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	pull	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	life	x	x	0
+O	0	23	O	O	support	x	x	0
+O	0	24	O	O	from	x	x	0
+B-PER	0	25	O	O	Chris	x	x	0
+O	0	26	O	O	*	x	x	0
+O	0	27	O	O	without	x	x	0
+B-PER	0	28	O	O	her	x	x	0
+O	0	29	O	O	being	x	x	0
+O	0	30	O	O	there.*	x	x	0
+O	0	31	O	O	What	x	x	0
+O	0	32	O	O	in	x	x	0
+B-PER	0	33	O	O	god	x	x	0
+O	0	34	O	O	's	x	x	0
+O	0	35	O	O	green	x	x	0
+O	0	36	O	O	earth	x	x	0
+O	0	37	O	O	would	x	x	0
+O	0	38	O	O	make	x	x	0
+B-PER	0	39	O	O	a	x	x	0
+I-PER	0	40	O	O	medical	x	x	0
+I-PER	0	41	O	O	professional	x	x	0
+O	0	42	O	O	say	x	x	0
+O	0	43	O	O	such	x	x	0
+O	0	44	O	O	a	x	x	0
+O	0	45	O	O	heartless	x	x	0
+O	0	46	O	O	thing	x	x	0
+O	0	47	O	O	to	x	x	0
+B-PER	0	48	O	O	a	x	x	0
+I-PER	0	49	O	O	soon-to-be-grieving	x	x	0
+I-PER	0	50	O	O	widow	x	x	0
+O	0	51	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	That	x	x	0
+I-PER	0	1	O	O	doc	x	x	0
+O	0	2	O	O	should	x	x	0
+O	0	3	O	O	lose	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	medical	x	x	0
+O	0	6	O	O	license	x	x	0
+O	0	7	O	O	---	x	x	0
+O	0	8	O	O	what	x	x	0
+B-PER	0	9	O	O	a	x	x	0
+I-PER	0	10	O	O	bastard	x	x	0
+O	0	11	O	O	.	x	x	0
+

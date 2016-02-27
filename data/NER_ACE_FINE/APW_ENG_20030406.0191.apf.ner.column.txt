@@ -1,0 +1,678 @@
+O	0	0	O	O	SEOUL	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	South	x	x	0
+I-GPE	0	3	O	O	Korea	x	x	0
+O	0	4	O	O	(	x	x	0
+B-ORG	0	5	O	O	AP	x	x	0
+O	0	6	O	O	)	x	x	0
+B-GPE	0	7	O	O	North	x	x	0
+I-GPE	0	8	O	O	Korea	x	x	0
+O	0	9	O	O	on	x	x	0
+B-TIME	0	10	O	O	Sunday	x	x	0
+O	0	11	O	O	rejected	x	x	0
+B-ORG	0	12	O	O	the	x	x	0
+I-ORG	0	13	O	O	U.N.	x	x	0
+I-ORG	0	14	O	O	Security	x	x	0
+I-ORG	0	15	O	O	Council	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	plan	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	discuss	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	standoff	x	x	0
+O	0	22	O	O	over	x	x	0
+B-GPE	0	23	O	O	its	x	x	0
+O	0	24	O	O	suspected	x	x	0
+B-WEA	0	25	O	O	nuclear	x	x	0
+I-WEA	0	26	O	O	weapons	x	x	0
+O	0	27	O	O	development	x	x	0
+O	0	28	O	O	,	x	x	0
+O	0	29	O	O	calling	x	x	0
+O	0	30	O	O	it	x	x	0
+O	0	31	O	O	``	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	prelude	x	x	0
+O	0	34	O	O	to	x	x	0
+O	0	35	O	O	war	x	x	0
+O	0	36	O	O	.	x	x	0
+O	0	37	O	O	''	x	x	0
+
+
+
+O	0	0	O	O	Meanwhile	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	South	x	x	0
+I-GPE	0	3	O	O	Korean	x	x	0
+O	0	4	O	O	officials	x	x	0
+O	0	5	O	O	said	x	x	0
+O	0	6	O	O	Cabinet-level	x	x	0
+O	0	7	O	O	talks	x	x	0
+O	0	8	O	O	scheduled	x	x	0
+B-TIME	0	9	O	O	this	x	x	0
+I-TIME	0	10	O	O	week	x	x	0
+O	0	11	O	O	between	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	two	x	x	0
+I-GPE	0	14	O	O	Koreas	x	x	0
+O	0	15	O	O	looked	x	x	0
+O	0	16	O	O	unlikely	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	take	x	x	0
+O	0	19	O	O	place	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Seoul	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	hoped	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	use	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	meeting	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	try	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	persuade	x	x	0
+B-GPE	0	11	O	O	its	x	x	0
+O	0	12	O	O	communist	x	x	0
+O	0	13	O	O	neighbor	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	scrap	x	x	0
+B-GPE	0	16	O	O	its	x	x	0
+B-WEA	0	17	O	O	nuclear	x	x	0
+O	0	18	O	O	ambitions	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Security	x	x	0
+I-ORG	0	2	O	O	Council	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	scheduled	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	discuss	x	x	0
+B-GPE	0	7	O	O	North	x	x	0
+I-GPE	0	8	O	O	Korea	x	x	0
+O	0	9	O	O	's	x	x	0
+B-WEA	0	10	O	O	nuclear	x	x	0
+O	0	11	O	O	program	x	x	0
+O	0	12	O	O	on	x	x	0
+B-TIME	0	13	O	O	Wednesday	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+B-GPE	0	16	O	O	Pyongyang	x	x	0
+O	0	17	O	O	has	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	any	x	x	0
+O	0	21	O	O	sanctions	x	x	0
+O	0	22	O	O	imposed	x	x	0
+O	0	23	O	O	on	x	x	0
+B-GPE	0	24	O	O	it	x	x	0
+O	0	25	O	O	will	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	tantamount	x	x	0
+O	0	28	O	O	to	x	x	0
+O	0	29	O	O	war	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-ORG	0	1	O	O	U.N.	x	x	0
+O	0	2	O	O	discussions	x	x	0
+O	0	3	O	O	are	x	x	0
+O	0	4	O	O	``	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	grave	x	x	0
+O	0	7	O	O	provocation	x	x	0
+O	0	8	O	O	act	x	x	0
+O	0	9	O	O	intended	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	scuttle	x	x	0
+O	0	12	O	O	all	x	x	0
+O	0	13	O	O	(	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	North	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	)	x	x	0
+O	0	18	O	O	effort	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	dialogue	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	aggravate	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	situation	x	x	0
+O	0	25	O	O	on	x	x	0
+B-GPE	0	26	O	O	the	x	x	0
+I-GPE	0	27	O	O	Korean	x	x	0
+I-GPE	0	28	O	O	Peninsula	x	x	0
+O	0	29	O	O	,	x	x	0
+O	0	30	O	O	''	x	x	0
+O	0	31	O	O	a	x	x	0
+B-GPE	0	32	O	O	North	x	x	0
+I-GPE	0	33	O	O	Korean	x	x	0
+O	0	34	O	O	Foreign	x	x	0
+O	0	35	O	O	Ministry	x	x	0
+O	0	36	O	O	spokesman	x	x	0
+O	0	37	O	O	was	x	x	0
+O	0	38	O	O	quoted	x	x	0
+O	0	39	O	O	as	x	x	0
+O	0	40	O	O	saying	x	x	0
+O	0	41	O	O	by	x	x	0
+B-ORG	0	42	O	O	state-run	x	x	0
+I-ORG	0	43	O	O	news	x	x	0
+I-ORG	0	44	O	O	agency	x	x	0
+B-ORG	0	45	O	O	KCNA	x	x	0
+O	0	46	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	Security	x	x	0
+I-ORG	0	2	O	O	Council	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	``	x	x	0
+O	0	5	O	O	handling	x	x	0
+O	0	6	O	O	of	x	x	0
+O	0	7	O	O	the	x	x	0
+B-WEA	0	8	O	O	nuclear	x	x	0
+O	0	9	O	O	issue	x	x	0
+O	0	10	O	O	on	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	Korean	x	x	0
+I-GPE	0	13	O	O	Peninsula	x	x	0
+B-GPE	0	14	O	O	itself	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	precisely	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	prelude	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	war	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	''	x	x	0
+B-PER	0	23	O	O	the	x	x	0
+I-PER	0	24	O	O	spokesman	x	x	0
+O	0	25	O	O	said	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+B-TIME	0	1	O	O	months	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	North	x	x	0
+I-GPE	0	4	O	O	Korea	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	insisted	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	direct	x	x	0
+O	0	9	O	O	talks	x	x	0
+O	0	10	O	O	with	x	x	0
+B-GPE	0	11	O	O	the	x	x	0
+I-GPE	0	12	O	O	United	x	x	0
+I-GPE	0	13	O	O	States	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	negotiate	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	nonaggression	x	x	0
+O	0	18	O	O	treaty	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Washington	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	refused	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	saying	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	multilateral	x	x	0
+O	0	7	O	O	solution	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	crisis	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	needed	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-GPE	0	1	O	O	U.S.	x	x	0
+O	0	2	O	O	administration	x	x	0
+O	0	3	O	O	has	x	x	0
+O	0	4	O	O	been	x	x	0
+O	0	5	O	O	pressing	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Security	x	x	0
+I-ORG	0	8	O	O	Council	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	adopt	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	statement	x	x	0
+O	0	13	O	O	condemning	x	x	0
+B-GPE	0	14	O	O	Pyongyang	x	x	0
+O	0	15	O	O	for	x	x	0
+O	0	16	O	O	failing	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	meet	x	x	0
+B-GPE	0	19	O	O	its	x	x	0
+O	0	20	O	O	obligations	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	prevent	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	spread	x	x	0
+O	0	25	O	O	of	x	x	0
+B-WEA	0	26	O	O	nuclear	x	x	0
+I-WEA	0	27	O	O	arms	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-ORG	0	1	O	O	KCNA	x	x	0
+O	0	2	O	O	quoted	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	spokesman	x	x	0
+O	0	5	O	O	as	x	x	0
+O	0	6	O	O	saying	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	the	x	x	0
+B-GPE	0	9	O	O	U.S.	x	x	0
+O	0	10	O	O	invasion	x	x	0
+O	0	11	O	O	of	x	x	0
+B-GPE	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	showed	x	x	0
+O	0	14	O	O	that	x	x	0
+B-GPE	0	15	O	O	Washington	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	not	x	x	0
+O	0	18	O	O	bound	x	x	0
+O	0	19	O	O	by	x	x	0
+O	0	20	O	O	international	x	x	0
+O	0	21	O	O	agreements	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	nonaggression	x	x	0
+O	0	2	O	O	treaty	x	x	0
+O	0	3	O	O	with	x	x	0
+B-GPE	0	4	O	O	Pyongyang	x	x	0
+O	0	5	O	O	would	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	necessarily	x	x	0
+O	0	8	O	O	avert	x	x	0
+O	0	9	O	O	war	x	x	0
+O	0	10	O	O	because	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	may	x	x	0
+O	0	13	O	O	not	x	x	0
+O	0	14	O	O	be	x	x	0
+O	0	15	O	O	honored	x	x	0
+O	0	16	O	O	,	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	said	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	immediately	x	x	0
+O	0	4	O	O	clear	x	x	0
+O	0	5	O	O	if	x	x	0
+B-GPE	0	6	O	O	Pyongyang	x	x	0
+O	0	7	O	O	would	x	x	0
+O	0	8	O	O	drop	x	x	0
+B-GPE	0	9	O	O	its	x	x	0
+O	0	10	O	O	demand	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	nonaggression	x	x	0
+O	0	14	O	O	pact	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	North	x	x	0
+I-GPE	0	1	O	O	Korea	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	said	x	x	0
+B-GPE	0	4	O	O	Washington	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	``	x	x	0
+O	0	7	O	O	seriously	x	x	0
+O	0	8	O	O	mistaken	x	x	0
+O	0	9	O	O	''	x	x	0
+O	0	10	O	O	if	x	x	0
+B-GPE	0	11	O	O	it	x	x	0
+O	0	12	O	O	thinks	x	x	0
+O	0	13	O	O	that	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	communist	x	x	0
+I-GPE	0	16	O	O	country	x	x	0
+O	0	17	O	O	will	x	x	0
+O	0	18	O	O	accept	x	x	0
+O	0	19	O	O	the	x	x	0
+B-GPE	0	20	O	O	U.S.	x	x	0
+O	0	21	O	O	demand	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	disarm	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	It	x	x	0
+O	0	1	O	O	said	x	x	0
+B-GPE	0	2	O	O	it	x	x	0
+O	0	3	O	O	will	x	x	0
+O	0	4	O	O	ignore	x	x	0
+O	0	5	O	O	any	x	x	0
+B-ORG	0	6	O	O	U.N.	x	x	0
+O	0	7	O	O	resolution	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	the	x	x	0
+B-WEA	0	10	O	O	nuclear	x	x	0
+O	0	11	O	O	issue	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-ORG	0	1	O	O	the	x	x	0
+I-ORG	0	2	O	O	U.N.	x	x	0
+I-ORG	0	3	O	O	Security	x	x	0
+I-ORG	0	4	O	O	Council	x	x	0
+O	0	5	O	O	cooperates	x	x	0
+O	0	6	O	O	with	x	x	0
+B-GPE	0	7	O	O	U.S.	x	x	0
+O	0	8	O	O	efforts	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	``	x	x	0
+O	0	11	O	O	stifle	x	x	0
+O	0	12	O	O	''	x	x	0
+B-GPE	0	13	O	O	North	x	x	0
+I-GPE	0	14	O	O	Korea	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	it	x	x	0
+O	0	17	O	O	would	x	x	0
+O	0	18	O	O	leave	x	x	0
+B-GPE	0	19	O	O	the	x	x	0
+I-GPE	0	20	O	O	North	x	x	0
+O	0	21	O	O	with	x	x	0
+O	0	22	O	O	``	x	x	0
+O	0	23	O	O	no	x	x	0
+O	0	24	O	O	other	x	x	0
+O	0	25	O	O	option	x	x	0
+O	0	26	O	O	but	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	beef	x	x	0
+O	0	29	O	O	up	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	deterrent	x	x	0
+O	0	32	O	O	force	x	x	0
+O	0	33	O	O	for	x	x	0
+O	0	34	O	O	war	x	x	0
+O	0	35	O	O	by	x	x	0
+O	0	36	O	O	mobilizing	x	x	0
+O	0	37	O	O	all	x	x	0
+O	0	38	O	O	the	x	x	0
+O	0	39	O	O	potentials	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	''	x	x	0
+B-ORG	0	42	O	O	KCNA	x	x	0
+O	0	43	O	O	quoted	x	x	0
+O	0	44	O	O	the	x	x	0
+B-ORG	0	45	O	O	Foreign	x	x	0
+I-ORG	0	46	O	O	Ministry	x	x	0
+O	0	47	O	O	spokesman	x	x	0
+O	0	48	O	O	as	x	x	0
+O	0	49	O	O	saying	x	x	0
+O	0	50	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+B-TIME	0	1	O	O	weeks	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	North	x	x	0
+I-GPE	0	4	O	O	Korea	x	x	0
+O	0	5	O	O	has	x	x	0
+O	0	6	O	O	claimed	x	x	0
+O	0	7	O	O	that	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	United	x	x	0
+I-GPE	0	10	O	O	States	x	x	0
+O	0	11	O	O	plans	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	attack	x	x	0
+B-GPE	0	14	O	O	it	x	x	0
+O	0	15	O	O	after	x	x	0
+B-GPE	0	16	O	O	Iraq	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Washington	x	x	0
+O	0	1	O	O	says	x	x	0
+B-GPE	0	2	O	O	it	x	x	0
+O	0	3	O	O	seeks	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	diplomatic	x	x	0
+O	0	6	O	O	end	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	has	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	ruled	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	military	x	x	0
+O	0	15	O	O	solution	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Last	x	x	0
+I-TIME	0	1	O	O	year	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	U.S.	x	x	0
+O	0	4	O	O	President	x	x	0
+O	0	5	O	O	George	x	x	0
+O	0	6	O	O	W.	x	x	0
+O	0	7	O	O	Bush	x	x	0
+O	0	8	O	O	said	x	x	0
+B-GPE	0	9	O	O	North	x	x	0
+I-GPE	0	10	O	O	Korea	x	x	0
+O	0	11	O	O	was	x	x	0
+O	0	12	O	O	part	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	an	x	x	0
+O	0	15	O	O	``	x	x	0
+O	0	16	O	O	axis	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	evil	x	x	0
+O	0	19	O	O	''	x	x	0
+O	0	20	O	O	along	x	x	0
+O	0	21	O	O	with	x	x	0
+B-GPE	0	22	O	O	Iraq	x	x	0
+O	0	23	O	O	and	x	x	0
+B-GPE	0	24	O	O	Iran	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	that	x	x	0
+B-GPE	0	28	O	O	it	x	x	0
+O	0	29	O	O	was	x	x	0
+O	0	30	O	O	developing	x	x	0
+B-WEA	0	31	O	O	weapons	x	x	0
+I-WEA	0	32	O	O	of	x	x	0
+I-WEA	0	33	O	O	mass	x	x	0
+I-WEA	0	34	O	O	destruction	x	x	0
+O	0	35	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	South	x	x	0
+I-GPE	0	1	O	O	Korea	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	tried	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	keep	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	lid	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	rising	x	x	0
+O	0	10	O	O	tensions	x	x	0
+O	0	11	O	O	between	x	x	0
+B-GPE	0	12	O	O	Washington	x	x	0
+O	0	13	O	O	and	x	x	0
+B-GPE	0	14	O	O	Pyongyang	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	officials	x	x	0
+O	0	2	O	O	in	x	x	0
+B-GPE	0	3	O	O	Seoul	x	x	0
+O	0	4	O	O	said	x	x	0
+B-TIME	0	5	O	O	Sunday	x	x	0
+O	0	6	O	O	that	x	x	0
+B-GPE	0	7	O	O	North	x	x	0
+I-GPE	0	8	O	O	Korea	x	x	0
+O	0	9	O	O	had	x	x	0
+O	0	10	O	O	yet	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	confirm	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	Cabinet-level	x	x	0
+O	0	15	O	O	meetings	x	x	0
+O	0	16	O	O	scheduled	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	begin	x	x	0
+B-TIME	0	19	O	O	Monday	x	x	0
+O	0	20	O	O	in	x	x	0
+B-GPE	0	21	O	O	Pyongyang	x	x	0
+O	0	22	O	O	would	x	x	0
+O	0	23	O	O	go	x	x	0
+O	0	24	O	O	ahead	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Seoul	x	x	0
+O	0	1	O	O	had	x	x	0
+O	0	2	O	O	hoped	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	use	x	x	0
+O	0	5	O	O	the	x	x	0
+B-TIME	0	6	O	O	three-day	x	x	0
+O	0	7	O	O	talks	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	try	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	persuade	x	x	0
+B-GPE	0	12	O	O	its	x	x	0
+O	0	13	O	O	communist	x	x	0
+O	0	14	O	O	neighbor	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	scrap	x	x	0
+B-GPE	0	17	O	O	its	x	x	0
+O	0	18	O	O	suspected	x	x	0
+B-WEA	0	19	O	O	nuclear	x	x	0
+O	0	20	O	O	program	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	return	x	x	0
+O	0	23	O	O	for	x	x	0
+O	0	24	O	O	aid	x	x	0
+O	0	25	O	O	and	x	x	0
+O	0	26	O	O	better	x	x	0
+O	0	27	O	O	relations	x	x	0
+O	0	28	O	O	with	x	x	0
+O	0	29	O	O	the	x	x	0
+O	0	30	O	O	outside	x	x	0
+O	0	31	O	O	world	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	North	x	x	0
+I-GPE	0	1	O	O	Korea	x	x	0
+O	0	2	O	O	called	x	x	0
+O	0	3	O	O	off	x	x	0
+O	0	4	O	O	two	x	x	0
+O	0	5	O	O	working-level	x	x	0
+O	0	6	O	O	talks	x	x	0
+O	0	7	O	O	with	x	x	0
+B-GPE	0	8	O	O	South	x	x	0
+I-GPE	0	9	O	O	Korea	x	x	0
+B-TIME	0	10	O	O	last	x	x	0
+I-TIME	0	11	O	O	month	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	on	x	x	0
+B-TIME	0	2	O	O	Sunday	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	South	x	x	0
+I-GPE	0	5	O	O	Korean	x	x	0
+O	0	6	O	O	lawmakers	x	x	0
+O	0	7	O	O	said	x	x	0
+B-PER	0	8	O	O	they	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	work	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	quickly	x	x	0
+O	0	13	O	O	set	x	x	0
+O	0	14	O	O	up	x	x	0
+B-ORG	0	15	O	O	a	x	x	0
+I-ORG	0	16	O	O	special	x	x	0
+I-ORG	0	17	O	O	parliamentary	x	x	0
+I-ORG	0	18	O	O	committee	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	deal	x	x	0
+O	0	21	O	O	with	x	x	0
+B-GPE	0	22	O	O	the	x	x	0
+I-GPE	0	23	O	O	North	x	x	0
+O	0	24	O	O	's	x	x	0
+B-WEA	0	25	O	O	nuclear	x	x	0
+O	0	26	O	O	issue	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-WEA	0	1	O	O	nuclear	x	x	0
+O	0	2	O	O	standoff	x	x	0
+O	0	3	O	O	began	x	x	0
+O	0	4	O	O	in	x	x	0
+B-TIME	0	5	O	O	October	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	when	x	x	0
+B-GPE	0	8	O	O	U.S.	x	x	0
+O	0	9	O	O	officials	x	x	0
+O	0	10	O	O	said	x	x	0
+B-GPE	0	11	O	O	North	x	x	0
+I-GPE	0	12	O	O	Korea	x	x	0
+O	0	13	O	O	admitted	x	x	0
+O	0	14	O	O	having	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	secret	x	x	0
+B-WEA	0	17	O	O	nuclear	x	x	0
+O	0	18	O	O	program	x	x	0
+O	0	19	O	O	in	x	x	0
+O	0	20	O	O	violation	x	x	0
+O	0	21	O	O	of	x	x	0
+O	0	22	O	O	a	x	x	0
+B-TIME	0	23	O	O	1994	x	x	0
+O	0	24	O	O	agreement	x	x	0
+O	0	25	O	O	.	x	x	0
+

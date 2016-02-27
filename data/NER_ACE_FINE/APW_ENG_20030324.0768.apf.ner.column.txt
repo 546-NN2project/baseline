@@ -1,0 +1,273 @@
+O	0	0	O	O	LAHAINA	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Hawaii	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+O	0	6	O	O	The	x	x	0
+O	0	7	O	O	premier	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	the	x	x	0
+B-LOC	0	10	O	O	western	x	x	0
+I-LOC	0	11	O	O	Canadian	x	x	0
+O	0	12	O	O	province	x	x	0
+O	0	13	O	O	of	x	x	0
+B-GPE	0	14	O	O	British	x	x	0
+I-GPE	0	15	O	O	Columbia	x	x	0
+O	0	16	O	O	pleaded	x	x	0
+O	0	17	O	O	no	x	x	0
+O	0	18	O	O	contest	x	x	0
+O	0	19	O	O	to	x	x	0
+O	0	20	O	O	driving	x	x	0
+O	0	21	O	O	drunk	x	x	0
+O	0	22	O	O	during	x	x	0
+O	0	23	O	O	a	x	x	0
+B-GPE	0	24	O	O	Hawaiian	x	x	0
+O	0	25	O	O	vacation	x	x	0
+O	0	26	O	O	in	x	x	0
+B-TIME	0	27	O	O	January	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Gordon	x	x	0
+I-PER	0	1	O	O	Campbell	x	x	0
+O	0	2	O	O	was	x	x	0
+O	0	3	O	O	ordered	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	pay	x	x	0
+O	0	6	O	O	fines	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	fees	x	x	0
+O	0	9	O	O	totaling	x	x	0
+B-Numeric	0	10	O	O	$913	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	complete	x	x	0
+O	0	13	O	O	a	x	x	0
+B-TIME	0	14	O	O	14-hour	x	x	0
+O	0	15	O	O	alcohol	x	x	0
+O	0	16	O	O	assessment	x	x	0
+O	0	17	O	O	program	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	have	x	x	0
+O	0	20	O	O	a	x	x	0
+O	0	21	O	O	substance	x	x	0
+O	0	22	O	O	abuse	x	x	0
+O	0	23	O	O	assessment	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Under	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	no	x	x	0
+O	0	3	O	O	contest	x	x	0
+O	0	4	O	O	plea	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	defendant	x	x	0
+O	0	8	O	O	neither	x	x	0
+O	0	9	O	O	admits	x	x	0
+O	0	10	O	O	nor	x	x	0
+O	0	11	O	O	denies	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	charge	x	x	0
+O	0	14	O	O	but	x	x	0
+O	0	15	O	O	agrees	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	contest	x	x	0
+O	0	19	O	O	it	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	``	x	x	0
+B-PER	0	1	O	O	Mr.	x	x	0
+O	0	2	O	O	Campbell	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	sufficiently	x	x	0
+O	0	5	O	O	embarrassed	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	ashamed	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	what	x	x	0
+B-PER	0	10	O	O	he	x	x	0
+O	0	11	O	O	did	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	as	x	x	0
+O	0	14	O	O	well	x	x	0
+B-PER	0	15	O	O	he	x	x	0
+O	0	16	O	O	should	x	x	0
+O	0	17	O	O	be	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	''	x	x	0
+B-GPE	0	20	O	O	District	x	x	0
+O	0	21	O	O	Judge	x	x	0
+O	0	22	O	O	Reinette	x	x	0
+O	0	23	O	O	Cooper	x	x	0
+O	0	24	O	O	said	x	x	0
+B-TIME	0	25	O	O	Monday	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Campbell	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	court	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Lawyer	x	x	0
+O	0	1	O	O	Steven	x	x	0
+O	0	2	O	O	Barta	x	x	0
+O	0	3	O	O	said	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	client	x	x	0
+O	0	6	O	O	had	x	x	0
+O	0	7	O	O	already	x	x	0
+O	0	8	O	O	completed	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	required	x	x	0
+O	0	11	O	O	programs	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Canada	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	brought	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	check	x	x	0
+O	0	5	O	O	from	x	x	0
+B-PER	0	6	O	O	Campbell	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	pay	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	fines	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	fees	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	the	x	x	0
+B-GPE	0	2	O	O	provincial	x	x	0
+O	0	3	O	O	capital	x	x	0
+O	0	4	O	O	of	x	x	0
+B-GPE	0	5	O	O	Victoria	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Campbell	x	x	0
+O	0	8	O	O	said	x	x	0
+B-PER	0	9	O	O	he	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	treated	x	x	0
+O	0	12	O	O	fairly	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	no	x	x	0
+O	0	15	O	O	longer	x	x	0
+O	0	16	O	O	drinks	x	x	0
+O	0	17	O	O	alcohol	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Campbell	x	x	0
+I-PER	0	1	O	O	,	x	x	0
+I-PER	0	2	O	O	55	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	pulled	x	x	0
+O	0	6	O	O	over	x	x	0
+B-TIME	0	7	O	O	Jan.	x	x	0
+I-TIME	0	8	O	O	10	x	x	0
+O	0	9	O	O	after	x	x	0
+B-PER	0	10	O	O	police	x	x	0
+O	0	11	O	O	observed	x	x	0
+B-PER	0	12	O	O	him	x	x	0
+O	0	13	O	O	driving	x	x	0
+O	0	14	O	O	erratically	x	x	0
+O	0	15	O	O	in	x	x	0
+B-VEH	0	16	O	O	a	x	x	0
+I-VEH	0	17	O	O	rented	x	x	0
+I-VEH	0	18	O	O	sport-utility	x	x	0
+I-VEH	0	19	O	O	vehicle	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Campbell	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	blood-alcohol	x	x	0
+O	0	3	O	O	reading	x	x	0
+O	0	4	O	O	was	x	x	0
+B-Numeric	0	5	O	O	0.161	x	x	0
+I-Numeric	0	6	O	O	percent	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	than	x	x	0
+O	0	10	O	O	twice	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	legal	x	x	0
+O	0	13	O	O	limit	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	a	x	x	0
+O	0	17	O	O	roadside	x	x	0
+O	0	18	O	O	sobriety	x	x	0
+O	0	19	O	O	test	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	tearful	x	x	0
+O	0	3	O	O	news	x	x	0
+O	0	4	O	O	conference	x	x	0
+O	0	5	O	O	after	x	x	0
+O	0	6	O	O	returning	x	x	0
+O	0	7	O	O	to	x	x	0
+B-GPE	0	8	O	O	Vancouver	x	x	0
+B-TIME	0	9	O	O	two	x	x	0
+I-TIME	0	10	O	O	days	x	x	0
+I-TIME	0	11	O	O	later	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	Campbell	x	x	0
+O	0	14	O	O	apologized	x	x	0
+O	0	15	O	O	to	x	x	0
+B-GPE	0	16	O	O	British	x	x	0
+I-GPE	0	17	O	O	Columbians	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	but	x	x	0
+O	0	20	O	O	refused	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	resign	x	x	0
+O	0	23	O	O	as	x	x	0
+B-PER	0	24	O	O	premier	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	said	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	drank	x	x	0
+O	0	4	O	O	three	x	x	0
+O	0	5	O	O	martinis	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	some	x	x	0
+O	0	8	O	O	wine	x	x	0
+O	0	9	O	O	before	x	x	0
+O	0	10	O	O	getting	x	x	0
+O	0	11	O	O	behind	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	wheel	x	x	0
+O	0	14	O	O	.	x	x	0
+

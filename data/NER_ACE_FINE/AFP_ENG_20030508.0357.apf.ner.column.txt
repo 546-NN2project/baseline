@@ -1,0 +1,293 @@
+B-GPE	0	0	O	O	KUALA	x	x	0
+I-GPE	0	1	O	O	LUMPUR	x	x	0
+O	0	2	O	O	,	x	x	0
+B-TIME	0	3	O	O	May	x	x	0
+I-TIME	0	4	O	O	8	x	x	0
+O	0	5	O	O	(	x	x	0
+B-ORG	0	6	O	O	AFP	x	x	0
+O	0	7	O	O	)	x	x	0
+B-GPE	0	8	O	O	Malaysia	x	x	0
+O	0	9	O	O	's	x	x	0
+B-ORG	0	10	O	O	prison	x	x	0
+O	0	11	O	O	department	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	agreed	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	allow	x	x	0
+B-PER	0	16	O	O	jailed	x	x	0
+I-PER	0	17	O	O	politician	x	x	0
+O	0	18	O	O	Anwar	x	x	0
+O	0	19	O	O	Ibrahim	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	attend	x	x	0
+B-PER	0	22	O	O	his	x	x	0
+O	0	23	O	O	daughter	x	x	0
+O	0	24	O	O	's	x	x	0
+O	0	25	O	O	wedding	x	x	0
+O	0	26	O	O	ceremony	x	x	0
+B-TIME	0	27	O	O	Friday	x	x	0
+O	0	28	O	O	after	x	x	0
+B-PER	0	29	O	O	his	x	x	0
+O	0	30	O	O	bail	x	x	0
+O	0	31	O	O	hearing	x	x	0
+O	0	32	O	O	,	x	x	0
+B-PER	0	33	O	O	his	x	x	0
+O	0	34	O	O	lawyer	x	x	0
+O	0	35	O	O	said	x	x	0
+B-TIME	0	36	O	O	Thursday	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anwar	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	taken	x	x	0
+O	0	4	O	O	to	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	appeal	x	x	0
+I-ORG	0	7	O	O	court	x	x	0
+B-TIME	0	8	O	O	early	x	x	0
+I-TIME	0	9	O	O	Friday	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	bail	x	x	0
+O	0	13	O	O	application	x	x	0
+O	0	14	O	O	pending	x	x	0
+B-PER	0	15	O	O	his	x	x	0
+O	0	16	O	O	appeal	x	x	0
+O	0	17	O	O	to	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	country	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	highest	x	x	0
+O	0	22	O	O	Federal	x	x	0
+O	0	23	O	O	Court	x	x	0
+O	0	24	O	O	againt	x	x	0
+B-PER	0	25	O	O	his	x	x	0
+B-Crime	0	26	O	O	sodomy	x	x	0
+O	0	27	O	O	conviction	x	x	0
+O	0	28	O	O	,	x	x	0
+B-PER	0	29	O	O	counsel	x	x	0
+O	0	30	O	O	Sankara	x	x	0
+O	0	31	O	O	Nair	x	x	0
+O	0	32	O	O	said	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Prison	x	x	0
+O	0	1	O	O	authorities	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	given	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	nod	x	x	0
+O	0	6	O	O	for	x	x	0
+B-PER	0	7	O	O	Anwar	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	taken	x	x	0
+B-FAC	0	11	O	O	home	x	x	0
+B-TIME	0	12	O	O	later	x	x	0
+I-TIME	0	13	O	O	in	x	x	0
+I-TIME	0	14	O	O	the	x	x	0
+I-TIME	0	15	O	O	afternoon	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	marry	x	x	0
+B-PER	0	18	O	O	his	x	x	0
+O	0	19	O	O	eldest	x	x	0
+O	0	20	O	O	daughter	x	x	0
+O	0	21	O	O	,	x	x	0
+B-PER	0	22	O	O	Nurul	x	x	0
+I-PER	0	23	O	O	Izzah	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	to	x	x	0
+B-PER	0	26	O	O	engineer	x	x	0
+O	0	27	O	O	Raja	x	x	0
+O	0	28	O	O	Ahmad	x	x	0
+O	0	29	O	O	Sharir	x	x	0
+O	0	30	O	O	Iskandar	x	x	0
+O	0	31	O	O	in	x	x	0
+O	0	32	O	O	a	x	x	0
+O	0	33	O	O	traditional	x	x	0
+B-GPE	0	34	O	O	Malay	x	x	0
+O	0	35	O	O	ceremony	x	x	0
+O	0	36	O	O	,	x	x	0
+B-PER	0	37	O	O	he	x	x	0
+O	0	38	O	O	said	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	also	x	x	0
+O	0	4	O	O	conditional	x	x	0
+O	0	5	O	O	on	x	x	0
+B-ORG	0	6	O	O	police	x	x	0
+O	0	7	O	O	approval	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+B-PER	0	1	O	O	They	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	get	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	green	x	x	0
+O	0	7	O	O	light	x	x	0
+O	0	8	O	O	from	x	x	0
+B-ORG	0	9	O	O	police	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	given	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	assurance	x	x	0
+O	0	5	O	O	that	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	will	x	x	0
+O	0	8	O	O	not	x	x	0
+O	0	9	O	O	be	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	huge	x	x	0
+O	0	12	O	O	crowd	x	x	0
+O	0	13	O	O	at	x	x	0
+B-FAC	0	14	O	O	the	x	x	0
+I-FAC	0	15	O	O	house	x	x	0
+O	0	16	O	O	as	x	x	0
+B-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	guests	x	x	0
+O	0	19	O	O	will	x	x	0
+O	0	20	O	O	only	x	x	0
+O	0	21	O	O	comprise	x	x	0
+O	0	22	O	O	of	x	x	0
+B-PER	0	23	O	O	family	x	x	0
+O	0	24	O	O	members	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	"	x	x	0
+B-PER	0	27	O	O	he	x	x	0
+O	0	28	O	O	added	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+B-TIME	0	1	O	O	former	x	x	0
+O	0	2	O	O	deputy	x	x	0
+O	0	3	O	O	premier	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	sacked	x	x	0
+O	0	6	O	O	by	x	x	0
+B-PER	0	7	O	O	Prime	x	x	0
+I-PER	0	8	O	O	Minister	x	x	0
+O	0	9	O	O	Mahathir	x	x	0
+O	0	10	O	O	Mohamad	x	x	0
+O	0	11	O	O	in	x	x	0
+B-TIME	0	12	O	O	1998	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	was	x	x	0
+O	0	15	O	O	sentenced	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	total	x	x	0
+B-TIME	0	19	O	O	15	x	x	0
+I-TIME	0	20	O	O	years	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	jail	x	x	0
+O	0	23	O	O	after	x	x	0
+O	0	24	O	O	being	x	x	0
+O	0	25	O	O	convicted	x	x	0
+O	0	26	O	O	of	x	x	0
+B-Crime	0	27	O	O	corruption	x	x	0
+O	0	28	O	O	and	x	x	0
+B-Crime	0	29	O	O	sodomy	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	completed	x	x	0
+B-TIME	0	2	O	O	four	x	x	0
+I-TIME	0	3	O	O	years	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	prison	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	a	x	x	0
+B-Crime	0	8	O	O	corruption	x	x	0
+O	0	9	O	O	charge	x	x	0
+B-TIME	0	10	O	O	last	x	x	0
+I-TIME	0	11	O	O	month	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	is	x	x	0
+B-TIME	0	14	O	O	now	x	x	0
+O	0	15	O	O	serving	x	x	0
+O	0	16	O	O	a	x	x	0
+B-TIME	0	17	O	O	nine-year	x	x	0
+B-Crime	0	18	O	O	sodomy	x	x	0
+O	0	19	O	O	sentence	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	lost	x	x	0
+O	0	2	O	O	an	x	x	0
+O	0	3	O	O	appeal	x	x	0
+O	0	4	O	O	case	x	x	0
+O	0	5	O	O	on	x	x	0
+B-PER	0	6	O	O	his	x	x	0
+B-Crime	0	7	O	O	sodomy	x	x	0
+O	0	8	O	O	sentence	x	x	0
+O	0	9	O	O	on	x	x	0
+B-TIME	0	10	O	O	April	x	x	0
+I-TIME	0	11	O	O	18	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Another	x	x	0
+O	0	1	O	O	appeal	x	x	0
+O	0	2	O	O	is	x	x	0
+B-TIME	0	3	O	O	now	x	x	0
+O	0	4	O	O	pending	x	x	0
+O	0	5	O	O	in	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	Federal	x	x	0
+I-ORG	0	8	O	O	Court	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Anwar	x	x	0
+I-PER	0	1	O	O	,	x	x	0
+I-PER	0	2	O	O	56	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	says	x	x	0
+B-PER	0	5	O	O	he	x	x	0
+O	0	6	O	O	was	x	x	0
+O	0	7	O	O	framed	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	prevent	x	x	0
+B-PER	0	10	O	O	him	x	x	0
+O	0	11	O	O	from	x	x	0
+O	0	12	O	O	becoming	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	political	x	x	0
+O	0	15	O	O	threat	x	x	0
+O	0	16	O	O	to	x	x	0
+B-PER	0	17	O	O	Mahathir	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	an	x	x	0
+O	0	20	O	O	allegation	x	x	0
+B-GPE	0	21	O	O	the	x	x	0
+I-GPE	0	22	O	O	government	x	x	0
+O	0	23	O	O	denies	x	x	0
+O	0	24	O	O	.	x	x	0
+

@@ -1,0 +1,360 @@
+O	0	0	O	O	*	x	x	0
+O	0	1	O	O	*	x	x	0
+B-VEH	0	2	O	O	The	x	x	0
+I-VEH	0	3	O	O	"	x	x	0
+I-VEH	0	4	O	O	USS	x	x	0
+I-VEH	0	5	O	O	Abraham	x	x	0
+I-VEH	0	6	O	O	Lincoln	x	x	0
+O	0	7	O	O	.	x	x	0
+O	0	8	O	O	"	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	guided	x	x	0
+B-WEA	0	4	O	O	missile	x	x	0
+O	0	5	O	O	destroyer	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	fired	x	x	0
+O	0	2	O	O	off	x	x	0
+B-WEA	0	3	O	O	50	x	x	0
+I-WEA	0	4	O	O	Tomahawk	x	x	0
+I-WEA	0	5	O	O	missiles	x	x	0
+O	0	6	O	O	during	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	Operation	x	x	0
+B-GPE	0	9	O	O	Iraqi	x	x	0
+O	0	10	O	O	Freedom	x	x	0
+O	0	11	O	O	.	x	x	0
+O	0	12	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	talk	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	capability	x	x	0
+O	0	5	O	O	of	x	x	0
+B-VEH	0	6	O	O	this	x	x	0
+I-VEH	0	7	O	O	ship	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	other	x	x	0
+O	0	2	O	O	mission	x	x	0
+O	0	3	O	O	that	x	x	0
+B-VEH	0	4	O	O	it	x	x	0
+O	0	5	O	O	took	x	x	0
+O	0	6	O	O	part	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	was	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	operations	x	x	0
+O	0	11	O	O	before	x	x	0
+O	0	12	O	O	t	x	x	0
+O	0	13	O	O	fall	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	the	x	x	0
+B-PER	0	16	O	O	Saddam	x	x	0
+I-PER	0	17	O	O	Hussein	x	x	0
+O	0	18	O	O	and	x	x	0
+B-PER	0	19	O	O	his	x	x	0
+O	0	20	O	O	regime	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	out	x	x	0
+O	0	3	O	O	there	x	x	0
+O	0	4	O	O	taking	x	x	0
+O	0	5	O	O	down	x	x	0
+B-PER	0	6	O	O	illegal	x	x	0
+I-PER	0	7	O	O	smugglers	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	going	x	x	0
+O	0	10	O	O	out	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	boarding	x	x	0
+B-VEH	0	13	O	O	the	x	x	0
+I-VEH	0	14	O	O	ships	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Now	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	also	x	x	0
+O	0	3	O	O	,	x	x	0
+B-VEH	0	4	O	O	this	x	x	0
+I-VEH	0	5	O	O	ship	x	x	0
+O	0	6	O	O	played	x	x	0
+O	0	7	O	O	an	x	x	0
+O	0	8	O	O	important	x	x	0
+O	0	9	O	O	part	x	x	0
+O	0	10	O	O	within	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	war	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	's	x	x	0
+O	0	16	O	O	because	x	x	0
+O	0	17	O	O	of	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	radar	x	x	0
+O	0	20	O	O	system	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	could	x	x	0
+O	0	2	O	O	detect	x	x	0
+O	0	3	O	O	objects	x	x	0
+O	0	4	O	O	smaller	x	x	0
+O	0	5	O	O	than	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	honey	x	x	0
+O	0	8	O	O	bee	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	mean	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+B-VEH	0	0	O	O	It	x	x	0
+O	0	1	O	O	can	x	x	0
+O	0	2	O	O	detect	x	x	0
+B-PER	0	3	O	O	enemy	x	x	0
+O	0	4	O	O	radar	x	x	0
+O	0	5	O	O	or	x	x	0
+O	0	6	O	O	missiles	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	destroy	x	x	0
+B-WEA	0	9	O	O	them	x	x	0
+O	0	10	O	O	instantly	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	were	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	big	x	x	0
+O	0	4	O	O	part	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	Operation	x	x	0
+B-GPE	0	8	O	O	Iraqi	x	x	0
+O	0	9	O	O	Freedom	x	x	0
+O	0	10	O	O	.	x	x	0
+O	0	11	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	seeing	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	pictures	x	x	0
+O	0	5	O	O	,	x	x	0
+B-PER	0	6	O	O	everybody	x	x	0
+O	0	7	O	O	is	x	x	0
+B-GPE	0	8	O	O	home	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Friends	x	x	0
+O	0	1	O	O	and	x	x	0
+B-PER	0	2	O	O	family	x	x	0
+O	0	3	O	O	connecting	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Have	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	seen	x	x	0
+B-PER	0	3	O	O	each	x	x	0
+I-PER	0	4	O	O	other	x	x	0
+O	0	5	O	O	in	x	x	0
+B-TIME	0	6	O	O	almost	x	x	0
+I-TIME	0	7	O	O	10	x	x	0
+I-TIME	0	8	O	O	months	x	x	0
+I-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	14	x	x	0
+I-PER	0	1	O	O	fathers	x	x	0
+O	0	2	O	O	have	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	seen	x	x	0
+B-PER	0	5	O	O	their	x	x	0
+O	0	6	O	O	babies	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	all	x	x	0
+O	0	2	O	O	reunited	x	x	0
+O	0	3	O	O	with	x	x	0
+B-PER	0	4	O	O	their	x	x	0
+O	0	5	O	O	families	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	got	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	meet	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	with	x	x	0
+B-PER	0	6	O	O	one	x	x	0
+I-PER	0	7	O	O	such	x	x	0
+I-PER	0	8	O	O	family	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	'll	x	x	0
+O	0	2	O	O	show	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	pictures	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+B-PER	0	7	O	O	GALETTA	x	x	0
+O	0	8	O	O	family	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Katie	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	born	x	x	0
+O	0	3	O	O	on	x	x	0
+B-TIME	0	4	O	O	Christmas	x	x	0
+I-TIME	0	5	O	O	Day	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	Anderson	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	first	x	x	0
+O	0	4	O	O	time	x	x	0
+B-PER	0	5	O	O	her	x	x	0
+O	0	6	O	O	father	x	x	0
+O	0	7	O	O	got	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	hold	x	x	0
+B-PER	0	10	O	O	her	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	look	x	x	0
+O	0	13	O	O	in	x	x	0
+B-PER	0	14	O	O	her	x	x	0
+O	0	15	O	O	eyes	x	x	0
+O	0	16	O	O	since	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	came	x	x	0
+O	0	19	O	O	back	x	x	0
+O	0	20	O	O	from	x	x	0
+O	0	21	O	O	"	x	x	0
+O	0	22	O	O	Operation	x	x	0
+B-GPE	0	23	O	O	Iraqi	x	x	0
+O	0	24	O	O	Freedom."	x	x	0
+O	0	25	O	O	130	x	x	0
+O	0	26	O	O	sailors	x	x	0
+O	0	27	O	O	really	x	x	0
+O	0	28	O	O	excited	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	be	x	x	0
+B-GPE	0	31	O	O	home	x	x	0
+O	0	32	O	O	back	x	x	0
+O	0	33	O	O	on	x	x	0
+B-LOC	0	34	O	O	land	x	x	0
+O	0	35	O	O	after	x	x	0
+O	0	36	O	O	being	x	x	0
+O	0	37	O	O	at	x	x	0
+B-LOC	0	38	O	O	sea	x	x	0
+O	0	39	O	O	for	x	x	0
+B-TIME	0	40	O	O	nearly	x	x	0
+I-TIME	0	41	O	O	10	x	x	0
+I-TIME	0	42	O	O	months	x	x	0
+O	0	43	O	O	carrying	x	x	0
+O	0	44	O	O	out	x	x	0
+O	0	45	O	O	"	x	x	0
+O	0	46	O	O	Operation	x	x	0
+B-GPE	0	47	O	O	Iraqi	x	x	0
+O	0	48	O	O	Freedom	x	x	0
+O	0	49	O	O	.	x	x	0
+O	0	50	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+O	0	1	O	O	remarkable	x	x	0
+O	0	2	O	O	stories	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	looking	x	x	0
+O	0	3	O	O	at	x	x	0
+B-TIME	0	4	O	O	now	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	sailor	x	x	0
+O	0	8	O	O	seeing	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	baby	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	first	x	x	0
+O	0	14	O	O	time	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	just	x	x	0
+O	0	17	O	O	remarkable	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Kyra	x	x	0
+I-PER	0	1	O	O	Phillips	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	appreciate	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	bringing	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	to	x	x	0
+B-ORG	0	9	O	O	us	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	.	x	x	0
+

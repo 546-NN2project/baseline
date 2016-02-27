@@ -1,0 +1,699 @@
+O	0	0	O	O	Watching	x	x	0
+B-PER	0	1	O	O	Larry	x	x	0
+I-PER	0	2	O	O	King	x	x	0
+B-TIME	0	3	O	O	last	x	x	0
+I-TIME	0	4	O	O	night	x	x	0
+O	0	5	O	O	about	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	BTK	x	x	0
+I-PER	0	8	O	O	killer	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	something	x	x	0
+O	0	11	O	O	just	x	x	0
+O	0	12	O	O	seems	x	x	0
+O	0	13	O	O	off	x	x	0
+O	0	14	O	O	about	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	whole	x	x	0
+O	0	17	O	O	thing	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	understand	x	x	0
+O	0	4	O	O	were	x	x	0
+O	0	5	O	O	n't	x	x	0
+O	0	6	O	O	prints	x	x	0
+O	0	7	O	O	taken	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	etc	x	x	0
+O	0	10	O	O	?	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+O	0	12	O	O	have	x	x	0
+B-PER	0	13	O	O	witnesses	x	x	0
+O	0	14	O	O	and	x	x	0
+B-PER	0	15	O	O	I	x	x	0
+O	0	16	O	O	feel	x	x	0
+B-ORG	0	17	O	O	they	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	a	x	x	0
+O	0	20	O	O	whole	x	x	0
+O	0	21	O	O	lot	x	x	0
+O	0	22	O	O	more	x	x	0
+O	0	23	O	O	stuff	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	about	x	x	0
+O	0	2	O	O	prints	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	DNM	x	x	0
+O	0	5	O	O	taken	x	x	0
+O	0	6	O	O	off	x	x	0
+O	0	7	O	O	of	x	x	0
+B-TIME	0	8	O	O	current	x	x	0
+O	0	9	O	O	envelopes	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	etc.	x	x	0
+O	0	12	O	O	,	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	sent	x	x	0
+O	0	15	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	~	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	~	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	realize	x	x	0
+O	0	6	O	O	how	x	x	0
+O	0	7	O	O	difficult	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	get	x	x	0
+B-PER	0	12	O	O	these	x	x	0
+I-PER	0	13	O	O	serial	x	x	0
+I-PER	0	14	O	O	killers	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	but	x	x	0
+O	0	17	O	O	still	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	An	x	x	0
+O	0	1	O	O	author	x	x	0
+O	0	2	O	O	plugging	x	x	0
+B-PER	0	3	O	O	his	x	x	0
+O	0	4	O	O	book	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	LK	x	x	0
+O	0	7	O	O	claims	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	with	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	good	x	x	0
+O	0	12	O	O	bit	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	blow	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	investigation	x	x	0
+O	0	18	O	O	was	x	x	0
+O	0	19	O	O	/	x	x	0
+O	0	20	O	O	is	x	x	0
+O	0	21	O	O	as	x	x	0
+O	0	22	O	O	big	x	x	0
+O	0	23	O	O	as	x	x	0
+B-PER	0	24	O	O	Kennedy	x	x	0
+O	0	25	O	O	's	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Really	x	x	0
+O	0	1	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	know	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	still	x	x	0
+O	0	6	O	O	feel	x	x	0
+O	0	7	O	O	something	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	off	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jeanne	x	x	0
+
+O	0	0	O	O	Okay	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	give	x	x	0
+O	0	4	O	O	up	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	's	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	BTK	x	x	0
+I-PER	0	4	O	O	killer	x	x	0
+O	0	5	O	O	?	x	x	0
+B-PER	0	6	O	O	joy	x	x	0
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	serial	x	x	0
+O	0	2	O	O	killer	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	Wichita	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	Kansas	x	x	0
+B-PER	0	7	O	O	who	x	x	0
+O	0	8	O	O	killed	x	x	0
+B-PER	0	9	O	O	at	x	x	0
+I-PER	0	10	O	O	least	x	x	0
+I-PER	0	11	O	O	8	x	x	0
+I-PER	0	12	O	O	people	x	x	0
+O	0	13	O	O	in	x	x	0
+B-TIME	0	14	O	O	the	x	x	0
+I-TIME	0	15	O	O	'	x	x	0
+I-TIME	0	16	O	O	70s	x	x	0
+O	0	17	O	O	and	x	x	0
+O	0	18	O	O	'	x	x	0
+O	0	19	O	O	80s.	x	x	0
+O	0	20	O	O	BTK	x	x	0
+O	0	21	O	O	stands	x	x	0
+O	0	22	O	O	for	x	x	0
+O	0	23	O	O	bind	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	torture	x	x	0
+O	0	26	O	O	,	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	kill	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	sent	x	x	0
+O	0	2	O	O	several	x	x	0
+O	0	3	O	O	letters	x	x	0
+O	0	4	O	O	to	x	x	0
+B-ORG	0	5	O	O	the	x	x	0
+I-ORG	0	6	O	O	police	x	x	0
+O	0	7	O	O	and	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	media	x	x	0
+O	0	10	O	O	during	x	x	0
+B-TIME	0	11	O	O	that	x	x	0
+I-TIME	0	12	O	O	time	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-TIME	0	1	O	O	now	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	communicating	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	them	x	x	0
+O	0	7	O	O	again	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	sending	x	x	0
+O	0	10	O	O	tokens	x	x	0
+O	0	11	O	O	from	x	x	0
+B-PER	0	12	O	O	his	x	x	0
+O	0	13	O	O	victims	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Or	x	x	0
+B-PER	0	1	O	O	someone	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	playing	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	big	x	x	0
+O	0	6	O	O	hoax	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	've	x	x	0
+O	0	2	O	O	wondered	x	x	0
+O	0	3	O	O	too	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	with	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	forensic	x	x	0
+O	0	9	O	O	advances	x	x	0
+O	0	10	O	O	in	x	x	0
+B-TIME	0	11	O	O	the	x	x	0
+I-TIME	0	12	O	O	past	x	x	0
+I-TIME	0	13	O	O	25	x	x	0
+I-TIME	0	14	O	O	years	x	x	0
+O	0	15	O	O	why	x	x	0
+B-PER	0	16	O	O	he	x	x	0
+O	0	17	O	O	has	x	x	0
+O	0	18	O	O	n't	x	x	0
+O	0	19	O	O	been	x	x	0
+O	0	20	O	O	identified	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	link	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Sue	x	x	0
+I-PER	0	1	O	O	D	x	x	0
+O	0	2	O	O	.	x	x	0
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	well	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	wonder	x	x	0
+O	0	5	O	O	why	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	BTK	x	x	0
+I-PER	0	8	O	O	killer	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	captured	x	x	0
+O	0	12	O	O	until	x	x	0
+B-TIME	0	13	O	O	yesterday	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	informal	x	x	0
+O	0	2	O	O	speculation	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	Wichita	x	x	0
+B-ORG	0	7	O	O	police	x	x	0
+O	0	8	O	O	department	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	up	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	task	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Consider	x	x	0
+O	0	1	O	O	this	x	x	0
+O	0	2	O	O	:	x	x	0
+O	0	3	O	O	One	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	BTK	x	x	0
+I-PER	0	7	O	O	killer	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	victims	x	x	0
+O	0	10	O	O	lived	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	same	x	x	0
+O	0	14	O	O	street	x	x	0
+O	0	15	O	O	as	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	killer	x	x	0
+B-PER	0	18	O	O	The	x	x	0
+I-PER	0	19	O	O	BTK	x	x	0
+I-PER	0	20	O	O	killer	x	x	0
+B-TIME	0	21	O	O	once	x	x	0
+O	0	22	O	O	called	x	x	0
+O	0	23	O	O	up	x	x	0
+O	0	24	O	O	a	x	x	0
+B-ORG	0	25	O	O	police	x	x	0
+O	0	26	O	O	dispatcher	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	told	x	x	0
+B-PER	0	29	O	O	her	x	x	0
+O	0	30	O	O	of	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	crime	x	x	0
+B-PER	0	33	O	O	he	x	x	0
+O	0	34	O	O	just	x	x	0
+O	0	35	O	O	committed	x	x	0
+O	0	36	O	O	,	x	x	0
+O	0	37	O	O	and	x	x	0
+O	0	38	O	O	still	x	x	0
+B-ORG	0	39	O	O	they	x	x	0
+O	0	40	O	O	could	x	x	0
+O	0	41	O	O	not	x	x	0
+O	0	42	O	O	catch	x	x	0
+B-PER	0	43	O	O	him	x	x	0
+B-PER	0	44	O	O	the	x	x	0
+I-PER	0	45	O	O	BTK	x	x	0
+I-PER	0	46	O	O	killer	x	x	0
+O	0	47	O	O	was	x	x	0
+B-PER	0	48	O	O	a	x	x	0
+I-PER	0	49	O	O	known	x	x	0
+I-PER	0	50	O	O	nitpicker	x	x	0
+I-PER	0	51	O	O	and	x	x	0
+I-PER	0	52	O	O	nuissance	x	x	0
+O	0	53	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	actually	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	indicator	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	profiles	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	serial	x	x	0
+I-PER	0	9	O	O	killers	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	mastermind	x	x	0
+O	0	12	O	O	terrorists.	x	x	0
+B-PER	0	13	O	O	the	x	x	0
+I-PER	0	14	O	O	BTK	x	x	0
+I-PER	0	15	O	O	killer	x	x	0
+O	0	16	O	O	was	x	x	0
+O	0	17	O	O	only	x	x	0
+O	0	18	O	O	found	x	x	0
+O	0	19	O	O	out	x	x	0
+O	0	20	O	O	when	x	x	0
+B-PER	0	21	O	O	his	x	x	0
+O	0	22	O	O	daughter	x	x	0
+O	0	23	O	O	recognized	x	x	0
+O	0	24	O	O	certain	x	x	0
+O	0	25	O	O	traits	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	turned	x	x	0
+O	0	28	O	O	in	x	x	0
+B-PER	0	29	O	O	her	x	x	0
+O	0	30	O	O	DNA	x	x	0
+O	0	31	O	O	,	x	x	0
+O	0	32	O	O	which	x	x	0
+O	0	33	O	O	was	x	x	0
+O	0	34	O	O	a	x	x	0
+O	0	35	O	O	close	x	x	0
+O	0	36	O	O	match	x	x	0
+O	0	37	O	O	to	x	x	0
+O	0	38	O	O	the	x	x	0
+O	0	39	O	O	DNA	x	x	0
+O	0	40	O	O	on	x	x	0
+O	0	41	O	O	file	x	x	0
+O	0	42	O	O	for	x	x	0
+B-PER	0	43	O	O	her	x	x	0
+O	0	44	O	O	father	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Like	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	case	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	Unibomber	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	if	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	was	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	foresight	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	charity	x	x	0
+O	0	17	O	O	of	x	x	0
+B-PER	0	18	O	O	a	x	x	0
+I-PER	0	19	O	O	relative	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	BTK	x	x	0
+I-PER	0	23	O	O	killer	x	x	0
+O	0	24	O	O	would	x	x	0
+O	0	25	O	O	still	x	x	0
+O	0	26	O	O	be	x	x	0
+O	0	27	O	O	loose	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	was	x	x	0
+B-TIME	0	2	O	O	once	x	x	0
+O	0	3	O	O	reading	x	x	0
+O	0	4	O	O	how	x	x	0
+B-PER	0	5	O	O	a	x	x	0
+I-PER	0	6	O	O	criminal	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	being	x	x	0
+O	0	9	O	O	tracked	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	Washington	x	x	0
+O	0	12	O	O	,	x	x	0
+B-GPE	0	13	O	O	DC	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	how	x	x	0
+B-PER	0	17	O	O	he	x	x	0
+O	0	18	O	O	escaped	x	x	0
+O	0	19	O	O	a	x	x	0
+B-ORG	0	20	O	O	police	x	x	0
+O	0	21	O	O	dragnet	x	x	0
+O	0	22	O	O	several	x	x	0
+O	0	23	O	O	times	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	once	x	x	0
+O	0	26	O	O	by	x	x	0
+O	0	27	O	O	taking	x	x	0
+B-VEH	0	28	O	O	a	x	x	0
+I-VEH	0	29	O	O	taxi	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Though	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	are	x	x	0
+B-PER	0	3	O	O	very	x	x	0
+I-PER	0	4	O	O	brave	x	x	0
+I-PER	0	5	O	O	police	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	large	x	x	0
+O	0	10	O	O	extent	x	x	0
+B-ORG	0	11	O	O	the	x	x	0
+I-ORG	0	12	O	O	police	x	x	0
+O	0	13	O	O	have	x	x	0
+O	0	14	O	O	no	x	x	0
+O	0	15	O	O	incentive	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	capture	x	x	0
+B-PER	0	18	O	O	a	x	x	0
+I-PER	0	19	O	O	criminal	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	just	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	stay	x	x	0
+O	0	24	O	O	out	x	x	0
+O	0	25	O	O	of	x	x	0
+O	0	26	O	O	harm	x	x	0
+O	0	27	O	O	's	x	x	0
+O	0	28	O	O	way	x	x	0
+O	0	29	O	O	and	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	collect	x	x	0
+O	0	32	O	O	facts	x	x	0
+O	0	33	O	O	after	x	x	0
+O	0	34	O	O	the	x	x	0
+O	0	35	O	O	fact	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	rich	x	x	0
+O	0	2	O	O	hire	x	x	0
+B-PER	0	3	O	O	private	x	x	0
+I-PER	0	4	O	O	security	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	reason	x	x	0
+O	0	8	O	O	--	x	x	0
+B-ORG	0	9	O	O	public	x	x	0
+I-ORG	0	10	O	O	security	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	often	x	x	0
+O	0	13	O	O	inadequate	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	RL	x	x	0
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	does	x	x	0
+O	0	2	O	O	BTK	x	x	0
+O	0	3	O	O	stand	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	read	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	article	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	newspaper	x	x	0
+B-TIME	0	7	O	O	this	x	x	0
+I-TIME	0	8	O	O	morning	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	no	x	x	0
+O	0	11	O	O	where	x	x	0
+O	0	12	O	O	did	x	x	0
+O	0	13	O	O	it	x	x	0
+O	0	14	O	O	answer	x	x	0
+O	0	15	O	O	that	x	x	0
+O	0	16	O	O	question	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	And	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	probably	x	x	0
+O	0	5	O	O	so	x	x	0
+O	0	6	O	O	obvious	x	x	0
+B-PER	0	7	O	O	I	x	x	0
+O	0	8	O	O	will	x	x	0
+O	0	9	O	O	slap	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	side	x	x	0
+O	0	12	O	O	of	x	x	0
+B-PER	0	13	O	O	my	x	x	0
+O	0	14	O	O	head	x	x	0
+O	0	15	O	O	when	x	x	0
+B-PER	0	16	O	O	I	x	x	0
+O	0	17	O	O	find	x	x	0
+O	0	18	O	O	out	x	x	0
+O	0	19	O	O	.	x	x	0
+O	0	20	O	O	)	x	x	0
+
+
+
+B-PER	0	0	O	O	Joan	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+O	0	4	O	O	Bind	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	Torture	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	Kill	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Or	x	x	0
+O	0	1	O	O	something	x	x	0
+O	0	2	O	O	like	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	John	x	x	0
+I-PER	0	1	O	O	P	x	x	0
+O	0	2	O	O	____________________________	x	x	0
+O	0	3	O	O	Where	x	x	0
+O	0	4	O	O	am	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	going	x	x	0
+O	0	7	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	what	x	x	0
+O	0	2	O	O	am	x	x	0
+B-PER	0	3	O	O	I	x	x	0
+O	0	4	O	O	doing	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	Handbasket	x	x	0
+O	0	8	O	O	?	x	x	0
+O	0	9	O	O	____________________________	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	believe	x	x	0
+O	0	2	O	O	Bind	x	x	0
+O	0	3	O	O	Torture	x	x	0
+O	0	4	O	O	Kill	x	x	0
+O	0	5	O	O	=	x	x	0
+O	0	6	O	O	BTK	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	My	x	x	0
+O	0	1	O	O	point	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	taking	x	x	0
+O	0	4	O	O	so	x	x	0
+O	0	5	O	O	long	x	x	0
+O	0	6	O	O	...	x	x	0
+O	0	7	O	O	for	x	x	0
+B-TIME	0	8	O	O	thirty	x	x	0
+I-TIME	0	9	O	O	years	x	x	0
+B-PER	0	10	O	O	people	x	x	0
+O	0	11	O	O	did	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	feel	x	x	0
+O	0	14	O	O	safe	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	The	x	x	0
+I-ORG	0	1	O	O	LE	x	x	0
+O	0	2	O	O	has	x	x	0
+O	0	3	O	O	an	x	x	0
+O	0	4	O	O	obligation	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	keep	x	x	0
+O	0	7	O	O	safe	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	bet	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	neighbors	x	x	0
+O	0	4	O	O	are	x	x	0
+O	0	5	O	O	going	x	x	0
+O	0	6	O	O	through	x	x	0
+O	0	7	O	O	hell	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Jeanne	x	x	0
+

@@ -1,0 +1,261 @@
+O	0	0	O	O	MADRID	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Spain	x	x	0
+O	0	3	O	O	(	x	x	0
+B-ORG	0	4	O	O	AP	x	x	0
+O	0	5	O	O	)	x	x	0
+B-PER	0	6	O	O	Police	x	x	0
+O	0	7	O	O	intercepted	x	x	0
+O	0	8	O	O	33	x	x	0
+B-GPE	0	9	O	O	African	x	x	0
+O	0	10	O	O	immigrants	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	came	x	x	0
+O	0	13	O	O	ashore	x	x	0
+B-TIME	0	14	O	O	Thursday	x	x	0
+O	0	15	O	O	in	x	x	0
+B-LOC	0	16	O	O	southern	x	x	0
+I-LOC	0	17	O	O	Spain	x	x	0
+O	0	18	O	O	aboard	x	x	0
+B-VEH	0	19	O	O	an	x	x	0
+I-VEH	0	20	O	O	overcrowded	x	x	0
+I-VEH	0	21	O	O	boat	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	including	x	x	0
+B-PER	0	24	O	O	several	x	x	0
+I-PER	0	25	O	O	pregnant	x	x	0
+I-PER	0	26	O	O	women	x	x	0
+O	0	27	O	O	and	x	x	0
+B-PER	0	28	O	O	other	x	x	0
+I-PER	0	29	O	O	travelers	x	x	0
+I-PER	0	30	O	O	suffering	x	x	0
+I-PER	0	31	O	O	from	x	x	0
+I-PER	0	32	O	O	hypothermia	x	x	0
+O	0	33	O	O	,	x	x	0
+B-PER	0	34	O	O	police	x	x	0
+O	0	35	O	O	said	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Spanish	x	x	0
+O	0	1	O	O	media	x	x	0
+O	0	2	O	O	showed	x	x	0
+O	0	3	O	O	dramatic	x	x	0
+O	0	4	O	O	photos	x	x	0
+O	0	5	O	O	of	x	x	0
+B-PER	0	6	O	O	police	x	x	0
+O	0	7	O	O	struggling	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	carry	x	x	0
+O	0	10	O	O	women	x	x	0
+O	0	11	O	O	on	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	verge	x	x	0
+O	0	14	O	O	of	x	x	0
+O	0	15	O	O	fainting	x	x	0
+O	0	16	O	O	after	x	x	0
+B-PER	0	17	O	O	they	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	found	x	x	0
+O	0	20	O	O	wandering	x	x	0
+O	0	21	O	O	through	x	x	0
+B-GPE	0	22	O	O	Tarifa	x	x	0
+O	0	23	O	O	,	x	x	0
+B-GPE	0	24	O	O	Spain	x	x	0
+O	0	25	O	O	's	x	x	0
+O	0	26	O	O	windswept	x	x	0
+O	0	27	O	O	southern	x	x	0
+O	0	28	O	O	tip	x	x	0
+O	0	29	O	O	,	x	x	0
+B-ORG	0	30	O	O	Civil	x	x	0
+I-ORG	0	31	O	O	Guard	x	x	0
+O	0	32	O	O	officials	x	x	0
+O	0	33	O	O	told	x	x	0
+B-GPE	0	34	O	O	Spanish	x	x	0
+O	0	35	O	O	news	x	x	0
+O	0	36	O	O	agencies	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Police	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	arrested	x	x	0
+O	0	3	O	O	two	x	x	0
+B-GPE	0	4	O	O	Moroccan	x	x	0
+O	0	5	O	O	men	x	x	0
+O	0	6	O	O	suspected	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	trafficking	x	x	0
+O	0	9	O	O	in	x	x	0
+B-PER	0	10	O	O	human	x	x	0
+I-PER	0	11	O	O	beings	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	navigating	x	x	0
+O	0	14	O	O	the	x	x	0
+B-VEH	0	15	O	O	Zodiac	x	x	0
+O	0	16	O	O	boat	x	x	0
+O	0	17	O	O	across	x	x	0
+O	0	18	O	O	from	x	x	0
+B-GPE	0	19	O	O	Africa	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	Efe	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Twenty-six	x	x	0
+O	0	1	O	O	of	x	x	0
+B-PER	0	2	O	O	the	x	x	0
+I-PER	0	3	O	O	would-be	x	x	0
+I-PER	0	4	O	O	immigrants	x	x	0
+O	0	5	O	O	were	x	x	0
+O	0	6	O	O	from	x	x	0
+B-LOC	0	7	O	O	sub-Saharan	x	x	0
+O	0	8	O	O	Africa	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	six	x	x	0
+O	0	11	O	O	of	x	x	0
+B-PER	0	12	O	O	them	x	x	0
+B-PER	0	13	O	O	women	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	and	x	x	0
+B-PER	0	16	O	O	the	x	x	0
+I-PER	0	17	O	O	other	x	x	0
+I-PER	0	18	O	O	seven	x	x	0
+O	0	19	O	O	were	x	x	0
+O	0	20	O	O	males	x	x	0
+O	0	21	O	O	from	x	x	0
+B-LOC	0	22	O	O	North	x	x	0
+I-LOC	0	23	O	O	African	x	x	0
+O	0	24	O	O	countries	x	x	0
+O	0	25	O	O	,	x	x	0
+B-PER	0	26	O	O	police	x	x	0
+O	0	27	O	O	said	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	Red	x	x	0
+I-ORG	0	1	O	O	Cross	x	x	0
+O	0	2	O	O	officials	x	x	0
+O	0	3	O	O	administered	x	x	0
+O	0	4	O	O	first	x	x	0
+O	0	5	O	O	aid	x	x	0
+O	0	6	O	O	on	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	scene	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	the	x	x	0
+I-PER	0	12	O	O	detainees	x	x	0
+O	0	13	O	O	were	x	x	0
+O	0	14	O	O	taken	x	x	0
+O	0	15	O	O	to	x	x	0
+B-FAC	0	16	O	O	a	x	x	0
+I-FAC	0	17	O	O	processing	x	x	0
+I-FAC	0	18	O	O	center	x	x	0
+O	0	19	O	O	for	x	x	0
+B-GPE	0	20	O	O	the	x	x	0
+I-GPE	0	21	O	O	government	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	begin	x	x	0
+O	0	24	O	O	expulsion	x	x	0
+O	0	25	O	O	proceedings	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Tens	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	thousands	x	x	0
+O	0	3	O	O	of	x	x	0
+B-PER	0	4	O	O	destitute	x	x	0
+I-PER	0	5	O	O	Africans	x	x	0
+O	0	6	O	O	try	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	enter	x	x	0
+B-GPE	0	9	O	O	Spain	x	x	0
+O	0	10	O	O	illegally	x	x	0
+B-TIME	0	11	O	O	each	x	x	0
+I-TIME	0	12	O	O	year	x	x	0
+O	0	13	O	O	by	x	x	0
+O	0	14	O	O	crossing	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	perilous	x	x	0
+I-LOC	0	17	O	O	Strait	x	x	0
+I-LOC	0	18	O	O	of	x	x	0
+I-LOC	0	19	O	O	Gibraltar	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	reach	x	x	0
+B-LOC	0	22	O	O	the	x	x	0
+I-LOC	0	23	O	O	southern	x	x	0
+I-LOC	0	24	O	O	mainland	x	x	0
+O	0	25	O	O	or	x	x	0
+O	0	26	O	O	by	x	x	0
+O	0	27	O	O	sailing	x	x	0
+O	0	28	O	O	northwest	x	x	0
+O	0	29	O	O	to	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	Canary	x	x	0
+O	0	32	O	O	Islands	x	x	0
+O	0	33	O	O	out	x	x	0
+O	0	34	O	O	in	x	x	0
+B-LOC	0	35	O	O	the	x	x	0
+I-LOC	0	36	O	O	Atlantic	x	x	0
+O	0	37	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	seek	x	x	0
+O	0	2	O	O	a	x	x	0
+O	0	3	O	O	better	x	x	0
+O	0	4	O	O	life	x	x	0
+O	0	5	O	O	doing	x	x	0
+O	0	6	O	O	menial	x	x	0
+O	0	7	O	O	jobs	x	x	0
+O	0	8	O	O	in	x	x	0
+B-GPE	0	9	O	O	Spain	x	x	0
+O	0	10	O	O	or	x	x	0
+O	0	11	O	O	hope	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	use	x	x	0
+B-GPE	0	14	O	O	the	x	x	0
+I-GPE	0	15	O	O	country	x	x	0
+O	0	16	O	O	as	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	stepping	x	x	0
+O	0	19	O	O	stone	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	other	x	x	0
+O	0	22	O	O	points	x	x	0
+O	0	23	O	O	in	x	x	0
+B-GPE	0	24	O	O	Europe	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Most	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	caught	x	x	0
+O	0	3	O	O	trying	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	sneak	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	and	x	x	0
+B-PER	0	8	O	O	some	x	x	0
+O	0	9	O	O	die	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	attempt	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	dw	x	x	0
+O	0	2	O	O	)	x	x	0
+

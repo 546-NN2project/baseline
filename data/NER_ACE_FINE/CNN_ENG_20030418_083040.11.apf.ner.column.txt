@@ -1,0 +1,68 @@
+O	0	0	O	O	in	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	moment	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	check	x	x	0
+O	0	5	O	O	in	x	x	0
+B-FAC	0	6	O	O	the	x	x	0
+I-FAC	0	7	O	O	Pentagon	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	get	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	latest	x	x	0
+O	0	12	O	O	on	x	x	0
+O	0	13	O	O	the	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	prisoners	x	x	0
+O	0	16	O	O	of	x	x	0
+O	0	17	O	O	war	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	know	x	x	0
+O	0	2	O	O	of	x	x	0
+O	0	3	O	O	one	x	x	0
+O	0	4	O	O	detention	x	x	0
+O	0	5	O	O	center	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	well	x	x	0
+I-PER	0	8	O	O	over	x	x	0
+I-PER	0	9	O	O	7,000	x	x	0
+I-PER	0	10	O	O	Iraqis	x	x	0
+O	0	11	O	O	held	x	x	0
+B-FAC	0	12	O	O	there	x	x	0
+O	0	13	O	O	and	x	x	0
+B-PER	0	14	O	O	almost	x	x	0
+I-PER	0	15	O	O	a	x	x	0
+I-PER	0	16	O	O	thousand	x	x	0
+O	0	17	O	O	have	x	x	0
+O	0	18	O	O	been	x	x	0
+O	0	19	O	O	released	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Check	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	on	x	x	0
+B-FAC	0	3	O	O	the	x	x	0
+I-FAC	0	4	O	O	Pentagon	x	x	0
+O	0	5	O	O	for	x	x	0
+O	0	6	O	O	more	x	x	0
+O	0	7	O	O	and	x	x	0
+O	0	8	O	O	more	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	this	x	x	0
+O	0	11	O	O	tape	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	what	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	're	x	x	0
+O	0	16	O	O	saying	x	x	0
+O	0	17	O	O	down	x	x	0
+O	0	18	O	O	in	x	x	0
+B-GPE	0	19	O	O	Washington	x	x	0
+O	0	20	O	O	.	x	x	0
+

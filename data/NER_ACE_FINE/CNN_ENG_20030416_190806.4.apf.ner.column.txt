@@ -1,0 +1,71 @@
+O	0	0	O	O	for	x	x	0
+O	0	1	O	O	killing	x	x	0
+B-PER	0	2	O	O	his	x	x	0
+O	0	3	O	O	wife	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	three	x	x	0
+O	0	6	O	O	children	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	oldest	x	x	0
+O	0	9	O	O	of	x	x	0
+B-PER	0	10	O	O	whom	x	x	0
+O	0	11	O	O	was	x	x	0
+B-TIME	0	12	O	O	three	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	Christian	x	x	0
+I-PER	0	15	O	O	Longo	x	x	0
+O	0	16	O	O	had	x	x	0
+O	0	17	O	O	been	x	x	0
+O	0	18	O	O	sentenced	x	x	0
+B-Sentence	0	19	O	O	to	x	x	0
+I-Sentence	0	20	O	O	die	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Prosecutors	x	x	0
+O	0	1	O	O	say	x	x	0
+B-PER	0	2	O	O	Longo	x	x	0
+O	0	3	O	O	stood	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	family	x	x	0
+O	0	6	O	O	because	x	x	0
+B-PER	0	7	O	O	they	x	x	0
+O	0	8	O	O	stood	x	x	0
+O	0	9	O	O	before	x	x	0
+B-PER	0	10	O	O	him	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	life	x	x	0
+B-PER	0	14	O	O	he	x	x	0
+O	0	15	O	O	craved	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	The	x	x	0
+I-PER	0	1	O	O	jury	x	x	0
+O	0	2	O	O	deliberated	x	x	0
+O	0	3	O	O	for	x	x	0
+B-TIME	0	4	O	O	three	x	x	0
+I-TIME	0	5	O	O	hour	x	x	0
+O	0	6	O	O	before	x	x	0
+O	0	7	O	O	returning	x	x	0
+O	0	8	O	O	a	x	x	0
+B-Sentence	0	9	O	O	death	x	x	0
+O	0	10	O	O	sentence	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	Now	x	x	0
+B-ORG	0	1	O	O	CNN	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	coverage	x	x	0
+O	0	4	O	O	of	x	x	0
+B-GPE	0	5	O	O	the	x	x	0
+I-GPE	0	6	O	O	new	x	x	0
+I-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	continues	x	x	0
+O	0	9	O	O	.	x	x	0
+

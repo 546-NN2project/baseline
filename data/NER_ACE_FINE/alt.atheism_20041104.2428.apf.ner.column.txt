@@ -1,0 +1,1177 @@
+O	0	0	O	O	Just	x	x	0
+O	0	1	O	O	what	x	x	0
+B-LOC	0	2	O	O	the	x	x	0
+I-LOC	0	3	O	O	world	x	x	0
+O	0	4	O	O	needs	x	x	0
+B-TIME	0	5	O	O	this	x	x	0
+I-TIME	0	6	O	O	week	x	x	0
+O	0	7	O	O	...	x	x	0
+O	0	8	O	O	more	x	x	0
+B-GPE	0	9	O	O	Palestinian	x	x	0
+O	0	10	O	O	instability	x	x	0
+O	0	11	O	O	!	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Fri	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	5	x	x	0
+I-TIME	0	4	O	O	Nov	x	x	0
+I-TIME	0	5	O	O	2004	x	x	0
+I-TIME	0	6	O	O	11:20:13	x	x	0
+I-TIME	0	7	O	O	+	x	x	0
+I-TIME	0	8	O	O	1000	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	alt.atheism	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	"	x	x	0
+B-PER	0	13	O	O	Clayton	x	x	0
+I-PER	0	14	O	O	...	x	x	0
+I-PER	0	15	O	O	Rapidly	x	x	0
+I-PER	0	16	O	O	Drying	x	x	0
+I-PER	0	17	O	O	Oasis	x	x	0
+I-PER	0	18	O	O	In	x	x	0
+I-PER	0	19	O	O	A	x	x	0
+I-PER	0	20	O	O	Worldwide	x	x	0
+I-PER	0	21	O	O	Desert	x	x	0
+I-PER	0	22	O	O	Of	x	x	0
+I-PER	0	23	O	O	Insanity	x	x	0
+O	0	24	O	O	"	x	x	0
+O	0	25	O	O	(	x	x	0
+O	0	26	O	O	c	x	x	0
+O	0	27	O	O	...	x	x	0
+O	0	28	O	O	@	x	x	0
+O	0	29	O	O	SPAMBLOCKphonyemail.com)	x	x	0
+O	0	30	O	O	defied	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	status	x	x	0
+O	0	33	O	O	quo	x	x	0
+O	0	34	O	O	and	x	x	0
+O	0	35	O	O	scrawled	x	x	0
+O	0	36	O	O	upon	x	x	0
+B-FAC	0	37	O	O	the	x	x	0
+I-FAC	0	38	O	O	toilet	x	x	0
+I-FAC	0	39	O	O	stall	x	x	0
+O	0	40	O	O	:	x	x	0
+
+O	0	0	O	O	...	x	x	0
+O	0	1	O	O	which	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	still	x	x	0
+O	0	4	O	O	greater	x	x	0
+O	0	5	O	O	than	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	chance	x	x	0
+O	0	8	O	O	that	x	x	0
+B-GPE	0	9	O	O	the	x	x	0
+I-GPE	0	10	O	O	U.S.	x	x	0
+O	0	11	O	O	will	x	x	0
+O	0	12	O	O	ever	x	x	0
+O	0	13	O	O	come	x	x	0
+O	0	14	O	O	to	x	x	0
+B-GPE	0	15	O	O	its	x	x	0
+O	0	16	O	O	senses	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Would	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	be	x	x	0
+O	0	4	O	O	something	x	x	0
+O	0	5	O	O	if	x	x	0
+O	0	6	O	O	these	x	x	0
+O	0	7	O	O	formerly	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	militant	x	x	0
+O	0	10	O	O	extremist	x	x	0
+O	0	11	O	O	"	x	x	0
+B-PER	0	12	O	O	Muslim	x	x	0
+O	0	13	O	O	regiemes	x	x	0
+O	0	14	O	O	became	x	x	0
+O	0	15	O	O	more	x	x	0
+O	0	16	O	O	liberal	x	x	0
+O	0	17	O	O	while	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	U.S.	x	x	0
+O	0	20	O	O	became	x	x	0
+O	0	21	O	O	...	x	x	0
+O	0	22	O	O	ah	x	x	0
+O	0	23	O	O	...	x	x	0
+O	0	24	O	O	never	x	x	0
+O	0	25	O	O	mind	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	L8r	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Uncle	x	x	0
+I-PER	0	3	O	O	Dollar	x	x	0
+I-PER	0	4	O	O	Bill	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	Opinions	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	like	x	x	0
+B-PER	0	9	O	O	people	x	x	0
+B-PER	0	10	O	O	every	x	x	0
+I-PER	0	11	O	O	asshole	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	...	x	x	0
+O	0	15	O	O	"	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	04	x	x	0
+I-TIME	0	2	O	O	Nov	x	x	0
+I-TIME	0	3	O	O	2004	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	Daniel	x	x	0
+I-PER	0	6	O	O	Kolle	x	x	0
+O	0	7	O	O	dropped	x	x	0
+O	0	8	O	O	trou	x	x	0
+O	0	9	O	O	,	x	x	0
+O	0	10	O	O	farted	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	whirled	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	then	x	x	0
+O	0	15	O	O	shouted	x	x	0
+O	0	16	O	O	:	x	x	0
+
+O	0	0	O	O	Cancer	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	happy	x	x	0
+O	0	5	O	O	thing	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stomach	x	x	0
+O	0	1	O	O	cancer	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	got	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	hurt	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	hell	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	what	x	x	0
+B-PER	0	3	O	O	Allah	x	x	0
+O	0	4	O	O	was	x	x	0
+O	0	5	O	O	thinking	x	x	0
+O	0	6	O	O	when	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	allowed	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	My	x	x	0
+O	0	1	O	O	husband	x	x	0
+O	0	2	O	O	's	x	x	0
+O	0	3	O	O	uncle	x	x	0
+O	0	4	O	O	died	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	it	x	x	0
+O	0	7	O	O	about	x	x	0
+O	0	8	O	O	a	x	x	0
+O	0	9	O	O	year	x	x	0
+O	0	10	O	O	before	x	x	0
+B-PER	0	11	O	O	we	x	x	0
+O	0	12	O	O	got	x	x	0
+O	0	13	O	O	married	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	awful	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	(	x	x	0
+O	0	5	O	O	-------	x	x	0
+B-PER	0	6	O	O	Robyn	x	x	0
+B-PER	0	7	O	O	Resident	x	x	0
+I-PER	0	8	O	O	Witchypoo	x	x	0
+O	0	9	O	O	#	x	x	0
+O	0	10	O	O	1557	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	always	x	x	0
+O	0	3	O	O	wondered	x	x	0
+O	0	4	O	O	if	x	x	0
+O	0	5	O	O	cancer	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	hurt	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	take	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	does	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	5	x	x	0
+I-TIME	0	2	O	O	Nov	x	x	0
+I-TIME	0	3	O	O	2004	x	x	0
+I-TIME	0	4	O	O	09:28:46	x	x	0
+I-TIME	0	5	O	O	0800	x	x	0
+O	0	6	O	O	,	x	x	0
+B-Contact-Info	0	7	O	O	DKo	x	x	0
+I-Contact-Info	0	8	O	O	...	x	x	0
+I-Contact-Info	0	9	O	O	@	x	x	0
+I-Contact-Info	0	10	O	O	hotmail.com	x	x	0
+O	0	11	O	O	(	x	x	0
+B-PER	0	12	O	O	Daniel	x	x	0
+I-PER	0	13	O	O	Kolle	x	x	0
+O	0	14	O	O	)	x	x	0
+O	0	15	O	O	wrote	x	x	0
+O	0	16	O	O	:	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	watched	x	x	0
+B-PER	0	2	O	O	two	x	x	0
+I-PER	0	3	O	O	uncles	x	x	0
+O	0	4	O	O	die	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	lung	x	x	0
+O	0	7	O	O	cancer	x	x	0
+O	0	8	O	O	(	x	x	0
+O	0	9	O	O	which	x	x	0
+O	0	10	O	O	gave	x	x	0
+B-PER	0	11	O	O	me	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	impetus	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	give	x	x	0
+O	0	16	O	O	up	x	x	0
+O	0	17	O	O	smoking	x	x	0
+O	0	18	O	O	for	x	x	0
+O	0	19	O	O	good	x	x	0
+O	0	20	O	O	)	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	and	x	x	0
+B-PER	0	23	O	O	a	x	x	0
+I-PER	0	24	O	O	close	x	x	0
+I-PER	0	25	O	O	friend	x	x	0
+O	0	26	O	O	die	x	x	0
+O	0	27	O	O	of	x	x	0
+O	0	28	O	O	melanoma	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	death	x	x	0
+B-PER	0	5	O	O	I	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	wish	x	x	0
+O	0	8	O	O	on	x	x	0
+B-PER	0	9	O	O	my	x	x	0
+O	0	10	O	O	worst	x	x	0
+O	0	11	O	O	enemy	x	x	0
+O	0	12	O	O	.	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	5	x	x	0
+I-TIME	0	2	O	O	Nov	x	x	0
+I-TIME	0	3	O	O	2004	x	x	0
+I-TIME	0	4	O	O	09:28:46	x	x	0
+I-TIME	0	5	O	O	0800	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	alt.atheism	x	x	0
+O	0	8	O	O	,	x	x	0
+B-Contact-Info	0	9	O	O	DKo	x	x	0
+I-Contact-Info	0	10	O	O	...	x	x	0
+I-Contact-Info	0	11	O	O	@	x	x	0
+I-Contact-Info	0	12	O	O	hotmail.com	x	x	0
+O	0	13	O	O	(	x	x	0
+B-PER	0	14	O	O	Daniel	x	x	0
+I-PER	0	15	O	O	Kolle	x	x	0
+O	0	16	O	O	)	x	x	0
+O	0	17	O	O	defied	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	status	x	x	0
+O	0	20	O	O	quo	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	scrawled	x	x	0
+O	0	23	O	O	upon	x	x	0
+O	0	24	O	O	the	x	x	0
+O	0	25	O	O	toilet	x	x	0
+O	0	26	O	O	stall	x	x	0
+O	0	27	O	O	:	x	x	0
+
+O	0	0	O	O	Consider	x	x	0
+B-PER	0	1	O	O	yourself	x	x	0
+O	0	2	O	O	lucky	x	x	0
+O	0	3	O	O	that	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	had	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	wonder	x	x	0
+O	0	8	O	O	about	x	x	0
+O	0	9	O	O	it	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	became	x	x	0
+O	0	2	O	O	familiar	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	_that_	x	x	0
+O	0	5	O	O	issue	x	x	0
+O	0	6	O	O	at	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	very	x	x	0
+O	0	9	O	O	young	x	x	0
+O	0	10	O	O	age	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	many	x	x	0
+O	0	2	O	O	times	x	x	0
+O	0	3	O	O	thereafter	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	To	x	x	0
+O	0	1	O	O	say	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	hurts	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	hell	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	understatement	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	at	x	x	0
+O	0	14	O	O	least	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	kinds	x	x	0
+B-PER	0	17	O	O	my	x	x	0
+O	0	18	O	O	family	x	x	0
+O	0	19	O	O	had	x	x	0
+O	0	20	O	O	been	x	x	0
+O	0	21	O	O	prone	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	see	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	woman	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	raised	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	sucking	x	x	0
+O	0	9	O	O	desperately	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	dropper	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	liquid	x	x	0
+O	0	15	O	O	morphine	x	x	0
+O	0	16	O	O	like	x	x	0
+O	0	17	O	O	it	x	x	0
+O	0	18	O	O	were	x	x	0
+B-PER	0	19	O	O	her	x	x	0
+B-PER	0	20	O	O	own	x	x	0
+O	0	21	O	O	mother	x	x	0
+O	0	22	O	O	's	x	x	0
+O	0	23	O	O	teat	x	x	0
+O	0	24	O	O	,	x	x	0
+B-PER	0	25	O	O	you	x	x	0
+O	0	26	O	O	're	x	x	0
+O	0	27	O	O	just	x	x	0
+O	0	28	O	O	never	x	x	0
+O	0	29	O	O	quite	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	same	x	x	0
+O	0	32	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	"	x	x	0
+O	0	2	O	O	woman	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	raised	x	x	0
+B-PER	0	5	O	O	me	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	was	x	x	0
+O	0	8	O	O	n't	x	x	0
+O	0	9	O	O	actually	x	x	0
+B-PER	0	10	O	O	my	x	x	0
+O	0	11	O	O	mother	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	but	x	x	0
+B-PER	0	14	O	O	my	x	x	0
+O	0	15	O	O	grandmother	x	x	0
+O	0	16	O	O	,	x	x	0
+O	0	17	O	O	btw	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	L8r	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	Uncle	x	x	0
+I-PER	0	3	O	O	Dollar	x	x	0
+I-PER	0	4	O	O	Bill	x	x	0
+O	0	5	O	O	"	x	x	0
+O	0	6	O	O	Opinions	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	like	x	x	0
+B-PER	0	9	O	O	people	x	x	0
+B-PER	0	10	O	O	every	x	x	0
+I-PER	0	11	O	O	asshole	x	x	0
+O	0	12	O	O	has	x	x	0
+O	0	13	O	O	one	x	x	0
+O	0	14	O	O	...	x	x	0
+O	0	15	O	O	"	x	x	0
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	Fri	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	05	x	x	0
+O	0	4	O	O	Nov	x	x	0
+O	0	5	O	O	2004	x	x	0
+O	0	6	O	O	05:30:37	x	x	0
+O	0	7	O	O	GMT	x	x	0
+B-PER	0	8	O	O	the	x	x	0
+I-PER	0	9	O	O	ET	x	x	0
+I-PER	0	10	O	O	form	x	x	0
+O	0	11	O	O	known	x	x	0
+O	0	12	O	O	as	x	x	0
+B-PER	0	13	O	O	Uncle	x	x	0
+I-PER	0	14	O	O	Dollar	x	x	0
+I-PER	0	15	O	O	Bill	x	x	0
+O	0	16	O	O	(	x	x	0
+B-Contact-Info	0	17	O	O	UncleDollarB	x	x	0
+I-Contact-Info	0	18	O	O	...	x	x	0
+I-Contact-Info	0	19	O	O	@	x	x	0
+I-Contact-Info	0	20	O	O	SpamMeNot	x	x	0
+I-Contact-Info	0	21	O	O	.com	x	x	0
+O	0	22	O	O	)	x	x	0
+O	0	23	O	O	sent	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	radio	x	x	0
+O	0	26	O	O	signal	x	x	0
+O	0	27	O	O	across	x	x	0
+B-LOC	0	28	O	O	the	x	x	0
+I-LOC	0	29	O	O	vast	x	x	0
+I-LOC	0	30	O	O	expanse	x	x	0
+I-LOC	0	31	O	O	of	x	x	0
+I-LOC	0	32	O	O	deep	x	x	0
+I-LOC	0	33	O	O	space	x	x	0
+O	0	34	O	O	._.	x	x	0
+O	0	35	O	O	--	x	x	0
+O	0	36	O	O	._.	x	x	0
+O	0	37	O	O	--	x	x	0
+O	0	38	O	O	._.	x	x	0
+O	0	39	O	O	--	x	x	0
+O	0	40	O	O	._.	x	x	0
+O	0	41	O	O	--	x	x	0
+O	0	42	O	O	._.	x	x	0
+O	0	43	O	O	--	x	x	0
+O	0	44	O	O	._	x	x	0
+O	0	45	O	O	.	x	x	0
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	free	x	x	0
+O	0	4	O	O	press	x	x	0
+O	0	5	O	O	in	x	x	0
+B-GPE	0	6	O	O	Qatar	x	x	0
+O	0	7	O	O	,	x	x	0
+B-ORG	0	8	O	O	al	x	x	0
+I-ORG	0	9	O	O	Jeezera	x	x	0
+O	0	10	O	O	but	x	x	0
+B-ORG	0	11	O	O	its	x	x	0
+O	0	12	O	O	'	x	x	0
+O	0	13	O	O	offices	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	Kabul	x	x	0
+O	0	16	O	O	and	x	x	0
+B-GPE	0	17	O	O	Baghdad	x	x	0
+O	0	18	O	O	were	x	x	0
+O	0	19	O	O	bombed	x	x	0
+O	0	20	O	O	by	x	x	0
+B-PER	0	21	O	O	Americans	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Only	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	thing	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	neocons	x	x	0
+O	0	5	O	O	hate	x	x	0
+O	0	6	O	O	more	x	x	0
+O	0	7	O	O	than	x	x	0
+O	0	8	O	O	despotism	x	x	0
+O	0	9	O	O	in	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	middle	x	x	0
+I-GPE	0	12	O	O	east	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	that	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	freedom	x	x	0
+O	0	17	O	O	of	x	x	0
+B-ORG	0	18	O	O	the	x	x	0
+I-ORG	0	19	O	O	press	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	the	x	x	0
+O	0	22	O	O	middle	x	x	0
+O	0	23	O	O	east.	x	x	0
+O	0	24	O	O	epicurus1	x	x	0
+O	0	25	O	O	*	x	x	0
+O	0	26	O	O	at	x	x	0
+O	0	27	O	O	*	x	x	0
+O	0	28	O	O	optusnet	x	x	0
+O	0	29	O	O	*	x	x	0
+O	0	30	O	O	dot	x	x	0
+O	0	31	O	O	*	x	x	0
+O	0	32	O	O	com	x	x	0
+O	0	33	O	O	*	x	x	0
+O	0	34	O	O	dot	x	x	0
+O	0	35	O	O	*	x	x	0
+O	0	36	O	O	au	x	x	0
+O	0	37	O	O	apatriot	x	x	0
+O	0	38	O	O	#	x	x	0
+O	0	39	O	O	1	x	x	0
+O	0	40	O	O	,	x	x	0
+O	0	41	O	O	atheist	x	x	0
+O	0	42	O	O	#	x	x	0
+O	0	43	O	O	1417	x	x	0
+O	0	44	O	O	,	x	x	0
+B-PER	0	45	O	O	Chief	x	x	0
+I-PER	0	46	O	O	EAC	x	x	0
+I-PER	0	47	O	O	prophet	x	x	0
+O	0	48	O	O	Apatriotism	x	x	0
+O	0	49	O	O	Yahoo	x	x	0
+O	0	50	O	O	Group	x	x	0
+O	0	51	O	O	"	x	x	0
+O	0	52	O	O	Properly	x	x	0
+O	0	53	O	O	read	x	x	0
+O	0	54	O	O	,	x	x	0
+O	0	55	O	O	the	x	x	0
+O	0	56	O	O	Bible	x	x	0
+O	0	57	O	O	is	x	x	0
+O	0	58	O	O	the	x	x	0
+O	0	59	O	O	most	x	x	0
+O	0	60	O	O	potent	x	x	0
+O	0	61	O	O	force	x	x	0
+O	0	62	O	O	for	x	x	0
+O	0	63	O	O	atheism	x	x	0
+O	0	64	O	O	ever	x	x	0
+O	0	65	O	O	conceived	x	x	0
+O	0	66	O	O	.	x	x	0
+O	0	67	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	Isaac	x	x	0
+I-PER	0	1	O	O	Asimov	x	x	0
+
+O	0	0	O	O	Might	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	be	x	x	0
+O	0	3	O	O	conspiracy	x	x	0
+O	0	4	O	O	stuff	x	x	0
+O	0	5	O	O	but	x	x	0
+O	0	6	O	O	OTOH	x	x	0
+B-ORG	0	7	O	O	Mossad	x	x	0
+O	0	8	O	O	does	x	x	0
+O	0	9	O	O	have	x	x	0
+O	0	10	O	O	a	x	x	0
+O	0	11	O	O	reputation	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	highly	x	x	0
+O	0	14	O	O	effective	x	x	0
+O	0	15	O	O	operations	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	think	x	x	0
+O	0	4	O	O	it	x	x	0
+O	0	5	O	O	is	x	x	0
+O	0	6	O	O	likely	x	x	0
+O	0	7	O	O	but	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	would	x	x	0
+O	0	10	O	O	not	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	surprised	x	x	0
+O	0	13	O	O	either	x	x	0
+O	0	14	O	O	.	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sat	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	6	x	x	0
+I-TIME	0	4	O	O	Nov	x	x	0
+I-TIME	0	5	O	O	2004	x	x	0
+I-TIME	0	6	O	O	16:41:52	x	x	0
+I-TIME	0	7	O	O	+	x	x	0
+I-TIME	0	8	O	O	1030	x	x	0
+O	0	9	O	O	in	x	x	0
+O	0	10	O	O	alt.atheism	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	Meteorite	x	x	0
+I-PER	0	13	O	O	Debris	x	x	0
+O	0	14	O	O	(	x	x	0
+O	0	15	O	O	Meteorite	x	x	0
+O	0	16	O	O	Debris	x	x	0
+O	0	17	O	O	(	x	x	0
+O	0	18	O	O	a	x	x	0
+O	0	19	O	O	...	x	x	0
+O	0	20	O	O	@	x	x	0
+O	0	21	O	O	yahoo.com))	x	x	0
+O	0	22	O	O	said	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	directing	x	x	0
+O	0	25	O	O	the	x	x	0
+O	0	26	O	O	reply	x	x	0
+O	0	27	O	O	to	x	x	0
+O	0	28	O	O	alt.atheism	x	x	0
+
+B-PER	0	0	O	O	Anyone	x	x	0
+O	0	1	O	O	remember	x	x	0
+B-PER	0	2	O	O	Georgi	x	x	0
+I-PER	0	3	O	O	Markov	x	x	0
+O	0	4	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	"	x	x	0
+O	0	1	O	O	Do	x	x	0
+O	0	2	O	O	Unto	x	x	0
+B-PER	0	3	O	O	Others	x	x	0
+O	0	4	O	O	As	x	x	0
+B-PER	0	5	O	O	You	x	x	0
+O	0	6	O	O	Would	x	x	0
+O	0	7	O	O	Have	x	x	0
+B-PER	0	8	O	O	Them	x	x	0
+O	0	9	O	O	Do	x	x	0
+O	0	10	O	O	Unto	x	x	0
+B-PER	0	11	O	O	You	x	x	0
+O	0	12	O	O	.	x	x	0
+O	0	13	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Attrib	x	x	0
+O	0	1	O	O	:	x	x	0
+B-PER	0	2	O	O	Pauline	x	x	0
+I-PER	0	3	O	O	Reage	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Inexpensive	x	x	0
+O	0	1	O	O	VHS	x	x	0
+O	0	2	O	O	&	x	x	0
+O	0	3	O	O	amp	x	x	0
+O	0	4	O	O	;	x	x	0
+O	0	5	O	O	other	x	x	0
+O	0	6	O	O	video	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	CD	x	x	0
+O	0	9	O	O	/	x	x	0
+O	0	10	O	O	DVD	x	x	0
+O	0	11	O	O	conversion	x	x	0
+O	0	12	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	See	x	x	0
+O	0	1	O	O	:	x	x	0
+O	0	2	O	O	(	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	35.00	x	x	0
+O	0	1	O	O	gets	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	video	x	x	0
+O	0	4	O	O	on	x	x	0
+O	0	5	O	O	DVD.	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	posts	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	email	x	x	0
+O	0	11	O	O	address	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	automatically	x	x	0
+O	0	14	O	O	deleted	x	x	0
+O	0	15	O	O	without	x	x	0
+O	0	16	O	O	being	x	x	0
+O	0	17	O	O	read.	x	x	0
+O	0	18	O	O	**	x	x	0
+O	0	19	O	O	atheist	x	x	0
+O	0	20	O	O	poster	x	x	0
+O	0	21	O	O	child	x	x	0
+O	0	22	O	O	#	x	x	0
+O	0	23	O	O	1	x	x	0
+O	0	24	O	O	**	x	x	0
+O	0	25	O	O	#	x	x	0
+O	0	26	O	O	442	x	x	0
+O	0	27	O	O	.	x	x	0
+
+B-GPE	0	0	O	O	The	x	x	0
+I-GPE	0	1	O	O	Palestinians	x	x	0
+O	0	2	O	O	want	x	x	0
+B-LOC	0	3	O	O	land	x	x	0
+I-LOC	0	4	O	O	to	x	x	0
+I-LOC	0	5	O	O	live	x	x	0
+I-LOC	0	6	O	O	on	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	while	x	x	0
+B-PER	0	9	O	O	Sharon	x	x	0
+O	0	10	O	O	wants	x	x	0
+B-PER	0	11	O	O	no	x	x	0
+I-PER	0	12	O	O	Palestinians	x	x	0
+O	0	13	O	O	living	x	x	0
+O	0	14	O	O	on	x	x	0
+B-LOC	0	15	O	O	the	x	x	0
+I-LOC	0	16	O	O	land	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-LOC	0	1	O	O	the	x	x	0
+I-LOC	0	2	O	O	world	x	x	0
+O	0	3	O	O	finally	x	x	0
+O	0	4	O	O	grows	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	balls	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	criticize	x	x	0
+B-GPE	0	9	O	O	Israeli	x	x	0
+O	0	10	O	O	terrorism	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	we	x	x	0
+O	0	13	O	O	'll	x	x	0
+O	0	14	O	O	see	x	x	0
+O	0	15	O	O	peace	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	as	x	x	0
+O	0	2	O	O	long	x	x	0
+O	0	3	O	O	as	x	x	0
+O	0	4	O	O	"	x	x	0
+O	0	5	O	O	criticism	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	anti-semitism	x	x	0
+O	0	8	O	O	"	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	mentality	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	do	x	x	0
+O	0	14	O	O	n't	x	x	0
+O	0	15	O	O	act	x	x	0
+O	0	16	O	O	surprised	x	x	0
+O	0	17	O	O	that	x	x	0
+B-GPE	0	18	O	O	the	x	x	0
+I-GPE	0	19	O	O	Palestinians	x	x	0
+O	0	20	O	O	object	x	x	0
+O	0	21	O	O	to	x	x	0
+O	0	22	O	O	the	x	x	0
+O	0	23	O	O	Lebensraum	x	x	0
+O	0	24	O	O	(	x	x	0
+O	0	25	O	O	a	x	x	0
+O	0	26	O	O	/	x	x	0
+O	0	27	O	O	k	x	x	0
+O	0	28	O	O	/	x	x	0
+O	0	29	O	O	a	x	x	0
+B-GPE	0	30	O	O	settlements	x	x	0
+O	0	31	O	O	)	x	x	0
+O	0	32	O	O	and	x	x	0
+B-GPE	0	33	O	O	Israeli	x	x	0
+O	0	34	O	O	terrorism	x	x	0
+O	0	35	O	O	(	x	x	0
+O	0	36	O	O	bombings	x	x	0
+O	0	37	O	O	,	x	x	0
+O	0	38	O	O	shooting	x	x	0
+B-PER	0	39	O	O	farmers	x	x	0
+O	0	40	O	O	in	x	x	0
+B-PER	0	41	O	O	their	x	x	0
+O	0	42	O	O	fields	x	x	0
+O	0	43	O	O	,	x	x	0
+O	0	44	O	O	bulldozing	x	x	0
+O	0	45	O	O	crops	x	x	0
+O	0	46	O	O	,	x	x	0
+O	0	47	O	O	destroying	x	x	0
+B-FAC	0	48	O	O	schools	x	x	0
+O	0	49	O	O	,	x	x	0
+O	0	50	O	O	shooting	x	x	0
+B-PER	0	51	O	O	children	x	x	0
+O	0	52	O	O	,	x	x	0
+O	0	53	O	O	etc.	x	x	0
+O	0	54	O	O	etc.	x	x	0
+O	0	55	O	O	etc.)	x	x	0
+O	0	56	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	George	x	x	0
+I-PER	0	1	O	O	Carlin	x	x	0
+O	0	2	O	O	said	x	x	0
+O	0	3	O	O	it	x	x	0
+O	0	4	O	O	best	x	x	0
+O	0	5	O	O	:	x	x	0
+O	0	6	O	O	"	x	x	0
+O	0	7	O	O	Let	x	x	0
+B-PER	0	8	O	O	's	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	have	x	x	0
+O	0	11	O	O	a	x	x	0
+O	0	12	O	O	double	x	x	0
+O	0	13	O	O	standard	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	one	x	x	0
+O	0	16	O	O	standard	x	x	0
+O	0	17	O	O	will	x	x	0
+O	0	18	O	O	do	x	x	0
+O	0	19	O	O	just	x	x	0
+O	0	20	O	O	fine	x	x	0
+O	0	21	O	O	.	x	x	0
+O	0	22	O	O	"	x	x	0
+
+
+
+O	0	0	O	O	Apply	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	same	x	x	0
+O	0	3	O	O	standards	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Israel	x	x	0
+O	0	6	O	O	that	x	x	0
+B-GPE	0	7	O	O	we	x	x	0
+O	0	8	O	O	apply	x	x	0
+O	0	9	O	O	to	x	x	0
+B-GPE	0	10	O	O	the	x	x	0
+I-GPE	0	11	O	O	Palestinians	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Bob	x	x	0
+I-PER	0	1	O	O	Dog	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	Sat	x	x	0
+I-TIME	0	2	O	O	,	x	x	0
+I-TIME	0	3	O	O	6	x	x	0
+I-TIME	0	4	O	O	Nov	x	x	0
+I-TIME	0	5	O	O	2004	x	x	0
+I-TIME	0	6	O	O	16:41:52	x	x	0
+I-TIME	0	7	O	O	+	x	x	0
+I-TIME	0	8	O	O	1030	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	Meteorite	x	x	0
+I-PER	0	11	O	O	Debris	x	x	0
+O	0	12	O	O	(	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	...	x	x	0
+O	0	15	O	O	@	x	x	0
+O	0	16	O	O	yahoo.com)	x	x	0
+O	0	17	O	O	wrote	x	x	0
+O	0	18	O	O	:	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	more	x	x	0
+O	0	3	O	O	likely	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	one	x	x	0
+O	0	6	O	O	of	x	x	0
+B-PER	0	7	O	O	his	x	x	0
+B-GPE	0	8	O	O	palestinian	x	x	0
+O	0	9	O	O	rivals	x	x	0
+O	0	10	O	O	did	x	x	0
+O	0	11	O	O	it	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-GPE	0	1	O	O	the	x	x	0
+I-GPE	0	2	O	O	israelis	x	x	0
+O	0	3	O	O	wanted	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	kill	x	x	0
+B-PER	0	6	O	O	Arafat	x	x	0
+O	0	7	O	O	,	x	x	0
+B-PER	0	8	O	O	I	x	x	0
+O	0	9	O	O	think	x	x	0
+B-GPE	0	10	O	O	they	x	x	0
+O	0	11	O	O	'd	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	better	x	x	0
+O	0	14	O	O	ways	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Unless	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	course	x	x	0
+B-GPE	0	3	O	O	they	x	x	0
+O	0	4	O	O	wanted	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	be	x	x	0
+O	0	8	O	O	succinct	x	x	0
+O	0	9	O	O	so	x	x	0
+B-GPE	0	10	O	O	they	x	x	0
+O	0	11	O	O	could	x	x	0
+O	0	12	O	O	n't	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	blamed	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	one	x	x	0
+O	0	2	O	O	thing	x	x	0
+O	0	3	O	O	that	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	sure	x	x	0
+O	0	6	O	O	about	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	palestinians	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	no	x	x	0
+O	0	12	O	O	matter	x	x	0
+O	0	13	O	O	what	x	x	0
+O	0	14	O	O	happens	x	x	0
+O	0	15	O	O	,	x	x	0
+B-PER	0	16	O	O	you	x	x	0
+O	0	17	O	O	can	x	x	0
+O	0	18	O	O	be	x	x	0
+O	0	19	O	O	sure	x	x	0
+B-GPE	0	20	O	O	they	x	x	0
+O	0	21	O	O	'll	x	x	0
+O	0	22	O	O	blame	x	x	0
+O	0	23	O	O	it	x	x	0
+O	0	24	O	O	on	x	x	0
+B-GPE	0	25	O	O	Israel	x	x	0
+O	0	26	O	O	.	x	x	0
+
+O	0	0	O	O	On	x	x	0
+B-TIME	0	1	O	O	6	x	x	0
+I-TIME	0	2	O	O	Nov	x	x	0
+I-TIME	0	3	O	O	2004	x	x	0
+I-TIME	0	4	O	O	04:25:09	x	x	0
+I-TIME	0	5	O	O	0800	x	x	0
+O	0	6	O	O	,	x	x	0
+B-Contact-Info	0	7	O	O	bg12	x	x	0
+I-Contact-Info	0	8	O	O	...	x	x	0
+I-Contact-Info	0	9	O	O	@	x	x	0
+I-Contact-Info	0	10	O	O	apexmail.com	x	x	0
+O	0	11	O	O	(	x	x	0
+B-PER	0	12	O	O	Bob	x	x	0
+I-PER	0	13	O	O	Dog	x	x	0
+O	0	14	O	O	)	x	x	0
+O	0	15	O	O	wrote	x	x	0
+O	0	16	O	O	:	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	guess	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	fact	x	x	0
+O	0	4	O	O	that	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	live	x	x	0
+O	0	7	O	O	in	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	US	x	x	0
+O	0	10	O	O	has	x	x	0
+O	0	11	O	O	skewed	x	x	0
+B-PER	0	12	O	O	your	x	x	0
+O	0	13	O	O	view	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Bill	x	x	0
+O	0	1	O	O	after	x	x	0
+O	0	2	O	O	bill	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	condemnation	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	passed	x	x	0
+O	0	7	O	O	in	x	x	0
+B-ORG	0	8	O	O	the	x	x	0
+I-ORG	0	9	O	O	United	x	x	0
+I-ORG	0	10	O	O	Nations	x	x	0
+O	0	11	O	O	by	x	x	0
+O	0	12	O	O	overwhelming	x	x	0
+O	0	13	O	O	majority	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Regular	x	x	0
+O	0	1	O	O	as	x	x	0
+O	0	2	O	O	clockwork	x	x	0
+O	0	3	O	O	,	x	x	0
+B-GPE	0	4	O	O	the	x	x	0
+I-GPE	0	5	O	O	US	x	x	0
+O	0	6	O	O	vetos	x	x	0
+O	0	7	O	O	them	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Demonstrations	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	routinely	x	x	0
+O	0	3	O	O	held	x	x	0
+O	0	4	O	O	against	x	x	0
+B-GPE	0	5	O	O	israel	x	x	0
+O	0	6	O	O	all	x	x	0
+O	0	7	O	O	over	x	x	0
+B-LOC	0	8	O	O	the	x	x	0
+I-LOC	0	9	O	O	world	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Israel	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	only	x	x	0
+O	0	3	O	O	friend	x	x	0
+O	0	4	O	O	in	x	x	0
+B-LOC	0	5	O	O	the	x	x	0
+I-LOC	0	6	O	O	world	x	x	0
+O	0	7	O	O	is	x	x	0
+B-GPE	0	8	O	O	the	x	x	0
+I-GPE	0	9	O	O	United	x	x	0
+I-GPE	0	10	O	O	States	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Here	x	x	0
+O	0	1	O	O	in	x	x	0
+O	0	2	O	O	'the	x	x	0
+O	0	3	O	O	rest	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	world'	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	other	x	x	0
+O	0	11	O	O	way	x	x	0
+O	0	12	O	O	around	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	When	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	're	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	muslim	x	x	0
+B-PER	0	5	O	O	you	x	x	0
+O	0	6	O	O	're	x	x	0
+O	0	7	O	O	untouchable	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	when	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	're	x	x	0
+B-GPE	0	12	O	O	israeli	x	x	0
+O	0	13	O	O	,	x	x	0
+B-PER	0	14	O	O	you	x	x	0
+O	0	15	O	O	're	x	x	0
+O	0	16	O	O	fair	x	x	0
+O	0	17	O	O	game	x	x	0
+O	0	18	O	O	.	x	x	0
+
+O	0	0	O	O	When	x	x	0
+O	0	1	O	O	in	x	x	0
+B-GPE	0	2	O	O	it	x	x	0
+O	0	3	O	O	's	x	x	0
+B-TIME	0	4	O	O	60	x	x	0
+I-TIME	0	5	O	O	year	x	x	0
+I-TIME	0	6	O	O	long	x	x	0
+O	0	7	O	O	history	x	x	0
+O	0	8	O	O	has	x	x	0
+B-GPE	0	9	O	O	Israel	x	x	0
+O	0	10	O	O	ever	x	x	0
+O	0	11	O	O	stepped	x	x	0
+O	0	12	O	O	up	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	conflict	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	or	x	x	0
+O	0	17	O	O	cast	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	first	x	x	0
+O	0	20	O	O	stone	x	x	0
+O	0	21	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	Everyone	x	x	0
+O	0	1	O	O	has	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	right	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	defend	x	x	0
+B-PER	0	6	O	O	themselves	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Even	x	x	0
+B-PER	0	1	O	O	jews	x	x	0
+O	0	2	O	O	.	x	x	0
+

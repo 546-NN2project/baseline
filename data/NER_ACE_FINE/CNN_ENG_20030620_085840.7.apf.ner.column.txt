@@ -1,0 +1,68 @@
+O	0	0	O	O	convicted	x	x	0
+O	0	1	O	O	rapist	x	x	0
+O	0	2	O	O	and	x	x	0
+B-ORG	0	3	O	O	Max	x	x	0
+I-ORG	0	4	O	O	Factor	x	x	0
+O	0	5	O	O	Heir	x	x	0
+O	0	6	O	O	Andrew	x	x	0
+O	0	7	O	O	Luster	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	back	x	x	0
+O	0	10	O	O	in	x	x	0
+B-GPE	0	11	O	O	California	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Luster	x	x	0
+O	0	1	O	O	returned	x	x	0
+O	0	2	O	O	to	x	x	0
+B-GPE	0	3	O	O	Los	x	x	0
+I-GPE	0	4	O	O	Angeles	x	x	0
+B-TIME	0	5	O	O	yesterday	x	x	0
+O	0	6	O	O	from	x	x	0
+B-GPE	0	7	O	O	Mexico	x	x	0
+O	0	8	O	O	following	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	capture	x	x	0
+B-TIME	0	11	O	O	Tuesday	x	x	0
+O	0	12	O	O	by	x	x	0
+B-GPE	0	13	O	O	American	x	x	0
+O	0	14	O	O	bounlty	x	x	0
+O	0	15	O	O	hunters	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Luster	x	x	0
+O	0	1	O	O	skipped	x	x	0
+O	0	2	O	O	bail	x	x	0
+O	0	3	O	O	during	x	x	0
+B-PER	0	4	O	O	his	x	x	0
+O	0	5	O	O	trial	x	x	0
+O	0	6	O	O	in	x	x	0
+B-TIME	0	7	O	O	January	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	raping	x	x	0
+O	0	10	O	O	and	x	x	0
+O	0	11	O	O	drugging	x	x	0
+B-PER	0	12	O	O	three	x	x	0
+I-PER	0	13	O	O	women	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	He	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	sentenced	x	x	0
+O	0	3	O	O	in	x	x	0
+O	0	4	O	O	an	x	x	0
+O	0	5	O	O	Sten	x	x	0
+O	0	6	O	O	Shah	x	x	0
+O	0	7	O	O	to	x	x	0
+B-TIME	0	8	O	O	124	x	x	0
+I-TIME	0	9	O	O	years	x	x	0
+O	0	10	O	O	in	x	x	0
+B-FAC	0	11	O	O	prison	x	x	0
+O	0	12	O	O	.	x	x	0
+

@@ -1,0 +1,1076 @@
+O	0	0	O	O	Welcome	x	x	0
+O	0	1	O	O	back	x	x	0
+O	0	2	O	O	to	x	x	0
+O	0	3	O	O	CROSSFIRE	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	France	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	Russia	x	x	0
+O	0	3	O	O	and	x	x	0
+B-GPE	0	4	O	O	Germany	x	x	0
+B-TIME	0	5	O	O	today	x	x	0
+O	0	6	O	O	restated	x	x	0
+B-GPE	0	7	O	O	their	x	x	0
+O	0	8	O	O	opposition	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	any	x	x	0
+O	0	11	O	O	new	x	x	0
+B-ORG	0	12	O	O	U.N.	x	x	0
+O	0	13	O	O	Security	x	x	0
+O	0	14	O	O	Council	x	x	0
+B-ORG	0	15	O	O	that	x	x	0
+O	0	16	O	O	could	x	x	0
+O	0	17	O	O	threaten	x	x	0
+B-PER	0	18	O	O	Saddam	x	x	0
+I-PER	0	19	O	O	Hussein	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	grip	x	x	0
+O	0	22	O	O	on	x	x	0
+O	0	23	O	O	power	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Secretary	x	x	0
+O	0	1	O	O	of	x	x	0
+B-ORG	0	2	O	O	State	x	x	0
+O	0	3	O	O	Colin	x	x	0
+O	0	4	O	O	Powell	x	x	0
+O	0	5	O	O	goes	x	x	0
+O	0	6	O	O	to	x	x	0
+B-ORG	0	7	O	O	the	x	x	0
+I-ORG	0	8	O	O	U.N.	x	x	0
+B-TIME	0	9	O	O	tomorrow	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	do	x	x	0
+O	0	12	O	O	what	x	x	0
+B-PER	0	13	O	O	he	x	x	0
+O	0	14	O	O	can	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	're	x	x	0
+O	0	2	O	O	talking	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	potential	x	x	0
+O	0	5	O	O	war	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	with	x	x	0
+B-PER	0	9	O	O	Congressman	x	x	0
+O	0	10	O	O	Charlie	x	x	0
+O	0	11	O	O	Rangel	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	a	x	x	0
+B-GPE	0	14	O	O	New	x	x	0
+I-GPE	0	15	O	O	York	x	x	0
+O	0	16	O	O	Democrat	x	x	0
+O	0	17	O	O	and	x	x	0
+B-PER	0	18	O	O	his	x	x	0
+O	0	19	O	O	fellow	x	x	0
+O	0	20	O	O	New	x	x	0
+O	0	21	O	O	Yorker	x	x	0
+B-ORG	0	22	O	O	Republican	x	x	0
+O	0	23	O	O	Congressman	x	x	0
+O	0	24	O	O	Peter	x	x	0
+O	0	25	O	O	King	x	x	0
+O	0	26	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Mr.	x	x	0
+O	0	1	O	O	King	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	thanks	x	x	0
+O	0	4	O	O	for	x	x	0
+O	0	5	O	O	stying	x	x	0
+O	0	6	O	O	with	x	x	0
+B-ORG	0	7	O	O	us	x	x	0
+O	0	8	O	O	through	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	break	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	reasons	x	x	0
+O	0	4	O	O	that	x	x	0
+B-ORG	0	5	O	O	we	x	x	0
+O	0	6	O	O	like	x	x	0
+O	0	7	O	O	having	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	on	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	and	x	x	0
+O	0	12	O	O	as	x	x	0
+O	0	13	O	O	well	x	x	0
+O	0	14	O	O	as	x	x	0
+B-PER	0	15	O	O	Mr.	x	x	0
+O	0	16	O	O	Rangel	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	is	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	,	x	x	0
+B-PER	0	21	O	O	you	x	x	0
+O	0	22	O	O	know	x	x	0
+O	0	23	O	O	,	x	x	0
+O	0	24	O	O	this	x	x	0
+O	0	25	O	O	is	x	x	0
+O	0	26	O	O	war	x	x	0
+O	0	27	O	O	,	x	x	0
+O	0	28	O	O	as	x	x	0
+B-PER	0	29	O	O	we	x	x	0
+O	0	30	O	O	were	x	x	0
+O	0	31	O	O	saying	x	x	0
+O	0	32	O	O	in	x	x	0
+O	0	33	O	O	the	x	x	0
+O	0	34	O	O	last	x	x	0
+O	0	35	O	O	segment	x	x	0
+O	0	36	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	treat	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	gravity	x	x	0
+O	0	6	O	O	and	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	seriousness	x	x	0
+O	0	9	O	O	that	x	x	0
+O	0	10	O	O	it	x	x	0
+O	0	11	O	O	deserves	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	're	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	congressman	x	x	0
+B-PER	0	5	O	O	who	x	x	0
+O	0	6	O	O	has	x	x	0
+O	0	7	O	O	put	x	x	0
+B-PER	0	8	O	O	his	x	x	0
+O	0	9	O	O	constituents	x	x	0
+O	0	10	O	O	and	x	x	0
+B-PER	0	11	O	O	his	x	x	0
+O	0	12	O	O	country	x	x	0
+O	0	13	O	O	ahead	x	x	0
+O	0	14	O	O	of	x	x	0
+B-PER	0	15	O	O	his	x	x	0
+O	0	16	O	O	partisan	x	x	0
+O	0	17	O	O	interests	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	wonder	x	x	0
+O	0	3	O	O	if	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	'll	x	x	0
+O	0	6	O	O	join	x	x	0
+B-PER	0	7	O	O	Charlie	x	x	0
+I-PER	0	8	O	O	Rangel	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	who	x	x	0
+O	0	11	O	O	put	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	press	x	x	0
+O	0	15	O	O	release	x	x	0
+B-TIME	0	16	O	O	today	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	decrying	x	x	0
+O	0	19	O	O	the	x	x	0
+B-ORG	0	20	O	O	Republican	x	x	0
+O	0	21	O	O	attempt	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	hijack	x	x	0
+O	0	24	O	O	a	x	x	0
+O	0	25	O	O	bill	x	x	0
+O	0	26	O	O	to	x	x	0
+O	0	27	O	O	help	x	x	0
+B-GPE	0	28	O	O	our	x	x	0
+O	0	29	O	O	servicemen	x	x	0
+O	0	30	O	O	to	x	x	0
+O	0	31	O	O	use	x	x	0
+O	0	32	O	O	it	x	x	0
+O	0	33	O	O	to	x	x	0
+O	0	34	O	O	give	x	x	0
+O	0	35	O	O	special	x	x	0
+O	0	36	O	O	interest	x	x	0
+O	0	37	O	O	tax	x	x	0
+O	0	38	O	O	breaks	x	x	0
+O	0	39	O	O	to	x	x	0
+B-ORG	0	40	O	O	corporations	x	x	0
+O	0	41	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	wrong	x	x	0
+O	0	4	O	O	in	x	x	0
+O	0	5	O	O	a	x	x	0
+O	0	6	O	O	time	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	war	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	important	x	x	0
+O	0	2	O	O	thing	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	bill	x	x	0
+O	0	7	O	O	pass	x	x	0
+O	0	8	O	O	for	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	military	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	other	x	x	0
+O	0	3	O	O	stuff	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	there	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	's	x	x	0
+O	0	10	O	O	there	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	to	x	x	0
+B-PER	0	3	O	O	me	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	main	x	x	0
+O	0	7	O	O	purpose	x	x	0
+O	0	8	O	O	should	x	x	0
+O	0	9	O	O	be	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	military	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	going	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	disagree	x	x	0
+O	0	6	O	O	with	x	x	0
+B-PER	0	7	O	O	Charlie	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	point	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	On	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	other	x	x	0
+O	0	3	O	O	hand	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	often	x	x	0
+O	0	6	O	O	when	x	x	0
+O	0	7	O	O	bills	x	x	0
+O	0	8	O	O	are	x	x	0
+O	0	9	O	O	passed	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	there	x	x	0
+O	0	12	O	O	are	x	x	0
+O	0	13	O	O	things	x	x	0
+O	0	14	O	O	attached	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	them	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	So	x	x	0
+O	0	1	O	O	to	x	x	0
+B-PER	0	2	O	O	me	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	key	x	x	0
+O	0	6	O	O	thing	x	x	0
+O	0	7	O	O	is	x	x	0
+O	0	8	O	O	that	x	x	0
+B-GPE	0	9	O	O	we	x	x	0
+O	0	10	O	O	ought	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	taking	x	x	0
+O	0	14	O	O	care	x	x	0
+O	0	15	O	O	of	x	x	0
+B-ORG	0	16	O	O	the	x	x	0
+I-ORG	0	17	O	O	military	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	that	x	x	0
+O	0	20	O	O	's	x	x	0
+O	0	21	O	O	what	x	x	0
+B-GPE	0	22	O	O	we	x	x	0
+O	0	23	O	O	should	x	x	0
+O	0	24	O	O	do	x	x	0
+O	0	25	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Congressman	x	x	0
+O	0	1	O	O	Rangel	x	x	0
+O	0	2	O	O	,	x	x	0
+B-TIME	0	3	O	O	a	x	x	0
+I-TIME	0	4	O	O	couple	x	x	0
+I-TIME	0	5	O	O	of	x	x	0
+I-TIME	0	6	O	O	months	x	x	0
+I-TIME	0	7	O	O	ago	x	x	0
+B-PER	0	8	O	O	Senator	x	x	0
+O	0	9	O	O	Daschle	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	CBS	x	x	0
+O	0	12	O	O	said	x	x	0
+O	0	13	O	O	made	x	x	0
+O	0	14	O	O	the	x	x	0
+O	0	15	O	O	charge	x	x	0
+O	0	16	O	O	that	x	x	0
+B-GPE	0	17	O	O	we	x	x	0
+O	0	18	O	O	are	x	x	0
+O	0	19	O	O	,	x	x	0
+O	0	20	O	O	quote	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	"	x	x	0
+B-GPE	0	23	O	O	we	x	x	0
+O	0	24	O	O	have	x	x	0
+O	0	25	O	O	n't	x	x	0
+O	0	26	O	O	made	x	x	0
+O	0	27	O	O	any	x	x	0
+O	0	28	O	O	real	x	x	0
+O	0	29	O	O	progress	x	x	0
+O	0	30	O	O	in	x	x	0
+O	0	31	O	O	the	x	x	0
+O	0	32	O	O	war	x	x	0
+O	0	33	O	O	against	x	x	0
+B-ORG	0	34	O	O	al	x	x	0
+I-ORG	0	35	O	O	Qaeda	x	x	0
+O	0	36	O	O	.	x	x	0
+O	0	37	O	O	"	x	x	0
+
+
+
+B-PER	0	0	O	O	A	x	x	0
+I-PER	0	1	O	O	lot	x	x	0
+I-PER	0	2	O	O	of	x	x	0
+I-PER	0	3	O	O	Democrats	x	x	0
+O	0	4	O	O	said	x	x	0
+O	0	5	O	O	similar	x	x	0
+O	0	6	O	O	things	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	This	x	x	0
+I-TIME	0	1	O	O	weekend	x	x	0
+B-PER	0	2	O	O	Khalid	x	x	0
+I-PER	0	3	O	O	Shaikh	x	x	0
+I-PER	0	4	O	O	Mohammed	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	No.	x	x	0
+O	0	8	O	O	2	x	x	0
+O	0	9	O	O	member	x	x	0
+O	0	10	O	O	of	x	x	0
+B-ORG	0	11	O	O	al	x	x	0
+I-ORG	0	12	O	O	Qaeda	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	another	x	x	0
+O	0	15	O	O	significant	x	x	0
+B-ORG	0	16	O	O	al	x	x	0
+I-ORG	0	17	O	O	Qaeda	x	x	0
+O	0	18	O	O	member	x	x	0
+O	0	19	O	O	were	x	x	0
+O	0	20	O	O	captured	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	Rawalpindi	x	x	0
+O	0	23	O	O	,	x	x	0
+B-GPE	0	24	O	O	Pakistan	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Does	x	x	0
+O	0	1	O	O	n't	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	turn	x	x	0
+O	0	4	O	O	out	x	x	0
+O	0	5	O	O	that	x	x	0
+B-PER	0	6	O	O	Mr.	x	x	0
+O	0	7	O	O	Daschle	x	x	0
+O	0	8	O	O	and	x	x	0
+B-PER	0	9	O	O	others	x	x	0
+O	0	10	O	O	did	x	x	0
+O	0	11	O	O	n't	x	x	0
+O	0	12	O	O	know	x	x	0
+O	0	13	O	O	what	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	were	x	x	0
+O	0	16	O	O	talking	x	x	0
+O	0	17	O	O	about	x	x	0
+O	0	18	O	O	and	x	x	0
+O	0	19	O	O	maybe	x	x	0
+B-PER	0	20	O	O	they	x	x	0
+O	0	21	O	O	should	x	x	0
+O	0	22	O	O	n't	x	x	0
+O	0	23	O	O	make	x	x	0
+O	0	24	O	O	charges	x	x	0
+O	0	25	O	O	like	x	x	0
+O	0	26	O	O	that	x	x	0
+O	0	27	O	O	in	x	x	0
+O	0	28	O	O	public	x	x	0
+O	0	29	O	O	when	x	x	0
+B-PER	0	30	O	O	they	x	x	0
+O	0	31	O	O	do	x	x	0
+O	0	32	O	O	n't	x	x	0
+O	0	33	O	O	know	x	x	0
+O	0	34	O	O	what	x	x	0
+B-PER	0	35	O	O	they	x	x	0
+O	0	36	O	O	were	x	x	0
+O	0	37	O	O	talking	x	x	0
+O	0	38	O	O	about	x	x	0
+O	0	39	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	would	x	x	0
+O	0	2	O	O	agree	x	x	0
+O	0	3	O	O	with	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	would	x	x	0
+O	0	7	O	O	n't	x	x	0
+B-PER	0	8	O	O	you	x	x	0
+O	0	9	O	O	?	x	x	0
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	they	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	n't	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	pencil	x	x	0
+O	0	7	O	O	that	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	keeping	x	x	0
+O	0	10	O	O	score	x	x	0
+O	0	11	O	O	,	x	x	0
+B-PER	0	12	O	O	they	x	x	0
+O	0	13	O	O	ought	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	keep	x	x	0
+B-PER	0	16	O	O	their	x	x	0
+O	0	17	O	O	mouth	x	x	0
+O	0	18	O	O	shut	x	x	0
+O	0	19	O	O	because	x	x	0
+O	0	20	O	O	as	x	x	0
+O	0	21	O	O	a	x	x	0
+B-TIME	0	22	O	O	former	x	x	0
+B-Job-Title	0	23	O	O	federal	x	x	0
+I-Job-Title	0	24	O	O	prosecutor	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	every	x	x	0
+O	0	27	O	O	drug	x	x	0
+O	0	28	O	O	dealer	x	x	0
+B-PER	0	29	O	O	I	x	x	0
+O	0	30	O	O	busted	x	x	0
+O	0	31	O	O	was	x	x	0
+O	0	32	O	O	the	x	x	0
+O	0	33	O	O	most	x	x	0
+O	0	34	O	O	important	x	x	0
+O	0	35	O	O	drug	x	x	0
+O	0	36	O	O	dealer	x	x	0
+O	0	37	O	O	in	x	x	0
+B-LOC	0	38	O	O	the	x	x	0
+I-LOC	0	39	O	O	world	x	x	0
+O	0	40	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	just	x	x	0
+O	0	2	O	O	pass	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	numbers	x	x	0
+O	0	5	O	O	on	x	x	0
+O	0	6	O	O	whoever	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	arrest	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	was	x	x	0
+B-PER	0	2	O	O	he	x	x	0
+O	0	3	O	O	No.	x	x	0
+O	0	4	O	O	3	x	x	0
+O	0	5	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Why	x	x	0
+O	0	1	O	O	was	x	x	0
+O	0	2	O	O	n't	x	x	0
+B-PER	0	3	O	O	he	x	x	0
+O	0	4	O	O	No.	x	x	0
+O	0	5	O	O	4	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	Well	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	I	x	x	0
+O	0	3	O	O	do	x	x	0
+O	0	4	O	O	n't	x	x	0
+O	0	5	O	O	know	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Because	x	x	0
+B-PER	0	1	O	O	he	x	x	0
+O	0	2	O	O	helped	x	x	0
+O	0	3	O	O	plan	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	attack	x	x	0
+O	0	6	O	O	on	x	x	0
+B-FAC	0	7	O	O	the	x	x	0
+I-FAC	0	8	O	O	World	x	x	0
+I-FAC	0	9	O	O	Trade	x	x	0
+I-FAC	0	10	O	O	Center	x	x	0
+O	0	11	O	O	and	x	x	0
+B-FAC	0	12	O	O	the	x	x	0
+I-FAC	0	13	O	O	Pentagon	x	x	0
+O	0	14	O	O	?	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	think	x	x	0
+O	0	2	O	O	that	x	x	0
+O	0	3	O	O	puts	x	x	0
+B-PER	0	4	O	O	you	x	x	0
+O	0	5	O	O	pretty	x	x	0
+O	0	6	O	O	high	x	x	0
+O	0	7	O	O	up	x	x	0
+O	0	8	O	O	in	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	organization	x	x	0
+O	0	11	O	O	.	x	x	0
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	when	x	x	0
+B-PER	0	6	O	O	you	x	x	0
+O	0	7	O	O	arrest	x	x	0
+B-PER	0	8	O	O	somebody	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	you	x	x	0
+O	0	11	O	O	describe	x	x	0
+B-PER	0	12	O	O	who	x	x	0
+B-PER	0	13	O	O	you	x	x	0
+O	0	14	O	O	're	x	x	0
+O	0	15	O	O	arresting	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	slightest	x	x	0
+O	0	5	O	O	clue	x	x	0
+B-PER	0	6	O	O	who	x	x	0
+B-PER	0	7	O	O	this	x	x	0
+I-PER	0	8	O	O	guy	x	x	0
+O	0	9	O	O	was	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	have	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	heard	x	x	0
+B-PER	0	4	O	O	anybody	x	x	0
+O	0	5	O	O	suggest	x	x	0
+O	0	6	O	O	that	x	x	0
+B-PER	0	7	O	O	he	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	not	x	x	0
+O	0	10	O	O	one	x	x	0
+O	0	11	O	O	of	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	central	x	x	0
+O	0	14	O	O	figures	x	x	0
+O	0	15	O	O	in	x	x	0
+B-ORG	0	16	O	O	al	x	x	0
+I-ORG	0	17	O	O	Qaeda	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Have	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+O	0	2	O	O	?	x	x	0
+
+O	0	0	O	O	Listen	x	x	0
+O	0	1	O	O	,	x	x	0
+B-GPE	0	2	O	O	we	x	x	0
+O	0	3	O	O	should	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	arresting	x	x	0
+B-PER	0	6	O	O	a	x	x	0
+I-PER	0	7	O	O	lot	x	x	0
+I-PER	0	8	O	O	of	x	x	0
+I-PER	0	9	O	O	people	x	x	0
+O	0	10	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	think	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	main	x	x	0
+O	0	5	O	O	thing	x	x	0
+O	0	6	O	O	that	x	x	0
+B-GPE	0	7	O	O	we	x	x	0
+O	0	8	O	O	have	x	x	0
+B-TIME	0	9	O	O	now	x	x	0
+O	0	10	O	O	is	x	x	0
+B-GPE	0	11	O	O	we	x	x	0
+O	0	12	O	O	should	x	x	0
+O	0	13	O	O	concentrate	x	x	0
+O	0	14	O	O	on	x	x	0
+B-PER	0	15	O	O	Osama	x	x	0
+I-PER	0	16	O	O	bin	x	x	0
+I-PER	0	17	O	O	Laden	x	x	0
+O	0	18	O	O	,	x	x	0
+B-GPE	0	19	O	O	we	x	x	0
+O	0	20	O	O	should	x	x	0
+O	0	21	O	O	concentrate	x	x	0
+O	0	22	O	O	on	x	x	0
+O	0	23	O	O	dismantling	x	x	0
+B-PER	0	24	O	O	Saddam	x	x	0
+I-PER	0	25	O	O	Hussein	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	We	x	x	0
+O	0	1	O	O	should	x	x	0
+O	0	2	O	O	do	x	x	0
+O	0	3	O	O	all	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	those	x	x	0
+O	0	6	O	O	things	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	but	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	most	x	x	0
+O	0	11	O	O	important	x	x	0
+O	0	12	O	O	thing	x	x	0
+O	0	13	O	O	is	x	x	0
+B-GPE	0	14	O	O	we	x	x	0
+O	0	15	O	O	should	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	have	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	arrogance	x	x	0
+O	0	20	O	O	to	x	x	0
+O	0	21	O	O	have	x	x	0
+O	0	22	O	O	a	x	x	0
+O	0	23	O	O	preemptive	x	x	0
+O	0	24	O	O	strike	x	x	0
+O	0	25	O	O	against	x	x	0
+B-GPE	0	26	O	O	a	x	x	0
+I-GPE	0	27	O	O	defenseless	x	x	0
+I-GPE	0	28	O	O	nation	x	x	0
+O	0	29	O	O	without	x	x	0
+O	0	30	O	O	the	x	x	0
+O	0	31	O	O	...	x	x	0
+
+B-GPE	0	0	O	O	A	x	x	0
+I-GPE	0	1	O	O	defenseless	x	x	0
+I-GPE	0	2	O	O	nation	x	x	0
+O	0	3	O	O	?	x	x	0
+
+
+
+B-GPE	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+B-WEA	0	2	O	O	biological	x	x	0
+O	0	3	O	O	weapons	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	How	x	x	0
+O	0	1	O	O	are	x	x	0
+B-GPE	0	2	O	O	they	x	x	0
+O	0	3	O	O	defenseless	x	x	0
+O	0	4	O	O	?	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	how	x	x	0
+O	0	2	O	O	'd	x	x	0
+B-GPE	0	3	O	O	they	x	x	0
+O	0	4	O	O	get	x	x	0
+B-WEA	0	5	O	O	them	x	x	0
+O	0	6	O	O	?	x	x	0
+
+O	0	0	O	O	Listen	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	if	x	x	0
+O	0	3	O	O	this	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	...	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	was	x	x	0
+B-GPE	0	2	O	O	our	x	x	0
+O	0	3	O	O	fault	x	x	0
+O	0	4	O	O	that	x	x	0
+B-GPE	0	5	O	O	they	x	x	0
+O	0	6	O	O	have	x	x	0
+B-WEA	0	7	O	O	biological	x	x	0
+O	0	8	O	O	and	x	x	0
+B-WEA	0	9	O	O	chemical	x	x	0
+O	0	10	O	O	weapons	x	x	0
+O	0	11	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Come	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	.	x	x	0
+
+O	0	0	O	O	Let	x	x	0
+B-PER	0	1	O	O	me	x	x	0
+O	0	2	O	O	tell	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	They	x	x	0
+O	0	1	O	O	have	x	x	0
+B-WEA	0	2	O	O	it	x	x	0
+O	0	3	O	O	and	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	supported	x	x	0
+B-GPE	0	6	O	O	them	x	x	0
+O	0	7	O	O	having	x	x	0
+B-WEA	0	8	O	O	it	x	x	0
+O	0	9	O	O	when	x	x	0
+B-GPE	0	10	O	O	they	x	x	0
+O	0	11	O	O	were	x	x	0
+O	0	12	O	O	fighting	x	x	0
+B-GPE	0	13	O	O	Iran	x	x	0
+O	0	14	O	O	so	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	's	x	x	0
+O	0	17	O	O	no	x	x	0
+O	0	18	O	O	big	x	x	0
+O	0	19	O	O	deal	x	x	0
+O	0	20	O	O	there	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	thing	x	x	0
+O	0	3	O	O	is	x	x	0
+O	0	4	O	O	that	x	x	0
+O	0	5	O	O	if	x	x	0
+B-GPE	0	6	O	O	we	x	x	0
+O	0	7	O	O	can	x	x	0
+O	0	8	O	O	disarm	x	x	0
+B-GPE	0	9	O	O	them	x	x	0
+O	0	10	O	O	without	x	x	0
+O	0	11	O	O	actually	x	x	0
+O	0	12	O	O	going	x	x	0
+B-GPE	0	13	O	O	there	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	killing	x	x	0
+B-GPE	0	16	O	O	them	x	x	0
+O	0	17	O	O	,	x	x	0
+B-PER	0	18	O	O	I	x	x	0
+O	0	19	O	O	really	x	x	0
+O	0	20	O	O	think	x	x	0
+O	0	21	O	O	that	x	x	0
+B-GPE	0	22	O	O	we	x	x	0
+O	0	23	O	O	maintain	x	x	0
+B-GPE	0	24	O	O	our	x	x	0
+O	0	25	O	O	moral	x	x	0
+O	0	26	O	O	authority	x	x	0
+O	0	27	O	O	around	x	x	0
+B-LOC	0	28	O	O	the	x	x	0
+I-LOC	0	29	O	O	world	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	have	x	x	0
+B-PER	0	2	O	O	a	x	x	0
+I-PER	0	3	O	O	lot	x	x	0
+I-PER	0	4	O	O	of	x	x	0
+I-PER	0	5	O	O	people	x	x	0
+O	0	6	O	O	...	x	x	0
+
+O	0	0	O	O	...	x	x	0
+B-PER	0	1	O	O	that	x	x	0
+O	0	2	O	O	have	x	x	0
+B-WEA	0	3	O	O	dangerous	x	x	0
+I-WEA	0	4	O	O	weapons	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	mean	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	what	x	x	0
+O	0	4	O	O	happens	x	x	0
+O	0	5	O	O	if	x	x	0
+B-GPE	0	6	O	O	India	x	x	0
+O	0	7	O	O	decides	x	x	0
+O	0	8	O	O	that	x	x	0
+B-GPE	0	9	O	O	they	x	x	0
+O	0	10	O	O	could	x	x	0
+O	0	11	O	O	have	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	preemptive	x	x	0
+O	0	14	O	O	strike	x	x	0
+O	0	15	O	O	against	x	x	0
+B-GPE	0	16	O	O	Pakistan	x	x	0
+O	0	17	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	What	x	x	0
+O	0	1	O	O	happens	x	x	0
+O	0	2	O	O	if	x	x	0
+B-GPE	0	3	O	O	the	x	x	0
+I-GPE	0	4	O	O	North	x	x	0
+I-GPE	0	5	O	O	Koreans	x	x	0
+O	0	6	O	O	take	x	x	0
+O	0	7	O	O	another	x	x	0
+O	0	8	O	O	look	x	x	0
+O	0	9	O	O	?	x	x	0
+
+
+
+B-GPE	0	0	O	O	Our	x	x	0
+O	0	1	O	O	country	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	great	x	x	0
+O	0	4	O	O	enough	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	strong	x	x	0
+O	0	7	O	O	enough	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	maintain	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	moral	x	x	0
+O	0	12	O	O	authority	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	convince	x	x	0
+B-GPE	0	15	O	O	the	x	x	0
+I-GPE	0	16	O	O	international	x	x	0
+I-GPE	0	17	O	O	community	x	x	0
+O	0	18	O	O	that	x	x	0
+B-GPE	0	19	O	O	we	x	x	0
+O	0	20	O	O	're	x	x	0
+O	0	21	O	O	right	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	think	x	x	0
+B-GPE	0	4	O	O	we	x	x	0
+O	0	5	O	O	have	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	kill	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	prove	x	x	0
+O	0	10	O	O	that	x	x	0
+O	0	11	O	O	.	x	x	0
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	sorry	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	have	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	do	x	x	0
+O	0	7	O	O	this	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	but	x	x	0
+B-ORG	0	10	O	O	we	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	out	x	x	0
+O	0	13	O	O	of	x	x	0
+O	0	14	O	O	time	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	want	x	x	0
+O	0	2	O	O	have	x	x	0
+B-PER	0	3	O	O	Congressman	x	x	0
+O	0	4	O	O	Peter	x	x	0
+O	0	5	O	O	King	x	x	0
+O	0	6	O	O	from	x	x	0
+B-GPE	0	7	O	O	New	x	x	0
+I-GPE	0	8	O	O	York	x	x	0
+O	0	9	O	O	back	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	and	x	x	0
+B-PER	0	13	O	O	Congressman	x	x	0
+O	0	14	O	O	Charlie	x	x	0
+O	0	15	O	O	Rangel	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thank	x	x	0
+B-PER	0	1	O	O	you	x	x	0
+I-PER	0	2	O	O	both	x	x	0
+O	0	3	O	O	for	x	x	0
+O	0	4	O	O	a	x	x	0
+O	0	5	O	O	very	x	x	0
+O	0	6	O	O	interesting	x	x	0
+O	0	7	O	O	debate	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	One	x	x	0
+O	0	1	O	O	of	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	most	x	x	0
+O	0	4	O	O	admired	x	x	0
+O	0	5	O	O	men	x	x	0
+O	0	6	O	O	in	x	x	0
+B-LOC	0	7	O	O	the	x	x	0
+I-LOC	0	8	O	O	world	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	doing	x	x	0
+O	0	11	O	O	everything	x	x	0
+B-PER	0	12	O	O	he	x	x	0
+O	0	13	O	O	can	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	avert	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	horror	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	war	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+B-TIME	0	0	O	O	In	x	x	0
+I-TIME	0	1	O	O	a	x	x	0
+I-TIME	0	2	O	O	minute	x	x	0
+B-ORG	0	3	O	O	we	x	x	0
+O	0	4	O	O	will	x	x	0
+O	0	5	O	O	look	x	x	0
+O	0	6	O	O	at	x	x	0
+B-PER	0	7	O	O	His	x	x	0
+I-PER	0	8	O	O	Holiness	x	x	0
+O	0	9	O	O	,	x	x	0
+B-PER	0	10	O	O	John	x	x	0
+I-PER	0	11	O	O	Paul	x	x	0
+I-PER	0	12	O	O	II	x	x	0
+O	0	13	O	O	's	x	x	0
+O	0	14	O	O	efforts	x	x	0
+O	0	15	O	O	to	x	x	0
+O	0	16	O	O	be	x	x	0
+B-PER	0	17	O	O	a	x	x	0
+I-PER	0	18	O	O	peacemaker	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Later	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	author	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	"	x	x	0
+B-ORG	0	6	O	O	Vanity	x	x	0
+I-ORG	0	7	O	O	Fair	x	x	0
+O	0	8	O	O	's	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	scary	x	x	0
+B-TIME	0	11	O	O	new	x	x	0
+O	0	12	O	O	look	x	x	0
+O	0	13	O	O	at	x	x	0
+B-PER	0	14	O	O	the	x	x	0
+I-PER	0	15	O	O	King	x	x	0
+I-PER	0	16	O	O	of	x	x	0
+I-PER	0	17	O	O	Pop	x	x	0
+O	0	18	O	O	,	x	x	0
+B-PER	0	19	O	O	Michael	x	x	0
+I-PER	0	20	O	O	Jackson	x	x	0
+O	0	21	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	miss	x	x	0
+O	0	6	O	O	this	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Stay	x	x	0
+O	0	1	O	O	with	x	x	0
+B-ORG	0	2	O	O	us	x	x	0
+O	0	3	O	O	.	x	x	0
+

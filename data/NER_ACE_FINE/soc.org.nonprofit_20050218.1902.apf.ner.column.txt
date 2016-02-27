@@ -1,0 +1,1039 @@
+O	0	0	O	O	Hello	x	x	0
+B-PER	0	1	O	O	all	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	What	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	recommended	x	x	0
+O	0	7	O	O	policy	x	x	0
+O	0	8	O	O	on	x	x	0
+O	0	9	O	O	compensating	x	x	0
+B-PER	0	10	O	O	board	x	x	0
+O	0	11	O	O	members	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	attending	x	x	0
+O	0	14	O	O	meetings	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	when	x	x	0
+B-PER	0	17	O	O	they	x	x	0
+O	0	18	O	O	have	x	x	0
+O	0	19	O	O	no	x	x	0
+O	0	20	O	O	vacation	x	x	0
+O	0	21	O	O	time	x	x	0
+O	0	22	O	O	left	x	x	0
+O	0	23	O	O	at	x	x	0
+O	0	24	O	O	work	x	x	0
+O	0	25	O	O	,	x	x	0
+O	0	26	O	O	and	x	x	0
+O	0	27	O	O	are	x	x	0
+O	0	28	O	O	attending	x	x	0
+O	0	29	O	O	the	x	x	0
+B-PER	0	30	O	O	board	x	x	0
+O	0	31	O	O	meeting	x	x	0
+O	0	32	O	O	on	x	x	0
+O	0	33	O	O	their	x	x	0
+B-PER	0	34	O	O	own	x	x	0
+O	0	35	O	O	time	x	x	0
+O	0	36	O	O	,	x	x	0
+O	0	37	O	O	without	x	x	0
+O	0	38	O	O	pay	x	x	0
+O	0	39	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	n't	x	x	0
+O	0	3	O	O	want	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	lose	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	contributions	x	x	0
+O	0	8	O	O	of	x	x	0
+O	0	9	O	O	this	x	x	0
+B-PER	0	10	O	O	board	x	x	0
+O	0	11	O	O	member	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	but	x	x	0
+O	0	14	O	O	this	x	x	0
+O	0	15	O	O	has	x	x	0
+O	0	16	O	O	become	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	financial	x	x	0
+O	0	19	O	O	issue	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Lynn	x	x	0
+O	0	1	O	O	If	x	x	0
+B-PER	0	2	O	O	your	x	x	0
+O	0	3	O	O	organization	x	x	0
+O	0	4	O	O	is	x	x	0
+B-ORG	0	5	O	O	a	x	x	0
+I-ORG	0	6	O	O	charity	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	it	x	x	0
+O	0	9	O	O	is	x	x	0
+O	0	10	O	O	generally	x	x	0
+O	0	11	O	O	considered	x	x	0
+O	0	12	O	O	to	x	x	0
+O	0	13	O	O	be	x	x	0
+O	0	14	O	O	inappropriate	x	x	0
+O	0	15	O	O	,	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	some	x	x	0
+O	0	19	O	O	jurisdictions	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	it	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	illegal	x	x	0
+O	0	24	O	O	to	x	x	0
+O	0	25	O	O	compensate	x	x	0
+B-PER	0	26	O	O	board	x	x	0
+O	0	27	O	O	members	x	x	0
+O	0	28	O	O	for	x	x	0
+B-PER	0	29	O	O	their	x	x	0
+O	0	30	O	O	service	x	x	0
+O	0	31	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	You	x	x	0
+O	0	1	O	O	should	x	x	0
+O	0	2	O	O	check	x	x	0
+O	0	3	O	O	out	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	law	x	x	0
+O	0	6	O	O	in	x	x	0
+B-PER	0	7	O	O	your	x	x	0
+O	0	8	O	O	state	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	/	x	x	0
+O	0	11	O	O	or	x	x	0
+O	0	12	O	O	country	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	reasonable	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	however	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	to	x	x	0
+O	0	7	O	O	reimburse	x	x	0
+B-PER	0	8	O	O	board	x	x	0
+O	0	9	O	O	members	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	legitimate	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	necessary	x	x	0
+O	0	14	O	O	expenses	x	x	0
+O	0	15	O	O	incurred	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	order	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	serve	x	x	0
+O	0	20	O	O	on	x	x	0
+B-PER	0	21	O	O	the	x	x	0
+I-PER	0	22	O	O	board	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	wonder	x	x	0
+O	0	2	O	O	if	x	x	0
+B-PER	0	3	O	O	you	x	x	0
+O	0	4	O	O	could	x	x	0
+O	0	5	O	O	make	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	case	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	paying	x	x	0
+B-PER	0	10	O	O	someone	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	replace	x	x	0
+O	0	13	O	O	the	x	x	0
+B-PER	0	14	O	O	board	x	x	0
+O	0	15	O	O	member	x	x	0
+O	0	16	O	O	so	x	x	0
+O	0	17	O	O	the	x	x	0
+B-PER	0	18	O	O	board	x	x	0
+O	0	19	O	O	member	x	x	0
+O	0	20	O	O	can	x	x	0
+O	0	21	O	O	attend	x	x	0
+O	0	22	O	O	meetings	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	'm	x	x	0
+O	0	2	O	O	not	x	x	0
+B-PER	0	3	O	O	a	x	x	0
+I-PER	0	4	O	O	lawyer	x	x	0
+O	0	5	O	O	,	x	x	0
+O	0	6	O	O	but	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	seems	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	me	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	be	x	x	0
+O	0	13	O	O	similar	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	reimbursing	x	x	0
+O	0	16	O	O	a	x	x	0
+B-PER	0	17	O	O	board	x	x	0
+O	0	18	O	O	member	x	x	0
+O	0	19	O	O	for	x	x	0
+B-PER	0	20	O	O	a	x	x	0
+I-PER	0	21	O	O	babysitter	x	x	0
+O	0	22	O	O	,	x	x	0
+O	0	23	O	O	which	x	x	0
+B-PER	0	24	O	O	no	x	x	0
+I-PER	0	25	O	O	one	x	x	0
+O	0	26	O	O	questions	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Another	x	x	0
+O	0	1	O	O	possibility	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	change	x	x	0
+B-TIME	0	5	O	O	the	x	x	0
+I-TIME	0	6	O	O	meeting	x	x	0
+I-TIME	0	7	O	O	times	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nathan	x	x	0
+
+B-ORG	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	incorporated	x	x	0
+O	0	3	O	O	in	x	x	0
+B-GPE	0	4	O	O	Maryland	x	x	0
+O	0	5	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	just	x	x	0
+O	0	3	O	O	5	x	x	0
+O	0	4	O	O	of	x	x	0
+B-PER	0	5	O	O	us	x	x	0
+O	0	6	O	O	on	x	x	0
+B-PER	0	7	O	O	the	x	x	0
+I-PER	0	8	O	O	board	x	x	0
+O	0	9	O	O	(	x	x	0
+B-ORG	0	10	O	O	we	x	x	0
+O	0	11	O	O	are	x	x	0
+B-ORG	0	12	O	O	a	x	x	0
+I-ORG	0	13	O	O	charity	x	x	0
+I-ORG	0	14	O	O	501	x	x	0
+I-ORG	0	15	O	O	(	x	x	0
+I-ORG	0	16	O	O	c	x	x	0
+I-ORG	0	17	O	O	)	x	x	0
+I-ORG	0	18	O	O	(	x	x	0
+I-ORG	0	19	O	O	3	x	x	0
+O	0	20	O	O	)	x	x	0
+O	0	21	O	O	,	x	x	0
+O	0	22	O	O	although	x	x	0
+B-PER	0	23	O	O	we	x	x	0
+B-PER	0	24	O	O	all	x	x	0
+O	0	25	O	O	live	x	x	0
+O	0	26	O	O	in	x	x	0
+O	0	27	O	O	different	x	x	0
+O	0	28	O	O	states	x	x	0
+O	0	29	O	O	from	x	x	0
+B-LOC	0	30	O	O	coast	x	x	0
+O	0	31	O	O	to	x	x	0
+B-LOC	0	32	O	O	coast	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	difficult	x	x	0
+O	0	4	O	O	to	x	x	0
+O	0	5	O	O	find	x	x	0
+B-TIME	0	6	O	O	times	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	all	x	x	0
+I-PER	0	9	O	O	of	x	x	0
+I-PER	0	10	O	O	us	x	x	0
+O	0	11	O	O	to	x	x	0
+O	0	12	O	O	get	x	x	0
+O	0	13	O	O	together	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Would	x	x	0
+B-PER	0	1	O	O	I	x	x	0
+O	0	2	O	O	need	x	x	0
+O	0	3	O	O	to	x	x	0
+O	0	4	O	O	check	x	x	0
+O	0	5	O	O	the	x	x	0
+B-GPE	0	6	O	O	Maryland	x	x	0
+O	0	7	O	O	law	x	x	0
+O	0	8	O	O	or	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	law	x	x	0
+O	0	11	O	O	in	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	state	x	x	0
+O	0	14	O	O	in	x	x	0
+B-GPE	0	15	O	O	which	x	x	0
+O	0	16	O	O	this	x	x	0
+B-PER	0	17	O	O	board	x	x	0
+O	0	18	O	O	member	x	x	0
+O	0	19	O	O	lives	x	x	0
+O	0	20	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	.	x	x	0
+
+O	0	0	O	O	In	x	x	0
+B-ORG	0	1	O	O	IRS	x	x	0
+O	0	2	O	O	Publication	x	x	0
+O	0	3	O	O	557	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	sample	x	x	0
+O	0	7	O	O	draft	x	x	0
+O	0	8	O	O	articles	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	incorporation	x	x	0
+O	0	11	O	O	indicate	x	x	0
+O	0	12	O	O	that	x	x	0
+O	0	13	O	O	NO	x	x	0
+O	0	14	O	O	compensation	x	x	0
+O	0	15	O	O	may	x	x	0
+O	0	16	O	O	be	x	x	0
+O	0	17	O	O	paid	x	x	0
+O	0	18	O	O	to	x	x	0
+B-PER	0	19	O	O	directors	x	x	0
+O	0	20	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+O	0	1	O	O	fairness	x	x	0
+O	0	2	O	O	,	x	x	0
+O	0	3	O	O	reimbursement	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	out-of-pocket	x	x	0
+O	0	6	O	O	expenses	x	x	0
+O	0	7	O	O	on	x	x	0
+O	0	8	O	O	behalf	x	x	0
+O	0	9	O	O	of	x	x	0
+B-ORG	0	10	O	O	the	x	x	0
+I-ORG	0	11	O	O	organization	x	x	0
+O	0	12	O	O	including	x	x	0
+O	0	13	O	O	travel	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	lodging	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	attend	x	x	0
+B-PER	0	18	O	O	board	x	x	0
+O	0	19	O	O	meetings	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	allowed	x	x	0
+O	0	22	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	However	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	Publication	x	x	0
+O	0	3	O	O	557	x	x	0
+O	0	4	O	O	does	x	x	0
+O	0	5	O	O	not	x	x	0
+O	0	6	O	O	explicitly	x	x	0
+O	0	7	O	O	prohibit	x	x	0
+O	0	8	O	O	compensation	x	x	0
+O	0	9	O	O	to	x	x	0
+B-PER	0	10	O	O	directors	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	As	x	x	0
+O	0	1	O	O	far	x	x	0
+O	0	2	O	O	as	x	x	0
+B-GPE	0	3	O	O	state	x	x	0
+O	0	4	O	O	laws	x	x	0
+O	0	5	O	O	go	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	must	x	x	0
+O	0	9	O	O	follow	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	laws	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	states	x	x	0
+O	0	15	O	O	(	x	x	0
+O	0	16	O	O	1	x	x	0
+O	0	17	O	O	)	x	x	0
+O	0	18	O	O	in	x	x	0
+B-GPE	0	19	O	O	which	x	x	0
+B-ORG	0	20	O	O	the	x	x	0
+I-ORG	0	21	O	O	organization	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	incorporated	x	x	0
+O	0	24	O	O	and	x	x	0
+O	0	25	O	O	(	x	x	0
+O	0	26	O	O	2	x	x	0
+O	0	27	O	O	)	x	x	0
+O	0	28	O	O	in	x	x	0
+B-GPE	0	29	O	O	which	x	x	0
+B-ORG	0	30	O	O	the	x	x	0
+I-ORG	0	31	O	O	organization	x	x	0
+O	0	32	O	O	operates	x	x	0
+O	0	33	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	For	x	x	0
+O	0	1	O	O	an	x	x	0
+O	0	2	O	O	organization	x	x	0
+B-ORG	0	3	O	O	that	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	incorporated	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Maryland	x	x	0
+O	0	8	O	O	and	x	x	0
+O	0	9	O	O	has	x	x	0
+B-ORG	0	10	O	O	its	x	x	0
+O	0	11	O	O	headquarters	x	x	0
+O	0	12	O	O	in	x	x	0
+B-GPE	0	13	O	O	Maryland	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	laws	x	x	0
+O	0	17	O	O	of	x	x	0
+B-GPE	0	18	O	O	Maryland	x	x	0
+O	0	19	O	O	apply	x	x	0
+O	0	20	O	O	without	x	x	0
+O	0	21	O	O	regard	x	x	0
+O	0	22	O	O	to	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	states	x	x	0
+O	0	25	O	O	in	x	x	0
+B-GPE	0	26	O	O	which	x	x	0
+B-PER	0	27	O	O	the	x	x	0
+I-PER	0	28	O	O	directors	x	x	0
+O	0	29	O	O	live	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Remember	x	x	0
+O	0	1	O	O	,	x	x	0
+B-ORG	0	2	O	O	a	x	x	0
+I-ORG	0	3	O	O	corporation	x	x	0
+O	0	4	O	O	is	x	x	0
+O	0	5	O	O	legally	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	"	x	x	0
+O	0	8	O	O	person	x	x	0
+O	0	9	O	O	"	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	distinct	x	x	0
+O	0	12	O	O	from	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	corporeal	x	x	0
+O	0	15	O	O	persons	x	x	0
+B-PER	0	16	O	O	who	x	x	0
+O	0	17	O	O	govern	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	manage	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	and	x	x	0
+O	0	22	O	O	operate	x	x	0
+B-ORG	0	23	O	O	the	x	x	0
+I-ORG	0	24	O	O	corporation	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Thus	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	laws	x	x	0
+O	0	4	O	O	applying	x	x	0
+O	0	5	O	O	to	x	x	0
+B-ORG	0	6	O	O	the	x	x	0
+I-ORG	0	7	O	O	corporate	x	x	0
+I-ORG	0	8	O	O	person	x	x	0
+O	0	9	O	O	are	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	laws	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	state	x	x	0
+B-GPE	0	15	O	O	where	x	x	0
+B-ORG	0	16	O	O	that	x	x	0
+I-ORG	0	17	O	O	person	x	x	0
+O	0	18	O	O	"	x	x	0
+O	0	19	O	O	lives	x	x	0
+O	0	20	O	O	".	x	x	0
+B-PER	0	21	O	O	David	x	x	0
+I-PER	0	22	O	O	E.	x	x	0
+I-PER	0	23	O	O	Ross	x	x	0
+O	0	24	O	O	(	x	x	0
+O	0	25	O	O	URL	x	x	0
+O	0	26	O	O	:	x	x	0
+O	0	27	O	O	)	x	x	0
+B-PER	0	28	O	O	I	x	x	0
+O	0	29	O	O	use	x	x	0
+O	0	30	O	O	Mozilla	x	x	0
+O	0	31	O	O	as	x	x	0
+B-PER	0	32	O	O	my	x	x	0
+O	0	33	O	O	Web	x	x	0
+O	0	34	O	O	browser	x	x	0
+O	0	35	O	O	because	x	x	0
+B-PER	0	36	O	O	I	x	x	0
+O	0	37	O	O	want	x	x	0
+O	0	38	O	O	a	x	x	0
+O	0	39	O	O	browser	x	x	0
+O	0	40	O	O	that	x	x	0
+O	0	41	O	O	complies	x	x	0
+O	0	42	O	O	with	x	x	0
+O	0	43	O	O	Web	x	x	0
+O	0	44	O	O	standards	x	x	0
+O	0	45	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	See	x	x	0
+O	0	1	O	O	(	x	x	0
+O	0	2	O	O	URL	x	x	0
+O	0	3	O	O	:	x	x	0
+O	0	4	O	O	)	x	x	0
+O	0	5	O	O	.	x	x	0
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	very	x	x	0
+O	0	3	O	O	legal	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	an	x	x	0
+O	0	7	O	O	acceptable	x	x	0
+O	0	8	O	O	policy	x	x	0
+O	0	9	O	O	or	x	x	0
+O	0	10	O	O	practice	x	x	0
+O	0	11	O	O	in	x	x	0
+B-GPE	0	12	O	O	Canada	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	pay	x	x	0
+O	0	15	O	O	an	x	x	0
+O	0	16	O	O	honorarium	x	x	0
+O	0	17	O	O	or	x	x	0
+O	0	18	O	O	stipent	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	people	x	x	0
+O	0	21	O	O	on	x	x	0
+B-PER	0	22	O	O	boards	x	x	0
+B-PER	0	23	O	O	that	x	x	0
+O	0	24	O	O	are	x	x	0
+O	0	25	O	O	active	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Many	x	x	0
+O	0	1	O	O	do	x	x	0
+O	0	2	O	O	this	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	know	x	x	0
+O	0	7	O	O	it	x	x	0
+O	0	8	O	O	is	x	x	0
+O	0	9	O	O	an	x	x	0
+O	0	10	O	O	investment	x	x	0
+O	0	11	O	O	for	x	x	0
+O	0	12	O	O	the	x	x	0
+O	0	13	O	O	time	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	talents	x	x	0
+B-PER	0	16	O	O	they	x	x	0
+O	0	17	O	O	need	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	also	x	x	0
+O	0	2	O	O	know	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	as	x	x	0
+O	0	5	O	O	do	x	x	0
+B-PER	0	6	O	O	the	x	x	0
+I-PER	0	7	O	O	recipients	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	payment	x	x	0
+O	0	11	O	O	is	x	x	0
+O	0	12	O	O	but	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	percentage	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	true	x	x	0
+O	0	18	O	O	worth	x	x	0
+O	0	19	O	O	of	x	x	0
+O	0	20	O	O	the	x	x	0
+O	0	21	O	O	time	x	x	0
+O	0	22	O	O	and	x	x	0
+O	0	23	O	O	effort	x	x	0
+O	0	24	O	O	,	x	x	0
+O	0	25	O	O	but	x	x	0
+O	0	26	O	O	does	x	x	0
+O	0	27	O	O	show	x	x	0
+O	0	28	O	O	respect	x	x	0
+O	0	29	O	O	for	x	x	0
+O	0	30	O	O	what	x	x	0
+B-PER	0	31	O	O	they	x	x	0
+O	0	32	O	O	are	x	x	0
+O	0	33	O	O	recieving	x	x	0
+O	0	34	O	O	.	x	x	0
+
+O	0	0	O	O	Is	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	anyone	x	x	0
+B-PER	0	3	O	O	who	x	x	0
+O	0	4	O	O	knows	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	precedent	x	x	0
+O	0	8	O	O	for	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	being	x	x	0
+O	0	11	O	O	done	x	x	0
+O	0	12	O	O	for	x	x	0
+O	0	13	O	O	a	x	x	0
+O	0	14	O	O	non-profit	x	x	0
+O	0	15	O	O	in	x	x	0
+B-GPE	0	16	O	O	the	x	x	0
+I-GPE	0	17	O	O	U.S	x	x	0
+I-GPE	0	18	O	O	.	x	x	0
+O	0	19	O	O	?	x	x	0
+
+
+
+O	0	0	O	O	Thanks	x	x	0
+O	0	1	O	O	!	x	x	0
+
+O	0	0	O	O	Yes	x	x	0
+O	0	1	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Some	x	x	0
+B-ORG	0	1	O	O	Head	x	x	0
+I-ORG	0	2	O	O	Start	x	x	0
+O	0	3	O	O	agencies	x	x	0
+O	0	4	O	O	,	x	x	0
+B-ORG	0	5	O	O	Community	x	x	0
+I-ORG	0	6	O	O	Health	x	x	0
+I-ORG	0	7	O	O	Centers	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	similar	x	x	0
+O	0	11	O	O	nonprofit	x	x	0
+O	0	12	O	O	organizations	x	x	0
+O	0	13	O	O	serving	x	x	0
+B-PER	0	14	O	O	low-income	x	x	0
+I-PER	0	15	O	O	people	x	x	0
+O	0	16	O	O	have	x	x	0
+O	0	17	O	O	a	x	x	0
+O	0	18	O	O	requirement	x	x	0
+O	0	19	O	O	for	x	x	0
+O	0	20	O	O	"	x	x	0
+B-PER	0	21	O	O	consumer	x	x	0
+O	0	22	O	O	"	x	x	0
+O	0	23	O	O	representation	x	x	0
+O	0	24	O	O	on	x	x	0
+B-ORG	0	25	O	O	their	x	x	0
+O	0	26	O	O	boards	x	x	0
+O	0	27	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Transportation	x	x	0
+O	0	1	O	O	cost	x	x	0
+O	0	2	O	O	reimbursement	x	x	0
+O	0	3	O	O	,	x	x	0
+B-PER	0	4	O	O	child	x	x	0
+O	0	5	O	O	care	x	x	0
+O	0	6	O	O	accommodation	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	provision	x	x	0
+O	0	9	O	O	of	x	x	0
+O	0	10	O	O	meals	x	x	0
+O	0	11	O	O	,	x	x	0
+O	0	12	O	O	etc.	x	x	0
+O	0	13	O	O	,	x	x	0
+O	0	14	O	O	can	x	x	0
+O	0	15	O	O	be	x	x	0
+O	0	16	O	O	done	x	x	0
+O	0	17	O	O	either	x	x	0
+O	0	18	O	O	in-kind	x	x	0
+O	0	19	O	O	or	x	x	0
+O	0	20	O	O	in	x	x	0
+O	0	21	O	O	cash	x	x	0
+O	0	22	O	O	.	x	x	0
+
+B-PER	0	0	O	O	Michael	x	x	0
+I-PER	0	1	O	O	L.	x	x	0
+I-PER	0	2	O	O	Wyland	x	x	0
+B-ORG	0	3	O	O	Sumption	x	x	0
+I-ORG	0	4	O	O	&	x	x	0
+I-ORG	0	5	O	O	amp	x	x	0
+I-ORG	0	6	O	O	;	x	x	0
+I-ORG	0	7	O	O	Wyland	x	x	0
+O	0	8	O	O	818	x	x	0
+B-FAC	0	9	O	O	South	x	x	0
+I-FAC	0	10	O	O	Hawthorne	x	x	0
+I-FAC	0	11	O	O	Avenue	x	x	0
+O	0	12	O	O	Sioux	x	x	0
+O	0	13	O	O	Falls	x	x	0
+O	0	14	O	O	,	x	x	0
+B-GPE	0	15	O	O	SD	x	x	0
+O	0	16	O	O	57104-4537	x	x	0
+O	0	17	O	O	(	x	x	0
+B-Contact-Info	0	18	O	O	605	x	x	0
+I-Contact-Info	0	19	O	O	)	x	x	0
+I-Contact-Info	0	20	O	O	336-0244	x	x	0
+O	0	21	O	O	(	x	x	0
+B-Contact-Info	0	22	O	O	605	x	x	0
+I-Contact-Info	0	23	O	O	)	x	x	0
+I-Contact-Info	0	24	O	O	336-0275	x	x	0
+I-Contact-Info	0	25	O	O	(	x	x	0
+I-Contact-Info	0	26	O	O	FAX	x	x	0
+O	0	27	O	O	)	x	x	0
+O	0	28	O	O	(	x	x	0
+B-Contact-Info	0	29	O	O	888	x	x	0
+I-Contact-Info	0	30	O	O	)	x	x	0
+I-Contact-Info	0	31	O	O	4-SUMPTION	x	x	0
+I-Contact-Info	0	32	O	O	(	x	x	0
+I-Contact-Info	0	33	O	O	toll-free	x	x	0
+O	0	34	O	O	)	x	x	0
+B-Contact-Info	0	35	O	O	mich	x	x	0
+I-Contact-Info	0	36	O	O	...	x	x	0
+I-Contact-Info	0	37	O	O	@	x	x	0
+I-Contact-Info	0	38	O	O	sumptionandwyland.com	x	x	0
+O	0	39	O	O	free	x	x	0
+O	0	40	O	O	e-newsletter	x	x	0
+O	0	41	O	O	sign-up	x	x	0
+O	0	42	O	O	new	x	x	0
+O	0	43	O	O	article	x	x	0
+O	0	44	O	O	:	x	x	0
+O	0	45	O	O	"	x	x	0
+O	0	46	O	O	For	x	x	0
+O	0	47	O	O	CEOs	x	x	0
+O	0	48	O	O	Six	x	x	0
+O	0	49	O	O	Characteristics	x	x	0
+O	0	50	O	O	of	x	x	0
+O	0	51	O	O	Good	x	x	0
+O	0	52	O	O	CEO	x	x	0
+O	0	53	O	O	/	x	x	0
+O	0	54	O	O	Board	x	x	0
+O	0	55	O	O	Relationships	x	x	0
+O	0	56	O	O	"	x	x	0
+
+O	0	0	O	O	Actually	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	it	x	x	0
+O	0	3	O	O	would	x	x	0
+O	0	4	O	O	not	x	x	0
+O	0	5	O	O	be	x	x	0
+O	0	6	O	O	advisable	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	accept	x	x	0
+B-PER	0	9	O	O	Freddy	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	comments	x	x	0
+O	0	12	O	O	at	x	x	0
+O	0	13	O	O	face	x	x	0
+O	0	14	O	O	value	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	not	x	x	0
+O	0	3	O	O	acceptable	x	x	0
+O	0	4	O	O	policy	x	x	0
+O	0	5	O	O	and	x	x	0
+O	0	6	O	O	not	x	x	0
+O	0	7	O	O	legal	x	x	0
+O	0	8	O	O	to	x	x	0
+O	0	9	O	O	pay	x	x	0
+O	0	10	O	O	an	x	x	0
+O	0	11	O	O	honorarium	x	x	0
+O	0	12	O	O	or	x	x	0
+O	0	13	O	O	stipend	x	x	0
+O	0	14	O	O	to	x	x	0
+O	0	15	O	O	directors	x	x	0
+O	0	16	O	O	of	x	x	0
+B-ORG	0	17	O	O	charities	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	I	x	x	0
+O	0	1	O	O	checked	x	x	0
+O	0	2	O	O	with	x	x	0
+O	0	3	O	O	a	x	x	0
+O	0	4	O	O	lawyer	x	x	0
+O	0	5	O	O	familiar	x	x	0
+O	0	6	O	O	with	x	x	0
+B-GPE	0	7	O	O	Canadian	x	x	0
+O	0	8	O	O	charity	x	x	0
+O	0	9	O	O	law	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	who	x	x	0
+O	0	12	O	O	explained	x	x	0
+O	0	13	O	O	that	x	x	0
+O	0	14	O	O	it	x	x	0
+O	0	15	O	O	is	x	x	0
+O	0	16	O	O	not	x	x	0
+O	0	17	O	O	permitted	x	x	0
+O	0	18	O	O	to	x	x	0
+O	0	19	O	O	remunerate	x	x	0
+B-PER	0	20	O	O	board	x	x	0
+O	0	21	O	O	members	x	x	0
+O	0	22	O	O	of	x	x	0
+B-ORG	0	23	O	O	charities	x	x	0
+O	0	24	O	O	for	x	x	0
+B-PER	0	25	O	O	their	x	x	0
+O	0	26	O	O	service	x	x	0
+O	0	27	O	O	as	x	x	0
+B-PER	0	28	O	O	board	x	x	0
+O	0	29	O	O	members	x	x	0
+O	0	30	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	prohibition	x	x	0
+O	0	2	O	O	does	x	x	0
+O	0	3	O	O	not	x	x	0
+O	0	4	O	O	apply	x	x	0
+O	0	5	O	O	to	x	x	0
+O	0	6	O	O	directors	x	x	0
+O	0	7	O	O	of	x	x	0
+O	0	8	O	O	nonprofit	x	x	0
+O	0	9	O	O	organizations	x	x	0
+B-ORG	0	10	O	O	that	x	x	0
+O	0	11	O	O	are	x	x	0
+O	0	12	O	O	not	x	x	0
+B-ORG	0	13	O	O	charities	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	In	x	x	0
+B-GPE	0	1	O	O	the	x	x	0
+I-GPE	0	2	O	O	USA	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	rules	x	x	0
+O	0	6	O	O	vary	x	x	0
+O	0	7	O	O	from	x	x	0
+B-GPE	0	8	O	O	state	x	x	0
+O	0	9	O	O	to	x	x	0
+B-GPE	0	10	O	O	state	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Some	x	x	0
+I-GPE	0	1	O	O	states	x	x	0
+O	0	2	O	O	permit	x	x	0
+B-PER	0	3	O	O	board	x	x	0
+O	0	4	O	O	members	x	x	0
+O	0	5	O	O	of	x	x	0
+B-ORG	0	6	O	O	charities	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	be	x	x	0
+O	0	9	O	O	compensated	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	but	x	x	0
+O	0	12	O	O	it	x	x	0
+O	0	13	O	O	is	x	x	0
+O	0	14	O	O	generally	x	x	0
+O	0	15	O	O	not	x	x	0
+O	0	16	O	O	done	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Donors	x	x	0
+O	0	1	O	O	,	x	x	0
+B-PER	0	2	O	O	funders	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+B-PER	0	5	O	O	the	x	x	0
+I-PER	0	6	O	O	general	x	x	0
+I-PER	0	7	O	O	public	x	x	0
+O	0	8	O	O	share	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	view	x	x	0
+O	0	11	O	O	that	x	x	0
+O	0	12	O	O	directors	x	x	0
+O	0	13	O	O	of	x	x	0
+B-ORG	0	14	O	O	charities	x	x	0
+O	0	15	O	O	should	x	x	0
+O	0	16	O	O	act	x	x	0
+O	0	17	O	O	gratuitiously	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	permitted	x	x	0
+B-LOC	0	3	O	O	everywhere	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	however	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	to	x	x	0
+O	0	8	O	O	reimburse	x	x	0
+B-PER	0	9	O	O	directors	x	x	0
+O	0	10	O	O	for	x	x	0
+O	0	11	O	O	necessary	x	x	0
+O	0	12	O	O	expenses	x	x	0
+O	0	13	O	O	incurred	x	x	0
+O	0	14	O	O	in	x	x	0
+O	0	15	O	O	order	x	x	0
+O	0	16	O	O	to	x	x	0
+O	0	17	O	O	serve	x	x	0
+O	0	18	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	If	x	x	0
+B-PER	0	1	O	O	your	x	x	0
+O	0	2	O	O	organization	x	x	0
+O	0	3	O	O	is	x	x	0
+B-ORG	0	4	O	O	a	x	x	0
+I-ORG	0	5	O	O	charity	x	x	0
+O	0	6	O	O	,	x	x	0
+B-PER	0	7	O	O	you	x	x	0
+O	0	8	O	O	need	x	x	0
+O	0	9	O	O	to	x	x	0
+O	0	10	O	O	check	x	x	0
+B-PER	0	11	O	O	your	x	x	0
+O	0	12	O	O	state	x	x	0
+O	0	13	O	O	law	x	x	0
+O	0	14	O	O	and	x	x	0
+O	0	15	O	O	act	x	x	0
+O	0	16	O	O	very	x	x	0
+O	0	17	O	O	carefully	x	x	0
+O	0	18	O	O	if	x	x	0
+B-PER	0	19	O	O	you	x	x	0
+O	0	20	O	O	are	x	x	0
+O	0	21	O	O	considering	x	x	0
+O	0	22	O	O	paying	x	x	0
+B-PER	0	23	O	O	board	x	x	0
+O	0	24	O	O	members	x	x	0
+O	0	25	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Nathan	x	x	0
+
+O	0	0	O	O	Being	x	x	0
+O	0	1	O	O	someone	x	x	0
+B-PER	0	2	O	O	that	x	x	0
+O	0	3	O	O	works	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	lives	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	Canada	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+O	0	10	O	O	in	x	x	0
+O	0	11	O	O	the	x	x	0
+B-ORG	0	12	O	O	non-profit	x	x	0
+O	0	13	O	O	industry	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	it	x	x	0
+O	0	16	O	O	is	x	x	0
+O	0	17	O	O	done	x	x	0
+O	0	18	O	O	,	x	x	0
+O	0	19	O	O	and	x	x	0
+O	0	20	O	O	it	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	very	x	x	0
+O	0	23	O	O	legal	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Take	x	x	0
+O	0	1	O	O	a	x	x	0
+O	0	2	O	O	look	x	x	0
+O	0	3	O	O	at	x	x	0
+O	0	4	O	O	any	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	large	x	x	0
+B-PER	0	8	O	O	student	x	x	0
+O	0	9	O	O	unions	x	x	0
+O	0	10	O	O	,	x	x	0
+B-ORG	0	11	O	O	they	x	x	0
+I-ORG	0	12	O	O	all	x	x	0
+O	0	13	O	O	pay	x	x	0
+B-ORG	0	14	O	O	their	x	x	0
+O	0	15	O	O	elected	x	x	0
+B-PER	0	16	O	O	board	x	x	0
+O	0	17	O	O	members	x	x	0
+O	0	18	O	O	an	x	x	0
+O	0	19	O	O	honorarium	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	as	x	x	0
+O	0	22	O	O	do	x	x	0
+O	0	23	O	O	many	x	x	0
+O	0	24	O	O	of	x	x	0
+B-ORG	0	25	O	O	the	x	x	0
+I-ORG	0	26	O	O	large	x	x	0
+I-ORG	0	27	O	O	foundations	x	x	0
+O	0	28	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	legal	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	and	x	x	0
+O	0	5	O	O	it	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	done	x	x	0
+O	0	8	O	O	.	x	x	0
+

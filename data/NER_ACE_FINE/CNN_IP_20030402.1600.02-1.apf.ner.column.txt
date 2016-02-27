@@ -1,0 +1,676 @@
+O	0	0	O	O	As	x	x	0
+B-GPE	0	1	O	O	coalition	x	x	0
+O	0	2	O	O	forces	x	x	0
+O	0	3	O	O	push	x	x	0
+O	0	4	O	O	ahead	x	x	0
+O	0	5	O	O	in	x	x	0
+B-PER	0	6	O	O	their	x	x	0
+O	0	7	O	O	march	x	x	0
+O	0	8	O	O	toward	x	x	0
+B-GPE	0	9	O	O	Baghdad	x	x	0
+O	0	10	O	O	,	x	x	0
+B-PER	0	11	O	O	they	x	x	0
+O	0	12	O	O	have	x	x	0
+O	0	13	O	O	encountered	x	x	0
+O	0	14	O	O	some	x	x	0
+O	0	15	O	O	resistance	x	x	0
+O	0	16	O	O	in	x	x	0
+O	0	17	O	O	the	x	x	0
+B-PER	0	18	O	O	Shiite	x	x	0
+O	0	19	O	O	holy	x	x	0
+O	0	20	O	O	city	x	x	0
+O	0	21	O	O	of	x	x	0
+B-GPE	0	22	O	O	Karbala	x	x	0
+O	0	23	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+B-GPE	0	1	O	O	American	x	x	0
+O	0	2	O	O	troops	x	x	0
+O	0	3	O	O	and	x	x	0
+B-PER	0	4	O	O	their	x	x	0
+O	0	5	O	O	superior	x	x	0
+O	0	6	O	O	technology	x	x	0
+O	0	7	O	O	have	x	x	0
+O	0	8	O	O	turned	x	x	0
+O	0	9	O	O	out	x	x	0
+O	0	10	O	O	to	x	x	0
+O	0	11	O	O	be	x	x	0
+O	0	12	O	O	a	x	x	0
+O	0	13	O	O	key	x	x	0
+O	0	14	O	O	factor	x	x	0
+O	0	15	O	O	in	x	x	0
+O	0	16	O	O	the	x	x	0
+O	0	17	O	O	fighting	x	x	0
+B-GPE	0	18	O	O	there	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	to	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	south	x	x	0
+O	0	4	O	O	,	x	x	0
+B-GPE	0	5	O	O	British	x	x	0
+O	0	6	O	O	forces	x	x	0
+O	0	7	O	O	continue	x	x	0
+B-PER	0	8	O	O	their	x	x	0
+O	0	9	O	O	attack	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	targets	x	x	0
+O	0	12	O	O	around	x	x	0
+B-GPE	0	13	O	O	Basra	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	ITN	x	x	0
+O	0	1	O	O	correspondent	x	x	0
+O	0	2	O	O	Tim	x	x	0
+O	0	3	O	O	Ewart	x	x	0
+O	0	4	O	O	reports	x	x	0
+O	0	5	O	O	.	x	x	0
+
+B-PER	0	0	O	O	These	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	soldiers	x	x	0
+O	0	3	O	O	of	x	x	0
+O	0	4	O	O	the	x	x	0
+B-GPE	0	5	O	O	U.S.	x	x	0
+O	0	6	O	O	3rd	x	x	0
+O	0	7	O	O	Infantry	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	fighting	x	x	0
+O	0	10	O	O	near	x	x	0
+B-GPE	0	11	O	O	Karbala	x	x	0
+O	0	12	O	O	,	x	x	0
+O	0	13	O	O	southwest	x	x	0
+O	0	14	O	O	of	x	x	0
+B-GPE	0	15	O	O	Baghdad	x	x	0
+O	0	16	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	They	x	x	0
+O	0	1	O	O	are	x	x	0
+O	0	2	O	O	facing	x	x	0
+B-PER	0	3	O	O	Saddam	x	x	0
+I-PER	0	4	O	O	Hussein	x	x	0
+O	0	5	O	O	's	x	x	0
+O	0	6	O	O	Republican	x	x	0
+O	0	7	O	O	Guard	x	x	0
+O	0	8	O	O	,	x	x	0
+B-PER	0	9	O	O	his	x	x	0
+O	0	10	O	O	finest	x	x	0
+O	0	11	O	O	soldiers	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	for	x	x	0
+O	0	2	O	O	all	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	resistance	x	x	0
+O	0	5	O	O	,	x	x	0
+B-GPE	0	6	O	O	coalition	x	x	0
+O	0	7	O	O	aircraft	x	x	0
+O	0	8	O	O	rule	x	x	0
+O	0	9	O	O	the	x	x	0
+O	0	10	O	O	skies	x	x	0
+O	0	11	O	O	and	x	x	0
+B-GPE	0	12	O	O	coalition	x	x	0
+O	0	13	O	O	technology	x	x	0
+O	0	14	O	O	is	x	x	0
+O	0	15	O	O	overwhelmingly	x	x	0
+O	0	16	O	O	superior	x	x	0
+O	0	17	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	U.S.	x	x	0
+O	0	1	O	O	commanders	x	x	0
+O	0	2	O	O	believe	x	x	0
+B-PER	0	3	O	O	the	x	x	0
+I-PER	0	4	O	O	Republican	x	x	0
+I-PER	0	5	O	O	Guard	x	x	0
+O	0	6	O	O	is	x	x	0
+B-PER	0	7	O	O	a	x	x	0
+I-PER	0	8	O	O	doomed	x	x	0
+I-PER	0	9	O	O	force	x	x	0
+O	0	10	O	O	.	x	x	0
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	approach	x	x	0
+B-GPE	0	3	O	O	Baghdad	x	x	0
+O	0	4	O	O	.	x	x	0
+
+
+
+B-WEA	0	0	O	O	The	x	x	0
+I-WEA	0	1	O	O	dagger	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	clearly	x	x	0
+O	0	4	O	O	pointed	x	x	0
+O	0	5	O	O	at	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	heart	x	x	0
+O	0	8	O	O	of	x	x	0
+B-ORG	0	9	O	O	the	x	x	0
+I-ORG	0	10	O	O	regime	x	x	0
+B-TIME	0	11	O	O	right	x	x	0
+I-TIME	0	12	O	O	now	x	x	0
+O	0	13	O	O	and	x	x	0
+O	0	14	O	O	will	x	x	0
+O	0	15	O	O	remain	x	x	0
+O	0	16	O	O	pointed	x	x	0
+O	0	17	O	O	at	x	x	0
+O	0	18	O	O	it	x	x	0
+O	0	19	O	O	until	x	x	0
+B-ORG	0	20	O	O	the	x	x	0
+I-ORG	0	21	O	O	regime	x	x	0
+O	0	22	O	O	is	x	x	0
+O	0	23	O	O	gone	x	x	0
+O	0	24	O	O	.	x	x	0
+
+O	0	0	O	O	To	x	x	0
+O	0	1	O	O	the	x	x	0
+O	0	2	O	O	south	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	more	x	x	0
+O	0	5	O	O	black	x	x	0
+O	0	6	O	O	smoke	x	x	0
+O	0	7	O	O	over	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	town	x	x	0
+O	0	10	O	O	of	x	x	0
+B-GPE	0	11	O	O	Basra	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	British	x	x	0
+O	0	1	O	O	troops	x	x	0
+O	0	2	O	O	control	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	outskirts	x	x	0
+O	0	5	O	O	of	x	x	0
+B-GPE	0	6	O	O	the	x	x	0
+I-GPE	0	7	O	O	town	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	and	x	x	0
+B-TIME	0	10	O	O	today	x	x	0
+O	0	11	O	O	destroyed	x	x	0
+O	0	12	O	O	another	x	x	0
+O	0	13	O	O	building	x	x	0
+B-PER	0	14	O	O	they	x	x	0
+O	0	15	O	O	said	x	x	0
+O	0	16	O	O	housed	x	x	0
+B-GPE	0	17	O	O	Iraqi	x	x	0
+O	0	18	O	O	fighters	x	x	0
+O	0	19	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	There	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	much	x	x	0
+O	0	3	O	O	fear	x	x	0
+B-GPE	0	4	O	O	here	x	x	0
+O	0	5	O	O	of	x	x	0
+O	0	6	O	O	the	x	x	0
+B-PER	0	7	O	O	Saddam	x	x	0
+O	0	8	O	O	loyalists	x	x	0
+B-PER	0	9	O	O	who	x	x	0
+O	0	10	O	O	still	x	x	0
+O	0	11	O	O	hold	x	x	0
+O	0	12	O	O	sway	x	x	0
+O	0	13	O	O	in	x	x	0
+B-GPE	0	14	O	O	Basra	x	x	0
+O	0	15	O	O	and	x	x	0
+O	0	16	O	O	of	x	x	0
+B-PER	0	17	O	O	the	x	x	0
+I-PER	0	18	O	O	invading	x	x	0
+I-PER	0	19	O	O	troops	x	x	0
+I-PER	0	20	O	O	waiting	x	x	0
+I-PER	0	21	O	O	at	x	x	0
+I-PER	0	22	O	O	the	x	x	0
+I-PER	0	23	O	O	gates	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	(	x	x	0
+O	0	1	O	O	on	x	x	0
+O	0	2	O	O	camera	x	x	0
+O	0	3	O	O	)	x	x	0
+O	0	4	O	O	:	x	x	0
+B-PER	0	5	O	O	The	x	x	0
+I-PER	0	6	O	O	Americans	x	x	0
+O	0	7	O	O	are	x	x	0
+O	0	8	O	O	racing	x	x	0
+O	0	9	O	O	towards	x	x	0
+B-GPE	0	10	O	O	Baghdad	x	x	0
+O	0	11	O	O	,	x	x	0
+B-GPE	0	12	O	O	the	x	x	0
+I-GPE	0	13	O	O	British	x	x	0
+O	0	14	O	O	still	x	x	0
+O	0	15	O	O	seem	x	x	0
+O	0	16	O	O	anxious	x	x	0
+O	0	17	O	O	to	x	x	0
+O	0	18	O	O	make	x	x	0
+B-GPE	0	19	O	O	their	x	x	0
+O	0	20	O	O	progress	x	x	0
+B-GPE	0	21	O	O	here	x	x	0
+O	0	22	O	O	as	x	x	0
+O	0	23	O	O	measured	x	x	0
+O	0	24	O	O	as	x	x	0
+O	0	25	O	O	possible	x	x	0
+O	0	26	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Basra	x	x	0
+O	0	1	O	O	will	x	x	0
+O	0	2	O	O	fall	x	x	0
+O	0	3	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	there	x	x	0
+O	0	2	O	O	may	x	x	0
+O	0	3	O	O	first	x	x	0
+O	0	4	O	O	be	x	x	0
+O	0	5	O	O	fighting	x	x	0
+O	0	6	O	O	in	x	x	0
+B-GPE	0	7	O	O	the	x	x	0
+I-GPE	0	8	O	O	capital	x	x	0
+I-GPE	0	9	O	O	,	x	x	0
+I-GPE	0	10	O	O	250	x	x	0
+I-GPE	0	11	O	O	miles	x	x	0
+I-GPE	0	12	O	O	to	x	x	0
+I-GPE	0	13	O	O	the	x	x	0
+I-GPE	0	14	O	O	north	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Tim	x	x	0
+I-PER	0	1	O	O	Ewart	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	ITV	x	x	0
+I-ORG	0	4	O	O	News	x	x	0
+O	0	5	O	O	,	x	x	0
+B-LOC	0	6	O	O	southern	x	x	0
+I-LOC	0	7	O	O	Iraq	x	x	0
+O	0	8	O	O	.	x	x	0
+
+O	0	0	O	O	From	x	x	0
+B-LOC	0	1	O	O	the	x	x	0
+I-LOC	0	2	O	O	south	x	x	0
+O	0	3	O	O	to	x	x	0
+B-LOC	0	4	O	O	the	x	x	0
+I-LOC	0	5	O	O	north	x	x	0
+O	0	6	O	O	in	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	rolling	x	x	0
+O	0	9	O	O	hills	x	x	0
+O	0	10	O	O	of	x	x	0
+B-LOC	0	11	O	O	northern	x	x	0
+I-LOC	0	12	O	O	Iraq	x	x	0
+O	0	13	O	O	,	x	x	0
+B-GPE	0	14	O	O	coalition	x	x	0
+O	0	15	O	O	air	x	x	0
+O	0	16	O	O	strikes	x	x	0
+O	0	17	O	O	targeted	x	x	0
+B-GPE	0	18	O	O	Iraqi	x	x	0
+O	0	19	O	O	positions	x	x	0
+B-TIME	0	20	O	O	today	x	x	0
+O	0	21	O	O	in	x	x	0
+O	0	22	O	O	what	x	x	0
+O	0	23	O	O	's	x	x	0
+O	0	24	O	O	been	x	x	0
+O	0	25	O	O	called	x	x	0
+O	0	26	O	O	a	x	x	0
+O	0	27	O	O	ferocious	x	x	0
+O	0	28	O	O	bombardment	x	x	0
+O	0	29	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	It	x	x	0
+O	0	1	O	O	happened	x	x	0
+O	0	2	O	O	outside	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	oil-rich	x	x	0
+O	0	5	O	O	city	x	x	0
+O	0	6	O	O	of	x	x	0
+B-GPE	0	7	O	O	Kirkuk	x	x	0
+O	0	8	O	O	.	x	x	0
+
+
+
+B-ORG	0	0	O	O	CNN	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	Brent	x	x	0
+O	0	3	O	O	Sadler	x	x	0
+O	0	4	O	O	is	x	x	0
+B-GPE	0	5	O	O	there	x	x	0
+O	0	6	O	O	.	x	x	0
+
+O	0	0	O	O	A	x	x	0
+O	0	1	O	O	back	x	x	0
+O	0	2	O	O	road	x	x	0
+O	0	3	O	O	leading	x	x	0
+O	0	4	O	O	to	x	x	0
+B-GPE	0	5	O	O	Kirkuk	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	the	x	x	0
+O	0	8	O	O	heartland	x	x	0
+O	0	9	O	O	of	x	x	0
+B-LOC	0	10	O	O	northern	x	x	0
+I-LOC	0	11	O	O	Iraq	x	x	0
+O	0	12	O	O	's	x	x	0
+O	0	13	O	O	oil	x	x	0
+O	0	14	O	O	wealth	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	A	x	x	0
+I-FAC	0	1	O	O	road	x	x	0
+B-FAC	0	2	O	O	that	x	x	0
+O	0	3	O	O	's	x	x	0
+B-TIME	0	4	O	O	now	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	the	x	x	0
+O	0	7	O	O	hands	x	x	0
+O	0	8	O	O	of	x	x	0
+B-GPE	0	9	O	O	Iraqi	x	x	0
+B-PER	0	10	O	O	Kurdish	x	x	0
+O	0	11	O	O	forces	x	x	0
+O	0	12	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Occupying	x	x	0
+O	0	1	O	O	these	x	x	0
+O	0	2	O	O	positions	x	x	0
+O	0	3	O	O	,	x	x	0
+O	0	4	O	O	strattled	x	x	0
+O	0	5	O	O	along	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	crescent-shaped	x	x	0
+O	0	8	O	O	front	x	x	0
+O	0	9	O	O	line	x	x	0
+O	0	10	O	O	east	x	x	0
+O	0	11	O	O	of	x	x	0
+B-GPE	0	12	O	O	Kirkuk	x	x	0
+O	0	13	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	This	x	x	0
+I-FAC	0	1	O	O	land	x	x	0
+O	0	2	O	O	fell	x	x	0
+O	0	3	O	O	into	x	x	0
+O	0	4	O	O	Iraqi-Kurdish	x	x	0
+O	0	5	O	O	hands	x	x	0
+O	0	6	O	O	without	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	shot	x	x	0
+O	0	9	O	O	being	x	x	0
+O	0	10	O	O	fired	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraqi	x	x	0
+O	0	1	O	O	soldiers	x	x	0
+O	0	2	O	O	fled	x	x	0
+O	0	3	O	O	these	x	x	0
+O	0	4	O	O	positions	x	x	0
+O	0	5	O	O	in	x	x	0
+O	0	6	O	O	a	x	x	0
+O	0	7	O	O	hurry	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	under	x	x	0
+O	0	10	O	O	the	x	x	0
+O	0	11	O	O	onslaught	x	x	0
+O	0	12	O	O	of	x	x	0
+B-GPE	0	13	O	O	coalition	x	x	0
+O	0	14	O	O	bombing	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	the	x	x	0
+O	0	3	O	O	end	x	x	0
+O	0	4	O	O	of	x	x	0
+O	0	5	O	O	the	x	x	0
+O	0	6	O	O	road	x	x	0
+O	0	7	O	O	for	x	x	0
+B-PER	0	8	O	O	Kurdish	x	x	0
+O	0	9	O	O	forces	x	x	0
+O	0	10	O	O	manning	x	x	0
+B-FAC	0	11	O	O	this	x	x	0
+I-FAC	0	12	O	O	remote	x	x	0
+I-FAC	0	13	O	O	checkpoint	x	x	0
+O	0	14	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	But	x	x	0
+O	0	1	O	O	with	x	x	0
+O	0	2	O	O	special	x	x	0
+O	0	3	O	O	permission	x	x	0
+O	0	4	O	O	,	x	x	0
+B-PER	0	5	O	O	they	x	x	0
+O	0	6	O	O	let	x	x	0
+B-PER	0	7	O	O	us	x	x	0
+O	0	8	O	O	through	x	x	0
+O	0	9	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	We	x	x	0
+O	0	1	O	O	are	x	x	0
+B-TIME	0	2	O	O	now	x	x	0
+O	0	3	O	O	between	x	x	0
+O	0	4	O	O	the	x	x	0
+O	0	5	O	O	lines	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	a	x	x	0
+O	0	8	O	O	no	x	x	0
+O	0	9	O	O	man	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	land	x	x	0
+O	0	12	O	O	of	x	x	0
+O	0	13	O	O	abandoned	x	x	0
+B-GPE	0	14	O	O	Iraqi	x	x	0
+O	0	15	O	O	bunkers	x	x	0
+O	0	16	O	O	and	x	x	0
+O	0	17	O	O	an	x	x	0
+O	0	18	O	O	unnerving	x	x	0
+O	0	19	O	O	silence	x	x	0
+O	0	20	O	O	,	x	x	0
+O	0	21	O	O	broken	x	x	0
+O	0	22	O	O	by	x	x	0
+O	0	23	O	O	the	x	x	0
+O	0	24	O	O	roar	x	x	0
+O	0	25	O	O	of	x	x	0
+B-VEH	0	26	O	O	warplanes	x	x	0
+O	0	27	O	O	and	x	x	0
+O	0	28	O	O	the	x	x	0
+O	0	29	O	O	distant	x	x	0
+O	0	30	O	O	surge	x	x	0
+O	0	31	O	O	of	x	x	0
+O	0	32	O	O	air	x	x	0
+O	0	33	O	O	strikes	x	x	0
+O	0	34	O	O	.	x	x	0
+
+
+
+B-FAC	0	0	O	O	This	x	x	0
+I-FAC	0	1	O	O	territory	x	x	0
+O	0	2	O	O	is	x	x	0
+O	0	3	O	O	within	x	x	0
+O	0	4	O	O	easy	x	x	0
+B-WEA	0	5	O	O	artillery	x	x	0
+O	0	6	O	O	range	x	x	0
+O	0	7	O	O	of	x	x	0
+B-PER	0	8	O	O	Saddam	x	x	0
+I-PER	0	9	O	O	Hussein	x	x	0
+O	0	10	O	O	's	x	x	0
+O	0	11	O	O	forces	x	x	0
+O	0	12	O	O	and	x	x	0
+O	0	13	O	O	circling	x	x	0
+B-GPE	0	14	O	O	Kirkuk	x	x	0
+O	0	15	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	The	x	x	0
+O	0	1	O	O	oil	x	x	0
+O	0	2	O	O	capital	x	x	0
+O	0	3	O	O	of	x	x	0
+B-LOC	0	4	O	O	northern	x	x	0
+I-LOC	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	is	x	x	0
+O	0	7	O	O	visible	x	x	0
+O	0	8	O	O	behind	x	x	0
+B-PER	0	9	O	O	me	x	x	0
+O	0	10	O	O	,	x	x	0
+O	0	11	O	O	just	x	x	0
+O	0	12	O	O	over	x	x	0
+O	0	13	O	O	there	x	x	0
+O	0	14	O	O	,	x	x	0
+O	0	15	O	O	a	x	x	0
+O	0	16	O	O	harmless	x	x	0
+O	0	17	O	O	flare	x	x	0
+O	0	18	O	O	of	x	x	0
+O	0	19	O	O	burning	x	x	0
+O	0	20	O	O	gases	x	x	0
+O	0	21	O	O	is	x	x	0
+O	0	22	O	O	easily	x	x	0
+O	0	23	O	O	identifiable	x	x	0
+O	0	24	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraq	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	precious	x	x	0
+O	0	3	O	O	oil	x	x	0
+O	0	4	O	O	field	x	x	0
+O	0	5	O	O	remain	x	x	0
+O	0	6	O	O	intact	x	x	0
+O	0	7	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	Also	x	x	0
+O	0	1	O	O	intact	x	x	0
+O	0	2	O	O	,	x	x	0
+B-GPE	0	3	O	O	Kirkuk	x	x	0
+O	0	4	O	O	's	x	x	0
+O	0	5	O	O	defenses	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	the	x	x	0
+O	0	9	O	O	distant	x	x	0
+O	0	10	O	O	haze	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-GPE	0	0	O	O	Iraq	x	x	0
+O	0	1	O	O	's	x	x	0
+O	0	2	O	O	armed	x	x	0
+O	0	3	O	O	opposition	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	including	x	x	0
+B-PER	0	6	O	O	these	x	x	0
+I-PER	0	7	O	O	Kurds	x	x	0
+O	0	8	O	O	,	x	x	0
+O	0	9	O	O	waits	x	x	0
+O	0	10	O	O	on	x	x	0
+O	0	11	O	O	the	x	x	0
+O	0	12	O	O	sidelines	x	x	0
+O	0	13	O	O	to	x	x	0
+O	0	14	O	O	join	x	x	0
+O	0	15	O	O	the	x	x	0
+O	0	16	O	O	fray	x	x	0
+O	0	17	O	O	,	x	x	0
+O	0	18	O	O	if	x	x	0
+B-GPE	0	19	O	O	America	x	x	0
+O	0	20	O	O	asks	x	x	0
+O	0	21	O	O	.	x	x	0
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	freedom	x	x	0
+O	0	4	O	O	for	x	x	0
+B-GPE	0	5	O	O	Iraq	x	x	0
+O	0	6	O	O	.	x	x	0
+
+
+
+O	0	0	O	O	This	x	x	0
+O	0	1	O	O	is	x	x	0
+O	0	2	O	O	about	x	x	0
+O	0	3	O	O	the	x	x	0
+O	0	4	O	O	liberation	x	x	0
+O	0	5	O	O	of	x	x	0
+B-GPE	0	6	O	O	Iraq	x	x	0
+O	0	7	O	O	,	x	x	0
+O	0	8	O	O	and	x	x	0
+B-GPE	0	9	O	O	we	x	x	0
+O	0	10	O	O	Iraqis	x	x	0
+O	0	11	O	O	must	x	x	0
+O	0	12	O	O	shoulder	x	x	0
+O	0	13	O	O	the	x	x	0
+O	0	14	O	O	responsibility	x	x	0
+O	0	15	O	O	of	x	x	0
+O	0	16	O	O	helping	x	x	0
+O	0	17	O	O	in	x	x	0
+O	0	18	O	O	the	x	x	0
+O	0	19	O	O	process	x	x	0
+O	0	20	O	O	of	x	x	0
+O	0	21	O	O	liberation	x	x	0
+O	0	22	O	O	.	x	x	0
+
+O	0	0	O	O	And	x	x	0
+O	0	1	O	O	,	x	x	0
+O	0	2	O	O	says	x	x	0
+O	0	3	O	O	the	x	x	0
+B-GPE	0	4	O	O	Iraqi	x	x	0
+O	0	5	O	O	opposition	x	x	0
+O	0	6	O	O	,	x	x	0
+O	0	7	O	O	in	x	x	0
+O	0	8	O	O	winning	x	x	0
+O	0	9	O	O	this	x	x	0
+O	0	10	O	O	war	x	x	0
+O	0	11	O	O	.	x	x	0
+
+
+
+B-PER	0	0	O	O	Brent	x	x	0
+I-PER	0	1	O	O	Sadler	x	x	0
+O	0	2	O	O	,	x	x	0
+B-ORG	0	3	O	O	CNN	x	x	0
+O	0	4	O	O	,	x	x	0
+O	0	5	O	O	near	x	x	0
+B-GPE	0	6	O	O	Kirkuk	x	x	0
+O	0	7	O	O	in	x	x	0
+B-LOC	0	8	O	O	northern	x	x	0
+I-LOC	0	9	O	O	Iraq	x	x	0
+O	0	10	O	O	.	x	x	0
+
