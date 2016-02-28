@@ -36,7 +36,7 @@ def createVecFeatsLabels(dataFile,labelFile,wordToVecDictFile,conWin):
         Xdoc = getCtxtCorrVector(Xdoc,vecDim,conWin,len(document))
         XX = np.vstack((XX,Xdoc))
         
-    YY = np.zeros([1,21])
+    YY = np.zeros([1,27])
     for line in rawLabelData:
         document = line.strip('.').split()
         for i in range(0, len(document)): 
@@ -60,8 +60,36 @@ def getCtxtCorrVector(Xdoc,vecDim,conWin,docLen):
     return XdocCorr
     
 def getLabelVector(label):
-    labList = ['B-TIME','I-TIME','B-Numeric','I-Numeric','B-Contact-Info','I-Contact-Info','B-PER','I-PER','B-ORG','I-ORG','B-LOC','I-LOC','B-GPE','I-GPE','B-FAC','I-FAC','B-VEH','I-VEH','B-WEA','I-WEA','O']
+    labList = ['B-Contact-Info',
+                'B-Crime',
+                'B-FAC',
+                'B-GPE',
+                'B-Job-Title',
+                'B-LOC',
+                'B-Numeric',
+                'B-ORG',
+                'B-PER',
+                'B-Sentence',
+                'B-TIME',
+                'B-VEH',
+                'B-WEA',
+                'I-Contact-Info',
+                'I-Crime',
+                'I-FAC',
+                'I-GPE',
+                'I-Job-Title',
+                'I-LOC',
+                'I-Numeric',
+                'I-ORG',
+                'I-PER',
+                'I-Sentence',
+                'I-TIME',
+                'I-VEH',
+                'I-WEA',
+                'O']
     vec = np.zeros(len(labList))
     vec[labList.index(label)] = 1
     return vec
+    
+
     

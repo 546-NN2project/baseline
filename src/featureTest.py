@@ -23,5 +23,5 @@ ctxWin = 2 #context window, 2 words before and 2 after (total 5)
 X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,ctxWin)
 
 # print just the first vector of the vectorized data
-print X
-print Y
+#print X
+#print Y
