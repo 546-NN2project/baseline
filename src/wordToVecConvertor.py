@@ -31,7 +31,7 @@ def createVecFeatsLabels(dataFile,labelFile,wordToVecDictFile,conWin):
     lno = 1
     for line in rawTextData:
         print "reading document %d" % lno
-        document = line.strip('.').split()
+        document = line.strip().split()
         ndoc = len(document)
         Xdoc = np.zeros([ndoc,vecDim])
         wCase = np.zeros(ndoc)
@@ -43,7 +43,7 @@ def createVecFeatsLabels(dataFile,labelFile,wordToVecDictFile,conWin):
         lno += 1    
     YY = np.zeros([1,27])
     for line in rawLabelData:
-        document = line.strip('.').split()
+        document = line.strip().split()
         for i in range(0, len(document)): 
             YY = np.vstack((YY,getLabelVector(document[i]))) 
     XX = np.delete(XX, (0), axis=0)
