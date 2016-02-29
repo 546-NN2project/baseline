@@ -16,12 +16,11 @@ load the word2vec dictionary and test a simple word to get it vector
 read the training data file, load word2vec dictionary are return vector
 embeddings + 
 '''
-trainingDataFile = '../data/traindata_subset.txt'
-trainingLabelFile = '../data/trainlabel_subset.txt'
+trainingDataFile = '../data/traindata.txt'
+trainingLabelFile = '../data/trainlabel.txt'
 wordToVecDictFile = '../../glove.6B/glove.6B.50d.txt'
 ctxWin = 2 #context window, 2 words before and 2 after (total 5)
 X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,ctxWin)
-
-# print just the first vector of the vectorized data
+print 'we are done'
 #print X
 #print Y
