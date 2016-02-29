@@ -28,7 +28,9 @@ def createVecFeatsLabels(dataFile,labelFile,wordToVecDictFile,conWin):
     wordVecDict = readDictData(wordToVecDictFile)
     vecDim = len(wordVecDict['hi'])
     XX = np.zeros([1,vecDim*(2*conWin+1)+1])
+    lno = 1
     for line in rawTextData:
+        print "reading document %d" % lno
         document = line.strip('.').split()
         ndoc = len(document)
         Xdoc = np.zeros([ndoc,vecDim])
@@ -38,7 +40,7 @@ def createVecFeatsLabels(dataFile,labelFile,wordToVecDictFile,conWin):
             wCase[i] = isWordUpper(document[i])
         Xdoc = getCtxtCorrVector(Xdoc,vecDim,conWin,len(document),wCase)
         XX = np.vstack((XX,Xdoc))
-            
+        lno += 1    
     YY = np.zeros([1,27])
     for line in rawLabelData:
         document = line.strip('.').split()
