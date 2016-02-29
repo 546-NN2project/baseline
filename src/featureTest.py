@@ -22,5 +22,5 @@ wordToVecDictFile = '../../glove.6B/glove.6B.50d.txt'
 ctxWin = 2 #context window, 2 words before and 2 after (total 5)
 X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,ctxWin)
 print 'we are done'
-#print X
-#print Y
+np.savetxt('features_Xnew_2.txt', X)
+np.savetxt('labels_Ynew_2.txt', Y)
