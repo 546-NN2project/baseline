@@ -6,21 +6,55 @@ import sys
 import timeit
 
 import numpy as np
+import wordToVecConvertor as word2vec
+import time
+from sklearn.cross_validation import train_test_split
+
+try:
+   import cPickle as pickle
+except:
+   import pickle
+
 import theano
 import theano.tensor as T
 
 def load_data():
-	'''
-	Outputs 3 datasets: train_set_x, valid_set_x, test_set_x
-	      3 label sets: train_set_y, valid_set_y, test_set_y
-	The ratio can be taken to be : 8:1:1
-	'''
-	raise NotImplementedError
+    '''
+    Loads the data, turns into word2vec representation, and splits
+    into training, validation, and testing sets with ratio 8:1:1
+    '''
+    trainingDataFile = '../data/traindata.txt'
+    trainingLabelFile = '../data/trainlabel.txt'
+    wordToVecDictFile = '../data/glove/glove.6B.50d.txt'
+    print('Vectorizing the features and labels...')
+    start_time = timeit.default_timer()
+    X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,window_size)
+    end_time = timeit.default_timer()
+    print('Pickling the vectorization files')
+    # pickling X-file
+    clean_data = open('../data/clean_data.pkl','wb')
+    pickle.dump(X, clean_data)
+    clean_data.close()
+    # pickling the labels-file
+    clean_label = open('../data/clean_label.pkl', 'wb')
+    pickle.dump(Y, clean_label)
+    clean_label.close()
+    print(('The vectorization ran for %.2fm' % ((end_time - start_time) / 60.)))
+    print('Splitting into training, validation, and testing sets ...')
+    X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
+    X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
+    return X_train, X_val, X_test, y_train, y_val, y_test
+
+def splitting_data():
+    X = pickle.load(open('../data/clean_data.pkl','rb'))
+    Y = pickle.load(open('../data/clean_label.pkl','rb'))
+    unit = len(Y)/10
+    X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
+    X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
+
+
 
 def build_model():
-	'''
-	Building the actual model
-	'''
     print('... building the model')
 
     # allocate symbolic variables for the data
@@ -99,9 +133,6 @@ def build_model():
     )
 
 def train_model():
-	'''
-	Train the model
-	'''
     print('... training')
 
     # early-stopping parameters
@@ -180,20 +211,21 @@ def train_model():
     print(('Optimization complete. Best validation score of %f %% '
            'obtained at iteration %i, with test performance %f %%') %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))
-    print(('The code for file ' +
-           os.path.split('__file__')[1] +
-           ' ran for %.2fm' % ((end_time - start_time) / 60.)), file=sys.stderr)
+    print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
+    best_model = open('best_model.pkl','wb')
+    pickle.dump(classifier, best_model)
+    best_model.close()
 
 if __name__ == '__main__':
     # word2vec dimension	
-    word_vec_dim = 25
+    word_vec_dim = 50
     # context window size, default of 5 means look at 5 words before and after the current word
     window_size = 5
     # the dimension of each feature vector
     n_in = (2*window_size + 1)*word_vec_dim
     # number of hidden nodes
     n_hidden = 300
-    load_data()
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
     build_model()
     train_model()
     
