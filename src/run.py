@@ -212,9 +212,10 @@ def build_and_train():
            'obtained at iteration %i, with test performance %f %%') %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))
     print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
-    best_model = open('best_model.pkl','wb')
-    pickle.dump(classifier, best_model)
-    best_model.close()
+    #best_model = open('best_model.pkl','wb')
+    #pickle.dump(classifier, best_model)
+    #best_model.close()
+    #return classifier
 
 def shared_dataset(data_xy, borrow=True):
         """ Function that loads the dataset into shared variables
@@ -256,7 +257,7 @@ if __name__ == '__main__':
     L2_reg=0.0001
     n_epochs=1000
     batch_size=20
-    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = splitting_data()
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
     y_train = [dummifier(train_set_y[i]) for i in range(train_set_y.shape[0])]
     y_valid = [dummifier(valid_set_y[i]) for i in range(valid_set_y.shape[0])]
     y_test = [dummifier(test_set_y[i]) for i in range(test_set_y.shape[0])]
