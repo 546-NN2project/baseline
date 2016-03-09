@@ -3,6 +3,7 @@ import numpy as np
 import operator
 import json
 import scipy.io as sio
+import time
 
 def readGloveData(glove_word_vec_file):
     f = open(glove_word_vec_file, 'r')
@@ -23,9 +24,11 @@ def getWordVector(word, word_vec_dict):
 
 
 def main():
-    glove_word_vec_file = './../data/glove/glove.6B.50d.txt'
+    glove_word_vec_file = '../../glove.6B/glove.6B.50d.txt'
     word_vec_dict = readGloveData(glove_word_vec_file)
+    t = time.time()
     print getWordVector('hello', word_vec_dict)
-
+    elapsed = time.time() - t
+    print elapsed
 if __name__ == "__main__":
     main()

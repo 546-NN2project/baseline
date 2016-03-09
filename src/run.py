@@ -6,21 +6,57 @@ import sys
 import timeit
 
 import numpy as np
+import wordToVecConvertor as word2vec
+import time
+from sklearn.cross_validation import train_test_split
+
+try:
+   import cPickle as pickle
+except:
+   import pickle
+
 import theano
 import theano.tensor as T
+from FFNN import *
 
 def load_data():
-	'''
-	Outputs 3 datasets: train_set_x, valid_set_x, test_set_x
-	      3 label sets: train_set_y, valid_set_y, test_set_y
-	The ratio can be taken to be : 8:1:1
-	'''
-	raise NotImplementedError
+    '''
+    Loads the data, turns into word2vec representation, and splits
+    into training, validation, and testing sets with ratio 8:1:1
+    '''
+    trainingDataFile = '../data/traindata.txt'
+    trainingLabelFile = '../data/trainlabel.txt'
+    wordToVecDictFile = '../data/glove/glove.6B.50d.txt'
+    print('Vectorizing the features and labels...')
+    start_time = timeit.default_timer()
+    X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,window_size)
+    end_time = timeit.default_timer()
+    print('Pickling the vectorization files')
+    # pickling X-file
+    clean_data = open('../data/clean_data.pkl','wb')
+    pickle.dump(X, clean_data)
+    clean_data.close()
+    # pickling the labels-file
+    clean_label = open('../data/clean_label.pkl', 'wb')
+    pickle.dump(Y, clean_label)
+    clean_label.close()
+    print(('The vectorization ran for %.2fm' % ((end_time - start_time) / 60.)))
+    print('Splitting into training, validation, and testing sets ...')
+    X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
+    X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
+    return X_train, X_val, X_test, y_train, y_val, y_test
 
-def build_model():
-	'''
-	Building the actual model
-	'''
+def splitting_data():
+    print('Unpickling the data ...')
+    X = pickle.load(open('../data/clean_data.pkl','rb'))
+    Y = pickle.load(open('../data/clean_label.pkl','rb'))
+    print('Splitting the data into train, validation, test sets with ratio 8:1:1 ...')
+    X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
+    X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
+    return X_train, X_val, X_test, y_train, y_val, y_test
+
+
+def build_and_train():
     print('... building the model')
 
     # allocate symbolic variables for the data
@@ -29,7 +65,7 @@ def build_model():
     y = T.ivector('y')  # the labels are presented as 1D vector of
                         # [int] labels
 
-    rng = numpy.random.RandomState(1234)
+    rng = np.random.RandomState(1234)
 
     # construct the MLP class
     classifier = FFNN(
@@ -97,11 +133,6 @@ def build_model():
             y: train_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
-
-def train_model():
-	'''
-	Train the model
-	'''
     print('... training')
 
     # early-stopping parameters
@@ -115,7 +146,7 @@ def train_model():
                                   # on the validation set; in this case we
                                   # check every epoch
 
-    best_validation_loss = numpy.inf
+    best_validation_loss = np.inf
     best_iter = 0
     test_score = 0.
     start_time = timeit.default_timer()
@@ -135,7 +166,7 @@ def train_model():
                 # compute zero-one loss on validation set
                 validation_losses = [validate_model(i) for i
                                      in range(n_valid_batches)]
-                this_validation_loss = numpy.mean(validation_losses)
+                this_validation_loss = np.mean(validation_losses)
 
                 print(
                     'epoch %i, minibatch %i/%i, validation error %f %%' %
@@ -162,7 +193,7 @@ def train_model():
                     # test it on the test set
                     test_losses = [test_model(i) for i
                                    in range(n_test_batches)]
-                    test_score = numpy.mean(test_losses)
+                    test_score = np.mean(test_losses)
 
                     print(('     epoch %i, minibatch %i/%i, test error of '
                            'best model %f %%') %
@@ -180,20 +211,64 @@ def train_model():
     print(('Optimization complete. Best validation score of %f %% '
            'obtained at iteration %i, with test performance %f %%') %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))
-    print(('The code for file ' +
-           os.path.split('__file__')[1] +
-           ' ran for %.2fm' % ((end_time - start_time) / 60.)), file=sys.stderr)
+    print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
+    #best_model = open('best_model.pkl','wb')
+    #pickle.dump(classifier, best_model)
+    #best_model.close()
+    #return classifier
+
+def shared_dataset(data_xy, borrow=True):
+        """ Function that loads the dataset into shared variables
+
+        The reason we store our dataset in shared variables is to allow
+        Theano to copy it into the GPU memory (when code is run on GPU).
+        Since copying data into the GPU is slow, copying a minibatch everytime
+        is needed (the default behaviour if the data is not in a shared
+        variable) would lead to a large decrease in performance.
+        """
+        data_x, data_y = data_xy
+        shared_x = theano.shared(np.asarray(data_x,
+                                               dtype=theano.config.floatX),
+                                 borrow=borrow)
+        shared_y = theano.shared(np.asarray(data_y,
+                                               dtype=theano.config.floatX),
+                                 borrow=borrow)
+        # When storing data on the GPU it has to be stored as floats
+        # therefore we will store the labels as ``floatX`` as well
+        # (``shared_y`` does exactly that). But during our computations
+        # we need them as ints (we use labels as index, and if they are
+        # floats it doesn't make sense) therefore instead of returning
+        # ``shared_y`` we will have to cast it to int. This little hack
+        # lets ous get around this issue
+        return shared_x, T.cast(shared_y, 'int32')
+
+def dummifier(vector):
+    return list(vector).index(1)
+
 
 if __name__ == '__main__':
-    # word2vec dimension	
-    word_vec_dim = 25
-    # context window size, default of 5 means look at 5 words before and after the current word
-    window_size = 5
-    # the dimension of each feature vector
-    n_in = (2*window_size + 1)*word_vec_dim
-    # number of hidden nodes
-    n_hidden = 300
-    load_data()
-    build_model()
-    train_model()
-    
+    n_in=551
+    n_out = 27
+    window_size=5
+    word_vec_dim=50
+    n_hidden=300
+    learning_rate=0.01
+    L1_reg=0.00
+    L2_reg=0.0001
+    n_epochs=1000
+    batch_size=20
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
+    y_train = [dummifier(train_set_y[i]) for i in range(train_set_y.shape[0])]
+    y_valid = [dummifier(valid_set_y[i]) for i in range(valid_set_y.shape[0])]
+    y_test = [dummifier(test_set_y[i]) for i in range(test_set_y.shape[0])]
+    train_set = (train_set_x, y_train)
+    valid_set = (valid_set_x, y_valid)
+    test_set = (test_set_x, y_test)
+    train_set_x, train_set_y = shared_dataset(train_set,borrow=True)
+    valid_set_x, valid_set_y = shared_dataset(valid_set,borrow=True)
+    test_set_x, test_set_y = shared_dataset(test_set,borrow=True)
+
+    n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
+    build_and_train()

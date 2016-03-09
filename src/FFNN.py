@@ -40,10 +40,10 @@ class HiddenLayer(object):
         self.input = input
         # Initializing the weights
         if W is None:
-            W_values = numpy.asarray(
+            W_values = np.asarray(
                 rng.uniform(
-                    low=-numpy.sqrt(6. / (n_in + n_out)),
-                    high=numpy.sqrt(6. / (n_in + n_out)),
+                    low=-np.sqrt(6. / (n_in + n_out)),
+                    high=np.sqrt(6. / (n_in + n_out)),
                     size=(n_in, n_out)
                 ),
                 dtype=theano.config.floatX
@@ -54,7 +54,7 @@ class HiddenLayer(object):
             W = theano.shared(value=W_values, name='W', borrow=True)
 
         if b is None:
-            b_values = numpy.zeros((n_out,), dtype=theano.config.floatX)
+            b_values = np.zeros((n_out,), dtype=theano.config.floatX)
             b = theano.shared(value=b_values, name='b', borrow=True)
 
         self.W = W
@@ -97,7 +97,7 @@ class LogisticRegression(object):
         """
         # initialize with 0 the weights W as a matrix of shape (n_in, n_out)
         self.W = theano.shared(
-            value=numpy.zeros(
+            value=np.zeros(
                 (n_in, n_out),
                 dtype=theano.config.floatX
             ),
@@ -106,7 +106,7 @@ class LogisticRegression(object):
         )
         # initialize the biases b as a vector of n_out 0s
         self.b = theano.shared(
-            value=numpy.zeros(
+            value=np.zeros(
                 (n_out,),
                 dtype=theano.config.floatX
             ),
