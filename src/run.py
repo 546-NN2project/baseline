@@ -18,6 +18,14 @@ except:
 import theano
 import theano.tensor as T
 from FFNN import *
+#import evaluate 
+import FeatureProcessing
+from sklearn.metrics import f1_score
+from sklearn.metrics import precision_score
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import recall_score
+import itertools
+
 
 def load_data():
     '''
@@ -29,22 +37,25 @@ def load_data():
     wordToVecDictFile = '../data/glove/glove.6B.50d.txt'
     print('Vectorizing the features and labels...')
     start_time = timeit.default_timer()
-    X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,window_size)
+    #X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,window_size)
+    X, Y = FeatureProcessing.featureProcess(trainingDataFile,trainingLabelFile,wordToVecDictFile,window_size)
     end_time = timeit.default_timer()
-    print('Pickling the vectorization files')
+    #print('Pickling the vectorization files')
     # pickling X-file
-    clean_data = open('../data/clean_data.pkl','wb')
-    pickle.dump(X, clean_data)
-    clean_data.close()
+    #clean_data = open('../data/clean_data.pkl','wb')
+    #pickle.dump(X, clean_data)
+    #clean_data.close()
     # pickling the labels-file
-    clean_label = open('../data/clean_label.pkl', 'wb')
-    pickle.dump(Y, clean_label)
-    clean_label.close()
+    #clean_label = open('../data/clean_label.pkl', 'wb')
+    #pickle.dump(Y, clean_label)
+    #clean_label.close()
+    print("the size of the dataset and the label sets are %d and %d") %(len(X),len(Y))
     print(('The vectorization ran for %.2fm' % ((end_time - start_time) / 60.)))
     print('Splitting into training, validation, and testing sets ...')
     X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
     X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
     return X_train, X_val, X_test, y_train, y_val, y_test
+
 
 def splitting_data():
     print('Unpickling the data ...')
@@ -56,8 +67,8 @@ def splitting_data():
     return X_train, X_val, X_test, y_train, y_val, y_test
 
 
-def build_and_train():
-    print('... building the model')
+def build_and_train(optimizing_function):
+    print('building the model ... ')
 
     # allocate symbolic variables for the data
     index = T.lscalar()  # index to a [mini]batch
@@ -87,23 +98,39 @@ def build_and_train():
 
     # compiling a Theano function that computes the mistakes that are made
     # by the model on a minibatch
-    test_model = theano.function(
+    test_model_accuracy = theano.function(
         inputs=[index],
         outputs=classifier.errors(y),
         givens={
-            x: test_set_x[index * batch_size:(index + 1) * batch_size],
-            y: test_set_y[index * batch_size:(index + 1) * batch_size]
+        x: test_set_x[index * batch_size: (index + 1) * batch_size],
+        y: test_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
 
-    validate_model = theano.function(
+    test_model = theano.function(
+    inputs=[index],
+    outputs=[y, classifier.y_pred],
+    givens={
+        x: test_set_x[index * batch_size: (index + 1) * batch_size],
+        y: test_set_y[index * batch_size: (index + 1) * batch_size]
+    }
+)
+    validate_model_accuracy = theano.function(
         inputs=[index],
         outputs=classifier.errors(y),
         givens={
-            x: valid_set_x[index * batch_size:(index + 1) * batch_size],
-            y: valid_set_y[index * batch_size:(index + 1) * batch_size]
+        x: valid_set_x[index * batch_size: (index + 1) * batch_size],
+        y: valid_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
+    validate_model = theano.function(
+    inputs=[index],
+    outputs=[y, classifier.y_pred],
+    givens={
+        x: valid_set_x[index * batch_size: (index + 1) * batch_size],
+        y: valid_set_y[index * batch_size: (index + 1) * batch_size]
+    }
+)
 
     # compute the gradient of cost with respect to theta (sotred in params)
     # the resulting gradients will be stored in a list gparams
@@ -133,7 +160,7 @@ def build_and_train():
             y: train_set_y[index * batch_size: (index + 1) * batch_size]
         }
     )
-    print('... training')
+    print('training ... ')
 
     # early-stopping parameters
     patience = 10000  # look at this many examples regardless
@@ -164,16 +191,34 @@ def build_and_train():
 
             if (iter + 1) % validation_frequency == 0:
                 # compute zero-one loss on validation set
-                validation_losses = [validate_model(i) for i
-                                     in range(n_valid_batches)]
-                this_validation_loss = np.mean(validation_losses)
+
+                # Otimizing for accuracy
+                validation_loss = [validate_model_accuracy(i) for i in range(n_valid_batches)]
+                this_validation_loss = np.mean(validation_loss)
+
+                # Optimizing for precision
+                validation_precision = [np.mean(precision_score(*validate_model(i),pos_label=None,average=None)[0:26]) for i in range(n_valid_batches)]
+                this_validation_precision = np.mean(validation_precision)
+
+                # Optimizing for recall
+                validation_recall = [np.mean(recall_score(*validate_model(i),pos_label=None,average=None)[0:26]) for i in range(n_valid_batches)]
+                this_validation_recall = np.mean(validation_recall)
+
+                # Optimizing for f-score
+                validation_fscore = [np.mean(f1_score(*validate_model(i),pos_label=None,average=None)[0:26]) for i in range(n_valid_batches)]
+                this_validation_fscore = np.mean(validation_fscore)
+
+
 
                 print(
-                    'epoch %i, minibatch %i/%i, validation error %f %%' %
+                    'epoch %i, minibatch %i/%i, average validation precision %f, validation recall %f, validation fscore %f, and loss %f %%' %
                     (
                         epoch,
                         minibatch_index + 1,
                         n_train_batches,
+                        this_validation_precision * 100,
+                        this_validation_recall * 100,
+                        this_validation_fscore * 100,
                         this_validation_loss * 100.
                     )
                 )
@@ -191,7 +236,7 @@ def build_and_train():
                     best_iter = iter
 
                     # test it on the test set
-                    test_losses = [test_model(i) for i
+                    test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)[0:26]) for i
                                    in range(n_test_batches)]
                     test_score = np.mean(test_losses)
 
@@ -199,6 +244,7 @@ def build_and_train():
                            'best model %f %%') %
                           (epoch, minibatch_index + 1, n_train_batches,
                            test_score * 100.))
+                    #return classifier
                     # save the best model
                     #with open('best_model.pkl', 'wb') as f:
                     #    pickle.dump(classifier, f)
@@ -212,10 +258,18 @@ def build_and_train():
            'obtained at iteration %i, with test performance %f %%') %
           (best_validation_loss * 100., best_iter + 1, test_score * 100.))
     print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
-    #best_model = open('best_model.pkl','wb')
+    #best_model_weights = classifier.save_weights()
     #pickle.dump(classifier, best_model)
     #best_model.close()
     #return classifier
+    #predict_model = theano.function(
+    #    inputs=[classifier.input],
+    #    outputs=classifier.y_pred
+    #    )
+    #predicted_values = predict_model(test_set_x.eval()[:20])
+    #print("Predicted values for the first 20 examples in test set and true values:")
+    #for pred,true in itertools.izip_longest(predicted_values, test_set_y[:20]): print pred,true
+
 
 def shared_dataset(data_xy, borrow=True):
         """ Function that loads the dataset into shared variables
@@ -242,8 +296,15 @@ def shared_dataset(data_xy, borrow=True):
         # lets ous get around this issue
         return shared_x, T.cast(shared_y, 'int32')
 
-def dummifier(vector):
-    return list(vector).index(1)
+#def predict(classifier):
+#    classifier = classifier
+#    predict_model = theano.function(
+#        inputs=[classifier.input],
+#        outputs=classifier.y_pred
+#        )
+#    predicted_values = predict_model(test_set_x.eval()[:20])
+#    print("Predicted values for the first 20 examples in test set and true values:")
+#e    for pred,true in itertools.izip_longest(predicted_values, test_set_y[:20]): print pred,true
 
 
 if __name__ == '__main__':
@@ -258,17 +319,14 @@ if __name__ == '__main__':
     n_epochs=1000
     batch_size=20
     train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
-    y_train = [dummifier(train_set_y[i]) for i in range(train_set_y.shape[0])]
-    y_valid = [dummifier(valid_set_y[i]) for i in range(valid_set_y.shape[0])]
-    y_test = [dummifier(test_set_y[i]) for i in range(test_set_y.shape[0])]
-    train_set = (train_set_x, y_train)
-    valid_set = (valid_set_x, y_valid)
-    test_set = (test_set_x, y_test)
-    train_set_x, train_set_y = shared_dataset(train_set,borrow=True)
-    valid_set_x, valid_set_y = shared_dataset(valid_set,borrow=True)
-    test_set_x, test_set_y = shared_dataset(test_set,borrow=True)
+    train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
+    valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
+    test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
 
     n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
     n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
     n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
-    build_and_train()
+
+    classifier = build_and_train(precision_score)
+    #classifier = build_and_train(precision_score)
+    #predict(classifier)
