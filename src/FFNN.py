@@ -8,6 +8,7 @@ import numpy as np
 
 import theano
 import theano.tensor as T
+from sklearn.metrics import f1_score
 
 
 class HiddenLayer(object):
@@ -173,6 +174,36 @@ class LogisticRegression(object):
             return T.mean(T.neq(self.y_pred, y))
         else:
             raise NotImplementedError()
+
+
+    #def Fscore(self, y):
+    #    """
+    #    REturn a float representing the f1-score of a minibatch
+    #
+    #    :type y: theano.tensor.TensorType
+    #    :param y: correct label for each input example, i.e. true_y
+    #    """
+    #
+    #    if y.ndim != self.y_pred.ndim:
+    #        raise TypeError(
+    #            'y should have the same shape as self.y_pred',
+    #            ('y', y.type, 'y_pred', self.y_pred.type)
+    #           )
+    #        if y.dtype.startswith('int'):
+    #            cl_idx = np.arange(27)[:, np.newaxis] 
+    #            true_pos = (T.eq(y, cl_idx) * T.eq(self.y_pred, cl_idx)).sum(axis=1) 
+    #            true_neg = (T.neq(y, cl_idx) * T.neq(y_pred, cl_idx)).sum(axis=1) 
+    #            false_pos = (T.neq(y, cl_idx) * T.eq(y_pred, cl_idx)).sum(axis=1) 
+    #            false_neg = (T.eq(y, cl_idx) * T.eq(y_pred, cl_idx)).sum(axis=1) 
+
+    #            recall = true_pos / (true_pos + false_neg) 
+    #            prec = true_pos / (true_pos + false_pos)
+    #            fscore = 2 * (prec * recall) / (prec + recall)
+    #            return T.mean(fscore)
+    #        else:
+    #            raise NotImplementedError()
+
+
     
 class FFNN(object):    
     def __init__(self, rng, input, n_in, n_hidden, n_out):
@@ -253,6 +284,7 @@ class FFNN(object):
         )
         # same holds for the function computing the number of errors
         self.errors = self.logRegressionLayer.errors
+        self.y_pred = self.logRegressionLayer.y_pred
 
         # the parameters of the model are the parameters of the two layer it is
         # made out of
