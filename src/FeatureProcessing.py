@@ -4,6 +4,8 @@ Feature processing functions
 """
 import pandas as pd
 import numpy as np
+import json, os
+from pprint import pprint
 #from nltk.tag import stanford
 
 ##
@@ -119,4 +121,28 @@ def featureProcess(DataFile,LabelFile,wordToVecDictFile,window_size):
         ln += 1
     return XX, YY
 
+def featureProcessRel(jsonPath):
+    """
+    Given relation data in json files, returns the feature set and labels
+    """
+    relist = []
+    json_files = [pos_json for pos_json in os.listdir(jsonPath) if pos_json.endswith('.json')]
+    if (".DS_S.json" in json_files):
+        json_files.remove(".DS_S.json") # removing the ghost json file from the list if it exists
+    
+    for js in json_files:
+        with open(os.path.join(jsonPath, js)) as json_file:
+            data = json.load(json_file)
+            for dicts in data:
+                for i in range(0,len(data[dicts]["relations"])):
+                    #relist.append([data[dicts]["relations"][i]["arg1_string"],data[dicts]["relations"][i]["arg2_string"],data[dicts]["relations"][i]["relation_type"]])
+                    relist.append(data[dicts]["relations"][i]["relation_type"])
+
+    
+    return relist
+
+# label index for relation type
+def getLabelIndexRel(label):
+    labList = [u'PHYS', u'PART-WHOLE', u'ART', u'ORG-AFF', u'PER-SOC', u'GEN-AFF']
+    return labList.index(label)
 
