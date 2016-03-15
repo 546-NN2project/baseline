@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import json, os
 from pprint import pprint
+from operator import add
 #from nltk.tag import stanford
 
 ##
@@ -121,25 +122,57 @@ def featureProcess(DataFile,LabelFile,wordToVecDictFile,window_size):
         ln += 1
     return XX, YY
 
-def featureProcessRel(jsonPath):
+def featureProcessRel(jsonPath,wordToVecDictFile,wvecdim):
     """
     Given relation data in json files, returns the feature set and labels
     """
-    relist = []
+    # feature data and label data
+    XX = []
+    YY = []    
+    wordVecDict = readDictData(wordToVecDictFile)
+    
     json_files = [pos_json for pos_json in os.listdir(jsonPath) if pos_json.endswith('.json')]
     if (".DS_S.json" in json_files):
         json_files.remove(".DS_S.json") # removing the ghost json file from the list if it exists
     
     for js in json_files:
         with open(os.path.join(jsonPath, js)) as json_file:
+            #print "reading json file: " + js
             data = json.load(json_file)
             for dicts in data:
                 for i in range(0,len(data[dicts]["relations"])):
-                    #relist.append([data[dicts]["relations"][i]["arg1_string"],data[dicts]["relations"][i]["arg2_string"],data[dicts]["relations"][i]["relation_type"]])
-                    relist.append(data[dicts]["relations"][i]["relation_type"])
+                    line1 = str(data[dicts]["relations"][i]["arg1_string"])
+                    line2 = str(data[dicts]["relations"][i]["arg2_string"])
 
+                    tokenized_sentence1 = line1.strip().split()
+                    tokenized_sentence2 = line2.strip().split()
+
+                    posdiff = int(data[dicts]["relations"][i]["arg2_start"]) - int(data[dicts]["relations"][i]["arg1_end"])
+                    
+                    # add word vectors for tokens of first entity
+                    tempX1 = [0]*wvecdim
+                    upval1 = [0]
+                    for token in tokenized_sentence1:
+                        tempX1 = map(add, tempX1, getWordVector(token,wordVecDict))
+                        if token.isupper():
+                            upval2 = isWordUpper(token)
+                    #XX.append(tempX.append(upval))
+
+                    # add word vectors for tokens of second entity
+                    tempX2 = [0]*wvecdim
+                    upval2 = [0]
+                    for token in tokenized_sentence2:
+                        tempX2 = map(add, tempX2, getWordVector(token,wordVecDict))
+                        if token.isupper():
+                            upval2 = isWordUpper(token)
+                    
+                    X = [posdiff] + tempX1 + upval1 + tempX2 + upval2
+                    XX.append(X)
+                    #print XX
+
+                    YY.append(getLabelIndexRel(data[dicts]["relations"][i]["relation_type"]))
     
-    return relist
+    return XX, YY
 
 # label index for relation type
 def getLabelIndexRel(label):

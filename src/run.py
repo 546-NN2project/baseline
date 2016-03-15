@@ -34,7 +34,7 @@ def load_data():
     '''
     trainingDataFile = '../data/traindata.txt'
     trainingLabelFile = '../data/trainlabel.txt'
-    wordToVecDictFile = '../data/glove/glove.6B.50d.txt'
+    wordToVecDictFile = '../../glove.6B/glove.6B.50d.txt'
     print('Vectorizing the features and labels...')
     start_time = timeit.default_timer()
     #X,Y = word2vec.createVecFeatsLabels(trainingDataFile,trainingLabelFile,wordToVecDictFile,window_size)
@@ -56,6 +56,33 @@ def load_data():
     X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
     return X_train, X_val, X_test, y_train, y_val, y_test
 
+def load_data_rel():
+    '''
+    Loads the data, turns into word2vec representation, and splits
+    into training, validation, and testing sets with ratio 8:1:1
+    '''
+    wordToVecDictFile = '../../glove.6B/glove.6B.50d.txt'
+    jfolder = '../../edited_json_output/'
+    wvecdim = 50
+    print('Vectorizing the features and labels...')
+    start_time = timeit.default_timer()
+    X,Y = FeatureProcessing.featureProcessRel(jfolder,wordToVecDictFile, wvecdim)
+    end_time = timeit.default_timer()
+    #print('Pickling the vectorization files')
+    # pickling X-file
+    #clean_data = open('../data/clean_data.pkl','wb')
+    #pickle.dump(X, clean_data)
+    #clean_data.close()
+    # pickling the labels-file
+    #clean_label = open('../data/clean_label.pkl', 'wb')
+    #pickle.dump(Y, clean_label)
+    #clean_label.close()
+    print("the size of the dataset and the label sets are %d and %d") %(len(X),len(Y))
+    print(('The vectorization ran for %.2fm' % ((end_time - start_time) / 60.)))
+    print('Splitting into training, validation, and testing sets ...')
+    X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
+    X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
+    return X_train, X_val, X_test, y_train, y_val, y_test
 
 def splitting_data():
     print('Unpickling the data ...')
@@ -318,7 +345,33 @@ if __name__ == '__main__':
     L2_reg=0.0001
     n_epochs=1000
     batch_size=20
+    
+    print "RUNNING THE NER TRAINING"
     train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
+    train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
+    valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
+    test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
+
+    n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
+
+    classifier = build_and_train(precision_score)
+    
+
+    print "RUNNING THE RELATION EXTRACTION"
+    n_in=103
+    n_out = 6
+    window_size=0
+    word_vec_dim=50
+    n_hidden=300
+    learning_rate=0.01
+    L1_reg=0.00
+    L2_reg=0.0001
+    n_epochs=1000
+    batch_size=20
+
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data_rel()
     train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
     valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
     test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
