@@ -7,6 +7,14 @@ import numpy as np
 import json, os
 from pprint import pprint
 from operator import add
+import sys
+import re
+sys.dont_write_bytecode = True
+try:
+   import cPickle as pickle
+except:
+   import pickle
+
 #from nltk.tag import stanford
 
 ##
@@ -122,7 +130,7 @@ def featureProcess(DataFile,LabelFile,wordToVecDictFile,window_size):
         ln += 1
     return XX, YY
 
-def featureProcessRel(jsonPath,wordToVecDictFile,wvecdim):
+def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
     """
     Given relation data in json files, returns the feature set and labels
     """
@@ -131,47 +139,81 @@ def featureProcessRel(jsonPath,wordToVecDictFile,wvecdim):
     YY = []    
     wordVecDict = readDictData(wordToVecDictFile)
     
-    json_files = [pos_json for pos_json in os.listdir(jsonPath) if pos_json.endswith('.json')]
-    if (".DS_S.json" in json_files):
-        json_files.remove(".DS_S.json") # removing the ghost json file from the list if it exists
+    #json_files = [pos_json for pos_json in os.listdir(jsonPath) if pos_json.endswith('.json')]
+    #if (".DS_S.json" in json_files):
+    #    json_files.remove(".DS_S.json") # removing the ghost json file from the list if it exists
+    # load the relations mention file
+    data = pickle.load(open(relFile))
+    passRel = 0
+    totalRel = 0
+    for dicts in range(0,len(data)):
+        for sent in range(0,len(data[dicts])):
+            sentStr = data[dicts][sent]['sentence']
+            #sentStrTkn = sentStr.replace(',',' ').replace("'",' ').replace(".",' ').strip().split() #tokenized sentence
+            sentStrTkn = re.sub(r"[^\w ]", " ", sentStr).strip().split()
+
+
+            for rel in range(0,len(data[dicts][sent]['relations'])):
+                line1 = data[dicts][sent]['relations'][rel]['arg1_string']
+                line2 = data[dicts][sent]['relations'][rel]['arg2_string']    
+                if (line1 in sentStr) and (line2 in sentStr):
+                    sbStr = 0
+                    if line1 in line2:
+                        sbStr = 1
+                    elif line2 in line1:
+                        sbStr = 1
+                    print 'dicts: '+ str(dicts) + ' sent: ' + str(sent) + ' relation: ' + str(rel) 
+                    #tokenized_sentence1 = line1.replace(',',' ').replace("'",' ').replace(".",' ').strip().split()
+                    #tokenized_sentence2 = line2.replace(',',' ').replace("'",' ').replace(".",' ').strip().split()
+                    #tokenized_sentence1 = re.findall(r"[\w']+", line1)
+                    #tokenized_sentence2 = re.findall(r"[\w']+", line2)
+                    tokenized_sentence1 = re.sub(r"[^\w ]", " ", line1).strip().split()
+                    tokenized_sentence2 = re.sub(r"[^\w ]", " ", line2).strip().split()
+                    totalRel += 1
+                    if (tokenized_sentence1[0] in sentStrTkn) and (tokenized_sentence2[0] in sentStrTkn):
+                        passRel += 1
+                        s11 = sentStrTkn.index(tokenized_sentence1[0])
+                        #s12 = sentStrTkn.index(tokenized_sentence1[len(tokenized_sentence1)-1])
+                        s12 = s11 + len(tokenized_sentence1)-1
+                        s21 = sentStrTkn.index(tokenized_sentence2[0])
+                        #s22 = sentStrTkn.index(tokenized_sentence2[len(tokenized_sentence2)-1])
+                        s22 = s21 + len(tokenized_sentence2)-1
+                        
+                        # get the token indices for 'in between' token between two mentions
+                        sidx,eidx = getBegEnd([s11,s12],[s21,s22])
+                        gapSent = sentStrTkn[sidx:eidx+1]
+                        
+                        posdiff = eidx - sidx; #int(data[dicts][sent][rel]['arg2_start']) - int(data[dicts][sent][rel]['arg1_end'])
+                        
+                        # add word vectors for tokens of first entity
+                        tempX1 = [0]*wvecdim
+                        upval1 = [0]
+                        for token in tokenized_sentence1:
+                            tempX1 = map(add, tempX1, getWordVector(token,wordVecDict))
+                            if token.isupper():
+                                upval2 = isWordUpper(token)
+                        #XX.append(tempX.append(upval))
+                        
+                        # get a word vector which is sum of all the word vectors between two mentions 
+                        tempX1X2 = [0]*wvecdim
+                        for gtoken in gapSent:
+                            tempX1X2 = map(add, tempX1X2, getWordVector(gtoken,wordVecDict))
+                        
+                        # add word vectors for tokens of second entity
+                        tempX2 = [0]*wvecdim
+                        upval2 = [0]
+                        for token in tokenized_sentence2:
+                            tempX2 = map(add, tempX2, getWordVector(token,wordVecDict))
+                            if token.isupper():
+                                upval2 = isWordUpper(token)
+                        
+                        X = [posdiff] + tempX1 + upval1 + tempX2 + upval2 + tempX1X2 + [sbStr]
+                        XX.append(X)
+                        #print XX
     
-    for js in json_files:
-        with open(os.path.join(jsonPath, js)) as json_file:
-            #print "reading json file: " + js
-            data = json.load(json_file)
-            for dicts in data:
-                for i in range(0,len(data[dicts]["relations"])):
-                    line1 = str(data[dicts]["relations"][i]["arg1_string"])
-                    line2 = str(data[dicts]["relations"][i]["arg2_string"])
-
-                    tokenized_sentence1 = line1.strip().split()
-                    tokenized_sentence2 = line2.strip().split()
-
-                    posdiff = int(data[dicts]["relations"][i]["arg2_start"]) - int(data[dicts]["relations"][i]["arg1_end"])
-                    
-                    # add word vectors for tokens of first entity
-                    tempX1 = [0]*wvecdim
-                    upval1 = [0]
-                    for token in tokenized_sentence1:
-                        tempX1 = map(add, tempX1, getWordVector(token,wordVecDict))
-                        if token.isupper():
-                            upval2 = isWordUpper(token)
-                    #XX.append(tempX.append(upval))
-
-                    # add word vectors for tokens of second entity
-                    tempX2 = [0]*wvecdim
-                    upval2 = [0]
-                    for token in tokenized_sentence2:
-                        tempX2 = map(add, tempX2, getWordVector(token,wordVecDict))
-                        if token.isupper():
-                            upval2 = isWordUpper(token)
-                    
-                    X = [posdiff] + tempX1 + upval1 + tempX2 + upval2
-                    XX.append(X)
-                    #print XX
-
-                    YY.append(getLabelIndexRel(data[dicts]["relations"][i]["relation_type"]))
-    
+                        YY.append(getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type']))
+    print 'failed = ' + str(totalRel-passRel)
+    print 'total = ' + str(totalRel)    
     return XX, YY
 
 # label index for relation type
@@ -179,3 +221,28 @@ def getLabelIndexRel(label):
     labList = [u'PHYS', u'PART-WHOLE', u'ART', u'ORG-AFF', u'PER-SOC', u'GEN-AFF']
     return labList.index(label)
 
+def getBegEnd(s1,s2):
+    a = s1[0]
+    b = s1[1]
+    c = s2[0]
+    d = s2[1]
+    # get the indices for tokens between two mentions, resolve apprpriately if they overlap
+    if a <= c and b <= d and c <=b:
+        sbeg = c
+        send = b
+    if c <= a and b <= d:
+        sbeg = a
+        send = b
+    if a <= c and d <= b:
+        sbeg = c
+        send = d
+    if a <= c and b <= c:
+        sbeg = b
+        send = c
+    if c <= d and a <= b:
+        sbeg = d
+        send = a
+    if c <= a and d <= b and a <= d:
+        sbeg = a
+        send = d
+    return sbeg,send
