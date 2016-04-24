@@ -349,17 +349,17 @@ if __name__ == '__main__':
     batch_size=20
     
     
-    #print "RUNNING THE NER TRAINING"
-    #train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
-    #train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
-    #valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
-    #test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
+    print "RUNNING THE NER TRAINING"
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
+    train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
+    valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
+    test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
 
-    #n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
-    #n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
-    #n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
+    n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
 
-    #classifier = build_and_train(precision_score)
+    classifier = build_and_train(precision_score)
     
 
     print "RUNNING THE RELATION EXTRACTION"
