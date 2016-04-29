@@ -4,6 +4,7 @@
 import os
 import sys
 import timeit
+sys.dont_write_bytecode = True
 
 import numpy as np
 import wordToVecConvertor as word2vec
@@ -61,12 +62,13 @@ def load_data_rel():
     Loads the data, turns into word2vec representation, and splits
     into training, validation, and testing sets with ratio 8:1:1
     '''
-    wordToVecDictFile = '../../glove.6B/glove.6B.50d.txt'
-    jfolder = '../../edited_json_output/'
+    wordToVecDictFile = '../../data/glove.6B/glove.6B.50d.txt'
+    relfile = '../data/mention_rel.pkl'
+    print relfile
     wvecdim = 50
     print('Vectorizing the features and labels...')
     start_time = timeit.default_timer()
-    X,Y = FeatureProcessing.featureProcessRel(jfolder,wordToVecDictFile, wvecdim)
+    X,Y = FeatureProcessing.featureProcessRel(relfile,wordToVecDictFile, wvecdim)
     end_time = timeit.default_timer()
     #print('Pickling the vectorization files')
     # pickling X-file
@@ -346,6 +348,7 @@ if __name__ == '__main__':
     n_epochs=1000
     batch_size=20
     
+    
     print "RUNNING THE NER TRAINING"
     train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
     train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
@@ -360,7 +363,7 @@ if __name__ == '__main__':
     
 
     print "RUNNING THE RELATION EXTRACTION"
-    n_in=103
+    n_in=154
     n_out = 6
     window_size=0
     word_vec_dim=50
