@@ -21,14 +21,18 @@ def getWordVector(word, word_vec_dict):
 		return word_vec_dict[word]
 	return np.zeros_like(word_vec_dict['hi'])
 
+def getRelationsJsonObject(file_path):
+    json_object = json.load(file_path)
+    return json_object
+
 
 
 def main():
-    glove_word_vec_file = '../../glove.6B/glove.6B.50d.txt'
+    glove_word_vec_file = '../data/glove/glove.6B.50d.txt'
     word_vec_dict = readGloveData(glove_word_vec_file)
-    t = time.time()
+    # t = time.time()
     print getWordVector('hello', word_vec_dict)
-    elapsed = time.time() - t
-    print elapsed
+    # elapsed = time.time() - t
+    # print elapsed
 if __name__ == "__main__":
     main()
