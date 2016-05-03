@@ -141,7 +141,7 @@ def build_and_train(optimizing_function):
     		)
 	print('training ... ')
 	patience = 10000  # look at this many examples regardless
-	patience_increase = 2  # wait this much longer when a new best is found
+	patience_increase = PATIENCE_INCREASE  # wait this much longer when a new best is found
 	improvement_threshold = 0.995  # a relative improvement of this much is
 	validation_frequency = min(n_train_batches, patience // 2)
 	best_validation_loss = np.inf
@@ -224,11 +224,21 @@ if __name__ == '__main__':
     n_epochs=1000
     batch_size=20
     n_in = (2+word_vec_dim) + window_size * 2 * word_vec_dim
+    PATIENCE_INCREASE = 5
+    
+    if word_vec_dim == 50:
+    	wordToVecDictFile = '../../data/glove/glove.6B.50d.txt'
+    elif word_vec_dim == 100:
+    	wordToVecDictFile = '../../data/glove/glove.6B.100d.txt'
+    elif word_vec_dim == 150:
+    	wordToVecDictFile = '../../data/glove/glove.6B.150d.txt'
+    else:
+    	wordToVecDictFile = '../../data/glove/glove.6B.200d.txt'
+    	
 
     print "RUNNING MENTION HEAD DETECTION MODEL"
     coref_jsonPath = '../../coref_data'
     rel_jsonPath = '../../relation_data'
-    wordToVecDictFile = '../../data/glove/glove.6B.50d.txt'
     print "processing feature space"
     mention_data = mention_data_processor.mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
     wordVecDic = FeatureProcessing.readDictData(wordToVecDictFile)
