@@ -28,7 +28,7 @@ def getAllDocsFeatures(folder):
 		sortedMentions = getMentionsSorted(folder, file_iter)
 		allMentions.update(sortedMentions)
 		# mentionPairs = returnAllPairs(sortedMentions)
-		mentionPairs, mentionMap_temp = returnPairsInWindow(sortedMentions, 8)
+		mentionPairs, mentionMap_temp = returnPairsInWindow(sortedMentions, WINDOW_SIZE)
 		x_temp, y_temp = getXY(mentionPairs)
 		x.extend(x_temp)
 		y.extend(y_temp)
@@ -39,7 +39,7 @@ def getAllDocsFeatures(folder):
 		# clusterID.extend(clusterID_temp)
 		mentionMap.extend(mentionMap_temp)
 		file_count += 1
-		if file_count >= 200:
+		if file_count >= FILE_MAX:
 			break
 	return x, y, docID, docID_mentions, mentionMap, allMentions
 
@@ -208,15 +208,17 @@ def buildModel(input_size, output_size):
 	model = Sequential()
 
     # Two hidden layers
-	model.add(Dense(input_size, input_dim=input_size, init='uniform', activation='sigmoid'))
+	model.add(Dense(80, input_dim=input_size, init='uniform', activation='tanh'))
 	model.add(Dropout(0.5))
 	model.add(Dense(50, init='uniform', activation='sigmoid'))
 	model.add(Dropout(0.5))
-	model.add(Dense(25, init='uniform', activation='sigmoid'))
+	model.add(Dense(20, init='uniform', activation='sigmoid'))
+	model.add(Dropout(0.5))
+
     # Output layer for probability
 	model.add(Dense(output_size, init='uniform', activation='softmax'))
 
-	model.compile(loss='categorical_crossentropy', optimizer='sgd',metrics=['accuracy'])
+	model.compile(loss='categorical_crossentropy', optimizer='rmsprop',metrics=['accuracy'])
 
 	return model
 
@@ -277,15 +279,24 @@ def getGoldCluster(docID, allMentions):
         cluster_gold[docID_temp][cluster_count[docID_temp]] = [allMentions[key]['cluster']]
     return cluster_gold
                 
+def dumpXY(x, y, xFile, yFile):
+	x.dump(xFile)
+	y.dump(yFile)
 
 if __name__=="__main__":
+	global FILE_MAX
+	FILE_MAX = 50
+	global WINDOW_SIZE
+	WINDOW_SIZE = 5
 	folder = './coref_output_json/'
 	# sorted_mentions = getMentionsSorted(folder)
 	# Pair up mentions which you want to compare
 	# mentionPairs = returnAllPairs(sorted_mentions)
 	# Get features: X and Y 
 	x, y, docID, docID_mentions, mentionMap, allMentions = getAllDocsFeatures(folder)
-
+	x = np.asarray(x)
+	y = np.asarray(y)
+	dumpXY(x, y, 'x_data.pkl', 'y_data.pkl')
 	#get model according to input and output feature vectors size
 	# print x
 	# print y
@@ -343,6 +354,8 @@ if __name__=="__main__":
 	yTrain = yTrainSampled
 	# print len(xTrain)
 	print 'number of train examples after sampling ' + str(len(yTrain))
+	print 'number of negative and positive training examples: '
+	print sum(yTrain)
 	# print len(xTest)
 	# print len(yTest)
 
@@ -362,13 +375,14 @@ if __name__=="__main__":
 	# 	print len(y)
 
 	#Train model
-	model.fit(xTrain, yTrain, nb_epoch = 20)
+	model.fit(xTrain, yTrain, nb_epoch = 50)
 
 	#Test model
 	performance_metrics = model.evaluate(xTest, yTest)
 	y_predicted = model.predict_classes(xTest)
 	print 'Length of y_predicted: ' + str(len(y_predicted))
 
+	print 'Performance metrics for the pairwise mention predictions'
 	print performance_metrics
 
 
@@ -378,6 +392,8 @@ if __name__=="__main__":
 	cluster_test, cluster_count = getTestCluster(docID_test, mentionMap_test, y_predicted)
 	print len(cluster_test)
 	print cluster_test
+	for i in range(len(mentionMap_test)):
+		print str(mentionMap_test[i]) + ': ' + str(y_predicted[i]) + str(yTest[i])
 
 	yTest_class = []
 	for i in range(len(yTest)):
@@ -415,6 +431,6 @@ if __name__=="__main__":
 	print 'avg b-cubed precision: ' + str(sum(all_precision)/len(all_precision))
 	print 'avg b-cubed recall: ' + str(sum(all_recall)/len(all_recall))
 	print 'avg b-cubed fscore: ' + str(sum(all_fscore)/len(all_fscore))
-
+	print 'number of negative predictions = ' + str(sum(y_predicted==0)) + ' and positive predictions = ' + str(sum(y_predicted == 1))
 	#TO-DOS
 	#1. Try other dimensional word embeddings
