@@ -7,6 +7,7 @@ import numpy as np
 import json, os
 from pprint import pprint
 from operator import add
+import nltk
 #from nltk.tag import stanford
 
 ##
@@ -244,4 +245,81 @@ def featureProcessRel(jsonPath,wordToVecDictFile,wvecdim):
 def getLabelIndexRel(label):
     labList = [u'PHYS', u'PART-WHOLE', u'ART', u'ORG-AFF', u'PER-SOC', u'GEN-AFF']
     return labList.index(label)
+
+
+
+def POSlist(tokenized_sent):
+    tagged_sent = nltk.pos_tag(tokenized_sent)
+    POSlist = [tag[1] for tag in tagged_sent]
+    return POSlist 
+
+def POStagger(token_idx, tokenized_sent):
+    tagged_sent = nltk.pos_tag(tokenized_sent)
+    return tagged_sent[token_idx][1]
+
+
+def getLabelPOS(label):
+    NN_list = ["NN","NNP","NNPS","NNS","PRP","PRP$","WDT","WP","WP$"]
+    if label in NN_list:
+        return [1]
+    else:
+        return [0]
+
+def featureProcess_mention_head(mention_data,wordVecDic,window_size):
+    """
+    input: mention data obtained from mention_meta_data_processor
+    """
+    XX = []
+    YY = []
+    for document_data in mention_data:
+        for sent_data in document_data:
+            tokenized_sent = sent_data['sentence'].strip().split()
+            POS_sent = POSlist(tokenized_sent)
+            labels = find_mention_head_labels(sent_data)
+            if len(tokenized_sent) != len(labels):
+                raise NotImplementedError
+            for idx, token in enumerate(tokenized_sent):
+                X = isWordUpper(token) + getWordVector(token,wordVecDic) + getLabelPOS(POS_sent[idx])
+                context = ContextTokens(tokenized_sent, token, window_size)
+                for context_token in context:
+                    X = X + getWordVector(context_token, wordVecDic)
+                XX.append(X)
+                YY.append(labels[idx])
+    if len(XX) != len(YY):
+        raise NotImplementedError
+    return XX,YY
+
+def find_mention_head_labels(mention_sentence_data):
+    """
+    Given a sentence data with mentions identified, gives 0-1 label for each 
+    token identifying if the token is a mention head or not.
+    mentions format:
+    (within_sent_start, within_sent_end, mention_extent, mention_head, original_start_char, original_end_char)
+    the code first identifies the position of mention_head within the metnion_extent
+    then adds this position to the beginning of the mention_extent (i.e. 
+    within_sent_start)
+    """
+    labels = []
+    sentence = str(mention_sentence_data['sentence'])
+    mentions = mention_sentence_data['mentions']  
+    tokenized_sent = sentence.strip().split()
+    token_starts = [sentence.find(token) for token in tokenized_sent]
+    mention_head_starts = []
+    for mention in mentions:
+        mention_extent = str(mention[2])
+        mention_head = str(mention[3])
+        mention_head_within_extent = mention_extent.find(mention_head)
+        mention_head_start = mention[0] + mention_head_within_extent
+        mention_head_starts.append(mention_head_start)
+    labels = []
+    for idx,token in enumerate(tokenized_sent):
+        if token_starts[idx] in mention_head_starts:
+            labels.append(1)
+        elif (token_starts[idx] + 1) in mention_head_starts:
+            labels.append(1)
+        elif (token_starts[idx] - 1) in mention_head_starts:
+            labels.append(1)
+        else:
+            labels.append(0)
+    return labels
 
