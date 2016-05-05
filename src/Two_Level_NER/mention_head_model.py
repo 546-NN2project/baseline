@@ -84,21 +84,9 @@ def build_and_train(optimizing_function):
 	x = T.matrix('x')  # the data is presented as rasterized images
 	y = T.ivector('y')  # the labels are presented as 1D vector of [int] labels
 	rng = np.random.RandomState(1234)
-	classifier = FFNN(
-        rng=rng,
-        input=x,
-        n_in=n_in,
-        n_hidden=n_hidden,
-        n_out=n_out
-        )
-	cost = (
-    	classifier.negative_log_likelihood(y)
-    	+ L1_reg * classifier.L1
-    	+ L2_reg * classifier.L2_sqr
-    	)
-	test_model_accuracy = theano.function(
-        inputs=[index],
-        outputs=classifier.errors(y),
+	classifier = FFNN(rng=rng,input=x,n_in=n_in,n_hidden=n_hidden,n_out=n_out)
+	cost = (classifier.negative_log_likelihood(y) + L1_reg * classifier.L1 + L2_reg * classifier.L2_sqr)
+	test_model_accuracy = theano.function(inputs=[index],outputs=classifier.errors(y),
         givens={
         x: test_set_x[index * batch_size: (index + 1) * batch_size],
         y: test_set_y[index * batch_size: (index + 1) * batch_size]
@@ -172,18 +160,17 @@ def build_and_train(optimizing_function):
 					
 					best_validation_loss = this_validation_loss
 					best_iter = iter
-					test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)) for i in range(n_test_batches)]
+					test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)[1]) for i in range(n_test_batches)]
 					test_score = np.mean(test_losses)
-					print(('epoch %i, minibatch %i/%i, test performace for the optimizing function %f %%') %(epoch, minibatch_index + 1, n_train_batches,test_score * 100.))
-					#return classifier
+					best_states = classifier.getstate()
+					print(('epoch %i, minibatch %i/%i, test performance for the optimizing function for positive labels %f %%') %(epoch, minibatch_index + 1, n_train_batches,test_score * 100.))
 			if patience <= iter:
 				done_looping = True
 				break
 	end_time = timeit.default_timer()
-	print(('Optimization complete. Best validation score of %f %% '
-           'obtained at iteration %i, with test performance %f %%') %
-          (best_validation_loss * 100., best_iter + 1, test_score * 100.))
+	print(('Optimization complete. Best validation score of %f %% obtained at iteration %i, with test performance %f %%') %(best_validation_loss * 100., best_iter + 1, test_score * 100.))
 	print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
+	return classifier, best_states
 
 def shared_dataset(data_xy, borrow=True):
         """ Function that loads the dataset into shared variables
@@ -237,16 +224,22 @@ if __name__ == '__main__':
     	
 
     print "RUNNING MENTION HEAD DETECTION MODEL"
-    coref_jsonPath = '../../coref_data'
-    rel_jsonPath = '../../relation_data'
-    print "processing feature space"
-    mention_data = mention_data_processor.mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
-    wordVecDic = FeatureProcessing.readDictData(wordToVecDictFile)
-    XX, YY = FeatureProcessing.featureProcess_mention_head(mention_data,wordVecDic,window_size) 
-    print "balancing the dataset"
-    new_XX, new_YY = balancer(XX,YY,3)
-    pickle.dump(new_XX,open('../../data/balanced_mention_data.pkl','wb'))
-    pickle.dump(new_YY,open('../../data/balanced_mention_label.pkl','wb'))
+
+    if os.path.exists("../../data/balanced_mention_data.pkl"):
+    	new_XX = pickle.load(open('../../data/balanced_mention_data.pkl'))
+    	new_YY = pickle.load(open('../../data/balanced_mention_label.pkl'))
+    else:
+	    coref_jsonPath = '../../coref_data'
+    	rel_jsonPath = '../../relation_data'
+    	print "processing feature space"
+    	mention_data = mention_data_processor.mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
+    	wordVecDic = FeatureProcessing.readDictData(wordToVecDictFile)
+    	XX, YY = FeatureProcessing.featureProcess_mention_head(mention_data,wordVecDic,window_size) 
+    	print "balancing the dataset"
+    	new_XX, new_YY = balancer(XX,YY,3)
+    	pickle.dump(new_XX,open('../../data/balanced_mention_data.pkl','wb'))
+    	pickle.dump(new_YY,open('../../data/balanced_mention_label.pkl','wb'))
+
     train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = splitting_data(new_XX,new_YY)
     train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
     valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
@@ -256,4 +249,7 @@ if __name__ == '__main__':
     n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
     n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
 
-    classifier = build_and_train(recall_score)
+    classifier, weights = build_and_train(recall_score)
+
+    
+
