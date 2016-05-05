@@ -291,6 +291,16 @@ class FFNN(object):
         self.params = self.hiddenLayer1.params + self.hiddenLayer2.params + self.hiddenLayer3.params + self.logRegressionLayer.params
 
         # keep track of model input
-        self.input = input    
+        self.input = input
+
+    def getstate(self):
+        return (self.hiddenLayer1.params, self.hiddenLayer2.params, self.hiddenLayer3.params, self.logRegressionLayer.params)
+
+    def setstate(self,state):
+        W1,W2,W3,L = state
+        self.hiddenLayer1.params = W1
+        self.hiddenLayer2.params = W2
+        self.hiddenLayer3.params = W3
+        self.logRegressionLayer.params = L
 
 
