@@ -210,7 +210,8 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
                         X = [posdiff] + tempX1 + upval1 + tempX2 + upval2 + tempX1X2 + [sbStr]
                         XX.append(X)
                         #print XX
-    
+                        print getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type'])
+                        
                         YY.append(getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type']))
     print 'failed = ' + str(totalRel-passRel)
     print 'total = ' + str(totalRel)    

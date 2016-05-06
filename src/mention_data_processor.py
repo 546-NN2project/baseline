@@ -208,9 +208,9 @@ def mention_candidates(idx, tokenized_sentence):
 
 
 if __name__ == '__main__':
-	coref_jsonPath = 'coref_data'
-	rel_jsonPath = 'relation_data'
+	coref_jsonPath = '../../data/coref_data'
+	rel_jsonPath = '../../data/relation_data'
 	mention_data = mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
-	pickle.dump(mention_data, open('data/mention.pkl','wb'))
+	pickle.dump(mention_data, open('../../data/mention.pkl','wb'))
 
 
