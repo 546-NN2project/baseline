@@ -155,7 +155,7 @@ def assign_relations1(sent_with_mentions, list_of_relations):
 
 def assign_relations(sent_with_mentions,list_of_relations):
 	mentions = sent_with_mentions['mentions']
-	mention_starts = [h for (mention_extent,mention_head,h,t) in mentions]
+	mention_starts = [h for (a,b,mention_extent,mention_head,h,t) in mentions]
 	relations = []
 	#mentions = [ (mention,mention_head,h,t) for (h,t)  ]
 	for relation in list_of_relations:
@@ -245,9 +245,9 @@ def mention_candidate_label(mention_candidate, mention_sentence_data):
 
 
 if __name__ == '__main__':
-	coref_jsonPath = 'coref_data'
-	rel_jsonPath = 'relation_data'
+	coref_jsonPath = '../../coref_data'
+	rel_jsonPath = '../../relation_data'
 	mention_data = mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
-	pickle.dump(mention_data, open('data/mention.pkl','wb'))
+	pickle.dump(mention_data, open('../../data/mention.pkl','wb'))
 
 
