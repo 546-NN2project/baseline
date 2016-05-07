@@ -218,15 +218,15 @@ def build_and_train(optimizing_function):
                 this_validation_loss = np.mean(validation_loss)
 
                 # Optimizing for precision
-                validation_precision = [np.mean(precision_score(*validate_model(i),pos_label=None,average=None)[0:5]) for i in range(n_valid_batches)]
+                validation_precision = [np.mean(precision_score(*validate_model(i),pos_label=None,average=None)[0:26]) for i in range(n_valid_batches)]
                 this_validation_precision = np.mean(validation_precision)
 
                 # Optimizing for recall
-                validation_recall = [np.mean(recall_score(*validate_model(i),pos_label=None,average=None)[0:5]) for i in range(n_valid_batches)]
+                validation_recall = [np.mean(recall_score(*validate_model(i),pos_label=None,average=None)[0:26]) for i in range(n_valid_batches)]
                 this_validation_recall = np.mean(validation_recall)
 
                 # Optimizing for f-score
-                validation_fscore = [np.mean(f1_score(*validate_model(i),pos_label=None,average=None)[0:5]) for i in range(n_valid_batches)]
+                validation_fscore = [np.mean(f1_score(*validate_model(i),pos_label=None,average=None)[0:26]) for i in range(n_valid_batches)]
                 this_validation_fscore = np.mean(validation_fscore)
 
 
@@ -257,7 +257,7 @@ def build_and_train(optimizing_function):
                     best_iter = iter
 
                     # test it on the test set
-                    test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)[0:5]) for i
+                    test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)[0:26]) for i
                                    in range(n_test_batches)]
                     test_score = np.mean(test_losses)
 
@@ -329,35 +329,9 @@ def shared_dataset(data_xy, borrow=True):
 
 
 if __name__ == '__main__':
-#    n_in=551
-#    n_out = 27
-#    window_size=5
-#    word_vec_dim=50
-#    n_hidden=300
-#    learning_rate=0.01
-#    L1_reg=0.00
-#    L2_reg=0.0001
-#    n_epochs=1000
-#    batch_size=20
-    
-    
-    #print "RUNNING THE NER TRAINING"
-    #train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
-    #train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
-    #valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
-    #test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
-
-    #n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
-    #n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
-    #n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
-
-    #classifier = build_and_train(precision_score)
-    
-
-    print "RUNNING THE RELATION EXTRACTION"
-    n_in=154
-    n_out = 6
-    window_size=0
+    n_in=551
+    n_out = 27
+    window_size=5
     word_vec_dim=50
     n_hidden=300
     learning_rate=0.01
@@ -365,8 +339,10 @@ if __name__ == '__main__':
     L2_reg=0.0001
     n_epochs=1000
     batch_size=20
-
-    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data_rel()
+    
+    
+    print "RUNNING THE NER TRAINING"
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data()
     train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
     valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
     test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
@@ -376,5 +352,29 @@ if __name__ == '__main__':
     n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
 
     classifier = build_and_train(precision_score)
+    
+
+#    print "RUNNING THE RELATION EXTRACTION"
+#    n_in=154
+#    n_out = 6
+#    window_size=0
+#    word_vec_dim=50
+#    n_hidden=300
+#    learning_rate=0.01
+#    L1_reg=0.00
+#    L2_reg=0.0001
+#    n_epochs=1000
+#    batch_size=20
+#
+#    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = load_data_rel()
+#    train_set_x, train_set_y = shared_dataset((train_set_x,train_set_y),borrow=True)
+#    valid_set_x, valid_set_y = shared_dataset((valid_set_x,valid_set_y),borrow=True)
+#    test_set_x, test_set_y = shared_dataset((test_set_x,test_set_y),borrow=True)
+#
+#    n_train_batches = train_set_x.get_value(borrow=True).shape[0] // batch_size
+#    n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
+#    n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
+#
+#    classifier = build_and_train(precision_score)
     #classifier = build_and_train(precision_score)
     #predict(classifier)
