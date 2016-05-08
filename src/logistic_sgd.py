@@ -1,3 +1,4 @@
+from __future__ import print_function
 # -*- coding: utf-8 -*-
 """
 Created on Fri May  6 14:29:33 2016
@@ -40,7 +41,7 @@ References:
 
 """
 
-from __future__ import print_function
+
 
 __docformat__ = 'restructedtext en'
 
@@ -480,3 +481,4 @@ def predict():
 
 if __name__ == '__main__':
     sgd_optimization_mnist()
+    predict()

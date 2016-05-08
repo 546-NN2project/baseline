@@ -68,6 +68,14 @@ class HiddenLayer(object):
         )
         # parameters of the model
         self.params = [self.W, self.b]
+    
+    def __getstate__(self):
+        return (self.W, self.b)
+
+    def __setstate__(self, state):
+        W, b = state
+        self.W = W
+        self.b = b
 
 class LogisticRegression(object):
     """Multi-class Logistic Regression Class

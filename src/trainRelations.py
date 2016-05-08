@@ -185,15 +185,15 @@ def buildAndTrain(optimizing_function,n_labels):
                 this_validation_loss = np.mean(validation_loss)
 
                 # Optimizing for precision
-                validation_precision = [np.mean(precision_score(*validate_model(i),pos_label=None,average=None)[0:n_labels]) for i in range(n_valid_batches)]
+                validation_precision = [np.mean(precision_score(*validate_model(i),labels=range(n_labels),pos_label=None,average=None)) for i in range(n_valid_batches)]
                 this_validation_precision = np.mean(validation_precision) # average precision for all the labels
 
                 # Optimizing for recall
-                validation_recall = [np.mean(recall_score(*validate_model(i),pos_label=None,average=None)[0:n_labels]) for i in range(n_valid_batches)]
+                validation_recall = [np.mean(recall_score(*validate_model(i),labels=range(n_labels),pos_label=None,average=None)) for i in range(n_valid_batches)]
                 this_validation_recall = np.mean(validation_recall) # average recall for all the labels
 
                 # Optimizing for f-score
-                validation_fscore = [np.mean(f1_score(*validate_model(i),pos_label=None,average=None)[0:n_labels]) for i in range(n_valid_batches)]
+                validation_fscore = [np.mean(f1_score(*validate_model(i),labels=range(n_labels),pos_label=None,average=None)) for i in range(n_valid_batches)]
                 this_validation_fscore = np.mean(validation_fscore) # average f-score for all the labels
 
 
@@ -213,7 +213,7 @@ def buildAndTrain(optimizing_function,n_labels):
 
                 # if we got the best validation score until now
                 if this_validation_loss < best_validation_loss:
-                    #improve patience if loss improvement is good enough
+                    # improve patience if loss improvement is good enough
                     if (
                         this_validation_loss < best_validation_loss *
                         improvement_threshold
@@ -224,7 +224,7 @@ def buildAndTrain(optimizing_function,n_labels):
                     best_iter = iter
 
                     # test it on the test set
-                    test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)[0:n_labels]) for i
+                    test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)) for i
                                    in range(n_test_batches)]
                     test_score = np.mean(test_losses)
 
@@ -232,27 +232,38 @@ def buildAndTrain(optimizing_function,n_labels):
                            'best model %f %%') %
                           (epoch, minibatch_index + 1, n_train_batches,
                            test_score * 100.))
-                    #return classifier
                     # save the best model
-                    
+                    #with open('best_rel_model.pkl', 'wb') as f:
+                    #    pickle.dump(classifier, f)
 
             if patience <= iter:
                 done_looping = True
                 break
 
-    validation_precision = [(precision_score(*validate_model(i),pos_label=None,average=None) for i in range(n_valid_batches))[0:n_labels]]
-
-    validation_recall = [(recall_score(*validate_model(i),pos_label=None,average=None) for i in range(n_valid_batches))[0:n_labels]]
-    
-    validation_fscore = [(f1_score(*validate_model(i),pos_label=None,average=None) for i in range(n_valid_batches))[0:n_labels]]
-    
+    #valid_predic = [validate_model(i) for i in range(n_valid_batches)]
+    valid_prec = [precision_score(*validate_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_valid_batches)]
+    valid_rec = [recall_score(*validate_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_valid_batches)]
+    valid_fsc = [f1_score(*validate_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_valid_batches)]
+  
+    # correct the label scores for batches which dont have cetrain labels at all in the true labels    
+#    for batch in range(n_valid_batches):
+#        if len(valid_prec[batch]) < n_labels:
+#            valid_prec[batch] = np.append(valid_prec[batch],np.mean(valid_prec[batch]))
+#        if len(valid_rec[batch]) < n_labels:
+#            valid_rec[batch] =  np.append(valid_rec[batch],np.mean(valid_rec[batch]))
+#        if len(valid_fsc[batch]) < n_labels:
+#            valid_fsc[batch] = np.append(valid_fsc[batch],np.mean(valid_fsc[batch]))
+#    
+    validation_precision = np.mean(valid_prec,axis=0)
+    validation_recall = np.mean(valid_rec,axis=0)
+    validation_fscore = np.mean(valid_fsc,axis=0) 
     
     end_time = timeit.default_timer()
     print('----------------------------------------------------------')
     print('Optimization complete. Saving the best model.')
-    with open('best_relations_model.pkl', 'wb') as f:
-        pickle.dump(classifier, f)    
-    print('saved the best relations model')
+    #with open('best_relations_model.pkl', 'wb') as f:
+    #    pickle.dump(classifier, f)    
+    #print('saved the best relations model')
     
     #print(('Optimization complete. Best validation loss of %f %% '
     #       'obtained at iteration %i, with test performance %f %%') %
