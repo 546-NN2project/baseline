@@ -7,6 +7,8 @@ import numpy as np
 import json, os
 from pprint import pprint
 from operator import add
+import math
+import itertools
 import sys
 import re
 sys.dont_write_bytecode = True
@@ -130,7 +132,7 @@ def featureProcess(DataFile,LabelFile,wordToVecDictFile,window_size):
         ln += 1
     return XX, YY
 
-def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
+def featureProcessRel(relFile,wordToVecDictFile,wvecdim,pctNull):
     """
     Given relation data in json files, returns the feature set and labels
     """
@@ -152,11 +154,32 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
             #sentStrTkn = sentStr.replace(',',' ').replace("'",' ').replace(".",' ').strip().split() #tokenized sentence
             sentStrTkn = re.sub(r"[^\w ]", " ", sentStr).strip().split()
 
-
+            n_mentions = len(data[dicts][sent]['mentions'])
+            # create the pairs of mentions, and later create NULL lablels for the pairs that dont have any relation
+            mention_pairs = []            
+            for b in itertools.permutations(range(n_mentions),2):
+                mention_pairs.append(b)
+            
+            mention_pairs_exist = []
             for rel in range(0,len(data[dicts][sent]['relations'])):
                 line1 = data[dicts][sent]['relations'][rel]['arg1_string']
                 line2 = data[dicts][sent]['relations'][rel]['arg2_string']    
                 if (line1 in sentStr) and (line2 in sentStr):
+                    l1found = 0
+                    l2found = 0
+                    for mention in range(n_mentions):
+                        if line1 in data[dicts][sent]['mentions'][mention]:
+                            line1 = data[dicts][sent]['mentions'][mention][3]
+                            mention_1 = mention
+                            l1found = 1
+                        if line2 in data[dicts][sent]['mentions'][mention]:
+                            line2 = data[dicts][sent]['mentions'][mention][3]
+                            mention_2 = mention                            
+                            l2found = 1
+                        if l1found and l2found:
+                            mention_pairs_exist.append((mention_1,mention_2))
+                            break
+                            
                     sbStr = 0
                     if line1 in line2:
                         sbStr = 1
@@ -167,31 +190,38 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
                     #tokenized_sentence2 = line2.replace(',',' ').replace("'",' ').replace(".",' ').strip().split()
                     #tokenized_sentence1 = re.findall(r"[\w']+", line1)
                     #tokenized_sentence2 = re.findall(r"[\w']+", line2)
-                    tokenized_sentence1 = re.sub(r"[^\w ]", " ", line1).strip().split()
-                    tokenized_sentence2 = re.sub(r"[^\w ]", " ", line2).strip().split()
+                    #tokenized_sentence1 = re.sub(r"[^\w ]", " ", line1).strip().split()
+                    #tokenized_sentence2 = re.sub(r"[^\w ]", " ", line2).strip().split()
                     totalRel += 1
-                    if (tokenized_sentence1[0] in sentStrTkn) and (tokenized_sentence2[0] in sentStrTkn):
+                    #if (tokenized_sentence1[0] in sentStrTkn) and (tokenized_sentence2[0] in sentStrTkn):
+                    if (line1 in sentStrTkn) and (line2 in sentStrTkn):
                         passRel += 1
-                        s11 = sentStrTkn.index(tokenized_sentence1[0])
+                        #s11 = sentStrTkn.index(tokenized_sentence1[0])
+                        s11 = sentStrTkn.index(line1)
                         #s12 = sentStrTkn.index(tokenized_sentence1[len(tokenized_sentence1)-1])
-                        s12 = s11 + len(tokenized_sentence1)-1
-                        s21 = sentStrTkn.index(tokenized_sentence2[0])
+                        #s12 = s11 + len(tokenized_sentence1)-1
+                        #s21 = sentStrTkn.index(tokenized_sentence2[0])
+                        s21 = sentStrTkn.index(line2)
                         #s22 = sentStrTkn.index(tokenized_sentence2[len(tokenized_sentence2)-1])
-                        s22 = s21 + len(tokenized_sentence2)-1
+                        #s22 = s21 + len(tokenized_sentence2)-1
                         
                         # get the token indices for 'in between' token between two mentions
-                        sidx,eidx = getBegEnd([s11,s12],[s21,s22])
-                        gapSent = sentStrTkn[sidx:eidx+1]
+                        #sidx,eidx = getBegEnd([s11,s12],[s21,s22])
+                        #gapSent = sentStrTkn[sidx:eidx+1]
+                        if s11 < s21:
+                            gapSent = sentStrTkn[s11:s21+1]
+                        else:
+                            gapSent = sentStrTkn[s21:s11+1]
                         
-                        posdiff = eidx - sidx; #int(data[dicts][sent][rel]['arg2_start']) - int(data[dicts][sent][rel]['arg1_end'])
+                        posdiff = abs(s11-s21) #int(data[dicts][sent][rel]['arg2_start']) - int(data[dicts][sent][rel]['arg1_end'])
                         
                         # add word vectors for tokens of first entity
                         tempX1 = [0]*wvecdim
                         upval1 = [0]
-                        for token in tokenized_sentence1:
-                            tempX1 = map(add, tempX1, getWordVector(token,wordVecDict))
-                            if token.isupper():
-                                upval2 = isWordUpper(token)
+                        #for token in tokenized_sentence1:
+                        tempX1 = map(add, tempX1, getWordVector(line1,wordVecDict))
+                        if line1.isupper():
+                            upval1 = isWordUpper(line1)
                         #XX.append(tempX.append(upval))
                         
                         # get a word vector which is sum of all the word vectors between two mentions 
@@ -202,10 +232,10 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
                         # add word vectors for tokens of second entity
                         tempX2 = [0]*wvecdim
                         upval2 = [0]
-                        for token in tokenized_sentence2:
-                            tempX2 = map(add, tempX2, getWordVector(token,wordVecDict))
-                            if token.isupper():
-                                upval2 = isWordUpper(token)
+                        #for token in tokenized_sentence2:
+                        tempX2 = map(add, tempX2, getWordVector(line2,wordVecDict))
+                        if line2.isupper():
+                            upval2 = isWordUpper(line2)
                         
                         X = [posdiff] + tempX1 + upval1 + tempX2 + upval2 + tempX1X2 + [sbStr]
                         XX.append(X)
@@ -213,13 +243,84 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim):
                         #print getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type'])
                         
                         YY.append(getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type']))
+            # add some (20%) NULL relations for each sentence
+            num_null = 0
+            
+            for pair in mention_pairs:
+                if num_null > int(math.ceil(pctNull*len(mention_pairs_exist))):        
+                    break
+                if not pair in mention_pairs_exist:
+                    line1 = data[dicts][sent]['mentions'][pair[0]][3]
+                    line2 = data[dicts][sent]['mentions'][pair[1]][3]
+                    
+                    sbStr = 0
+                    if line1 in line2:
+                        sbStr = 1
+                    elif line2 in line1:
+                        sbStr = 1
+                        
+                    # check if the mention heads exist in the sentence
+                    if (line1 in sentStrTkn) and (line2 in sentStrTkn):
+                        #passRel += 1
+                        #s11 = sentStrTkn.index(tokenized_sentence1[0])
+                        s11 = sentStrTkn.index(line1)
+                        #s12 = sentStrTkn.index(tokenized_sentence1[len(tokenized_sentence1)-1])
+                        #s12 = s11 + len(tokenized_sentence1)-1
+                        #s21 = sentStrTkn.index(tokenized_sentence2[0])
+                        s21 = sentStrTkn.index(line2)
+                        #s22 = sentStrTkn.index(tokenized_sentence2[len(tokenized_sentence2)-1])
+                        #s22 = s21 + len(tokenized_sentence2)-1
+                        
+                        # get the token indices for 'in between' token between two mentions
+                        #sidx,eidx = getBegEnd([s11,s12],[s21,s22])
+                        #gapSent = sentStrTkn[sidx:eidx+1]
+                        if s11 < s21:
+                            gapSent = sentStrTkn[s11:s21+1]
+                        else:
+                            gapSent = sentStrTkn[s21:s11+1]
+                        
+                        posdiff = abs(s11-s21) #int(data[dicts][sent][rel]['arg2_start']) - int(data[dicts][sent][rel]['arg1_end'])
+                        
+                        # add word vectors for tokens of first entity
+                        tempX1 = [0]*wvecdim
+                        upval1 = [0]
+                        #for token in tokenized_sentence1:
+                        tempX1 = map(add, tempX1, getWordVector(line1,wordVecDict))
+                        if line1.isupper():
+                            upval1 = isWordUpper(line1)
+                        #XX.append(tempX.append(upval))
+                        
+                        # get a word vector which is sum of all the word vectors between two mentions 
+                        tempX1X2 = [0]*wvecdim
+                        for gtoken in gapSent:
+                            tempX1X2 = map(add, tempX1X2, getWordVector(gtoken,wordVecDict))
+                        
+                        # add word vectors for tokens of second entity
+                        tempX2 = [0]*wvecdim
+                        upval2 = [0]
+                        #for token in tokenized_sentence2:
+                        tempX2 = map(add, tempX2, getWordVector(line2,wordVecDict))
+                        if line2.isupper():
+                            upval2 = isWordUpper(line2)
+                        
+                        X = [posdiff] + tempX1 + upval1 + tempX2 + upval2 + tempX1X2 + [sbStr]
+                        XX.append(X)
+                        #print XX
+                        #print getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type'])
+                        
+                        YY.append(getLabelIndexRel(u'NONE'))
+
+                        num_null += 1
+                        
+
+    
     print 'failed = ' + str(totalRel-passRel)
     print 'total = ' + str(totalRel)    
     return XX, YY
 
 # label index for relation type
 def getLabelIndexRel(label):
-    labList = [u'PHYS', u'PART-WHOLE', u'ART', u'ORG-AFF', u'PER-SOC', u'GEN-AFF']
+    labList = [u'PHYS', u'PART-WHOLE', u'ART', u'ORG-AFF', u'PER-SOC', u'GEN-AFF',u'NONE']
     return labList.index(label)
 
 def getBegEnd(s1,s2):

@@ -33,7 +33,7 @@ from sklearn.metrics import recall_score
 import itertools
 
 # load the data
-def loadData():
+def loadData(pctNull):
     '''
     Loads the data, turns into word2vec representation, and splits
     into training, validation, and testing sets with ratio 8:1:1
@@ -44,7 +44,7 @@ def loadData():
     wvecdim = 50
     print('Vectorizing the features and labels...')
     start_time = timeit.default_timer()
-    X,Y = FeatureProcessing.featureProcessRel(relfile,wordToVecDictFile, wvecdim)
+    X,Y = FeatureProcessing.featureProcessRel(relfile,wordToVecDictFile, wvecdim,pctNull)
     end_time = timeit.default_timer()
     
     print("the size of the dataset and the label sets are %d and %d") %(len(X),len(Y))
@@ -261,8 +261,8 @@ def buildAndTrain(optimizing_function,n_labels):
     end_time = timeit.default_timer()
     print('----------------------------------------------------------')
     print('Optimization complete. Saving the best model.')
-    #with open('best_relations_model.pkl', 'wb') as f:
-    #    pickle.dump(classifier, f)    
+#    with open('best_relations_model.pkl', 'wb') as f:
+#        pickle.dump(classifier, f)    
     #print('saved the best relations model')
     
     #print(('Optimization complete. Best validation loss of %f %% '
@@ -319,18 +319,19 @@ def sharedDataset(data_xy, borrow=True):
 if __name__ == '__main__':
     print "training the relations extraction model ..."
     n_in=154
-    n_out = 6
+    n_out = 7
     window_size=0
     word_vec_dim=50
-    n_hidden=300
-    learning_rate=0.01
+    n_hidden=400
+    learning_rate=0.001
     L1_reg=0.00
     L2_reg=0.0001
-    n_epochs=1000
+    n_epochs=10000
     batch_size=20
-    n_labels=6
+    n_labels=n_out
+    pctNull = 0.2 #percentage of null relations to be randomly included in training
 
-    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = loadData()
+    train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = loadData(pctNull)
     train_set_x, train_set_y = sharedDataset((train_set_x,train_set_y),borrow=True)
     valid_set_x, valid_set_y = sharedDataset((valid_set_x,valid_set_y),borrow=True)
     test_set_x, test_set_y = sharedDataset((test_set_x,test_set_y),borrow=True)
