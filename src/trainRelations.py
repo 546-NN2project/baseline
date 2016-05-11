@@ -24,7 +24,7 @@ except:
 
 import theano
 import theano.tensor as T
-from Two_Level_NER.FFNN import *
+from Two_Level_NER.FFNN2 import *
 #from Two_Level_NER.FFNN import *
 #import evaluate 
 import Two_Level_NER.FeatureProcessing as FeatureProcessing
@@ -255,10 +255,10 @@ def buildAndTrain(optimizing_function,n_labels):
                     test_fsc = [f1_score(*test_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_test_batches)]
  
 
-                    print(('     epoch %i, minibatch %i/%i, test error of '
-                           'best model %f %%') %
-                          (epoch, minibatch_index + 1, n_train_batches,
-                           test_score * 100.))
+                    #print(('     epoch %i, minibatch %i/%i, test error of '
+                    #       'best model %f %%') %
+                    #      (epoch, minibatch_index + 1, n_train_batches,
+                    #       test_score * 100.))
                     print(('     epoch %i, minibatch %i/%i ') %
                           (epoch, minibatch_index + 1, n_train_batches))
                     # save the best model
@@ -359,12 +359,12 @@ if __name__ == '__main__':
     n_out = 7
     window_size=0
     word_vec_dim=50
-    n_hidden=400
+    n_hidden=600
     learning_rate=0.001
     L1_reg=0.00
     L2_reg=0.0001
     n_epochs=1500
-    batch_size=30
+    batch_size=40
     n_labels=n_out
     pctNull = 0.20 #percentage of null relations to be randomly included in training
 
