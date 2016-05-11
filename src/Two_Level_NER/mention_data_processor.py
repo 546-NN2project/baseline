@@ -245,9 +245,13 @@ def mention_candidate_label(mention_candidate, mention_sentence_data):
 
 
 if __name__ == '__main__':
-	coref_jsonPath = '../../../data/coref_data'
-	rel_jsonPath = '../../../data/relation_data'
+     #training data set
+	coref_jsonPath = '../../../data/coref_data_train'
+	rel_jsonPath = '../../../data/relation_data_train'
 	mention_data = mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
-	pickle.dump(mention_data, open('../../data/mention.pkl','wb'))
-
-
+	pickle.dump(mention_data, open('../../data/mention_train.pkl','wb'))
+     #testing data set
+	coref_jsonPath = '../../../data/coref_data_test'
+	rel_jsonPath = '../../../data/relation_data_test'
+	mention_data = mention_meta_data_processor(coref_jsonPath, rel_jsonPath)
+	pickle.dump(mention_data, open('../../data/mention_test.pkl','wb'))
