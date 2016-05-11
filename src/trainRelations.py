@@ -23,9 +23,10 @@ except:
 
 import theano
 import theano.tensor as T
-from FFNN import *
+from Two_Level_NER.FFNN import *
+#from Two_Level_NER.FFNN import *
 #import evaluate 
-import FeatureProcessing
+import Two_Level_NER.FeatureProcessing as FeatureProcessing
 from sklearn.metrics import f1_score
 from sklearn.metrics import precision_score
 from sklearn.metrics import accuracy_score
