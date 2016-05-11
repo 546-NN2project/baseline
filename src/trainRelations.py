@@ -10,6 +10,7 @@ import os
 import sys
 import timeit
 sys.dont_write_bytecode = True
+import collections
 
 import numpy as np
 import wordToVecConvertor as word2vec
@@ -40,19 +41,37 @@ def loadData(pctNull):
     into training, validation, and testing sets with ratio 8:1:1
     '''
     wordToVecDictFile = '../../data/glove.6B/glove.6B.50d.txt'
-    relfile = '../data/mention.pkl'
-    print relfile
+    
+    # training data creation
+    relfile_train = '../data/mention_train.pkl'
+    #relfile_train = '../data/mention.pkl'
+    print relfile_train
     wvecdim = 50
     print('Vectorizing the features and labels...')
     start_time = timeit.default_timer()
-    X,Y = FeatureProcessing.featureProcessRel(relfile,wordToVecDictFile, wvecdim,pctNull)
+    X,Y = FeatureProcessing.featureProcessRel(relfile_train,wordToVecDictFile, wvecdim,pctNull)
+    #end_time = timeit.default_timer()
+    
+    print("the size of the training dataset and the label sets are %d and %d") %(len(X),len(Y))
+    #print(('The vectorization ran for %.2fm' % ((end_time - start_time) / 60.)))
+    print('splitting into training and validation ...')
+    # use 20% training data for validation
+    X_train, X_val, y_train, y_val = train_test_split(X, Y, test_size=0.2, random_state=42)
+    
+    # testing data creation
+    relfile_test = '../data/mention_test.pkl'
+    print relfile_test
+    wvecdim = 50
+    #print('Vectorizing the features and labels...')
+    start_time = timeit.default_timer()
+    X_test,y_test = FeatureProcessing.featureProcessRel(relfile_test,wordToVecDictFile, wvecdim,pctNull)
     end_time = timeit.default_timer()
     
-    print("the size of the dataset and the label sets are %d and %d") %(len(X),len(Y))
+    print("the size of the testing dataset and the label sets are %d and %d") %(len(X_test),len(y_test))
     print(('The vectorization ran for %.2fm' % ((end_time - start_time) / 60.)))
-    print('Splitting into training, validation, and testing sets ...')
-    X_train, X_rest, y_train, y_rest = train_test_split(X, Y, test_size=0.2, random_state=42)
-    X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
+    #print('Splitting into training, validation, and testing sets ...')
+    
+    #X_val, X_test, y_val, y_test = train_test_split(X_rest,y_rest, test_size=0.5, random_state=42)
     return X_train, X_val, X_test, y_train, y_val, y_test
 
 # build and train the FFNN (multi layer perceptron) model 
@@ -152,7 +171,7 @@ def buildAndTrain(optimizing_function,n_labels):
     print('training ... ')
 
     # early-stopping parameters
-    patience = 10000  # look at this many examples regardless
+    patience = 20000  # look at this many examples regardless
     patience_increase = 2  # wait this much longer when a new best is found
     improvement_threshold = 0.995  # a relative improvement of this much is
                                    # considered significant
@@ -199,18 +218,18 @@ def buildAndTrain(optimizing_function,n_labels):
 
 
 
-                print(
-                    'epoch %i, minibatch %i/%i, average validation precision %f, validation recall %f, validation fscore %f, and loss %f %%' %
-                    (
-                        epoch,
-                        minibatch_index + 1,
-                        n_train_batches,
-                        this_validation_precision * 100,
-                        this_validation_recall * 100,
-                        this_validation_fscore * 100,
-                        this_validation_loss * 100.
-                    )
-                )
+#                print(
+#                    'epoch %i, minibatch %i/%i, average validation precision %f, validation recall %f, validation fscore %f, and loss %f %%' %
+#                    (
+#                        epoch,
+#                        minibatch_index + 1,
+#                        n_train_batches,
+#                        this_validation_precision * 100,
+#                        this_validation_recall * 100,
+#                        this_validation_fscore * 100,
+#                        this_validation_loss * 100.
+#                    )
+#                )
 
                 # if we got the best validation score until now
                 if this_validation_loss < best_validation_loss:
@@ -225,17 +244,34 @@ def buildAndTrain(optimizing_function,n_labels):
                     best_iter = iter
 
                     # test it on the test set
-                    test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)) for i
-                                   in range(n_test_batches)]
-                    test_score = np.mean(test_losses)
+                    #test_loss = [test_model_accuracy(i) for i in range(n_test_batches)]
+                    #test_loss = np.mean(test_loss)
+                    
+                    #test_losses = [np.mean(optimizing_function(*test_model(i),pos_label=None,average=None)) for i
+                                   #in range(n_test_batches)]
+                    #test_score = np.mean(test_losses)
+                    test_prec = [precision_score(*test_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_test_batches)]
+                    test_rec = [recall_score(*test_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_test_batches)]
+                    test_fsc = [f1_score(*test_model(i),labels=range(n_labels),pos_label=None,average=None) for i in range(n_test_batches)]
+ 
 
                     print(('     epoch %i, minibatch %i/%i, test error of '
                            'best model %f %%') %
                           (epoch, minibatch_index + 1, n_train_batches,
                            test_score * 100.))
+                    print(('     epoch %i, minibatch %i/%i ') %
+                          (epoch, minibatch_index + 1, n_train_batches))
                     # save the best model
                     #with open('best_rel_model.pkl', 'wb') as f:
                     #    pickle.dump(classifier, f)
+                    print('Test precision: (average) -- %f %%, non-Null average -- %f %%' %(np.mean(np.mean(test_prec,axis=0))*100,np.mean(np.mean(test_prec,axis=0)[0:5])*100))
+                    print(np.mean(test_prec,axis=0)*100)
+                    print('Test recall: (average) -- %f %%, non-Null average -- %f %%' %(np.mean(np.mean(test_rec,axis=0))*100,np.mean(np.mean(test_rec,axis=0)[0:5])*100))
+                    print(np.mean(test_rec,axis=0)*100)
+                    print('Test F-score: (average) -- %f %%, non-Null average -- %f %%' %(np.mean(np.mean(test_fsc,axis=0))*100,np.mean(np.mean(test_fsc,axis=0)[0:5])*100))
+                    print(np.mean(test_fsc,axis=0)*100)
+                    print('----------------------------------------------------------')
+                    #print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
 
             if patience <= iter:
                 done_looping = True
@@ -261,7 +297,7 @@ def buildAndTrain(optimizing_function,n_labels):
     
     end_time = timeit.default_timer()
     print('----------------------------------------------------------')
-    print('Optimization complete. Saving the best model.')
+    print('Optimization complete.')
 #    with open('best_relations_model.pkl', 'wb') as f:
 #        pickle.dump(classifier, f)    
     #print('saved the best relations model')
@@ -269,15 +305,15 @@ def buildAndTrain(optimizing_function,n_labels):
     #print(('Optimization complete. Best validation loss of %f %% '
     #       'obtained at iteration %i, with test performance %f %%') %
     #      (best_validation_loss * 100., best_iter + 1, test_score * 100.))
-    print('Best validation loss: %f %%' %(best_validation_loss*100))      
-    print('Optimal results corresponding to the best validation loss:')
-    print('Precision: (average) -- %f %%' %(this_validation_precision*100))
-    print(validation_precision)
-    print('Recall: (average) -- %f %%' %(this_validation_recall*100))
-    print(validation_recall)
-    print('F-score: (average) -- %f %%' %(this_validation_fscore*100))
-    print(validation_fscore)
-    print('----------------------------------------------------------')
+    #print('Best validation loss: %f %%' %(best_validation_loss*100))      
+#    print('Optimal results corresponding to the best validation loss:')
+#    print('Precision: (average) -- %f %%' %(this_validation_precision*100))
+#    print(validation_precision)
+#    print('Recall: (average) -- %f %%' %(this_validation_recall*100))
+#    print(validation_recall)
+#    print('F-score: (average) -- %f %%' %(this_validation_fscore*100))
+#    print(validation_fscore)
+#    print('----------------------------------------------------------')
     print(('The code for file ran for %.2fm' % ((end_time - start_time) / 60.)))
     #best_model_weights = classifier.save_weights()
     #pickle.dump(classifier, best_model)
@@ -327,12 +363,14 @@ if __name__ == '__main__':
     learning_rate=0.001
     L1_reg=0.00
     L2_reg=0.0001
-    n_epochs=10000
-    batch_size=20
+    n_epochs=1500
+    batch_size=30
     n_labels=n_out
-    pctNull = 0.2 #percentage of null relations to be randomly included in training
+    pctNull = 0.20 #percentage of null relations to be randomly included in training
 
     train_set_x, valid_set_x, test_set_x, train_set_y, valid_set_y, test_set_y = loadData(pctNull)
+    counter_train = collections.Counter(train_set_y)    
+    counter_test = collections.Counter(test_set_y)    
     train_set_x, train_set_y = sharedDataset((train_set_x,train_set_y),borrow=True)
     valid_set_x, valid_set_y = sharedDataset((valid_set_x,valid_set_y),borrow=True)
     test_set_x, test_set_y = sharedDataset((test_set_x,test_set_y),borrow=True)
@@ -341,6 +379,14 @@ if __name__ == '__main__':
     n_valid_batches = valid_set_x.get_value(borrow=True).shape[0] // batch_size
     n_test_batches = test_set_x.get_value(borrow=True).shape[0] // batch_size
 
+    # descriptive statistics about the the data
+    #counter_train = collections.Counter(train_set_y)
+    print('training set descriptive statisitics:')
+    print(counter_train)
+    #counter_test = collections.Counter(test_set_y)
+    print('test set descriptive statisitics:')
+    print(counter_test)
+    
     buildAndTrain(precision_score,n_labels)
     #classifier = build_and_train(precision_score)
     #predict(classifier)

@@ -204,7 +204,9 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim,pctNull):
     """
     # feature data and label data
     XX = []
-    YY = []    
+    YY = [] 
+    XX_Null = []
+    YY_Null = []
     wordVecDict = readDictData(wordToVecDictFile)
     
     #json_files = [pos_json for pos_json in os.listdir(jsonPath) if pos_json.endswith('.json')]
@@ -251,7 +253,7 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim,pctNull):
                         sbStr = 1
                     elif line2 in line1:
                         sbStr = 1
-                    print 'dicts: '+ str(dicts) + ' sent: ' + str(sent) + ' relation: ' + str(rel) 
+                    #print 'dicts: '+ str(dicts) + ' sent: ' + str(sent) + ' relation: ' + str(rel) 
                     #tokenized_sentence1 = line1.replace(',',' ').replace("'",' ').replace(".",' ').strip().split()
                     #tokenized_sentence2 = line2.replace(',',' ').replace("'",' ').replace(".",' ').strip().split()
                     #tokenized_sentence1 = re.findall(r"[\w']+", line1)
@@ -313,7 +315,8 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim,pctNull):
             num_null = 0
             
             for pair in mention_pairs:
-                if num_null > int(math.ceil(pctNull*len(mention_pairs_exist))):        
+                # consider only first 5% null pairs to save time                
+                if num_null > int(math.ceil(0.05*len(mention_pairs))):        
                     break
                 if not pair in mention_pairs_exist:
                     line1 = data[dicts][sent]['mentions'][pair[0]][3]
@@ -370,16 +373,17 @@ def featureProcessRel(relFile,wordToVecDictFile,wvecdim,pctNull):
                             upval2 = isWordUpper(line2)
                         
                         X = [posdiff] + tempX1 + upval1 + tempX2 + upval2 + tempX1X2 + [sbStr]
-                        XX.append(X)
+                        XX_Null.append(X)
                         #print XX
                         #print getLabelIndexRel(data[dicts][sent]['relations'][rel]['relation_type'])
                         
-                        YY.append(getLabelIndexRel(u'NONE'))
+                        YY_Null.append(getLabelIndexRel(u'NONE'))
 
                         num_null += 1
                         
-
-    
+    n_nulls = int(math.ceil(pctNull*len(XX)))-1                    
+    XX = XX + XX_Null[0:n_nulls]
+    YY = YY + YY_Null[0:n_nulls] 
     print 'failed = ' + str(totalRel-passRel)
     print 'total = ' + str(totalRel)    
     return XX, YY
