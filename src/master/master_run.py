@@ -32,9 +32,9 @@ if __name__ == '__main__':
 	L2_REG = 0.0001
 	COREF_DATA_DIR = ROOT_DIR + "/coref_data"
 	REL_DATA_DIR = ROOT_DIR + "/relation_data"
-	PICKLE_FILE_PATH = ROOT_DIR + "/data/train_mention_data_balanced.pkl"
+	PICKLE_FILE_PATH = ROOT_DIR + "/data/mention_data_balanced.pkl"
 	TRAINING_FILE_LIST_PATH = ROOT_DIR + "/training_set_files"
-	TESTING_FILE_LIST_PATH = ROOT_DIR + "/testing_set_files"
+	TESTING_FILE_LIST_PATH = ROOT_DIR + "/testing_set_files.txt"
 	training_file_list = open(TRAINING_FILE_LIST_PATH,'r').read().split('\n')
 	testing_file_list = open(TESTING_FILE_LIST_PATH,'r').read().split('\n')
 	coref_file_list = [pos_json.strip() for pos_json in os.listdir(COREF_DATA_DIR) if pos_json.endswith('.json')]
@@ -55,9 +55,9 @@ if __name__ == '__main__':
 		feature_processor.balanceTrainingSet()
 		print "the number of training observations: %i " %len(feature_processor.mention_data_featured_balanced[0])
 		print("Splitting the training set into train and validation sets with ratio 9:1 ...")
-		X_train, X_val, test_set_x, y_train, y_val, test_set_y = feature_processor.trainValidSplit()
+		X_train, X_val, y_train, y_val = feature_processor.trainValidSplit()
 		print("Pickling the balanced and split datasets ... ")
-		pickle.dump((X_train, X_val, y_train, y_val),open(PICKLE_FILE_PATH,'wb'))
+		pickle.dump((X_train, X_val, test_set_x, y_train, y_val, test_set_y),open(PICKLE_FILE_PATH,'wb'))
 
 	print("X_train and X_val contain all the mentions and relations data.")
 	mention_model = Mentions.MentionHeadModel(X_train, y_train, X_val, y_val, WORD_VEC_DIM, N_HIDDEN, WINDOW_SIZE, LEARNING_RATE, L1_REG, L2_REG)
