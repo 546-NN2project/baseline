@@ -3,7 +3,7 @@
 # 
 
 # Import libraries
-from Mentions import *
+import Mentions
 
 import os
 import sys
@@ -33,30 +33,34 @@ if __name__ == '__main__':
 	COREF_DATA_DIR = ROOT_DIR + "/coref_data"
 	REL_DATA_DIR = ROOT_DIR + "/relation_data"
 	PICKLE_FILE_PATH = ROOT_DIR + "/data/train_mention_data_balanced.pkl"
-	training_file_list = [pos_json.strip() for pos_json in os.listdir(COREF_DATA_DIR) if pos_json.endswith('.json')]
-	testing_file_list = None
+	TRAINING_FILE_LIST_PATH = ROOT_DIR + "/training_set_files"
+	TESTING_FILE_LIST_PATH = ROOT_DIR + "/testing_set_files"
+	training_file_list = open(TRAINING_FILE_LIST_PATH,'r').read().split('\n')
+	testing_file_list = open(TESTING_FILE_LIST_PATH,'r').read().split('\n')
+	coref_file_list = [pos_json.strip() for pos_json in os.listdir(COREF_DATA_DIR) if pos_json.endswith('.json')]
 
 	if os.path.exists(PICKLE_FILE_PATH):
 		print("Unpickling existing balanced datasets ... ")
-		X_train, X_val, y_train, y_val = pickle.load(open(PICKLE_FILE_PATH))
+		X_train, X_val, test_set_x, y_train, y_val, test_set_y = pickle.load(open(PICKLE_FILE_PATH))
 	else:
-		feature_processor = FeatureProcessor(WORD_VEC_DIM, WINDOW_SIZE, COREF_DATA_DIR, REL_DATA_DIR, training_file_list, testing_file_list)
+		feature_processor = Mentions.FeatureProcessor(WORD_VEC_DIM, WINDOW_SIZE, COREF_DATA_DIR, REL_DATA_DIR, training_file_list, testing_file_list)
 		feature_processor.readDictData()
 		print("Loading the mentions data ... ")
 		feature_processor.processMentionData()
 		print("Feature processing ... ")
 		feature_processor.featureProcessMentionHead(data_type="train")
-		#feature_processor.featureProcessMentionHead(data_type="test")
-		#test_set_x, test_set_y = feature_processor.test_mention_data_featured
+		feature_processor.featureProcessMentionHead(data_type="test")
+		test_set_x, test_set_y = feature_processor.test_mention_data_featured
 		print("Balancing the training set ... ")
 		feature_processor.balanceTrainingSet()
 		print "the number of training observations: %i " %len(feature_processor.mention_data_featured_balanced[0])
 		print("Splitting the training set into train and validation sets with ratio 9:1 ...")
-		X_train, X_val, y_train, y_val = feature_processor.trainValidSplit()
+		X_train, X_val, test_set_x, y_train, y_val, test_set_y = feature_processor.trainValidSplit()
 		print("Pickling the balanced and split datasets ... ")
 		pickle.dump((X_train, X_val, y_train, y_val),open(PICKLE_FILE_PATH,'wb'))
 
-	mention_model = MentionHeadModel(X_train, y_train, X_val, y_val, WORD_VEC_DIM, N_HIDDEN, WINDOW_SIZE, LEARNING_RATE, L1_REG, L2_REG)
+	print("X_train and X_val contain all the mentions and relations data.")
+	mention_model = Mentions.MentionHeadModel(X_train, y_train, X_val, y_val, WORD_VEC_DIM, N_HIDDEN, WINDOW_SIZE, LEARNING_RATE, L1_REG, L2_REG)
 	mention_model.setDatasetsShared()
 	mention_model.train()
 	test_set_y_pred = mention_model.predictLabels(test_set_x)
