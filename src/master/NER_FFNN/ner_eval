@@ -1,0 +1,113 @@
+"""
+NER task evaluation
+"""
+
+from sklearn.metrics import precision_score
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import recall_score
+from sklearn.metrics import f1_score
+
+def getLabelIndex(label):
+    labList = ['B-Contact-Info','B-Crime','B-FAC','B-GPE','B-Job-Title','B-LOC','B-Numeric','B-ORG','B-PER','B-Sentence','B-TIME','B-VEH','B-WEA','I-Contact-Info','I-Crime','I-FAC','I-GPE','I-Job-Title','I-LOC','I-Numeric','I-ORG','I-PER','I-Sentence','I-TIME','I-VEH','I-WEA','O']
+    return labList.index(label)
+
+def getEval(mat):
+    dim = len(mat)
+    tp = 0 # true positive
+    fn = 0 # false negative
+    fp = 0 # false positive
+    
+    for i in range(dim):
+        tp += mat[i][i]
+        for j in range(dim):
+            if (i!=j):
+                fn += mat[i][j]
+
+    for k in range(dim):
+        for j in range(dim):
+            if (j!=k):
+                fp += mat[j][k]
+    
+    total = 0
+    for i in range(dim):
+        for j in range(dim):
+            total += mat[i][j]
+
+    print "fn = fp:", str(fn == fp)
+    acc = 1.0*tp/total
+    recall = 1.0*tp/(tp+fn)
+    precision = 1.0*tp/(tp+fp)
+    fscore = 2.0/(1/acc+1/recall)
+    print "accuracy is:", acc
+    print "recall is:", recall
+    print "precision is:", precision
+    print "f-score is:", fscore
+
+    #######################
+    #tp2 = 0
+    #for i in range(dim-1):
+    #    tp2 += mat[i][i]
+    #for i in
+
+
+def getEval2(mat):
+    f1 = open("ner_data/testlabel_ner.txt","r")
+    f2 = open("pred_res.txt","r")
+    y_true = []
+    y_pred = []
+
+    for line in f1:
+        seq = line.strip().split()
+        for label in seq:
+            y_true.append(getLabelIndex(label))
+    for line in f2:
+        label = int(line.strip())
+        y_pred.append(label)
+
+    #y_pred = [26]*len(y_true) # comment
+    accuracy = accuracy_score(y_true, y_pred)
+    precision = precision_score(y_true, y_pred, average='weighted')
+    recall = recall_score(y_true, y_pred, average='weighted')
+    fscore = f1_score(y_true, y_pred, average='weighted')
+    print "precision:", precision
+    print "accuracy:", accuracy
+    print "recall:", recall
+    print "fscore:",fscore 
+
+def getEval3(mat):
+    f1 = open("ner_data/testlabel_ner.txt","r")
+    f2 = open("pred_res.txt","r")
+    y_true_old = []
+    y_pred_old = []
+    y_true = []
+    y_pred = []
+
+    for line in f1:
+        seq = line.strip().split()
+        for label in seq:
+            y_true_old.append(getLabelIndex(label))
+    for line in f2:
+        label = int(line.strip())
+        y_pred_old.append(label)
+
+    for i in range(len(y_true_old)):
+        if (y_true_old[i]!=26 and y_pred_old[i]!=26):
+            y_true.append(y_true_old[i])
+            y_pred.append(y_pred_old[i])
+        else:
+            continue
+        
+    accuracy = accuracy_score(y_true, y_pred)
+    precision = precision_score(y_true, y_pred, average='micro')
+    recall = recall_score(y_true, y_pred, average='micro')
+    fscore = f1_score(y_true, y_pred, average='micro')
+    print "precision:", precision
+    print "accuracy:", accuracy
+    print "recall:", recall
+    print "fscore:",fscore   
+
+if __name__=="__main__":
+    mat = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 17], [0, 0, 1, 1, 0, 0, 0, 0, 3, 0, 0, 1, 1, 0, 7, 17, 0, 0, 5, 0, 6, 1, 0, 5, 0, 1, 60], [0, 2, 0, 63, 0, 8, 0, 37, 8, 0, 1, 0, 0, 0, 5, 18, 103, 0, 122, 3, 79, 46, 0, 11, 4, 6, 130], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 9], [0, 0, 0, 0, 0, 3, 0, 0, 2, 0, 0, 2, 0, 0, 0, 5, 4, 0, 9, 0, 4, 4, 0, 1, 0, 1, 36], [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 22, 1, 0, 0, 3, 0, 0, 14], [0, 0, 1, 11, 0, 2, 2, 74, 20, 0, 3, 1, 0, 0, 4, 14, 8, 0, 6, 2, 121, 27, 0, 8, 4, 4, 182], [0, 2, 2, 19, 0, 2, 0, 71, 514, 0, 4, 7, 2, 0, 24, 4, 20, 0, 21, 8, 67, 147, 4, 31, 14, 11, 478], [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 5], [0, 0, 0, 0, 0, 3, 0, 5, 1, 0, 45, 1, 0, 0, 1, 0, 1, 0, 2, 5, 10, 4, 0, 132, 1, 0, 164], [0, 0, 1, 0, 0, 0, 0, 6, 3, 0, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 6, 2, 40], [0, 0, 0, 0, 0, 1, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 20, 43], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 21], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 0, 0, 5, 1, 5, 6, 0, 1, 1, 3, 69], [0, 0, 0, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 19, 84, 0, 40, 0, 23, 8, 0, 1, 0, 0, 39], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 8], [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 25, 0, 2, 2, 0, 3, 0, 1, 23], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 1, 0, 0, 0, 0, 27], [0, 0, 0, 2, 0, 0, 0, 10, 1, 0, 0, 0, 0, 0, 5, 12, 29, 0, 3, 1, 174, 13, 0, 3, 3, 3, 185], [0, 1, 0, 0, 2, 0, 0, 2, 11, 0, 1, 0, 0, 0, 7, 5, 8, 0, 5, 10, 106, 109, 1, 13, 9, 4, 356], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 18], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 2, 3, 0, 164, 2, 0, 120], [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 15, 0, 52], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 31, 38], [0, 1, 12, 16, 2, 31, 1, 63, 37, 0, 15, 11, 5, 0, 41, 80, 51, 0, 92, 29, 297, 173, 5, 162, 38, 68, 13361]]
+
+    getEval2(mat)
+    #getEval3(mat)
